@@ -35,7 +35,19 @@ for fp in os.listdir(outdir):
     with codecs.open(outdir + fp, "r", encoding="windows-1251") as f:
         content = f.read()
     s = BeautifulSoup(content, "lxml")
-    df = pd.DataFrame(data=[r.attrs for r in s.findAll("participantinfo")])
+
+    data = []
+    for entry in s.findAll("bicdirectoryentry"):
+        row = entry.attrs
+        for participant_info in entry.findAll("participantinfo"):
+            row.update(participant_info.attrs)
+        for swbic in entry.findAll("swbics"):
+            row.update(swbic.attrs)
+        for account in entry.findAll("accounts"):
+            row.update(account.attrs)
+        data.append(row)
+    df = pd.DataFrame(data)
+
     df.to_csv(outdir + "latest.csv", index=False, header=True)
     df.to_csv(outdir + "latest.tsv", index=False, header=True, sep="\t", quoting=3)
     df.to_json(outdir + "latest.json", orient="records")
