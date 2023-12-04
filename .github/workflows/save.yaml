@@ -1,7 +1,7 @@
 name: Save latest data
 on:
   schedule:
-    - cron: 45 15 * * *
+    - cron: 50 16 * * 1-5
 jobs:
   build:
     runs-on: ubuntu-latest

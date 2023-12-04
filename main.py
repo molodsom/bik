@@ -4,10 +4,10 @@ import zipfile
 import codecs
 import pandas as pd
 from bs4 import BeautifulSoup
-from datetime import datetime, timedelta
+from datetime import datetime
 
 urlpath = "https://cbr.ru/vfs/mcirabis/BIKNew/"
-filename = (datetime.now() - timedelta(days=2)).strftime('%Y%m%d') + "ED01OSBR.zip"
+filename = datetime.now().strftime('%Y%m%d') + "ED01OSBR.zip"
 outdir = "output/"
 outzip = outdir + filename
 
