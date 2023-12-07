@@ -4,27 +4,23 @@ import zipfile
 import codecs
 import pandas as pd
 from bs4 import BeautifulSoup
-from datetime import datetime
 
-urlpath = "https://cbr.ru/vfs/mcirabis/BIKNew/"
-filename = datetime.now().strftime('%Y%m%d') + "ED01OSBR.zip"
 outdir = "output/"
-outzip = outdir + filename
 
 s = cloudscraper.create_scraper(disableCloudflareV1=True, browser="chrome", delay=10)
 
 for _ in range(3):
-    r = s.get(urlpath + filename, allow_redirects=True)
+    r = s.get("https://cbr.ru/s/newbik", allow_redirects=True)
     if r.status_code != 200:
         print(f"Error downloading zip: {r.status_code}")
         continue
-    open(outzip, "wb").write(r.content)
+    open("latest.zip", "wb").write(r.content)
     break
 
 try:
-    with zipfile.ZipFile(outzip, 'r') as zr:
+    with zipfile.ZipFile("latest.zip", "r") as zr:
         zr.extractall(outdir)
-        os.remove(outzip)
+        os.remove("latest.zip")
 except Exception as e:
     print(f"Error unpacking file: {e}")
     exit(1)
