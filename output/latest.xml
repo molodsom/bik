@@ -38990,6 +38990,33 @@
   </row>
   <row>
     <index>1444</index>
+    <bic>044525236</bic>
+    <namep>АО "Банк Кредит Свисс (Москва)"</namep>
+    <regn>2494</regn>
+    <cntrcd>RU</cntrcd>
+    <rgn>45</rgn>
+    <ind>125047</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>ул. 1-я Тверская-Ямская, д. 21</adr>
+    <prntbic/>
+    <datein>1998-03-25</datein>
+    <pttype>20</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>4525236000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>30101810800000000236</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>64</ck>
+    <accountcbrbic>044525000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname>JSC BANK CREDIT SUISSE (MOSCOW)</englname>
+    <swbic>CRESRUMMXXX</swbic>
+    <defaultswbic>1</defaultswbic>
+  </row>
+  <row>
+    <index>1445</index>
     <bic>237000125</bic>
     <namep>Избирательная комиссия Курганской области</namep>
     <regn/>
@@ -39016,7 +39043,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1445</index>
+    <index>1446</index>
     <bic>238000020</bic>
     <namep>ИЗБИРАТЕЛЬНАЯ КОМИССИЯ КУРСКОЙ ОБЛАСТИ</namep>
     <regn/>
@@ -39043,7 +39070,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1446</index>
+    <index>1447</index>
     <bic>042202876</bic>
     <namep>НИЖЕГОРОДСКИЙ ФИЛИАЛ АБ "РОССИЯ"</namep>
     <regn>328/18</regn>
@@ -39070,7 +39097,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1447</index>
+    <index>1448</index>
     <bic>045004701</bic>
     <namep>НОВОСИБИРСКИЙ ФИЛИАЛ АБ "РОССИЯ"</namep>
     <regn>328/24</regn>
@@ -39097,7 +39124,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1448</index>
+    <index>1449</index>
     <bic>045004816</bic>
     <namep>СИБИРСКИЙ Ф-Л ПАО "ПРОМСВЯЗЬБАНК"</namep>
     <regn>3251/4</regn>
@@ -39124,7 +39151,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1449</index>
+    <index>1450</index>
     <bic>044030861</bic>
     <namep>АО "АБ "РОССИЯ"</namep>
     <regn>328</regn>
@@ -39151,7 +39178,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1450</index>
+    <index>1451</index>
     <bic>044030920</bic>
     <namep>СТ-ПЕТЕРБУРГСКИЙ Ф-Л ПАО "ПРОМСВЯЗЬБАНК"</namep>
     <regn>3251/6</regn>
@@ -39178,7 +39205,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1451</index>
+    <index>1452</index>
     <bic>044525220</bic>
     <namep>Центральный филиал АБ "РОССИЯ"</namep>
     <regn>328/15</regn>
@@ -39205,7 +39232,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1452</index>
+    <index>1453</index>
     <bic>047003764</bic>
     <namep>ТУЛЬСКИЙ ФИЛИАЛ АБ "РОССИЯ"</namep>
     <regn>328/11</regn>
@@ -39232,7 +39259,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1453</index>
+    <index>1454</index>
     <bic>046577507</bic>
     <namep>ЕКАТЕРИНБУРГСКИЙ ФИЛИАЛ АБ "РОССИЯ"</namep>
     <regn>328/23</regn>
@@ -39259,7 +39286,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1454</index>
+    <index>1455</index>
     <bic>046577975</bic>
     <namep>УРАЛЬСКИЙ Ф-Л ПАО "ПРОМСВЯЗЬБАНК"</namep>
     <regn>3251/40</regn>
@@ -39286,7 +39313,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1455</index>
+    <index>1456</index>
     <bic>040702773</bic>
     <namep>СТАВРОПОЛЬСКИЙ Ф-Л ПАО "ПРОМСВЯЗЬБАНК"</namep>
     <regn>3251/44</regn>
@@ -39311,33 +39338,6 @@
     <englname/>
     <swbic/>
     <defaultswbic/>
-  </row>
-  <row>
-    <index>1456</index>
-    <bic>041806715</bic>
-    <namep>ЮЖНЫЙ Ф-Л ПАО "ПРОМСВЯЗЬБАНК"</namep>
-    <regn>3251/15</regn>
-    <cntrcd>RU</cntrcd>
-    <rgn>18</rgn>
-    <ind>400005</ind>
-    <tnp>г</tnp>
-    <nnp>Волгоград</nnp>
-    <adr>ул им. маршала Чуйкова, 65 А</adr>
-    <prntbic>044525555</prntbic>
-    <datein>2011-12-09</datein>
-    <pttype>30</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>1806715000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>30101810100000000715</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>73</ck>
-    <accountcbrbic>041806001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic>PRMSRUMMVGG</swbic>
-    <defaultswbic>1</defaultswbic>
   </row>
   <row>
     <index>1457</index>
@@ -41879,2517 +41879,6 @@
   </row>
   <row>
     <index>1551</index>
-    <bic>200000515</bic>
-    <namep>Участковая избирательная комиссия № 250 МО "Мурбайский наслег" Ленского района Республики Саха (Якутия)</namep>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <rgn>98</rgn>
-    <ind>678165</ind>
-    <tnp>с</tnp>
-    <nnp>Северная Нюя</nnp>
-    <adr>ул. Школьная, 1</adr>
-    <prntbic/>
-    <datein>2024-06-21</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>9820000018</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>40206810045379820012</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>76</ck>
-    <accountcbrbic>049820000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1552</index>
-    <bic>200000536</bic>
-    <namep>Территориальная избирательная комиссия Великолукского района</namep>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <rgn>58</rgn>
-    <ind>182110</ind>
-    <tnp>г</tnp>
-    <nnp>Великие Луки</nnp>
-    <adr>пр. Гагарина, д.6</adr>
-    <prntbic/>
-    <datein>2024-06-25</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>5853000044</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>40206810845375853003</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>91</ck>
-    <accountcbrbic>045853000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1553</index>
-    <bic>200000528</bic>
-    <namep>Территориальная избирательная комиссия Правобережный округ города Липецка</namep>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <rgn>42</rgn>
-    <ind>398050</ind>
-    <tnp>г</tnp>
-    <nnp>Липецк</nnp>
-    <adr>улица Пролетарская, дом 5</adr>
-    <prntbic/>
-    <datein>2024-06-25</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>4206001155</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>40202810545374206003</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>07</ck>
-    <accountcbrbic>044206001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1554</index>
-    <bic>200000521</bic>
-    <namep>Территориальная избирательная комиссия г. Петрозаводска № 1</namep>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <rgn>86</rgn>
-    <ind>186035</ind>
-    <tnp>г</tnp>
-    <nnp>Петрозаводск</nnp>
-    <adr>проспект Ленина, дом 2, каб. 202</adr>
-    <prntbic/>
-    <datein>2024-06-25</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>8602001117</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>40206810145378602001</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>45</ck>
-    <accountcbrbic>048602001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1555</index>
-    <bic>200000478</bic>
-    <namep>территориальная избирательная комиссия муниципального района Стерлитамакский район Республики Башкортостан</namep>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <rgn>80</rgn>
-    <ind>453115</ind>
-    <tnp>г</tnp>
-    <nnp>Стерлитамак</nnp>
-    <adr>ул. К. Маркса, д.118</adr>
-    <prntbic/>
-    <datein>2024-06-25</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>8082000546</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>40206810545378082032</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>27</ck>
-    <accountcbrbic>048082000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1556</index>
-    <bic>229000080</bic>
-    <namep>Избирательная комиссия Калужской области</namep>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <rgn>29</rgn>
-    <ind>248001</ind>
-    <tnp>г</tnp>
-    <nnp>Калуга</nnp>
-    <adr>ул Ленина, 74, стр 1 Б</adr>
-    <prntbic/>
-    <datein>1995-08-17</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>2908001003</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>40301810200000000001</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>54</ck>
-    <accountcbrbic>042908001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1557</index>
-    <bic>287000077</bic>
-    <namep>Избирательная комиссия Республики Коми</namep>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <rgn>87</rgn>
-    <ind>167000</ind>
-    <tnp>г</tnp>
-    <nnp>Сыктывкар</nnp>
-    <adr>ул Коммунистическая, 8</adr>
-    <prntbic/>
-    <datein>1995-08-29</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>8702001001</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>40301810800000000001</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>67</ck>
-    <accountcbrbic>048702001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1558</index>
-    <bic>200000541</bic>
-    <namep>территориальная избирательная комиссия города Уссурийска</namep>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <rgn>05</rgn>
-    <ind>692519</ind>
-    <tnp>г</tnp>
-    <nnp>Уссурийск</nnp>
-    <adr>ул. Ленина, 101</adr>
-    <prntbic/>
-    <datein>2024-06-26</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>0508001541</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>40206810045370508001</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>52</ck>
-    <accountcbrbic>040508000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1559</index>
-    <bic>200000523</bic>
-    <namep>Территориальная избирательная комиссия Октябрьский район муниципального образования "Город Улан-Удэ"</namep>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <rgn>81</rgn>
-    <ind>670031</ind>
-    <tnp>г</tnp>
-    <nnp>Улан-Удэ</nnp>
-    <adr>ул. Павлова, 1</adr>
-    <prntbic/>
-    <datein>2024-06-26</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>8142001523</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>40206810445378142005</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>75</ck>
-    <accountcbrbic>048142001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1560</index>
-    <bic>200000535</bic>
-    <namep>Территориальная избирательная комиссия Ленинского района города Орска</namep>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <rgn>53</rgn>
-    <ind>462431</ind>
-    <tnp>г</tnp>
-    <nnp>Орск</nnp>
-    <adr>Ленина проспект, 76 А</adr>
-    <prntbic/>
-    <datein>2024-06-26</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>5339000169</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>40202810945375339001</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>67</ck>
-    <accountcbrbic>045339000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1561</index>
-    <bic>200000544</bic>
-    <namep>Нерюнгринская территориальная избирательная комиссия Республики Саха (Якутия)</namep>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <rgn>98</rgn>
-    <ind>678960</ind>
-    <tnp>г</tnp>
-    <nnp>Нерюнгри</nnp>
-    <adr>пр. Дружбы Народов, д. 21, каб. 406</adr>
-    <prntbic/>
-    <datein>2024-06-26</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>9849000017</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>40206810545379849002</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>17</ck>
-    <accountcbrbic>049849000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1562</index>
-    <bic>200000545</bic>
-    <namep>Иркутская городская № 3 территориальная избирательная комиссия (Правобережный округ)</namep>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <rgn>25</rgn>
-    <ind>664025</ind>
-    <tnp>г</tnp>
-    <nnp>Иркутск</nnp>
-    <adr>ул. Марата, д.14</adr>
-    <prntbic/>
-    <datein>2024-06-26</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>2520001545</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>40206810145372520002</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>34</ck>
-    <accountcbrbic>042520001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1563</index>
-    <bic>200000543</bic>
-    <namep>Восточная территориальная избирательная комиссия города Кургана</namep>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <rgn>37</rgn>
-    <ind>640000</ind>
-    <tnp>г</tnp>
-    <nnp>Курган</nnp>
-    <adr>площадь имени В.И. Ленина, дом 1</adr>
-    <prntbic/>
-    <datein>2024-06-26</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>3735001085</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>40202810345373735005</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>58</ck>
-    <accountcbrbic>043735001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1564</index>
-    <bic>200000537</bic>
-    <namep>Территориальная избирательная комиссия Ленинского района муниципального образования "город Ульяновск"</namep>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <rgn>73</rgn>
-    <ind>432017</ind>
-    <tnp>г</tnp>
-    <nnp>Ульяновск</nnp>
-    <adr>г. Ульяновск, ул. Кузнецова, д.7</adr>
-    <prntbic/>
-    <datein>2024-06-26</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>7308001014</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>40206810945377300001</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>57</ck>
-    <accountcbrbic>047308001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1565</index>
-    <bic>200000551</bic>
-    <namep>ТИК № 64</namep>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <rgn>40</rgn>
-    <ind>191167</ind>
-    <tnp>г</tnp>
-    <nnp>Санкт-Петербург</nnp>
-    <adr>Невский пр-кт, д. 176, литер А</adr>
-    <prntbic/>
-    <datein>2024-06-26</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>4030001109</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>40206810345374030001</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>63</ck>
-    <accountcbrbic>044030001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1566</index>
-    <bic>200000557</bic>
-    <namep>Ленинская районная г. Чебоксары территориальная избирательная комиссия</namep>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <rgn>97</rgn>
-    <ind>428003</ind>
-    <tnp>г</tnp>
-    <nnp>Чебоксары</nnp>
-    <adr>ул. Ю. Гагарина, д. 22А</adr>
-    <prntbic/>
-    <datein>2024-06-26</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>9706001014</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>40206810145379706001</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>96</ck>
-    <accountcbrbic>049706001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1567</index>
-    <bic>200000533</bic>
-    <namep>Территориальная избирательная комиссия №1 Центрального округа города Курска</namep>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <rgn>38</rgn>
-    <ind>305001</ind>
-    <tnp>г</tnp>
-    <nnp>Курск</nnp>
-    <adr>ул Александра Невского, зд. 5, офис 401</adr>
-    <prntbic/>
-    <datein>2024-06-26</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>3807001861</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>40202810445370380703</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>09</ck>
-    <accountcbrbic>043807001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1568</index>
-    <bic>200000534</bic>
-    <namep>Территориальная избирательная комиссия №2 Центрального округа города Курска</namep>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <rgn>38</rgn>
-    <ind>305001</ind>
-    <tnp>г</tnp>
-    <nnp>Курск</nnp>
-    <adr>ул Александра Невского, зд. 5, офис 415</adr>
-    <prntbic/>
-    <datein>2024-06-26</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>3807001862</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>40202810745370380704</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>31</ck>
-    <accountcbrbic>043807001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1569</index>
-    <bic>200000540</bic>
-    <namep>Белгородская городская ТИК</namep>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <rgn>14</rgn>
-    <ind>308002</ind>
-    <tnp>г</tnp>
-    <nnp>Белгород</nnp>
-    <adr>ул. Генерала Лебедя, д.2</adr>
-    <prntbic/>
-    <datein>2024-06-26</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>1403001013</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>40206810445371403001</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>56</ck>
-    <accountcbrbic>041403001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1570</index>
-    <bic>200000529</bic>
-    <namep>Западная территориальная избирательная комиссия города Кургана</namep>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <rgn>37</rgn>
-    <ind>640000</ind>
-    <tnp>г</tnp>
-    <nnp>Курган</nnp>
-    <adr>площадь имени В.И. Ленина, дом 1</adr>
-    <prntbic/>
-    <datein>2024-06-26</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>3735001084</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>40206810545373735005</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>18</ck>
-    <accountcbrbic>043735001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1571</index>
-    <bic>201000873</bic>
-    <namep>Крайизбирком</namep>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <rgn>01</rgn>
-    <ind>656049</ind>
-    <tnp>г</tnp>
-    <nnp>Барнаул</nnp>
-    <adr>пр-т Ленина, 59</adr>
-    <prntbic/>
-    <datein>1999-11-29</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>0173001002</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>40301810800000000001</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>37</ck>
-    <accountcbrbic>040173001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1572</index>
-    <bic>295000301</bic>
-    <namep>Избирательная комиссия Республики Хакасия</namep>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <rgn>95</rgn>
-    <ind>655017</ind>
-    <tnp>г</tnp>
-    <nnp>Абакан</nnp>
-    <adr>пр-кт Ленина, д.67</adr>
-    <prntbic/>
-    <datein>1995-07-14</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>9514001002</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>40301810800000000033</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>16</ck>
-    <accountcbrbic>049514001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1573</index>
-    <bic>200000506</bic>
-    <namep>Территориальная избирательная комиссия Нахимовского района города Севастополя</namep>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <rgn>67</rgn>
-    <ind>299001</ind>
-    <tnp>г</tnp>
-    <nnp>Севастополь</nnp>
-    <adr>ул. Горького, д.3</adr>
-    <prntbic/>
-    <datein>2024-06-26</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>6711001023</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>40206810945376711002</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>65</ck>
-    <accountcbrbic>046711001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1574</index>
-    <bic>045209777</bic>
-    <namep>ФИЛИАЛ "ОМСКИЙ" АО "ОТП БАНК"</namep>
-    <regn>2766/5</regn>
-    <cntrcd>RU</cntrcd>
-    <rgn>52</rgn>
-    <ind>644099</ind>
-    <tnp>г</tnp>
-    <nnp>Омск</nnp>
-    <adr>ул Орджоникидзе, 3 А</adr>
-    <prntbic>044525311</prntbic>
-    <datein>2006-08-23</datein>
-    <pttype>30</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>5209777000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>30101810000000000777</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>36</ck>
-    <accountcbrbic>045209001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname>JOINT STOCK COMPANY 'OTP BANK' (OMSK BRANCH)</englname>
-    <swbic>OTPVRUMMOMS</swbic>
-    <defaultswbic>1</defaultswbic>
-  </row>
-  <row>
-    <index>1575</index>
-    <bic>200000524</bic>
-    <namep>Территориальная избирательная комиссия Советского района города Томска</namep>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <rgn>69</rgn>
-    <ind>634012</ind>
-    <tnp>г</tnp>
-    <nnp>Томск</nnp>
-    <adr>ул. Елизаровых, д.59</adr>
-    <prntbic/>
-    <datein>2024-06-27</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>6902001524</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>40206810245375004696</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>79</ck>
-    <accountcbrbic>046902001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1576</index>
-    <bic>200000532</bic>
-    <namep>Территориальная избирательная комиссия Советский район муниципального образования "Город Улан-Удэ"</namep>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <rgn>81</rgn>
-    <ind>670001</ind>
-    <tnp>г</tnp>
-    <nnp>Улан-Удэ</nnp>
-    <adr>ул. Советская, 23</adr>
-    <prntbic/>
-    <datein>2024-06-27</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>8142001532</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>40206810745378142006</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>43</ck>
-    <accountcbrbic>048142001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1577</index>
-    <bic>200000530</bic>
-    <namep>территориальная избирательная комиссия по Ленинскому административному округу г. Омска Омской области</namep>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <rgn>52</rgn>
-    <ind>644020</ind>
-    <tnp>г</tnp>
-    <nnp>Омск</nnp>
-    <adr>пр. К. Маркса, д. 62</adr>
-    <prntbic/>
-    <datein>2024-06-27</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>5209001029</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>40206810845375209010</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>62</ck>
-    <accountcbrbic>045209001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1578</index>
-    <bic>200000538</bic>
-    <namep>Октябрьская территориальная избирательная комиссия, г. Архангельск</namep>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <rgn>11</rgn>
-    <ind>163000</ind>
-    <tnp>г</tnp>
-    <nnp>Архангельск</nnp>
-    <adr>пл. Ленина, д. 5, каб. 119</adr>
-    <prntbic/>
-    <datein>2024-06-27</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>1117001014</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>40206810245371117002</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>94</ck>
-    <accountcbrbic>041117001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1579</index>
-    <bic>200000552</bic>
-    <namep>территориальная избирательная комиссия города Вологды</namep>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <rgn>19</rgn>
-    <ind>160000</ind>
-    <tnp>г</tnp>
-    <nnp>Вологда</nnp>
-    <adr>ул. Ленина, д. 2</adr>
-    <prntbic/>
-    <datein>2024-06-27</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>1909001203</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>40206810145371909001</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>54</ck>
-    <accountcbrbic>041909001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1580</index>
-    <bic>280000624</bic>
-    <namep>Центральная избирательная комиссия Республики Башкортостан</namep>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <rgn>80</rgn>
-    <ind>450008</ind>
-    <tnp>г</tnp>
-    <nnp>Уфа</nnp>
-    <adr>ул. Заки Валиди, д. 46</adr>
-    <prntbic/>
-    <datein>2001-03-11</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>1</xchtype>
-    <uid>8073001406</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>40301810800000000001</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>27</ck>
-    <accountcbrbic>048073001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1581</index>
-    <bic>200000517</bic>
-    <namep>Территориальная избирательная комиссия Балаклавского района города Севастополя</namep>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <rgn>67</rgn>
-    <ind>299042</ind>
-    <tnp>г</tnp>
-    <nnp>Севастополь</nnp>
-    <adr>ул. Новикова, д.14</adr>
-    <prntbic/>
-    <datein>2024-06-27</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>6711001025</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>40206810245376711003</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>60</ck>
-    <accountcbrbic>046711001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1582</index>
-    <bic>044525135</bic>
-    <namep>КБ "Ренессанс Кредит" (ООО)</namep>
-    <regn>3354</regn>
-    <cntrcd>RU</cntrcd>
-    <rgn>45</rgn>
-    <ind>115114</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>улица Кожевническая, дом 14</adr>
-    <prntbic/>
-    <datein>2016-06-07</datein>
-    <pttype>20</pttype>
-    <srvcs>5</srvcs>
-    <xchtype>1</xchtype>
-    <uid>4525135000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>30101810845250000135</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>30</ck>
-    <accountcbrbic>044525000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname>Commercial bank "Renaissance Credit" (Limited liability company), (CB "Renaissance Credit" (LLC))</englname>
-    <swbic>ALILRUMM</swbic>
-    <defaultswbic>1</defaultswbic>
-  </row>
-  <row>
-    <index>1583</index>
-    <bic>047102804</bic>
-    <namep>КУ БАНК СБРР (ООО) - ГК "АСВ"</namep>
-    <regn>1284</regn>
-    <cntrcd>RU</cntrcd>
-    <rgn>71</rgn>
-    <ind>625000</ind>
-    <tnp>г</tnp>
-    <nnp>Тюмень</nnp>
-    <adr>ул. Некрасова, д. 11</adr>
-    <prntbic/>
-    <datein>2010-03-30</datein>
-    <pttype>90</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>7102804000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>30101810000000000804</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>82</ck>
-    <accountcbrbic>047102001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1584</index>
-    <bic>044525555</bic>
-    <namep>ПАО "Промсвязьбанк"</namep>
-    <regn>3251</regn>
-    <cntrcd>RU</cntrcd>
-    <rgn>45</rgn>
-    <ind>109052</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>улица Смирновская, дом 10, строение 22</adr>
-    <prntbic/>
-    <datein>2011-11-23</datein>
-    <pttype>20</pttype>
-    <srvcs>5</srvcs>
-    <xchtype>1</xchtype>
-    <uid>4525555000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>30101810400000000555</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>47</ck>
-    <accountcbrbic>044525000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname>PROMSVYAZBANK PJSC</englname>
-    <swbic>PRMSRUMMXXX</swbic>
-    <defaultswbic>1</defaultswbic>
-  </row>
-  <row>
-    <index>1585</index>
-    <bic>044525272</bic>
-    <namep>ПАО Банк ЗЕНИТ</namep>
-    <regn>3255</regn>
-    <cntrcd>RU</cntrcd>
-    <rgn>45</rgn>
-    <ind>117638</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>Одесская ул., д.2</adr>
-    <prntbic/>
-    <datein>2000-06-27</datein>
-    <pttype>20</pttype>
-    <srvcs>5</srvcs>
-    <xchtype>1</xchtype>
-    <uid>4525272000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>30101810000000000272</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>26</ck>
-    <accountcbrbic>044525000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname>PJSC BANK ZENIT</englname>
-    <swbic>ZENIRUMMXXX</swbic>
-    <defaultswbic>1</defaultswbic>
-  </row>
-  <row>
-    <index>1586</index>
-    <bic>049401814</bic>
-    <namep>ПАО "БЫСТРОБАНК"</namep>
-    <regn>1745</regn>
-    <cntrcd>RU</cntrcd>
-    <rgn>94</rgn>
-    <ind>426008</ind>
-    <tnp>г</tnp>
-    <nnp>Ижевск</nnp>
-    <adr>ул Пушкинская, 268</adr>
-    <prntbic/>
-    <datein>1991-09-02</datein>
-    <pttype>20</pttype>
-    <srvcs>5</srvcs>
-    <xchtype>1</xchtype>
-    <uid>9401814000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>30101810200000000814</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>12</ck>
-    <accountcbrbic>049401001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname>BYSTROBANK IZHEVSK RU</englname>
-    <swbic>BYJSRU33XXX</swbic>
-    <defaultswbic>1</defaultswbic>
-  </row>
-  <row>
-    <index>1587</index>
-    <bic>013304182</bic>
-    <namep>УФК по Кировской области</namep>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <rgn>33</rgn>
-    <ind>610019</ind>
-    <tnp>г</tnp>
-    <nnp>Киров</nnp>
-    <adr>ул Спасская, 43</adr>
-    <prntbic/>
-    <datein>2021-01-05</datein>
-    <pttype>52</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>3304001182</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>40102810345370000033</account>
-    <regulationaccounttype>UTRA</regulationaccounttype>
-    <ck>86</ck>
-    <accountcbrbic>043304001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1588</index>
-    <bic>200000574</bic>
-    <namep>территориальная избирательная комиссия Советско-Гаванского района</namep>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <rgn>08</rgn>
-    <ind>682800</ind>
-    <tnp>г</tnp>
-    <nnp>Советская Гавань</nnp>
-    <adr>ул. Ленина, д. 3</adr>
-    <prntbic/>
-    <datein>2024-07-05</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>0816000019</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>40202810845370816002</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>70</ck>
-    <accountcbrbic>040816000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1589</index>
-    <bic>200000586</bic>
-    <namep>Территориальная избирательная комиссия Центрального района г. Тулы</namep>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <rgn>70</rgn>
-    <ind>300000</ind>
-    <tnp>г</tnp>
-    <nnp>Тула</nnp>
-    <adr>ул. Тургеневская, д.67</adr>
-    <prntbic/>
-    <datein>2024-07-05</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>7003001243</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>40206810545377003004</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>74</ck>
-    <accountcbrbic>047003001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1590</index>
-    <bic>200000588</bic>
-    <namep>Территориальная избирательная комиссия Правобережной части г. Владикавказа</namep>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <rgn>90</rgn>
-    <ind>362025</ind>
-    <tnp>г</tnp>
-    <nnp>Владикавказ</nnp>
-    <adr>ул. Ватутина, 17</adr>
-    <prntbic/>
-    <datein>2024-07-05</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>9033001017</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>40206810745379033002</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>34</ck>
-    <accountcbrbic>049033001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1591</index>
-    <bic>200000575</bic>
-    <namep>Территориальная избирательная комиссия городского округа Анадырь</namep>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <rgn>77</rgn>
-    <ind>689000</ind>
-    <tnp>г</tnp>
-    <nnp>Анадырь</nnp>
-    <adr>Анадырь, ул. Рультытегина, д.1</adr>
-    <prntbic/>
-    <datein>2024-07-05</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>7719000575</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>40206810545377719001</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>14</ck>
-    <accountcbrbic>047719001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1592</index>
-    <bic>045004867</bic>
-    <namep>Ф-Л СИБИРСКИЙ ПАО БАНК "ФК ОТКРЫТИЕ"</namep>
-    <regn>2209/47</regn>
-    <cntrcd>RU</cntrcd>
-    <rgn>50</rgn>
-    <ind>630009</ind>
-    <tnp>г</tnp>
-    <nnp>Новосибирск</nnp>
-    <adr>ул. Добролюбова, д. 16</adr>
-    <prntbic>044525985</prntbic>
-    <datein>2016-09-27</datein>
-    <pttype>30</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>5004867000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>30101810250040000867</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>41</ck>
-    <accountcbrbic>045004001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1593</index>
-    <bic>044525237</bic>
-    <namep>КУ ПАО "МЕЖТОПЭНЕРГОБАНК" - ГК "АСВ"</namep>
-    <regn>2956</regn>
-    <cntrcd>RU</cntrcd>
-    <rgn>45</rgn>
-    <ind>109240</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>ул Высоцкого, 4</adr>
-    <prntbic/>
-    <datein>2015-09-17</datein>
-    <pttype>90</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>4525237000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>30101810345250000237</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>27</ck>
-    <accountcbrbic>044525000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1594</index>
-    <bic>044525297</bic>
-    <namep>Филиал Центральный ПАО Банка "ФК Открытие"</namep>
-    <regn>2209/42</regn>
-    <cntrcd>RU</cntrcd>
-    <rgn>45</rgn>
-    <ind>105066</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>улица Спартаковская, дом 5, строение 1</adr>
-    <prntbic>044525985</prntbic>
-    <datein>2016-08-29</datein>
-    <pttype>30</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>4525297000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>30101810945250000297</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>05</ck>
-    <accountcbrbic>044525000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname>BANK OTKRITIE FINANCIAL CORPORATION (PUBLIC JOINT - STOCK COMPANY)</englname>
-    <swbic>RUDLRUMMXXX</swbic>
-    <defaultswbic>1</defaultswbic>
-  </row>
-  <row>
-    <index>1595</index>
-    <bic>042202824</bic>
-    <namep>ФИЛИАЛ "НИЖЕГОРОДСКИЙ" АО "АЛЬФА-БАНК"</namep>
-    <regn>1326/1</regn>
-    <cntrcd>RU</cntrcd>
-    <rgn>22</rgn>
-    <ind>603000</ind>
-    <tnp>г</tnp>
-    <nnp>Нижний Новгород</nnp>
-    <adr>ул. Костина,9</adr>
-    <prntbic>044525593</prntbic>
-    <datein>1996-11-12</datein>
-    <pttype>30</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>2202824000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>30101810200000000824</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>47</ck>
-    <accountcbrbic>042202001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1596</index>
-    <bic>044525960</bic>
-    <namep>НКО "Центр расчетов" (АО)</namep>
-    <regn>3547-ЦК</regn>
-    <cntrcd>RU</cntrcd>
-    <rgn>45</rgn>
-    <ind>123112</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>муниципальный округ Пресненский, улица Тестовская, дом 8, помещение 1/8</adr>
-    <prntbic/>
-    <datein>2024-02-27</datein>
-    <pttype>20</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>4525960000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>30103810945374525960</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>61</ck>
-    <accountcbrbic>044525000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1597</index>
-    <bic>049401710</bic>
-    <namep>УДМУРТСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
-    <regn>3349/28</regn>
-    <cntrcd>RU</cntrcd>
-    <rgn>94</rgn>
-    <ind>426000</ind>
-    <tnp>г</tnp>
-    <nnp>Ижевск</nnp>
-    <adr>ул. Пушкинская, д. 265, корп. 1</adr>
-    <prntbic>044525111</prntbic>
-    <datein>2001-04-09</datein>
-    <pttype>30</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>9401710000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>30101810100000000710</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>68</ck>
-    <accountcbrbic>049401001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1598</index>
-    <bic>041180002</bic>
-    <namep>ПУ БАНКА РОССИИ БЕЛОМОРСКОЕ</namep>
-    <regn/>
-    <cntrcd/>
-    <rgn>11</rgn>
-    <ind>164501</ind>
-    <tnp>г</tnp>
-    <nnp>Северодвинск</nnp>
-    <adr>ул. Лесная, д. 62</adr>
-    <prntbic>044030001</prntbic>
-    <datein>2024-01-12</datein>
-    <pttype>40</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>1</xchtype>
-    <uid>1180002000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account/>
-    <regulationaccounttype/>
-    <ck/>
-    <accountcbrbic/>
-    <accountstatus/>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1599</index>
-    <bic>040813744</bic>
-    <namep>ДАЛЬНЕВОСТОЧНЫЙ Ф-Л ПАО "ПРОМСВЯЗЬБАНК"</namep>
-    <regn>3251/37</regn>
-    <cntrcd>RU</cntrcd>
-    <rgn>08</rgn>
-    <ind>680000</ind>
-    <tnp>г</tnp>
-    <nnp>Хабаровск</nnp>
-    <adr>ул Запарина, 57</adr>
-    <prntbic>044525555</prntbic>
-    <datein>2012-02-07</datein>
-    <pttype>30</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>0813744000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>30101810700000000744</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>56</ck>
-    <accountcbrbic>040813001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname>PROMSVYAZBANK PJSC (DALNEVOSTOCHNIY BRANCH) HABAROVSK</englname>
-    <swbic>PRMSRUM1HAB</swbic>
-    <defaultswbic>1</defaultswbic>
-  </row>
-  <row>
-    <index>1600</index>
-    <bic>044525494</bic>
-    <namep>ООО "СМЛТ Банк"</namep>
-    <regn>2846</regn>
-    <cntrcd>RU</cntrcd>
-    <rgn>45</rgn>
-    <ind>121096</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>ул. Василисы Кожиной, д. 1, этаж 1, комнаты 1-30</adr>
-    <prntbic/>
-    <datein>2006-01-31</datein>
-    <pttype>20</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>4525494000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>30101810600000000494</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>17</ck>
-    <accountcbrbic>044525000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname>SMLT Bank Limited Liability Company (SMLT Bank LLC)</englname>
-    <swbic>SISERUMMXXX</swbic>
-    <defaultswbic>1</defaultswbic>
-  </row>
-  <row>
-    <index>1601</index>
-    <bic>200000151</bic>
-    <namep>Избирательная комиссия Запорожской области</namep>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <rgn>23</rgn>
-    <ind>272312</ind>
-    <tnp>г</tnp>
-    <nnp>Мелитополь</nnp>
-    <adr>Пл. Победы, д.4</adr>
-    <prntbic/>
-    <datein>2023-03-15</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>2368001102</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>40301810645372368001</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>89</ck>
-    <accountcbrbic>042368001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1602</index>
-    <bic>200000585</bic>
-    <namep>Центральная г. Читы территориальная избирательная комиссия</namep>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <rgn>76</rgn>
-    <ind>672007</ind>
-    <tnp>г</tnp>
-    <nnp>Чита</nnp>
-    <adr>ул. Богомягкова, 23</adr>
-    <prntbic/>
-    <datein>2024-07-08</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>7601001127</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>40206810445377601007</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>03</ck>
-    <accountcbrbic>047601001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1603</index>
-    <bic>200000590</bic>
-    <namep>территориальная избирательная комиссия Автозаводского района города Тольятти Самарской области</namep>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <rgn>36</rgn>
-    <ind>445000</ind>
-    <tnp>г</tnp>
-    <nnp>Тольятти</nnp>
-    <adr>Новый проезд, дом 2</adr>
-    <prntbic/>
-    <datein>2024-07-08</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>3678000105</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>40202810745373678002</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>80</ck>
-    <accountcbrbic>043678000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1604</index>
-    <bic>200000592</bic>
-    <namep>Территориальная избирательная комиссия Привокзального района г. Тулы</namep>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <rgn>70</rgn>
-    <ind>300013</ind>
-    <tnp>г</tnp>
-    <nnp>Тула</nnp>
-    <adr>ул. Болдина, д.50</adr>
-    <prntbic/>
-    <datein>2024-07-08</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>7003001244</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>40206810845377003005</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>38</ck>
-    <accountcbrbic>047003001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1605</index>
-    <bic>200000582</bic>
-    <namep>Территориальная избирательная комиссия Заполярного района</namep>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <rgn>11</rgn>
-    <ind>166700</ind>
-    <tnp>пгт</tnp>
-    <nnp>Искателей</nnp>
-    <adr>ул. Губкина, д.10</adr>
-    <prntbic/>
-    <datein>2024-07-08</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>1125000057</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>40206810445371125022</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>73</ck>
-    <accountcbrbic>041125000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1606</index>
-    <bic>200000593</bic>
-    <namep>Территориальная избирательная комиссия Советского района г. Тулы</namep>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <rgn>70</rgn>
-    <ind>300013</ind>
-    <tnp>г</tnp>
-    <nnp>Тула</nnp>
-    <adr>ул. Болдина, д.50</adr>
-    <prntbic/>
-    <datein>2024-07-08</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>7003001245</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>40206810145377003006</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>52</ck>
-    <accountcbrbic>047003001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1607</index>
-    <bic>200000587</bic>
-    <namep>Калининград-Центральная территориальная избирательная комиссия</namep>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <rgn>27</rgn>
-    <ind>236022</ind>
-    <tnp>г</tnp>
-    <nnp>Калининград</nnp>
-    <adr>ул. Карла Маркса, дом 41-43</adr>
-    <prntbic/>
-    <datein>2024-07-08</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>2748001587</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>40202810145372748002</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>11</ck>
-    <accountcbrbic>042748001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1608</index>
-    <bic>292000450</bic>
-    <namep>ЦИК Республики Татарстан</namep>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <rgn>92</rgn>
-    <ind>420111</ind>
-    <tnp>г</tnp>
-    <nnp>Казань</nnp>
-    <adr>ул Батурина, 7 Б</adr>
-    <prntbic/>
-    <datein>2005-12-30</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>1</xchtype>
-    <uid>9205001500</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>40301810500000000001</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>50</ck>
-    <accountcbrbic>049205001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1609</index>
-    <bic>044525084</bic>
-    <namep>Ликвидатор АО "РУНЭТБАНК"</namep>
-    <regn>2829</regn>
-    <cntrcd>RU</cntrcd>
-    <rgn>45</rgn>
-    <ind>123056</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>ул Гашека, 9, к 4, стр 1</adr>
-    <prntbic/>
-    <datein>2016-05-12</datein>
-    <pttype>90</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>4525084000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>30101810145250000084</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>53</ck>
-    <accountcbrbic>044525000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1610</index>
-    <bic>044525333</bic>
-    <namep>НКО "Альтернатива" (ООО)</namep>
-    <regn>3452-К</regn>
-    <cntrcd>RU</cntrcd>
-    <rgn>45</rgn>
-    <ind>115172</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>ул. Малые Каменщики, д. 10</adr>
-    <prntbic/>
-    <datein>2021-05-20</datein>
-    <pttype>20</pttype>
-    <srvcs>5</srvcs>
-    <xchtype>1</xchtype>
-    <uid>4525333000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>30103810645250000333</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>63</ck>
-    <accountcbrbic>044525000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1611</index>
-    <bic>200000591</bic>
-    <namep>Территориальная избирательная комиссия города Ухты</namep>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <rgn>87</rgn>
-    <ind>169300</ind>
-    <tnp>г</tnp>
-    <nnp>Ухта</nnp>
-    <adr>ул. Бушуева, д. 11</adr>
-    <prntbic/>
-    <datein>2024-07-09</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>8717000009</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>40202810545378717002</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>04</ck>
-    <accountcbrbic>048717000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1612</index>
-    <bic>042520767</bic>
-    <namep>АНГАРСКИЙ ФИЛИАЛ АО "ИТ БАНК"</namep>
-    <regn>2609/1</regn>
-    <cntrcd>RU</cntrcd>
-    <rgn>25</rgn>
-    <ind>665835</ind>
-    <tnp>г</tnp>
-    <nnp>Ангарск</nnp>
-    <adr>29-й мкр, 15 А помещение 2</adr>
-    <prntbic>045209702</prntbic>
-    <datein>2017-07-21</datein>
-    <pttype>30</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>2520767000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>30101810350040000767</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>48</ck>
-    <accountcbrbic>042520001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1613</index>
-    <bic>042520728</bic>
-    <namep>Иркутский филиал АО Ингосстрах Банк</namep>
-    <regn>2307/4</regn>
-    <cntrcd>RU</cntrcd>
-    <rgn>25</rgn>
-    <ind>664007</ind>
-    <tnp>г</tnp>
-    <nnp>Иркутск</nnp>
-    <adr>ул. Карла Либкнехта, 99А</adr>
-    <prntbic>044525148</prntbic>
-    <datein>2003-10-07</datein>
-    <pttype>30</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>2520728000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>30101810300000000728</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>61</ck>
-    <accountcbrbic>042520001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1614</index>
-    <bic>042520811</bic>
-    <namep>Конкурсный управляющий АО "ГринКомБанк" - ГК "АСВ"</namep>
-    <regn>1184</regn>
-    <cntrcd>RU</cntrcd>
-    <rgn>45</rgn>
-    <ind>115114</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>ул. Павелецкая наб., д.8</adr>
-    <prntbic/>
-    <datein>2017-04-21</datein>
-    <pttype>90</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>2520811000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>30101810950040000811</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>81</ck>
-    <accountcbrbic>042520001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1615</index>
-    <bic>042520849</bic>
-    <namep>КУ АО "ВостСибтранскомбанк" - ГК "АСВ"</namep>
-    <regn>2731</regn>
-    <cntrcd>RU</cntrcd>
-    <rgn>45</rgn>
-    <ind>109240</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>ул. Высоцкого, 4</adr>
-    <prntbic/>
-    <datein>2002-09-25</datein>
-    <pttype>90</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>2520849000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>30101810700000000849</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>69</ck>
-    <accountcbrbic>042520001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1616</index>
-    <bic>042520764</bic>
-    <namep>КОНКУРСНЫЙ УПРАВЛЯЮЩИЙ "ВЛБАНК" (АО)-ГК "АСВ"</namep>
-    <regn>1222</regn>
-    <cntrcd>RU</cntrcd>
-    <rgn>45</rgn>
-    <ind>109240</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>ул. Высоцкого, 4</adr>
-    <prntbic/>
-    <datein>2017-09-18</datein>
-    <pttype>90</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>2520764000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>30101810450040000764</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>87</ck>
-    <accountcbrbic>042520001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1617</index>
-    <bic>200000594</bic>
-    <namep>Территориальная избирательная комиссия района Покровское-Стрешнево</namep>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <rgn>45</rgn>
-    <ind>125362</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>улица Свободы, дом 16</adr>
-    <prntbic/>
-    <datein>2024-07-10</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>4525001515</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>40202810945370001515</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>79</ck>
-    <accountcbrbic>044525000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1618</index>
-    <bic>042202894</bic>
-    <namep>Ф-л Приволжский ПАО Банк "ФК Открытие"</namep>
-    <regn>2209/4</regn>
-    <cntrcd>RU</cntrcd>
-    <rgn>22</rgn>
-    <ind>603006</ind>
-    <tnp>г</tnp>
-    <nnp>Нижний Новгород</nnp>
-    <adr>ул. Ковалихинская, д. 8</adr>
-    <prntbic>044525985</prntbic>
-    <datein>2023-11-27</datein>
-    <pttype>30</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>2202894000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>30101810245372202894</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>19</ck>
-    <accountcbrbic>042202001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname>Bank Otkritie Financial Corporation (Publik Joint-Stock Company)</englname>
-    <swbic>JSNMRUMMNNV</swbic>
-    <defaultswbic>1</defaultswbic>
-  </row>
-  <row>
-    <index>1619</index>
-    <bic>046577906</bic>
-    <namep>УРАЛЬСКИЙ ФИЛИАЛ АО "РАЙФФАЙЗЕНБАНК"</namep>
-    <regn>3292/2</regn>
-    <cntrcd>RU</cntrcd>
-    <rgn>65</rgn>
-    <ind>620075</ind>
-    <tnp>г</tnp>
-    <nnp>Екатеринбург</nnp>
-    <adr>ул Красноармейская, 10</adr>
-    <prntbic>044525700</prntbic>
-    <datein>2005-03-03</datein>
-    <pttype>30</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>6577906000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>30101810100000000906</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>94</ck>
-    <accountcbrbic>046577001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1620</index>
-    <bic>041012765</bic>
-    <namep>"Азиатско-Тихоокеанский Банк" (АО)</namep>
-    <regn>1810</regn>
-    <cntrcd>RU</cntrcd>
-    <rgn>10</rgn>
-    <ind>675004</ind>
-    <tnp>г</tnp>
-    <nnp>Благовещенск</nnp>
-    <adr>ул Амурская, 225</adr>
-    <prntbic/>
-    <datein>1997-07-17</datein>
-    <pttype>20</pttype>
-    <srvcs>5</srvcs>
-    <xchtype>1</xchtype>
-    <uid>1012765000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>30101810300000000765</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>63</ck>
-    <accountcbrbic>041012001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname>Joint stock company Asian - Pacific Bank</englname>
-    <swbic>ASANRU8XXXX</swbic>
-    <defaultswbic>1</defaultswbic>
-  </row>
-  <row>
-    <index>1621</index>
-    <bic>048142744</bic>
-    <namep>Ф-л Азиатско-Тихоокеанский Банк АО г.Улан-Удэ</namep>
-    <regn>1810/14</regn>
-    <cntrcd>RU</cntrcd>
-    <rgn>81</rgn>
-    <ind>670000</ind>
-    <tnp>г</tnp>
-    <nnp>Улан-Удэ</nnp>
-    <adr>ул Коммунистическая, 49</adr>
-    <prntbic>041012765</prntbic>
-    <datein>2005-12-21</datein>
-    <pttype>30</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>8142744000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>30101810700000000744</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>82</ck>
-    <accountcbrbic>048142001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1622</index>
-    <bic>046577418</bic>
-    <namep>Ф-л Азиатско-Тихоокеанский Банк АО в г.Екат-г</namep>
-    <regn>1810/22</regn>
-    <cntrcd>RU</cntrcd>
-    <rgn>65</rgn>
-    <ind>620133</ind>
-    <tnp>г</tnp>
-    <nnp>Екатеринбург</nnp>
-    <adr>ул Луначарского, 57</adr>
-    <prntbic>041012765</prntbic>
-    <datein>2015-10-05</datein>
-    <pttype>30</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>6577418000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>30101810465770000418</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>51</ck>
-    <accountcbrbic>046577001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1623</index>
-    <bic>042520872</bic>
-    <namep>КБ "Байкалкредобанк" (АО)</namep>
-    <regn>2990</regn>
-    <cntrcd>RU</cntrcd>
-    <rgn>25</rgn>
-    <ind>664025</ind>
-    <tnp>г</tnp>
-    <nnp>Иркутск</nnp>
-    <adr>ул Ленина, 18</adr>
-    <prntbic/>
-    <datein>1994-09-02</datein>
-    <pttype>20</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>2520872000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>30101810900000000872</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>17</ck>
-    <accountcbrbic>042520001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1624</index>
-    <bic>044525823</bic>
-    <namep>Банк ГПБ (АО)</namep>
-    <regn>354</regn>
-    <cntrcd>RU</cntrcd>
-    <rgn>45</rgn>
-    <ind>117420</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>ул. Наметкина, дом 16, корпус 1.</adr>
-    <prntbic/>
-    <datein>1998-03-25</datein>
-    <pttype>20</pttype>
-    <srvcs>5</srvcs>
-    <xchtype>1</xchtype>
-    <uid>4525823000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>30101810200000000823</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>02</ck>
-    <accountcbrbic>044525000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname>GAZPROMBANK (JOINT - STOCK COMPANY)</englname>
-    <swbic>GAZPRUMMXXX</swbic>
-    <defaultswbic>1</defaultswbic>
-  </row>
-  <row>
-    <index>1625</index>
-    <bic>044525593</bic>
-    <namep>АО "АЛЬФА-БАНК"</namep>
-    <regn>1326</regn>
-    <cntrcd>RU</cntrcd>
-    <rgn>45</rgn>
-    <ind>107078</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>ул. Каланчевская, д. 27</adr>
-    <prntbic/>
-    <datein>1998-03-25</datein>
-    <pttype>20</pttype>
-    <srvcs>5</srvcs>
-    <xchtype>1</xchtype>
-    <uid>4525593000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>30101810200000000593</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>53</ck>
-    <accountcbrbic>044525000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname>ALFA-BANK</englname>
-    <swbic>ALFARUMMXXX</swbic>
-    <defaultswbic>1</defaultswbic>
-  </row>
-  <row>
-    <index>1626</index>
-    <bic>041403701</bic>
-    <namep>АО УКБ "БЕЛГОРОДСОЦБАНК"</namep>
-    <regn>760</regn>
-    <cntrcd>RU</cntrcd>
-    <rgn>14</rgn>
-    <ind>308015</ind>
-    <tnp>г</tnp>
-    <nnp>Белгород</nnp>
-    <adr>Свято-Троицкий бульвар, д.38</adr>
-    <prntbic/>
-    <datein>1993-07-22</datein>
-    <pttype>20</pttype>
-    <srvcs>5</srvcs>
-    <xchtype>1</xchtype>
-    <uid>1403701000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>30101810100000000701</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>91</ck>
-    <accountcbrbic>041403001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1627</index>
-    <bic>049205878</bic>
-    <namep>АО "Автоградбанк"</namep>
-    <regn>1455</regn>
-    <cntrcd>RU</cntrcd>
-    <rgn>92</rgn>
-    <ind>423831</ind>
-    <tnp>г</tnp>
-    <nnp>Набережные Челны</nnp>
-    <adr>пр-т Хасана Туфана, д. 43</adr>
-    <prntbic/>
-    <datein>2019-07-15</datein>
-    <pttype>20</pttype>
-    <srvcs>5</srvcs>
-    <xchtype>1</xchtype>
-    <uid>9205878000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>30101810622029205878</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>44</ck>
-    <accountcbrbic>049205001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname>JOINT STOCK COMPANY "AVTOGRADBANK"</englname>
-    <swbic>AVGRRU22XXX</swbic>
-    <defaultswbic>1</defaultswbic>
-  </row>
-  <row>
-    <index>1628</index>
-    <bic>200000511</bic>
-    <namep>Территориальная избирательная комиссия городского округа Эгвекинот</namep>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <rgn>77</rgn>
-    <ind>689202</ind>
-    <tnp>пгт</tnp>
-    <nnp>Эгвекинот</nnp>
-    <adr>Эгвекинот, ул. Ленина, д.9</adr>
-    <prntbic/>
-    <datein>2024-06-24</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>7749000511</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>40202810545377749001</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>18</ck>
-    <accountcbrbic>047749000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1629</index>
-    <bic>200000514</bic>
-    <namep>ТИК Октябрьского района города Владимира</namep>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <rgn>17</rgn>
-    <ind>600000</ind>
-    <tnp>г</tnp>
-    <nnp>Владимир</nnp>
-    <adr>улица Большая Московская, дом 44</adr>
-    <prntbic/>
-    <datein>2024-06-24</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>1708000742</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>40206810145371708001</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>15</ck>
-    <accountcbrbic>041708001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1630</index>
-    <bic>200000531</bic>
-    <namep>Территориальная избирательная комиссия города Салехарда</namep>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <rgn>71</rgn>
-    <ind>629007</ind>
-    <tnp>г</tnp>
-    <nnp>Салехард</nnp>
-    <adr>ул. Свердлова, д. 48</adr>
-    <prntbic/>
-    <datein>2024-06-24</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>7182000009</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>40206810045377182093</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>76</ck>
-    <accountcbrbic>047182000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1631</index>
-    <bic>200000510</bic>
-    <namep>ТИК по г. Черкесску</namep>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <rgn>91</rgn>
-    <ind>369000</ind>
-    <tnp>г</tnp>
-    <nnp>Черкесск</nnp>
-    <adr>пр-кт Ленина, д.54, к.А, кв. 202</adr>
-    <prntbic/>
-    <datein>2024-06-24</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>9133001003</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>40202810445379133510</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>10</ck>
-    <accountcbrbic>049133001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1632</index>
-    <bic>200000527</bic>
-    <namep>Йошкар-Олинская городская территориальная избирательная комиссия № 2</namep>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <rgn>88</rgn>
-    <ind>424001</ind>
-    <tnp>г</tnp>
-    <nnp>Йошкар-Ола</nnp>
-    <adr>просп. Гагарина, д.2</adr>
-    <prntbic/>
-    <datein>2024-06-24</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>8860001032</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>40206810845378860004</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>52</ck>
-    <accountcbrbic>048860001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1633</index>
-    <bic>200000526</bic>
-    <namep>Территориальная избирательная комиссия Ленинского района города Оренбурга</namep>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <rgn>53</rgn>
-    <ind>460046</ind>
-    <tnp>г</tnp>
-    <nnp>Оренбург</nnp>
-    <adr>улица 9 Января дом 64</adr>
-    <prntbic/>
-    <datein>2024-06-24</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>5354001249</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>40202810745375354001</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>09</ck>
-    <accountcbrbic>045354001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1634</index>
-    <bic>200000516</bic>
-    <namep>ТИК по Центральному району г. Волгограда</namep>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <rgn>18</rgn>
-    <ind>400066</ind>
-    <tnp>г</tnp>
-    <nnp>Волгоград</nnp>
-    <adr>пр-т им. В.И.Ленина, д. 15</adr>
-    <prntbic/>
-    <datein>2024-06-24</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>1806001317</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>40202810745371806002</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>62</ck>
-    <accountcbrbic>041806001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1635</index>
-    <bic>200000474</bic>
-    <namep>Южно-Сахалинская городская территориальная избирательная комиссия</namep>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <rgn>64</rgn>
-    <ind>693000</ind>
-    <tnp>г</tnp>
-    <nnp>Южно-Сахалинск</nnp>
-    <adr>ул. Ленина, д. 252</adr>
-    <prntbic/>
-    <datein>2024-06-18</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>6401001031</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>40206810545376401001</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>39</ck>
-    <accountcbrbic>046401001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1636</index>
-    <bic>200000499</bic>
-    <namep>территориальная избирательная комиссия Железнодорожного района города Симферополя Республики Крым</namep>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <rgn>35</rgn>
-    <ind>295000</ind>
-    <tnp>г</tnp>
-    <nnp>Симферополь</nnp>
-    <adr>ул. Толстого, д. 15</adr>
-    <prntbic/>
-    <datein>2024-06-24</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>3510001170</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>40206810545373510023</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>61</ck>
-    <accountcbrbic>043510001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1637</index>
-    <bic>200000498</bic>
-    <namep>территориальная избирательная комиссия города Евпатории Республики Крым</namep>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <rgn>35</rgn>
-    <ind>297407</ind>
-    <tnp>г</tnp>
-    <nnp>Евпатория</nnp>
-    <adr>ул. Демышева, д.129</adr>
-    <prntbic/>
-    <datein>2024-06-24</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>3510001167</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>40206810845373510024</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>48</ck>
-    <accountcbrbic>043510001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1638</index>
-    <bic>200000488</bic>
-    <namep>территориальная избирательная комиссия Киевского района города Симферополя Республики Крым</namep>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <rgn>35</rgn>
-    <ind>295034</ind>
-    <tnp>г</tnp>
-    <nnp>Симферополь</nnp>
-    <adr>бульвар Франко, д. 25, каб. 319</adr>
-    <prntbic/>
-    <datein>2024-06-24</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>3510001165</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>40206810145373510025</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>15</ck>
-    <accountcbrbic>043510001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1639</index>
-    <bic>200000495</bic>
-    <namep>территориальная избирательная комиссия Белогорского района Республики Крым</namep>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <rgn>35</rgn>
-    <ind>297600</ind>
-    <tnp>г</tnp>
-    <nnp>Белогорск</nnp>
-    <adr>ул. Мира, д. 1</adr>
-    <prntbic/>
-    <datein>2024-06-24</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>3510001169</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>40206810445373510026</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>45</ck>
-    <accountcbrbic>043510001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1640</index>
-    <bic>200000496</bic>
-    <namep>территориальная избирательная комиссия города Алушты Республики Крым</namep>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <rgn>35</rgn>
-    <ind>298516</ind>
-    <tnp>г</tnp>
-    <nnp>Алушта</nnp>
-    <adr>пл. Советская, д. 1</adr>
-    <prntbic/>
-    <datein>2024-06-24</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>3510001171</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>40206810745373510027</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>67</ck>
-    <accountcbrbic>043510001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1641</index>
-    <bic>200000598</bic>
-    <namep>Территориальная избирательная комиссия Ленинский район г. Астрахани Астраханская область</namep>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <rgn>12</rgn>
-    <ind>414040</ind>
-    <tnp>г</tnp>
-    <nnp>Астрахань</nnp>
-    <adr>ул. Академика Королева, д. 26</adr>
-    <prntbic/>
-    <datein>2024-07-12</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>1203001056</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>40202810645371203005</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>34</ck>
-    <accountcbrbic>041203001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1642</index>
-    <bic>200000597</bic>
-    <namep>Нальчикская городская территориальная избирательная комиссия</namep>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <rgn>83</rgn>
-    <ind>360017</ind>
-    <tnp>г</tnp>
-    <nnp>Нальчик</nnp>
-    <adr>ул. Кешокова, 70</adr>
-    <prntbic/>
-    <datein>2024-07-12</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>8327001144</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>40202810645378327003</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>15</ck>
-    <accountcbrbic>048327001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1643</index>
-    <bic>200000519</bic>
-    <namep>Территориальная избирательная комиссия города Абакана</namep>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <rgn>95</rgn>
-    <ind>655017</ind>
-    <tnp>г</tnp>
-    <nnp>Абакан</nnp>
-    <adr>ул. Щетинкина, д.10, каб. 212</adr>
-    <prntbic/>
-    <datein>2024-07-12</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>9514001009</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>40301810045379514002</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>58</ck>
-    <accountcbrbic>049514001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1644</index>
     <bic>044525218</bic>
     <namep>КБ "Дж.П. Морган Банк Интернешнл" (ООО)</namep>
     <regn>2629</regn>
@@ -44416,7 +41905,2545 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
+    <index>1552</index>
+    <bic>041806715</bic>
+    <namep>ЮЖНЫЙ Ф-Л ПАО "ПРОМСВЯЗЬБАНК"</namep>
+    <regn>3251/15</regn>
+    <cntrcd>RU</cntrcd>
+    <rgn>18</rgn>
+    <ind>400005</ind>
+    <tnp>г</tnp>
+    <nnp>Волгоград</nnp>
+    <adr>ул им. маршала Чуйкова, 65 А</adr>
+    <prntbic>044525555</prntbic>
+    <datein>2011-12-09</datein>
+    <pttype>30</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>1806715000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>30101810100000000715</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>73</ck>
+    <accountcbrbic>041806001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic>PRMSRUMMVGG</swbic>
+    <defaultswbic>1</defaultswbic>
+  </row>
+  <row>
+    <index>1553</index>
+    <bic>200000515</bic>
+    <namep>Участковая избирательная комиссия № 250 МО "Мурбайский наслег" Ленского района Республики Саха (Якутия)</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>98</rgn>
+    <ind>678165</ind>
+    <tnp>с</tnp>
+    <nnp>Северная Нюя</nnp>
+    <adr>ул. Школьная, 1</adr>
+    <prntbic/>
+    <datein>2024-06-21</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>9820000018</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40206810045379820012</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>76</ck>
+    <accountcbrbic>049820000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1554</index>
+    <bic>200000536</bic>
+    <namep>Территориальная избирательная комиссия Великолукского района</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>58</rgn>
+    <ind>182110</ind>
+    <tnp>г</tnp>
+    <nnp>Великие Луки</nnp>
+    <adr>пр. Гагарина, д.6</adr>
+    <prntbic/>
+    <datein>2024-06-25</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>5853000044</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40206810845375853003</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>91</ck>
+    <accountcbrbic>045853000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1555</index>
+    <bic>200000528</bic>
+    <namep>Территориальная избирательная комиссия Правобережный округ города Липецка</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>42</rgn>
+    <ind>398050</ind>
+    <tnp>г</tnp>
+    <nnp>Липецк</nnp>
+    <adr>улица Пролетарская, дом 5</adr>
+    <prntbic/>
+    <datein>2024-06-25</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>4206001155</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40202810545374206003</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>07</ck>
+    <accountcbrbic>044206001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1556</index>
+    <bic>200000521</bic>
+    <namep>Территориальная избирательная комиссия г. Петрозаводска № 1</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>86</rgn>
+    <ind>186035</ind>
+    <tnp>г</tnp>
+    <nnp>Петрозаводск</nnp>
+    <adr>проспект Ленина, дом 2, каб. 202</adr>
+    <prntbic/>
+    <datein>2024-06-25</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>8602001117</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40206810145378602001</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>45</ck>
+    <accountcbrbic>048602001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1557</index>
+    <bic>200000478</bic>
+    <namep>территориальная избирательная комиссия муниципального района Стерлитамакский район Республики Башкортостан</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>80</rgn>
+    <ind>453115</ind>
+    <tnp>г</tnp>
+    <nnp>Стерлитамак</nnp>
+    <adr>ул. К. Маркса, д.118</adr>
+    <prntbic/>
+    <datein>2024-06-25</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>8082000546</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40206810545378082032</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>27</ck>
+    <accountcbrbic>048082000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1558</index>
+    <bic>229000080</bic>
+    <namep>Избирательная комиссия Калужской области</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>29</rgn>
+    <ind>248001</ind>
+    <tnp>г</tnp>
+    <nnp>Калуга</nnp>
+    <adr>ул Ленина, 74, стр 1 Б</adr>
+    <prntbic/>
+    <datein>1995-08-17</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>2908001003</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40301810200000000001</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>54</ck>
+    <accountcbrbic>042908001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1559</index>
+    <bic>287000077</bic>
+    <namep>Избирательная комиссия Республики Коми</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>87</rgn>
+    <ind>167000</ind>
+    <tnp>г</tnp>
+    <nnp>Сыктывкар</nnp>
+    <adr>ул Коммунистическая, 8</adr>
+    <prntbic/>
+    <datein>1995-08-29</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>8702001001</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40301810800000000001</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>67</ck>
+    <accountcbrbic>048702001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1560</index>
+    <bic>200000541</bic>
+    <namep>территориальная избирательная комиссия города Уссурийска</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>05</rgn>
+    <ind>692519</ind>
+    <tnp>г</tnp>
+    <nnp>Уссурийск</nnp>
+    <adr>ул. Ленина, 101</adr>
+    <prntbic/>
+    <datein>2024-06-26</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>0508001541</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40206810045370508001</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>52</ck>
+    <accountcbrbic>040508000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1561</index>
+    <bic>200000523</bic>
+    <namep>Территориальная избирательная комиссия Октябрьский район муниципального образования "Город Улан-Удэ"</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>81</rgn>
+    <ind>670031</ind>
+    <tnp>г</tnp>
+    <nnp>Улан-Удэ</nnp>
+    <adr>ул. Павлова, 1</adr>
+    <prntbic/>
+    <datein>2024-06-26</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>8142001523</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40206810445378142005</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>75</ck>
+    <accountcbrbic>048142001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1562</index>
+    <bic>200000535</bic>
+    <namep>Территориальная избирательная комиссия Ленинского района города Орска</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>53</rgn>
+    <ind>462431</ind>
+    <tnp>г</tnp>
+    <nnp>Орск</nnp>
+    <adr>Ленина проспект, 76 А</adr>
+    <prntbic/>
+    <datein>2024-06-26</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>5339000169</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40202810945375339001</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>67</ck>
+    <accountcbrbic>045339000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1563</index>
+    <bic>200000544</bic>
+    <namep>Нерюнгринская территориальная избирательная комиссия Республики Саха (Якутия)</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>98</rgn>
+    <ind>678960</ind>
+    <tnp>г</tnp>
+    <nnp>Нерюнгри</nnp>
+    <adr>пр. Дружбы Народов, д. 21, каб. 406</adr>
+    <prntbic/>
+    <datein>2024-06-26</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>9849000017</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40206810545379849002</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>17</ck>
+    <accountcbrbic>049849000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1564</index>
+    <bic>200000545</bic>
+    <namep>Иркутская городская № 3 территориальная избирательная комиссия (Правобережный округ)</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>25</rgn>
+    <ind>664025</ind>
+    <tnp>г</tnp>
+    <nnp>Иркутск</nnp>
+    <adr>ул. Марата, д.14</adr>
+    <prntbic/>
+    <datein>2024-06-26</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>2520001545</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40206810145372520002</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>34</ck>
+    <accountcbrbic>042520001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1565</index>
+    <bic>200000543</bic>
+    <namep>Восточная территориальная избирательная комиссия города Кургана</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>37</rgn>
+    <ind>640000</ind>
+    <tnp>г</tnp>
+    <nnp>Курган</nnp>
+    <adr>площадь имени В.И. Ленина, дом 1</adr>
+    <prntbic/>
+    <datein>2024-06-26</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>3735001085</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40202810345373735005</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>58</ck>
+    <accountcbrbic>043735001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1566</index>
+    <bic>200000537</bic>
+    <namep>Территориальная избирательная комиссия Ленинского района муниципального образования "город Ульяновск"</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>73</rgn>
+    <ind>432017</ind>
+    <tnp>г</tnp>
+    <nnp>Ульяновск</nnp>
+    <adr>г. Ульяновск, ул. Кузнецова, д.7</adr>
+    <prntbic/>
+    <datein>2024-06-26</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>7308001014</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40206810945377300001</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>57</ck>
+    <accountcbrbic>047308001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1567</index>
+    <bic>200000551</bic>
+    <namep>ТИК № 64</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>40</rgn>
+    <ind>191167</ind>
+    <tnp>г</tnp>
+    <nnp>Санкт-Петербург</nnp>
+    <adr>Невский пр-кт, д. 176, литер А</adr>
+    <prntbic/>
+    <datein>2024-06-26</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>4030001109</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40206810345374030001</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>63</ck>
+    <accountcbrbic>044030001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1568</index>
+    <bic>200000557</bic>
+    <namep>Ленинская районная г. Чебоксары территориальная избирательная комиссия</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>97</rgn>
+    <ind>428003</ind>
+    <tnp>г</tnp>
+    <nnp>Чебоксары</nnp>
+    <adr>ул. Ю. Гагарина, д. 22А</adr>
+    <prntbic/>
+    <datein>2024-06-26</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>9706001014</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40206810145379706001</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>96</ck>
+    <accountcbrbic>049706001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1569</index>
+    <bic>200000533</bic>
+    <namep>Территориальная избирательная комиссия №1 Центрального округа города Курска</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>38</rgn>
+    <ind>305001</ind>
+    <tnp>г</tnp>
+    <nnp>Курск</nnp>
+    <adr>ул Александра Невского, зд. 5, офис 401</adr>
+    <prntbic/>
+    <datein>2024-06-26</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>3807001861</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40202810445370380703</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>09</ck>
+    <accountcbrbic>043807001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1570</index>
+    <bic>200000534</bic>
+    <namep>Территориальная избирательная комиссия №2 Центрального округа города Курска</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>38</rgn>
+    <ind>305001</ind>
+    <tnp>г</tnp>
+    <nnp>Курск</nnp>
+    <adr>ул Александра Невского, зд. 5, офис 415</adr>
+    <prntbic/>
+    <datein>2024-06-26</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>3807001862</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40202810745370380704</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>31</ck>
+    <accountcbrbic>043807001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1571</index>
+    <bic>200000540</bic>
+    <namep>Белгородская городская ТИК</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>14</rgn>
+    <ind>308002</ind>
+    <tnp>г</tnp>
+    <nnp>Белгород</nnp>
+    <adr>ул. Генерала Лебедя, д.2</adr>
+    <prntbic/>
+    <datein>2024-06-26</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>1403001013</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40206810445371403001</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>56</ck>
+    <accountcbrbic>041403001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1572</index>
+    <bic>200000529</bic>
+    <namep>Западная территориальная избирательная комиссия города Кургана</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>37</rgn>
+    <ind>640000</ind>
+    <tnp>г</tnp>
+    <nnp>Курган</nnp>
+    <adr>площадь имени В.И. Ленина, дом 1</adr>
+    <prntbic/>
+    <datein>2024-06-26</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>3735001084</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40206810545373735005</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>18</ck>
+    <accountcbrbic>043735001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1573</index>
+    <bic>201000873</bic>
+    <namep>Крайизбирком</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>01</rgn>
+    <ind>656049</ind>
+    <tnp>г</tnp>
+    <nnp>Барнаул</nnp>
+    <adr>пр-т Ленина, 59</adr>
+    <prntbic/>
+    <datein>1999-11-29</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>0173001002</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40301810800000000001</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>37</ck>
+    <accountcbrbic>040173001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1574</index>
+    <bic>295000301</bic>
+    <namep>Избирательная комиссия Республики Хакасия</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>95</rgn>
+    <ind>655017</ind>
+    <tnp>г</tnp>
+    <nnp>Абакан</nnp>
+    <adr>пр-кт Ленина, д.67</adr>
+    <prntbic/>
+    <datein>1995-07-14</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>9514001002</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40301810800000000033</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>16</ck>
+    <accountcbrbic>049514001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1575</index>
+    <bic>200000506</bic>
+    <namep>Территориальная избирательная комиссия Нахимовского района города Севастополя</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>67</rgn>
+    <ind>299001</ind>
+    <tnp>г</tnp>
+    <nnp>Севастополь</nnp>
+    <adr>ул. Горького, д.3</adr>
+    <prntbic/>
+    <datein>2024-06-26</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>6711001023</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40206810945376711002</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>65</ck>
+    <accountcbrbic>046711001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1576</index>
+    <bic>045209777</bic>
+    <namep>ФИЛИАЛ "ОМСКИЙ" АО "ОТП БАНК"</namep>
+    <regn>2766/5</regn>
+    <cntrcd>RU</cntrcd>
+    <rgn>52</rgn>
+    <ind>644099</ind>
+    <tnp>г</tnp>
+    <nnp>Омск</nnp>
+    <adr>ул Орджоникидзе, 3 А</adr>
+    <prntbic>044525311</prntbic>
+    <datein>2006-08-23</datein>
+    <pttype>30</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>5209777000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>30101810000000000777</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>36</ck>
+    <accountcbrbic>045209001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname>JOINT STOCK COMPANY 'OTP BANK' (OMSK BRANCH)</englname>
+    <swbic>OTPVRUMMOMS</swbic>
+    <defaultswbic>1</defaultswbic>
+  </row>
+  <row>
+    <index>1577</index>
+    <bic>200000524</bic>
+    <namep>Территориальная избирательная комиссия Советского района города Томска</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>69</rgn>
+    <ind>634012</ind>
+    <tnp>г</tnp>
+    <nnp>Томск</nnp>
+    <adr>ул. Елизаровых, д.59</adr>
+    <prntbic/>
+    <datein>2024-06-27</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>6902001524</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40206810245375004696</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>79</ck>
+    <accountcbrbic>046902001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1578</index>
+    <bic>200000532</bic>
+    <namep>Территориальная избирательная комиссия Советский район муниципального образования "Город Улан-Удэ"</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>81</rgn>
+    <ind>670001</ind>
+    <tnp>г</tnp>
+    <nnp>Улан-Удэ</nnp>
+    <adr>ул. Советская, 23</adr>
+    <prntbic/>
+    <datein>2024-06-27</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>8142001532</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40206810745378142006</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>43</ck>
+    <accountcbrbic>048142001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1579</index>
+    <bic>200000530</bic>
+    <namep>территориальная избирательная комиссия по Ленинскому административному округу г. Омска Омской области</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>52</rgn>
+    <ind>644020</ind>
+    <tnp>г</tnp>
+    <nnp>Омск</nnp>
+    <adr>пр. К. Маркса, д. 62</adr>
+    <prntbic/>
+    <datein>2024-06-27</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>5209001029</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40206810845375209010</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>62</ck>
+    <accountcbrbic>045209001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1580</index>
+    <bic>200000538</bic>
+    <namep>Октябрьская территориальная избирательная комиссия, г. Архангельск</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>11</rgn>
+    <ind>163000</ind>
+    <tnp>г</tnp>
+    <nnp>Архангельск</nnp>
+    <adr>пл. Ленина, д. 5, каб. 119</adr>
+    <prntbic/>
+    <datein>2024-06-27</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>1117001014</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40206810245371117002</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>94</ck>
+    <accountcbrbic>041117001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1581</index>
+    <bic>200000552</bic>
+    <namep>территориальная избирательная комиссия города Вологды</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>19</rgn>
+    <ind>160000</ind>
+    <tnp>г</tnp>
+    <nnp>Вологда</nnp>
+    <adr>ул. Ленина, д. 2</adr>
+    <prntbic/>
+    <datein>2024-06-27</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>1909001203</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40206810145371909001</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>54</ck>
+    <accountcbrbic>041909001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1582</index>
+    <bic>280000624</bic>
+    <namep>Центральная избирательная комиссия Республики Башкортостан</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>80</rgn>
+    <ind>450008</ind>
+    <tnp>г</tnp>
+    <nnp>Уфа</nnp>
+    <adr>ул. Заки Валиди, д. 46</adr>
+    <prntbic/>
+    <datein>2001-03-11</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>1</xchtype>
+    <uid>8073001406</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40301810800000000001</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>27</ck>
+    <accountcbrbic>048073001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1583</index>
+    <bic>200000517</bic>
+    <namep>Территориальная избирательная комиссия Балаклавского района города Севастополя</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>67</rgn>
+    <ind>299042</ind>
+    <tnp>г</tnp>
+    <nnp>Севастополь</nnp>
+    <adr>ул. Новикова, д.14</adr>
+    <prntbic/>
+    <datein>2024-06-27</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>6711001025</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40206810245376711003</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>60</ck>
+    <accountcbrbic>046711001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1584</index>
+    <bic>044525135</bic>
+    <namep>КБ "Ренессанс Кредит" (ООО)</namep>
+    <regn>3354</regn>
+    <cntrcd>RU</cntrcd>
+    <rgn>45</rgn>
+    <ind>115114</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>улица Кожевническая, дом 14</adr>
+    <prntbic/>
+    <datein>2016-06-07</datein>
+    <pttype>20</pttype>
+    <srvcs>5</srvcs>
+    <xchtype>1</xchtype>
+    <uid>4525135000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>30101810845250000135</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>30</ck>
+    <accountcbrbic>044525000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname>Commercial bank "Renaissance Credit" (Limited liability company), (CB "Renaissance Credit" (LLC))</englname>
+    <swbic>ALILRUMM</swbic>
+    <defaultswbic>1</defaultswbic>
+  </row>
+  <row>
+    <index>1585</index>
+    <bic>047102804</bic>
+    <namep>КУ БАНК СБРР (ООО) - ГК "АСВ"</namep>
+    <regn>1284</regn>
+    <cntrcd>RU</cntrcd>
+    <rgn>71</rgn>
+    <ind>625000</ind>
+    <tnp>г</tnp>
+    <nnp>Тюмень</nnp>
+    <adr>ул. Некрасова, д. 11</adr>
+    <prntbic/>
+    <datein>2010-03-30</datein>
+    <pttype>90</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>7102804000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>30101810000000000804</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>82</ck>
+    <accountcbrbic>047102001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1586</index>
+    <bic>044525555</bic>
+    <namep>ПАО "Промсвязьбанк"</namep>
+    <regn>3251</regn>
+    <cntrcd>RU</cntrcd>
+    <rgn>45</rgn>
+    <ind>109052</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>улица Смирновская, дом 10, строение 22</adr>
+    <prntbic/>
+    <datein>2011-11-23</datein>
+    <pttype>20</pttype>
+    <srvcs>5</srvcs>
+    <xchtype>1</xchtype>
+    <uid>4525555000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>30101810400000000555</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>47</ck>
+    <accountcbrbic>044525000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname>PROMSVYAZBANK PJSC</englname>
+    <swbic>PRMSRUMMXXX</swbic>
+    <defaultswbic>1</defaultswbic>
+  </row>
+  <row>
+    <index>1587</index>
+    <bic>044525272</bic>
+    <namep>ПАО Банк ЗЕНИТ</namep>
+    <regn>3255</regn>
+    <cntrcd>RU</cntrcd>
+    <rgn>45</rgn>
+    <ind>117638</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>Одесская ул., д.2</adr>
+    <prntbic/>
+    <datein>2000-06-27</datein>
+    <pttype>20</pttype>
+    <srvcs>5</srvcs>
+    <xchtype>1</xchtype>
+    <uid>4525272000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>30101810000000000272</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>26</ck>
+    <accountcbrbic>044525000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname>PJSC BANK ZENIT</englname>
+    <swbic>ZENIRUMMXXX</swbic>
+    <defaultswbic>1</defaultswbic>
+  </row>
+  <row>
+    <index>1588</index>
+    <bic>049401814</bic>
+    <namep>ПАО "БЫСТРОБАНК"</namep>
+    <regn>1745</regn>
+    <cntrcd>RU</cntrcd>
+    <rgn>94</rgn>
+    <ind>426008</ind>
+    <tnp>г</tnp>
+    <nnp>Ижевск</nnp>
+    <adr>ул Пушкинская, 268</adr>
+    <prntbic/>
+    <datein>1991-09-02</datein>
+    <pttype>20</pttype>
+    <srvcs>5</srvcs>
+    <xchtype>1</xchtype>
+    <uid>9401814000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>30101810200000000814</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>12</ck>
+    <accountcbrbic>049401001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname>BYSTROBANK IZHEVSK RU</englname>
+    <swbic>BYJSRU33XXX</swbic>
+    <defaultswbic>1</defaultswbic>
+  </row>
+  <row>
+    <index>1589</index>
+    <bic>013304182</bic>
+    <namep>УФК по Кировской области</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>33</rgn>
+    <ind>610019</ind>
+    <tnp>г</tnp>
+    <nnp>Киров</nnp>
+    <adr>ул Спасская, 43</adr>
+    <prntbic/>
+    <datein>2021-01-05</datein>
+    <pttype>52</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>3304001182</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40102810345370000033</account>
+    <regulationaccounttype>UTRA</regulationaccounttype>
+    <ck>86</ck>
+    <accountcbrbic>043304001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1590</index>
+    <bic>200000574</bic>
+    <namep>территориальная избирательная комиссия Советско-Гаванского района</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>08</rgn>
+    <ind>682800</ind>
+    <tnp>г</tnp>
+    <nnp>Советская Гавань</nnp>
+    <adr>ул. Ленина, д. 3</adr>
+    <prntbic/>
+    <datein>2024-07-05</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>0816000019</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40202810845370816002</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>70</ck>
+    <accountcbrbic>040816000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1591</index>
+    <bic>200000586</bic>
+    <namep>Территориальная избирательная комиссия Центрального района г. Тулы</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>70</rgn>
+    <ind>300000</ind>
+    <tnp>г</tnp>
+    <nnp>Тула</nnp>
+    <adr>ул. Тургеневская, д.67</adr>
+    <prntbic/>
+    <datein>2024-07-05</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>7003001243</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40206810545377003004</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>74</ck>
+    <accountcbrbic>047003001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1592</index>
+    <bic>200000588</bic>
+    <namep>Территориальная избирательная комиссия Правобережной части г. Владикавказа</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>90</rgn>
+    <ind>362025</ind>
+    <tnp>г</tnp>
+    <nnp>Владикавказ</nnp>
+    <adr>ул. Ватутина, 17</adr>
+    <prntbic/>
+    <datein>2024-07-05</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>9033001017</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40206810745379033002</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>34</ck>
+    <accountcbrbic>049033001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1593</index>
+    <bic>200000575</bic>
+    <namep>Территориальная избирательная комиссия городского округа Анадырь</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>77</rgn>
+    <ind>689000</ind>
+    <tnp>г</tnp>
+    <nnp>Анадырь</nnp>
+    <adr>Анадырь, ул. Рультытегина, д.1</adr>
+    <prntbic/>
+    <datein>2024-07-05</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>7719000575</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40206810545377719001</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>14</ck>
+    <accountcbrbic>047719001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1594</index>
+    <bic>045004867</bic>
+    <namep>Ф-Л СИБИРСКИЙ ПАО БАНК "ФК ОТКРЫТИЕ"</namep>
+    <regn>2209/47</regn>
+    <cntrcd>RU</cntrcd>
+    <rgn>50</rgn>
+    <ind>630009</ind>
+    <tnp>г</tnp>
+    <nnp>Новосибирск</nnp>
+    <adr>ул. Добролюбова, д. 16</adr>
+    <prntbic>044525985</prntbic>
+    <datein>2016-09-27</datein>
+    <pttype>30</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>5004867000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>30101810250040000867</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>41</ck>
+    <accountcbrbic>045004001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1595</index>
+    <bic>044525237</bic>
+    <namep>КУ ПАО "МЕЖТОПЭНЕРГОБАНК" - ГК "АСВ"</namep>
+    <regn>2956</regn>
+    <cntrcd>RU</cntrcd>
+    <rgn>45</rgn>
+    <ind>109240</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>ул Высоцкого, 4</adr>
+    <prntbic/>
+    <datein>2015-09-17</datein>
+    <pttype>90</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>4525237000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>30101810345250000237</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>27</ck>
+    <accountcbrbic>044525000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1596</index>
+    <bic>044525297</bic>
+    <namep>Филиал Центральный ПАО Банка "ФК Открытие"</namep>
+    <regn>2209/42</regn>
+    <cntrcd>RU</cntrcd>
+    <rgn>45</rgn>
+    <ind>105066</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>улица Спартаковская, дом 5, строение 1</adr>
+    <prntbic>044525985</prntbic>
+    <datein>2016-08-29</datein>
+    <pttype>30</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>4525297000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>30101810945250000297</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>05</ck>
+    <accountcbrbic>044525000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname>BANK OTKRITIE FINANCIAL CORPORATION (PUBLIC JOINT - STOCK COMPANY)</englname>
+    <swbic>RUDLRUMMXXX</swbic>
+    <defaultswbic>1</defaultswbic>
+  </row>
+  <row>
+    <index>1597</index>
+    <bic>042202824</bic>
+    <namep>ФИЛИАЛ "НИЖЕГОРОДСКИЙ" АО "АЛЬФА-БАНК"</namep>
+    <regn>1326/1</regn>
+    <cntrcd>RU</cntrcd>
+    <rgn>22</rgn>
+    <ind>603000</ind>
+    <tnp>г</tnp>
+    <nnp>Нижний Новгород</nnp>
+    <adr>ул. Костина,9</adr>
+    <prntbic>044525593</prntbic>
+    <datein>1996-11-12</datein>
+    <pttype>30</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>2202824000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>30101810200000000824</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>47</ck>
+    <accountcbrbic>042202001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1598</index>
+    <bic>044525960</bic>
+    <namep>НКО "Центр расчетов" (АО)</namep>
+    <regn>3547-ЦК</regn>
+    <cntrcd>RU</cntrcd>
+    <rgn>45</rgn>
+    <ind>123112</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>муниципальный округ Пресненский, улица Тестовская, дом 8, помещение 1/8</adr>
+    <prntbic/>
+    <datein>2024-02-27</datein>
+    <pttype>20</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>4525960000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>30103810945374525960</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>61</ck>
+    <accountcbrbic>044525000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1599</index>
+    <bic>049401710</bic>
+    <namep>УДМУРТСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
+    <regn>3349/28</regn>
+    <cntrcd>RU</cntrcd>
+    <rgn>94</rgn>
+    <ind>426000</ind>
+    <tnp>г</tnp>
+    <nnp>Ижевск</nnp>
+    <adr>ул. Пушкинская, д. 265, корп. 1</adr>
+    <prntbic>044525111</prntbic>
+    <datein>2001-04-09</datein>
+    <pttype>30</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>9401710000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>30101810100000000710</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>68</ck>
+    <accountcbrbic>049401001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1600</index>
+    <bic>041180002</bic>
+    <namep>ПУ БАНКА РОССИИ БЕЛОМОРСКОЕ</namep>
+    <regn/>
+    <cntrcd/>
+    <rgn>11</rgn>
+    <ind>164501</ind>
+    <tnp>г</tnp>
+    <nnp>Северодвинск</nnp>
+    <adr>ул. Лесная, д. 62</adr>
+    <prntbic>044030001</prntbic>
+    <datein>2024-01-12</datein>
+    <pttype>40</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>1</xchtype>
+    <uid>1180002000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account/>
+    <regulationaccounttype/>
+    <ck/>
+    <accountcbrbic/>
+    <accountstatus/>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1601</index>
+    <bic>040813744</bic>
+    <namep>ДАЛЬНЕВОСТОЧНЫЙ Ф-Л ПАО "ПРОМСВЯЗЬБАНК"</namep>
+    <regn>3251/37</regn>
+    <cntrcd>RU</cntrcd>
+    <rgn>08</rgn>
+    <ind>680000</ind>
+    <tnp>г</tnp>
+    <nnp>Хабаровск</nnp>
+    <adr>ул Запарина, 57</adr>
+    <prntbic>044525555</prntbic>
+    <datein>2012-02-07</datein>
+    <pttype>30</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>0813744000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>30101810700000000744</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>56</ck>
+    <accountcbrbic>040813001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname>PROMSVYAZBANK PJSC (DALNEVOSTOCHNIY BRANCH) HABAROVSK</englname>
+    <swbic>PRMSRUM1HAB</swbic>
+    <defaultswbic>1</defaultswbic>
+  </row>
+  <row>
+    <index>1602</index>
+    <bic>044525494</bic>
+    <namep>ООО "СМЛТ Банк"</namep>
+    <regn>2846</regn>
+    <cntrcd>RU</cntrcd>
+    <rgn>45</rgn>
+    <ind>121096</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>ул. Василисы Кожиной, д. 1, этаж 1, комнаты 1-30</adr>
+    <prntbic/>
+    <datein>2006-01-31</datein>
+    <pttype>20</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>4525494000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>30101810600000000494</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>17</ck>
+    <accountcbrbic>044525000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname>SMLT Bank Limited Liability Company (SMLT Bank LLC)</englname>
+    <swbic>SISERUMMXXX</swbic>
+    <defaultswbic>1</defaultswbic>
+  </row>
+  <row>
+    <index>1603</index>
+    <bic>200000151</bic>
+    <namep>Избирательная комиссия Запорожской области</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>23</rgn>
+    <ind>272312</ind>
+    <tnp>г</tnp>
+    <nnp>Мелитополь</nnp>
+    <adr>Пл. Победы, д.4</adr>
+    <prntbic/>
+    <datein>2023-03-15</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>2368001102</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40301810645372368001</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>89</ck>
+    <accountcbrbic>042368001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1604</index>
+    <bic>200000585</bic>
+    <namep>Центральная г. Читы территориальная избирательная комиссия</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>76</rgn>
+    <ind>672007</ind>
+    <tnp>г</tnp>
+    <nnp>Чита</nnp>
+    <adr>ул. Богомягкова, 23</adr>
+    <prntbic/>
+    <datein>2024-07-08</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>7601001127</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40206810445377601007</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>03</ck>
+    <accountcbrbic>047601001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1605</index>
+    <bic>200000590</bic>
+    <namep>территориальная избирательная комиссия Автозаводского района города Тольятти Самарской области</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>36</rgn>
+    <ind>445000</ind>
+    <tnp>г</tnp>
+    <nnp>Тольятти</nnp>
+    <adr>Новый проезд, дом 2</adr>
+    <prntbic/>
+    <datein>2024-07-08</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>3678000105</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40202810745373678002</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>80</ck>
+    <accountcbrbic>043678000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1606</index>
+    <bic>200000592</bic>
+    <namep>Территориальная избирательная комиссия Привокзального района г. Тулы</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>70</rgn>
+    <ind>300013</ind>
+    <tnp>г</tnp>
+    <nnp>Тула</nnp>
+    <adr>ул. Болдина, д.50</adr>
+    <prntbic/>
+    <datein>2024-07-08</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>7003001244</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40206810845377003005</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>38</ck>
+    <accountcbrbic>047003001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1607</index>
+    <bic>200000582</bic>
+    <namep>Территориальная избирательная комиссия Заполярного района</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>11</rgn>
+    <ind>166700</ind>
+    <tnp>пгт</tnp>
+    <nnp>Искателей</nnp>
+    <adr>ул. Губкина, д.10</adr>
+    <prntbic/>
+    <datein>2024-07-08</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>1125000057</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40206810445371125022</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>73</ck>
+    <accountcbrbic>041125000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1608</index>
+    <bic>200000593</bic>
+    <namep>Территориальная избирательная комиссия Советского района г. Тулы</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>70</rgn>
+    <ind>300013</ind>
+    <tnp>г</tnp>
+    <nnp>Тула</nnp>
+    <adr>ул. Болдина, д.50</adr>
+    <prntbic/>
+    <datein>2024-07-08</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>7003001245</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40206810145377003006</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>52</ck>
+    <accountcbrbic>047003001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1609</index>
+    <bic>200000587</bic>
+    <namep>Калининград-Центральная территориальная избирательная комиссия</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>27</rgn>
+    <ind>236022</ind>
+    <tnp>г</tnp>
+    <nnp>Калининград</nnp>
+    <adr>ул. Карла Маркса, дом 41-43</adr>
+    <prntbic/>
+    <datein>2024-07-08</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>2748001587</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40202810145372748002</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>11</ck>
+    <accountcbrbic>042748001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1610</index>
+    <bic>292000450</bic>
+    <namep>ЦИК Республики Татарстан</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>92</rgn>
+    <ind>420111</ind>
+    <tnp>г</tnp>
+    <nnp>Казань</nnp>
+    <adr>ул Батурина, 7 Б</adr>
+    <prntbic/>
+    <datein>2005-12-30</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>1</xchtype>
+    <uid>9205001500</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40301810500000000001</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>50</ck>
+    <accountcbrbic>049205001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1611</index>
+    <bic>044525084</bic>
+    <namep>Ликвидатор АО "РУНЭТБАНК"</namep>
+    <regn>2829</regn>
+    <cntrcd>RU</cntrcd>
+    <rgn>45</rgn>
+    <ind>123056</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>ул Гашека, 9, к 4, стр 1</adr>
+    <prntbic/>
+    <datein>2016-05-12</datein>
+    <pttype>90</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>4525084000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>30101810145250000084</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>53</ck>
+    <accountcbrbic>044525000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1612</index>
+    <bic>044525333</bic>
+    <namep>НКО "Альтернатива" (ООО)</namep>
+    <regn>3452-К</regn>
+    <cntrcd>RU</cntrcd>
+    <rgn>45</rgn>
+    <ind>115172</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>ул. Малые Каменщики, д. 10</adr>
+    <prntbic/>
+    <datein>2021-05-20</datein>
+    <pttype>20</pttype>
+    <srvcs>5</srvcs>
+    <xchtype>1</xchtype>
+    <uid>4525333000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>30103810645250000333</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>63</ck>
+    <accountcbrbic>044525000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1613</index>
+    <bic>200000591</bic>
+    <namep>Территориальная избирательная комиссия города Ухты</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>87</rgn>
+    <ind>169300</ind>
+    <tnp>г</tnp>
+    <nnp>Ухта</nnp>
+    <adr>ул. Бушуева, д. 11</adr>
+    <prntbic/>
+    <datein>2024-07-09</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>8717000009</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40202810545378717002</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>04</ck>
+    <accountcbrbic>048717000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1614</index>
+    <bic>042520767</bic>
+    <namep>АНГАРСКИЙ ФИЛИАЛ АО "ИТ БАНК"</namep>
+    <regn>2609/1</regn>
+    <cntrcd>RU</cntrcd>
+    <rgn>25</rgn>
+    <ind>665835</ind>
+    <tnp>г</tnp>
+    <nnp>Ангарск</nnp>
+    <adr>29-й мкр, 15 А помещение 2</adr>
+    <prntbic>045209702</prntbic>
+    <datein>2017-07-21</datein>
+    <pttype>30</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>2520767000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>30101810350040000767</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>48</ck>
+    <accountcbrbic>042520001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1615</index>
+    <bic>042520728</bic>
+    <namep>Иркутский филиал АО Ингосстрах Банк</namep>
+    <regn>2307/4</regn>
+    <cntrcd>RU</cntrcd>
+    <rgn>25</rgn>
+    <ind>664007</ind>
+    <tnp>г</tnp>
+    <nnp>Иркутск</nnp>
+    <adr>ул. Карла Либкнехта, 99А</adr>
+    <prntbic>044525148</prntbic>
+    <datein>2003-10-07</datein>
+    <pttype>30</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>2520728000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>30101810300000000728</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>61</ck>
+    <accountcbrbic>042520001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1616</index>
+    <bic>042520811</bic>
+    <namep>Конкурсный управляющий АО "ГринКомБанк" - ГК "АСВ"</namep>
+    <regn>1184</regn>
+    <cntrcd>RU</cntrcd>
+    <rgn>45</rgn>
+    <ind>115114</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>ул. Павелецкая наб., д.8</adr>
+    <prntbic/>
+    <datein>2017-04-21</datein>
+    <pttype>90</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>2520811000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>30101810950040000811</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>81</ck>
+    <accountcbrbic>042520001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1617</index>
+    <bic>042520849</bic>
+    <namep>КУ АО "ВостСибтранскомбанк" - ГК "АСВ"</namep>
+    <regn>2731</regn>
+    <cntrcd>RU</cntrcd>
+    <rgn>45</rgn>
+    <ind>109240</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>ул. Высоцкого, 4</adr>
+    <prntbic/>
+    <datein>2002-09-25</datein>
+    <pttype>90</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>2520849000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>30101810700000000849</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>69</ck>
+    <accountcbrbic>042520001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1618</index>
+    <bic>042520764</bic>
+    <namep>КОНКУРСНЫЙ УПРАВЛЯЮЩИЙ "ВЛБАНК" (АО)-ГК "АСВ"</namep>
+    <regn>1222</regn>
+    <cntrcd>RU</cntrcd>
+    <rgn>45</rgn>
+    <ind>109240</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>ул. Высоцкого, 4</adr>
+    <prntbic/>
+    <datein>2017-09-18</datein>
+    <pttype>90</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>2520764000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>30101810450040000764</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>87</ck>
+    <accountcbrbic>042520001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1619</index>
+    <bic>200000594</bic>
+    <namep>Территориальная избирательная комиссия района Покровское-Стрешнево</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>45</rgn>
+    <ind>125362</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>улица Свободы, дом 16</adr>
+    <prntbic/>
+    <datein>2024-07-10</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>4525001515</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40202810945370001515</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>79</ck>
+    <accountcbrbic>044525000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1620</index>
+    <bic>042202894</bic>
+    <namep>Ф-л Приволжский ПАО Банк "ФК Открытие"</namep>
+    <regn>2209/4</regn>
+    <cntrcd>RU</cntrcd>
+    <rgn>22</rgn>
+    <ind>603006</ind>
+    <tnp>г</tnp>
+    <nnp>Нижний Новгород</nnp>
+    <adr>ул. Ковалихинская, д. 8</adr>
+    <prntbic>044525985</prntbic>
+    <datein>2023-11-27</datein>
+    <pttype>30</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>2202894000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>30101810245372202894</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>19</ck>
+    <accountcbrbic>042202001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname>Bank Otkritie Financial Corporation (Publik Joint-Stock Company)</englname>
+    <swbic>JSNMRUMMNNV</swbic>
+    <defaultswbic>1</defaultswbic>
+  </row>
+  <row>
+    <index>1621</index>
+    <bic>046577906</bic>
+    <namep>УРАЛЬСКИЙ ФИЛИАЛ АО "РАЙФФАЙЗЕНБАНК"</namep>
+    <regn>3292/2</regn>
+    <cntrcd>RU</cntrcd>
+    <rgn>65</rgn>
+    <ind>620075</ind>
+    <tnp>г</tnp>
+    <nnp>Екатеринбург</nnp>
+    <adr>ул Красноармейская, 10</adr>
+    <prntbic>044525700</prntbic>
+    <datein>2005-03-03</datein>
+    <pttype>30</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>6577906000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>30101810100000000906</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>94</ck>
+    <accountcbrbic>046577001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1622</index>
+    <bic>041012765</bic>
+    <namep>"Азиатско-Тихоокеанский Банк" (АО)</namep>
+    <regn>1810</regn>
+    <cntrcd>RU</cntrcd>
+    <rgn>10</rgn>
+    <ind>675004</ind>
+    <tnp>г</tnp>
+    <nnp>Благовещенск</nnp>
+    <adr>ул Амурская, 225</adr>
+    <prntbic/>
+    <datein>1997-07-17</datein>
+    <pttype>20</pttype>
+    <srvcs>5</srvcs>
+    <xchtype>1</xchtype>
+    <uid>1012765000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>30101810300000000765</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>63</ck>
+    <accountcbrbic>041012001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname>Joint stock company Asian - Pacific Bank</englname>
+    <swbic>ASANRU8XXXX</swbic>
+    <defaultswbic>1</defaultswbic>
+  </row>
+  <row>
+    <index>1623</index>
+    <bic>048142744</bic>
+    <namep>Ф-л Азиатско-Тихоокеанский Банк АО г.Улан-Удэ</namep>
+    <regn>1810/14</regn>
+    <cntrcd>RU</cntrcd>
+    <rgn>81</rgn>
+    <ind>670000</ind>
+    <tnp>г</tnp>
+    <nnp>Улан-Удэ</nnp>
+    <adr>ул Коммунистическая, 49</adr>
+    <prntbic>041012765</prntbic>
+    <datein>2005-12-21</datein>
+    <pttype>30</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>8142744000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>30101810700000000744</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>82</ck>
+    <accountcbrbic>048142001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1624</index>
+    <bic>046577418</bic>
+    <namep>Ф-л Азиатско-Тихоокеанский Банк АО в г.Екат-г</namep>
+    <regn>1810/22</regn>
+    <cntrcd>RU</cntrcd>
+    <rgn>65</rgn>
+    <ind>620133</ind>
+    <tnp>г</tnp>
+    <nnp>Екатеринбург</nnp>
+    <adr>ул Луначарского, 57</adr>
+    <prntbic>041012765</prntbic>
+    <datein>2015-10-05</datein>
+    <pttype>30</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>6577418000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>30101810465770000418</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>51</ck>
+    <accountcbrbic>046577001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1625</index>
+    <bic>042520872</bic>
+    <namep>КБ "Байкалкредобанк" (АО)</namep>
+    <regn>2990</regn>
+    <cntrcd>RU</cntrcd>
+    <rgn>25</rgn>
+    <ind>664025</ind>
+    <tnp>г</tnp>
+    <nnp>Иркутск</nnp>
+    <adr>ул Ленина, 18</adr>
+    <prntbic/>
+    <datein>1994-09-02</datein>
+    <pttype>20</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>2520872000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>30101810900000000872</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>17</ck>
+    <accountcbrbic>042520001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1626</index>
+    <bic>044525823</bic>
+    <namep>Банк ГПБ (АО)</namep>
+    <regn>354</regn>
+    <cntrcd>RU</cntrcd>
+    <rgn>45</rgn>
+    <ind>117420</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>ул. Наметкина, дом 16, корпус 1.</adr>
+    <prntbic/>
+    <datein>1998-03-25</datein>
+    <pttype>20</pttype>
+    <srvcs>5</srvcs>
+    <xchtype>1</xchtype>
+    <uid>4525823000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>30101810200000000823</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>02</ck>
+    <accountcbrbic>044525000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname>GAZPROMBANK (JOINT - STOCK COMPANY)</englname>
+    <swbic>GAZPRUMMXXX</swbic>
+    <defaultswbic>1</defaultswbic>
+  </row>
+  <row>
+    <index>1627</index>
+    <bic>044525593</bic>
+    <namep>АО "АЛЬФА-БАНК"</namep>
+    <regn>1326</regn>
+    <cntrcd>RU</cntrcd>
+    <rgn>45</rgn>
+    <ind>107078</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>ул. Каланчевская, д. 27</adr>
+    <prntbic/>
+    <datein>1998-03-25</datein>
+    <pttype>20</pttype>
+    <srvcs>5</srvcs>
+    <xchtype>1</xchtype>
+    <uid>4525593000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>30101810200000000593</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>53</ck>
+    <accountcbrbic>044525000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname>ALFA-BANK</englname>
+    <swbic>ALFARUMMXXX</swbic>
+    <defaultswbic>1</defaultswbic>
+  </row>
+  <row>
+    <index>1628</index>
+    <bic>041403701</bic>
+    <namep>АО УКБ "БЕЛГОРОДСОЦБАНК"</namep>
+    <regn>760</regn>
+    <cntrcd>RU</cntrcd>
+    <rgn>14</rgn>
+    <ind>308015</ind>
+    <tnp>г</tnp>
+    <nnp>Белгород</nnp>
+    <adr>Свято-Троицкий бульвар, д.38</adr>
+    <prntbic/>
+    <datein>1993-07-22</datein>
+    <pttype>20</pttype>
+    <srvcs>5</srvcs>
+    <xchtype>1</xchtype>
+    <uid>1403701000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>30101810100000000701</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>91</ck>
+    <accountcbrbic>041403001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1629</index>
+    <bic>049205878</bic>
+    <namep>АО "Автоградбанк"</namep>
+    <regn>1455</regn>
+    <cntrcd>RU</cntrcd>
+    <rgn>92</rgn>
+    <ind>423831</ind>
+    <tnp>г</tnp>
+    <nnp>Набережные Челны</nnp>
+    <adr>пр-т Хасана Туфана, д. 43</adr>
+    <prntbic/>
+    <datein>2019-07-15</datein>
+    <pttype>20</pttype>
+    <srvcs>5</srvcs>
+    <xchtype>1</xchtype>
+    <uid>9205878000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>30101810622029205878</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>44</ck>
+    <accountcbrbic>049205001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname>JOINT STOCK COMPANY "AVTOGRADBANK"</englname>
+    <swbic>AVGRRU22XXX</swbic>
+    <defaultswbic>1</defaultswbic>
+  </row>
+  <row>
+    <index>1630</index>
+    <bic>200000511</bic>
+    <namep>Территориальная избирательная комиссия городского округа Эгвекинот</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>77</rgn>
+    <ind>689202</ind>
+    <tnp>пгт</tnp>
+    <nnp>Эгвекинот</nnp>
+    <adr>Эгвекинот, ул. Ленина, д.9</adr>
+    <prntbic/>
+    <datein>2024-06-24</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>7749000511</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40202810545377749001</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>18</ck>
+    <accountcbrbic>047749000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1631</index>
+    <bic>200000514</bic>
+    <namep>ТИК Октябрьского района города Владимира</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>17</rgn>
+    <ind>600000</ind>
+    <tnp>г</tnp>
+    <nnp>Владимир</nnp>
+    <adr>улица Большая Московская, дом 44</adr>
+    <prntbic/>
+    <datein>2024-06-24</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>1708000742</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40206810145371708001</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>15</ck>
+    <accountcbrbic>041708001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1632</index>
+    <bic>200000531</bic>
+    <namep>Территориальная избирательная комиссия города Салехарда</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>71</rgn>
+    <ind>629007</ind>
+    <tnp>г</tnp>
+    <nnp>Салехард</nnp>
+    <adr>ул. Свердлова, д. 48</adr>
+    <prntbic/>
+    <datein>2024-06-24</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>7182000009</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40206810045377182093</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>76</ck>
+    <accountcbrbic>047182000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1633</index>
+    <bic>200000510</bic>
+    <namep>ТИК по г. Черкесску</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>91</rgn>
+    <ind>369000</ind>
+    <tnp>г</tnp>
+    <nnp>Черкесск</nnp>
+    <adr>пр-кт Ленина, д.54, к.А, кв. 202</adr>
+    <prntbic/>
+    <datein>2024-06-24</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>9133001003</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40202810445379133510</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>10</ck>
+    <accountcbrbic>049133001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1634</index>
+    <bic>200000527</bic>
+    <namep>Йошкар-Олинская городская территориальная избирательная комиссия № 2</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>88</rgn>
+    <ind>424001</ind>
+    <tnp>г</tnp>
+    <nnp>Йошкар-Ола</nnp>
+    <adr>просп. Гагарина, д.2</adr>
+    <prntbic/>
+    <datein>2024-06-24</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>8860001032</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40206810845378860004</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>52</ck>
+    <accountcbrbic>048860001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1635</index>
+    <bic>200000526</bic>
+    <namep>Территориальная избирательная комиссия Ленинского района города Оренбурга</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>53</rgn>
+    <ind>460046</ind>
+    <tnp>г</tnp>
+    <nnp>Оренбург</nnp>
+    <adr>улица 9 Января дом 64</adr>
+    <prntbic/>
+    <datein>2024-06-24</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>5354001249</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40202810745375354001</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>09</ck>
+    <accountcbrbic>045354001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1636</index>
+    <bic>200000516</bic>
+    <namep>ТИК по Центральному району г. Волгограда</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>18</rgn>
+    <ind>400066</ind>
+    <tnp>г</tnp>
+    <nnp>Волгоград</nnp>
+    <adr>пр-т им. В.И.Ленина, д. 15</adr>
+    <prntbic/>
+    <datein>2024-06-24</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>1806001317</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40202810745371806002</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>62</ck>
+    <accountcbrbic>041806001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1637</index>
+    <bic>200000474</bic>
+    <namep>Южно-Сахалинская городская территориальная избирательная комиссия</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>64</rgn>
+    <ind>693000</ind>
+    <tnp>г</tnp>
+    <nnp>Южно-Сахалинск</nnp>
+    <adr>ул. Ленина, д. 252</adr>
+    <prntbic/>
+    <datein>2024-06-18</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>6401001031</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40206810545376401001</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>39</ck>
+    <accountcbrbic>046401001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1638</index>
+    <bic>200000499</bic>
+    <namep>территориальная избирательная комиссия Железнодорожного района города Симферополя Республики Крым</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>35</rgn>
+    <ind>295000</ind>
+    <tnp>г</tnp>
+    <nnp>Симферополь</nnp>
+    <adr>ул. Толстого, д. 15</adr>
+    <prntbic/>
+    <datein>2024-06-24</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>3510001170</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40206810545373510023</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>61</ck>
+    <accountcbrbic>043510001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1639</index>
+    <bic>200000498</bic>
+    <namep>территориальная избирательная комиссия города Евпатории Республики Крым</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>35</rgn>
+    <ind>297407</ind>
+    <tnp>г</tnp>
+    <nnp>Евпатория</nnp>
+    <adr>ул. Демышева, д.129</adr>
+    <prntbic/>
+    <datein>2024-06-24</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>3510001167</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40206810845373510024</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>48</ck>
+    <accountcbrbic>043510001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1640</index>
+    <bic>200000488</bic>
+    <namep>территориальная избирательная комиссия Киевского района города Симферополя Республики Крым</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>35</rgn>
+    <ind>295034</ind>
+    <tnp>г</tnp>
+    <nnp>Симферополь</nnp>
+    <adr>бульвар Франко, д. 25, каб. 319</adr>
+    <prntbic/>
+    <datein>2024-06-24</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>3510001165</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40206810145373510025</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>15</ck>
+    <accountcbrbic>043510001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1641</index>
+    <bic>200000495</bic>
+    <namep>территориальная избирательная комиссия Белогорского района Республики Крым</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>35</rgn>
+    <ind>297600</ind>
+    <tnp>г</tnp>
+    <nnp>Белогорск</nnp>
+    <adr>ул. Мира, д. 1</adr>
+    <prntbic/>
+    <datein>2024-06-24</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>3510001169</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40206810445373510026</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>45</ck>
+    <accountcbrbic>043510001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1642</index>
+    <bic>200000496</bic>
+    <namep>территориальная избирательная комиссия города Алушты Республики Крым</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>35</rgn>
+    <ind>298516</ind>
+    <tnp>г</tnp>
+    <nnp>Алушта</nnp>
+    <adr>пл. Советская, д. 1</adr>
+    <prntbic/>
+    <datein>2024-06-24</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>3510001171</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40206810745373510027</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>67</ck>
+    <accountcbrbic>043510001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1643</index>
+    <bic>200000598</bic>
+    <namep>Территориальная избирательная комиссия Ленинский район г. Астрахани Астраханская область</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>12</rgn>
+    <ind>414040</ind>
+    <tnp>г</tnp>
+    <nnp>Астрахань</nnp>
+    <adr>ул. Академика Королева, д. 26</adr>
+    <prntbic/>
+    <datein>2024-07-12</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>1203001056</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40202810645371203005</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>34</ck>
+    <accountcbrbic>041203001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1644</index>
+    <bic>200000597</bic>
+    <namep>Нальчикская городская территориальная избирательная комиссия</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>83</rgn>
+    <ind>360017</ind>
+    <tnp>г</tnp>
+    <nnp>Нальчик</nnp>
+    <adr>ул. Кешокова, 70</adr>
+    <prntbic/>
+    <datein>2024-07-12</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>8327001144</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40202810645378327003</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>15</ck>
+    <accountcbrbic>048327001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
     <index>1645</index>
+    <bic>200000519</bic>
+    <namep>Территориальная избирательная комиссия города Абакана</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>95</rgn>
+    <ind>655017</ind>
+    <tnp>г</tnp>
+    <nnp>Абакан</nnp>
+    <adr>ул. Щетинкина, д.10, каб. 212</adr>
+    <prntbic/>
+    <datein>2024-07-12</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>9514001009</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40301810045379514002</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>58</ck>
+    <accountcbrbic>049514001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1646</index>
     <bic>200000589</bic>
     <namep>Территориальная избирательная комиссия города Тобольска № 18</namep>
     <regn/>
@@ -44441,33 +44468,6 @@
     <englname/>
     <swbic/>
     <defaultswbic/>
-  </row>
-  <row>
-    <index>1646</index>
-    <bic>044525236</bic>
-    <namep>АО "Банк Кредит Свисс (Москва)"</namep>
-    <regn>2494</regn>
-    <cntrcd>RU</cntrcd>
-    <rgn>45</rgn>
-    <ind>125047</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>ул. 1-я Тверская-Ямская, д. 21</adr>
-    <prntbic/>
-    <datein>1998-03-25</datein>
-    <pttype>20</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>4525236000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>30101810800000000236</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>64</ck>
-    <accountcbrbic>044525000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname>JSC BANK CREDIT SUISSE (MOSCOW)</englname>
-    <swbic>CRESRUMMXXX</swbic>
-    <defaultswbic>1</defaultswbic>
   </row>
   <row>
     <index>1647</index>
