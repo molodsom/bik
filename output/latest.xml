@@ -27731,33 +27731,6 @@
   </row>
   <row>
     <index>1027</index>
-    <bic>249000136</bic>
-    <namep>Избирательная комиссия Новгородской области</namep>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <rgn>49</rgn>
-    <ind>173005</ind>
-    <tnp>г</tnp>
-    <nnp>Великий Новгород</nnp>
-    <adr>пл Победы-Софийская, 1</adr>
-    <prntbic/>
-    <datein>1998-01-23</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>1</xchtype>
-    <uid>4959001901</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>40301810600000000001</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>50</ck>
-    <accountcbrbic>044959001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1028</index>
     <bic>046015804</bic>
     <namep>ПАО "ДОНКОМБАНК"</namep>
     <regn>492</regn>
@@ -27784,7 +27757,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1029</index>
+    <index>1028</index>
     <bic>044030778</bic>
     <namep>СЕВЕРО-ЗАПАДНЫЙ ФИЛИАЛ ПАО РОСБАНК</namep>
     <regn>2272/70</regn>
@@ -27811,7 +27784,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1030</index>
+    <index>1029</index>
     <bic>041806870</bic>
     <namep>ФИЛИАЛ № 9 ПАО КБ "ЦЕНТР-ИНВЕСТ"</namep>
     <regn>2225/9</regn>
@@ -27838,7 +27811,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1031</index>
+    <index>1030</index>
     <bic>046577756</bic>
     <namep>АО Банк Синара</namep>
     <regn>705</regn>
@@ -27865,7 +27838,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1032</index>
+    <index>1031</index>
     <bic>016015102</bic>
     <namep>УФК по Ростовской области</namep>
     <regn/>
@@ -27892,7 +27865,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1033</index>
+    <index>1032</index>
     <bic>046015051</bic>
     <namep>Ф-Л АКБ "ФОРА-БАНК" (АО) В Г.РОСТОВ-НА-ДОНУ</namep>
     <regn>1885/5</regn>
@@ -27919,7 +27892,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1034</index>
+    <index>1033</index>
     <bic>046015999</bic>
     <namep>ФИЛИАЛ БАНКА ВТБ (ПАО) В Г. РОСТОВЕ-НА-ДОНУ</namep>
     <regn>1000/30</regn>
@@ -27946,7 +27919,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1035</index>
+    <index>1034</index>
     <bic>048209395</bic>
     <namep>РНКО "ПРОМСВЯЗЬИНВЕСТ" (ООО)</namep>
     <regn>2761-К</regn>
@@ -27973,7 +27946,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1036</index>
+    <index>1035</index>
     <bic>044705301</bic>
     <namep>ООО НКО "МУРМАНСКИЙ РАСЧЕТНЫЙ ЦЕНТР"</namep>
     <regn>3341-К</regn>
@@ -28000,7 +27973,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1037</index>
+    <index>1036</index>
     <bic>045004815</bic>
     <namep>АО "БАНК АКЦЕПТ"</namep>
     <regn>567</regn>
@@ -28027,7 +28000,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1038</index>
+    <index>1037</index>
     <bic>044525974</bic>
     <namep>АО "Тинькофф Банк"</namep>
     <regn>2673</regn>
@@ -28054,7 +28027,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1039</index>
+    <index>1038</index>
     <bic>010053193</bic>
     <namep>УФК по Херсонской области</namep>
     <regn/>
@@ -28081,7 +28054,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1040</index>
+    <index>1039</index>
     <bic>100070050</bic>
     <namep>ООО МДО "Фазо С"</namep>
     <regn/>
@@ -28108,7 +28081,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1041</index>
+    <index>1040</index>
     <bic>046614754</bic>
     <namep>КУ ОАО "СМОЛ БАНК"-ГК "АСВ"</namep>
     <regn>2029</regn>
@@ -28135,7 +28108,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1042</index>
+    <index>1041</index>
     <bic>046614748</bic>
     <namep>КУ БАНК "СМОЛЕВИЧ" (ПАО)-ГК "АСВ"</namep>
     <regn>1121</regn>
@@ -28162,7 +28135,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1043</index>
+    <index>1042</index>
     <bic>044525659</bic>
     <namep>ПАО "МОСКОВСКИЙ КРЕДИТНЫЙ БАНК"</namep>
     <regn>1978</regn>
@@ -28189,7 +28162,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1044</index>
+    <index>1043</index>
     <bic>041203602</bic>
     <namep>АСТРАХАНСКОЕ ОТДЕЛЕНИЕ N8625 ПАО СБЕРБАНК</namep>
     <regn>1481/112</regn>
@@ -28216,7 +28189,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1045</index>
+    <index>1044</index>
     <bic>048209793</bic>
     <namep>ДАГЕСТАНСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <regn>3349/4</regn>
@@ -28243,7 +28216,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1046</index>
+    <index>1045</index>
     <bic>048209775</bic>
     <namep>ООО КБ "МВС БАНК"</namep>
     <regn>2407</regn>
@@ -28270,7 +28243,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1047</index>
+    <index>1046</index>
     <bic>046015078</bic>
     <namep>ООО "ЗЕМКОМБАНК"</namep>
     <regn>574</regn>
@@ -28297,7 +28270,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1048</index>
+    <index>1047</index>
     <bic>046015064</bic>
     <namep>ЮЖНЫЙ ФИЛИАЛ АО "БАНК ИНТЕЗА"</namep>
     <regn>2216/9</regn>
@@ -28324,7 +28297,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1049</index>
+    <index>1048</index>
     <bic>045773707</bic>
     <namep>КОНКУРСНЫЙ УПР. ОАО АКБ "ЭКОПРОМБАНК"-ГК"АСВ"</namep>
     <regn>2011</regn>
@@ -28351,7 +28324,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1050</index>
+    <index>1049</index>
     <bic>234000187</bic>
     <namep>ИЗБИРАТЕЛЬНАЯ КОМИССИЯ КОСТРОМСКОЙ ОБЛАСТИ</namep>
     <regn/>
@@ -28378,7 +28351,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1051</index>
+    <index>1050</index>
     <bic>044525225</bic>
     <namep>ПАО Сбербанк</namep>
     <regn>1481</regn>
@@ -28405,7 +28378,7 @@
     <defaultswbic>0</defaultswbic>
   </row>
   <row>
-    <index>1052</index>
+    <index>1051</index>
     <bic>040349966</bic>
     <namep>ЮГ-ИНВЕСТБАНК (ПАО)</namep>
     <regn>2772</regn>
@@ -28432,7 +28405,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1053</index>
+    <index>1052</index>
     <bic>040349548</bic>
     <namep>КРАСНОДАРСКИЙ ФИЛИАЛ АО ЮНИКРЕДИТ БАНКА</namep>
     <regn>1/5</regn>
@@ -28459,7 +28432,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1054</index>
+    <index>1053</index>
     <bic>044030902</bic>
     <namep>ФИЛИАЛ АО АКБ "НОВИКОМБАНК" В Г.С-ПЕТЕРБУРГЕ</namep>
     <regn>2546/5</regn>
@@ -28486,7 +28459,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1055</index>
+    <index>1054</index>
     <bic>269000094</bic>
     <namep>ИЗБИРАТЕЛЬНАЯ КОМИССИЯ ТОМСКОЙ ОБЛАСТИ</namep>
     <regn/>
@@ -28513,7 +28486,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1056</index>
+    <index>1055</index>
     <bic>046015075</bic>
     <namep>РОСТОВСКИЙ ФИЛИАЛ ЦМРБАНК (ООО)</namep>
     <regn>3531/1</regn>
@@ -28540,7 +28513,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1057</index>
+    <index>1056</index>
     <bic>040349602</bic>
     <namep>КРАСНОДАРСКОЕ ОТДЕЛЕНИЕ N8619 ПАО СБЕРБАНК</namep>
     <regn>1481/638</regn>
@@ -28567,7 +28540,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1058</index>
+    <index>1057</index>
     <bic>100070034</bic>
     <namep>ЗАО "МБТ"</namep>
     <regn/>
@@ -28594,7 +28567,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1059</index>
+    <index>1058</index>
     <bic>044525900</bic>
     <namep>ООО "Цифра банк"</namep>
     <regn>1143</regn>
@@ -28621,7 +28594,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1060</index>
+    <index>1059</index>
     <bic>047102651</bic>
     <namep>ЗАПАДНО-СИБИРСКОЕ ОТДЕЛЕНИЕ№8647 ПАО СБЕРБАНК</namep>
     <regn>1481/1597</regn>
@@ -28648,7 +28621,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1061</index>
+    <index>1060</index>
     <bic>049706717</bic>
     <namep>ГК "АСВ"-КУ КБ "БДБ" (ООО)</namep>
     <regn>1060</regn>
@@ -28675,7 +28648,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1062</index>
+    <index>1061</index>
     <bic>040886101</bic>
     <namep>УФК по Хабаровскому краю</namep>
     <regn/>
@@ -28702,7 +28675,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1063</index>
+    <index>1062</index>
     <bic>048717785</bic>
     <namep>"Северный Народный Банк" (АО) Ф-л в г. Ухта</namep>
     <regn>2721/1</regn>
@@ -28729,7 +28702,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1064</index>
+    <index>1063</index>
     <bic>100070033</bic>
     <namep>ЗАО МДО "Сундук"</namep>
     <regn/>
@@ -28756,7 +28729,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1065</index>
+    <index>1064</index>
     <bic>044525140</bic>
     <namep>КУ КБ "БМБ" (ООО) - ГК "АСВ"</namep>
     <regn>2992</regn>
@@ -28783,7 +28756,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1066</index>
+    <index>1065</index>
     <bic>048073601</bic>
     <namep>БАШКИРСКОЕ ОТДЕЛЕНИЕ N8598 ПАО СБЕРБАНК</namep>
     <regn>1481/130</regn>
@@ -28810,7 +28783,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1067</index>
+    <index>1066</index>
     <bic>204000206</bic>
     <namep>Избирательная комиссия Красноярского края</namep>
     <regn/>
@@ -28837,7 +28810,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1068</index>
+    <index>1067</index>
     <bic>207000150</bic>
     <namep>избирательная комиссия Ставропольского края</namep>
     <regn/>
@@ -28864,7 +28837,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1069</index>
+    <index>1068</index>
     <bic>044525700</bic>
     <namep>АО "Райффайзенбанк"</namep>
     <regn>3292</regn>
@@ -28891,7 +28864,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1070</index>
+    <index>1069</index>
     <bic>040349744</bic>
     <namep>КРАСНОДАРСКИЙ ФИЛИАЛ ПАО РОСБАНК</namep>
     <regn>2272/87</regn>
@@ -28918,7 +28891,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1071</index>
+    <index>1070</index>
     <bic>046577903</bic>
     <namep>УРАЛЬСКИЙ ФИЛИАЛ ПАО РОСБАНК</namep>
     <regn>2272/38</regn>
@@ -28945,7 +28918,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1072</index>
+    <index>1071</index>
     <bic>214000061</bic>
     <namep>Облизбирком</namep>
     <regn/>
@@ -28972,7 +28945,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1073</index>
+    <index>1072</index>
     <bic>044525709</bic>
     <namep>БАНК "АГОРА" ООО</namep>
     <regn>3231</regn>
@@ -28999,7 +28972,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1074</index>
+    <index>1073</index>
     <bic>044525176</bic>
     <namep>ПАО АКБ "Металлинвестбанк"</namep>
     <regn>2440</regn>
@@ -29026,7 +28999,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1075</index>
+    <index>1074</index>
     <bic>299000020</bic>
     <namep>избирательная комиссия Еврейской автономной области</namep>
     <regn/>
@@ -29053,7 +29026,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1076</index>
+    <index>1075</index>
     <bic>044525131</bic>
     <namep>АКБ "ТЕНДЕР-БАНК" (АО)</namep>
     <regn>2252</regn>
@@ -29080,7 +29053,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1077</index>
+    <index>1076</index>
     <bic>040702788</bic>
     <namep>ФИЛИАЛ БАНКА ВТБ (ПАО) В Г. СТАВРОПОЛЕ</namep>
     <regn>1000/9</regn>
@@ -29107,7 +29080,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1078</index>
+    <index>1077</index>
     <bic>043469751</bic>
     <namep>АО КБ "МОДУЛЬБАНК"</namep>
     <regn>1927</regn>
@@ -29134,7 +29107,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1079</index>
+    <index>1078</index>
     <bic>281000080</bic>
     <namep>Избирательная комиссия Республики Бурятия</namep>
     <regn/>
@@ -29161,7 +29134,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1080</index>
+    <index>1079</index>
     <bic>226000017</bic>
     <namep>Избирательная комиссия Республики Ингушетия</namep>
     <regn/>
@@ -29188,7 +29161,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1081</index>
+    <index>1080</index>
     <bic>046015052</bic>
     <namep>ООО КБ "РОСТФИНАНС"</namep>
     <regn>481</regn>
@@ -29215,7 +29188,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1082</index>
+    <index>1081</index>
     <bic>048073846</bic>
     <namep>БАНК ПТБ (ООО)</namep>
     <regn>2638</regn>
@@ -29242,7 +29215,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1083</index>
+    <index>1082</index>
     <bic>042780104</bic>
     <namep>УФК по Калининградской области</namep>
     <regn/>
@@ -29269,7 +29242,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1084</index>
+    <index>1083</index>
     <bic>046015872</bic>
     <namep>КУ ООО КБ "Донинвест" - ГК "АСВ"</namep>
     <regn>1617</regn>
@@ -29296,7 +29269,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1085</index>
+    <index>1084</index>
     <bic>044525373</bic>
     <namep>КУ АКБ "ЛЕГИОН" (АО) - ГК "АСВ"</namep>
     <regn>3117</regn>
@@ -29323,7 +29296,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1086</index>
+    <index>1085</index>
     <bic>044525717</bic>
     <namep>ООО "Америкэн Экспресс Банк"</namep>
     <regn>3460</regn>
@@ -29350,7 +29323,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1087</index>
+    <index>1086</index>
     <bic>042202727</bic>
     <namep>ПАО КОМБАНК "ХИМИК"</namep>
     <regn>1114</regn>
@@ -29377,7 +29350,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1088</index>
+    <index>1087</index>
     <bic>044525732</bic>
     <namep>АО КБ "Пойдём!"</namep>
     <regn>2534</regn>
@@ -29404,7 +29377,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1089</index>
+    <index>1088</index>
     <bic>040349815</bic>
     <namep>КРАСНОДАРСКИЙ ФИЛИАЛ ПАО "РОСДОРБАНК"</namep>
     <regn>1573/8</regn>
@@ -29431,7 +29404,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1090</index>
+    <index>1089</index>
     <bic>046126744</bic>
     <namep>ООО "ЖИВАГО БАНК"</namep>
     <regn>2065</regn>
@@ -29458,7 +29431,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1091</index>
+    <index>1090</index>
     <bic>040349758</bic>
     <namep>ФИЛИАЛ № 2351 БАНКА ВТБ (ПАО)</namep>
     <regn>1000/94</regn>
@@ -29485,7 +29458,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1092</index>
+    <index>1091</index>
     <bic>042406705</bic>
     <namep>КУ АО КБ "ИВАНОВО" - ГК "АСВ"</namep>
     <regn>1763</regn>
@@ -29512,7 +29485,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1093</index>
+    <index>1092</index>
     <bic>042406707</bic>
     <namep>КУ АКБ "АКЦИЯ" ОАО - ГК "АСВ"</namep>
     <regn>927</regn>
@@ -29539,7 +29512,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1094</index>
+    <index>1093</index>
     <bic>044525348</bic>
     <namep>АКБ "Ланта-Банк" (АО)</namep>
     <regn>1920</regn>
@@ -29566,7 +29539,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1095</index>
+    <index>1094</index>
     <bic>040349909</bic>
     <namep>ООО КБ "ВНЕШФИНБАНК"</namep>
     <regn>3173</regn>
@@ -29593,7 +29566,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1096</index>
+    <index>1095</index>
     <bic>044525245</bic>
     <namep>ООО "ХКФ Банк"</namep>
     <regn>316</regn>
@@ -29620,7 +29593,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1097</index>
+    <index>1096</index>
     <bic>042080002</bic>
     <namep>ПУ БАНКА РОССИИ МОСКОВСКОЕ</namep>
     <regn/>
@@ -29647,7 +29620,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1098</index>
+    <index>1097</index>
     <bic>040813727</bic>
     <namep>ФИЛИАЛ БАНКА ВТБ (ПАО) В Г. ХАБАРОВСКЕ</namep>
     <regn>1000/2</regn>
@@ -29674,7 +29647,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1099</index>
+    <index>1098</index>
     <bic>040813770</bic>
     <namep>ФИЛИАЛ "ХАБАРОВСКИЙ" АО "АЛЬФА-БАНК"</namep>
     <regn>1326/20</regn>
@@ -29701,7 +29674,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1100</index>
+    <index>1099</index>
     <bic>018209001</bic>
     <namep>УФК по Республике Дагестан</namep>
     <regn/>
@@ -29728,7 +29701,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1101</index>
+    <index>1100</index>
     <bic>011403102</bic>
     <namep>УФК по Белгородской области</namep>
     <regn/>
@@ -29755,7 +29728,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1102</index>
+    <index>1101</index>
     <bic>044525234</bic>
     <namep>Азия-Инвест Банк (АО)</namep>
     <regn>3303</regn>
@@ -29782,7 +29755,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1103</index>
+    <index>1102</index>
     <bic>044525604</bic>
     <namep>АО "Банк ФИНАМ"</namep>
     <regn>2799</regn>
@@ -29809,7 +29782,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1104</index>
+    <index>1103</index>
     <bic>046577964</bic>
     <namep>ФИЛИАЛ "ЕКАТЕРИНБУРГСКИЙ" АО "АЛЬФА-БАНК"</namep>
     <regn>1326/6</regn>
@@ -29836,7 +29809,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1105</index>
+    <index>1104</index>
     <bic>014705901</bic>
     <namep>УФК по Мурманской области</namep>
     <regn/>
@@ -29863,7 +29836,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1106</index>
+    <index>1105</index>
     <bic>043601806</bic>
     <namep>КУ КБ "Спутник" (ПАО) - ГК "АСВ"</namep>
     <regn>1071</regn>
@@ -29890,7 +29863,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1107</index>
+    <index>1106</index>
     <bic>267000017</bic>
     <namep>Севастопольская городская избирательная комиссия</namep>
     <regn/>
@@ -29917,7 +29890,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1108</index>
+    <index>1107</index>
     <bic>044525809</bic>
     <namep>Ликвидатор "Банк Стрела" АО - ГК "АСВ"</namep>
     <regn>2152</regn>
@@ -29944,7 +29917,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1109</index>
+    <index>1108</index>
     <bic>044705768</bic>
     <namep>БАНК "МСКБ" (АО)</namep>
     <regn>2722</regn>
@@ -29971,7 +29944,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1110</index>
+    <index>1109</index>
     <bic>296000010</bic>
     <namep>ИК ЧР</namep>
     <regn/>
@@ -29998,7 +29971,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1111</index>
+    <index>1110</index>
     <bic>048860630</bic>
     <namep>ОТДЕЛЕНИЕ МАРИЙ ЭЛ N8614 ПАО СБЕРБАНК</namep>
     <regn>1481/796</regn>
@@ -30025,7 +29998,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1112</index>
+    <index>1111</index>
     <bic>046577446</bic>
     <namep>ФИЛИАЛ ПАО "БАНК УРАЛСИБ" В Г. ЕКАТЕРИНБУРГ</namep>
     <regn>2275/20</regn>
@@ -30052,7 +30025,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1113</index>
+    <index>1112</index>
     <bic>046577743</bic>
     <namep>ФИЛИАЛ "ДЕЛО" АО БАНК СИНАРА</namep>
     <regn>705/45</regn>
@@ -30079,7 +30052,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1114</index>
+    <index>1113</index>
     <bic>041403740</bic>
     <namep>БЕЛГОРОДСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <regn>3349/30</regn>
@@ -30106,7 +30079,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1115</index>
+    <index>1114</index>
     <bic>203000221</bic>
     <namep>избирательная комиссия Краснодарского края</namep>
     <regn/>
@@ -30133,7 +30106,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1116</index>
+    <index>1115</index>
     <bic>016711001</bic>
     <namep>УФК по г. Севастополю</namep>
     <regn/>
@@ -30160,7 +30133,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1117</index>
+    <index>1116</index>
     <bic>046614632</bic>
     <namep>СМОЛЕНСКОЕ ОТДЕЛЕНИЕ N8609 ПАО СБЕРБАНК</namep>
     <regn>1481/1389</regn>
@@ -30187,7 +30160,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1118</index>
+    <index>1117</index>
     <bic>045773873</bic>
     <namep>ПЕРМСКИЙ ФИЛИАЛ АО ЮНИКРЕДИТ БАНКА</namep>
     <regn>1/4</regn>
@@ -30214,7 +30187,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1119</index>
+    <index>1118</index>
     <bic>044525985</bic>
     <namep>ПАО Банк "ФК Открытие"</namep>
     <regn>2209</regn>
@@ -30241,7 +30214,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1120</index>
+    <index>1119</index>
     <bic>044030308</bic>
     <namep>ООО РНКО "Платежный конструктор"</namep>
     <regn>3543-К</regn>
@@ -30268,7 +30241,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1121</index>
+    <index>1120</index>
     <bic>040349789</bic>
     <namep>ООО КБ "ГТ БАНК"</namep>
     <regn>665</regn>
@@ -30295,7 +30268,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1122</index>
+    <index>1121</index>
     <bic>044030757</bic>
     <namep>ПАО ФИНСТАР БАНК</namep>
     <regn>3245</regn>
@@ -30322,7 +30295,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1123</index>
+    <index>1122</index>
     <bic>048860889</bic>
     <namep>БАНК "ЙОШКАР-ОЛА" (ПАО)</namep>
     <regn>2802</regn>
@@ -30349,7 +30322,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1124</index>
+    <index>1123</index>
     <bic>040407702</bic>
     <namep>КРАСНОЯРСКИЙ ФИЛИАЛ АКБ "ЛАНТА-БАНК" (АО)</namep>
     <regn>1920/3</regn>
@@ -30376,7 +30349,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1125</index>
+    <index>1124</index>
     <bic>046577422</bic>
     <namep>ЕКАТЕРИНБУРГСКИЙ ФИЛИАЛ АО ИНГОССТРАХ БАНК</namep>
     <regn>2307/9</regn>
@@ -30403,7 +30376,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1126</index>
+    <index>1125</index>
     <bic>040349556</bic>
     <namep>ЮЖНЫЙ ФИЛИАЛ АО "РАЙФФАЙЗЕНБАНК"</namep>
     <regn>3292/7</regn>
@@ -30430,7 +30403,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1127</index>
+    <index>1126</index>
     <bic>040702763</bic>
     <namep>ФИЛИАЛ ПАО "БАНК УРАЛСИБ" В Г. СТАВРОПОЛЬ</namep>
     <regn>2275/49</regn>
@@ -30457,7 +30430,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1128</index>
+    <index>1127</index>
     <bic>040702734</bic>
     <namep>ФИЛИАЛ №4 ПАО КБ "ЦЕНТР-ИНВЕСТ"</namep>
     <regn>2225/4</regn>
@@ -30484,7 +30457,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1129</index>
+    <index>1128</index>
     <bic>040349700</bic>
     <namep>ФИЛИАЛ "ЮЖНЫЙ" ПАО "БАНК УРАЛСИБ"</namep>
     <regn>2275/60</regn>
@@ -30511,7 +30484,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1130</index>
+    <index>1129</index>
     <bic>044525401</bic>
     <namep>Ликвидатор АБ "АСПЕКТ" (АО) - ГК "АСВ"</namep>
     <regn>608</regn>
@@ -30538,7 +30511,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1131</index>
+    <index>1130</index>
     <bic>046015239</bic>
     <namep>ЮЖНЫЙ ФИЛИАЛ ПАО РОСБАНК</namep>
     <regn>2272/26</regn>
@@ -30565,7 +30538,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1132</index>
+    <index>1131</index>
     <bic>046015066</bic>
     <namep>Ф-Л АО АКБ "НОВИКОМБАНК" В Г.РОСТОВЕ-НА-ДОНУ</namep>
     <regn>2546/2</regn>
@@ -30592,7 +30565,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1133</index>
+    <index>1132</index>
     <bic>045354860</bic>
     <namep>АКБ "ФОРШТАДТ" (АО)</namep>
     <regn>2208</regn>
@@ -30619,7 +30592,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1134</index>
+    <index>1133</index>
     <bic>044525901</bic>
     <namep>АО КБ "Соколовский"</namep>
     <regn>2830</regn>
@@ -30646,7 +30619,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1135</index>
+    <index>1134</index>
     <bic>044525412</bic>
     <namep>ПАО КБ "РусьРегионБанк"</namep>
     <regn>685</regn>
@@ -30673,7 +30646,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1136</index>
+    <index>1135</index>
     <bic>046015946</bic>
     <namep>АО "Таганрогбанк"</namep>
     <regn>3136</regn>
@@ -30700,7 +30673,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1137</index>
+    <index>1136</index>
     <bic>046015211</bic>
     <namep>РОСТОВСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <regn>3349/7</regn>
@@ -30727,7 +30700,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1138</index>
+    <index>1137</index>
     <bic>045402725</bic>
     <namep>ОРЛОВСКИЙ ФИЛИАЛ АКБ "ЛАНТА-БАНК" (АО)</namep>
     <regn>1920/5</regn>
@@ -30754,7 +30727,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1139</index>
+    <index>1138</index>
     <bic>044594002</bic>
     <namep>ПУ БАНКА РОССИИ ПРИГОРОДНОЕ</namep>
     <regn/>
@@ -30781,7 +30754,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1140</index>
+    <index>1139</index>
     <bic>040349722</bic>
     <namep>КБ "КУБАНЬ КРЕДИТ" ООО</namep>
     <regn>2518</regn>
@@ -30808,7 +30781,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1141</index>
+    <index>1140</index>
     <bic>040349521</bic>
     <namep>ФИЛИАЛ БАНКА "ВБРР" (АО) В Г. КРАСНОДАРЕ</namep>
     <regn>3287/3</regn>
@@ -30835,7 +30808,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1142</index>
+    <index>1141</index>
     <bic>048327710</bic>
     <namep>КАБАРДИНО-БАЛКАРСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <regn>3349/44</regn>
@@ -30862,7 +30835,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1143</index>
+    <index>1142</index>
     <bic>047102622</bic>
     <namep>ТЮМЕНСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <regn>3349/71</regn>
@@ -30889,7 +30862,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1144</index>
+    <index>1143</index>
     <bic>047102658</bic>
     <namep>КБ "СТРОЙЛЕСБАНК" (ООО)</namep>
     <regn>2995</regn>
@@ -30916,7 +30889,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1145</index>
+    <index>1144</index>
     <bic>040702701</bic>
     <namep>СТАВРОПОЛЬСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <regn>3349/6</regn>
@@ -30943,7 +30916,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1146</index>
+    <index>1145</index>
     <bic>040702760</bic>
     <namep>ПАО СТАВРОПОЛЬПРОМСТРОЙБАНК</namep>
     <regn>1288</regn>
@@ -30970,7 +30943,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1147</index>
+    <index>1146</index>
     <bic>041126002</bic>
     <namep>ПУ БАНКА РОССИИ ЛЕНИНСКОЕ</namep>
     <regn/>
@@ -30997,7 +30970,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1148</index>
+    <index>1147</index>
     <bic>010349101</bic>
     <namep>УФК по Краснодарскому краю</namep>
     <regn/>
@@ -31024,7 +30997,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1149</index>
+    <index>1148</index>
     <bic>017102101</bic>
     <namep>УФК ПО ТЮМЕНСКОЙ ОБЛАСТИ</namep>
     <regn/>
@@ -31051,7 +31024,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1150</index>
+    <index>1149</index>
     <bic>042007707</bic>
     <namep>КУ АО "БАНК ВОРОНЕЖ" - ГК "АСВ"</namep>
     <regn>654</regn>
@@ -31078,7 +31051,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1151</index>
+    <index>1150</index>
     <bic>044030752</bic>
     <namep>САНКТ-ПЕТЕРБУРГСКИЙ ФИЛИАЛ "БАНК СГБ"</namep>
     <regn>2816/17</regn>
@@ -31105,7 +31078,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1152</index>
+    <index>1151</index>
     <bic>041980002</bic>
     <namep>ПУ БАНКА РОССИИ ПОЙМИНСКОЕ</namep>
     <regn/>
@@ -31132,7 +31105,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1153</index>
+    <index>1152</index>
     <bic>041580002</bic>
     <namep>ПУ БАНКА РОССИИ ПРОЛЕТАРСКОЕ</namep>
     <regn/>
@@ -31159,7 +31132,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1154</index>
+    <index>1153</index>
     <bic>044525797</bic>
     <namep>Ф Точка Банк КИВИ Банк (АО)</namep>
     <regn>2241/5</regn>
@@ -31186,7 +31159,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1155</index>
+    <index>1154</index>
     <bic>044371902</bic>
     <namep>УФК по Луганской Народной Республике</namep>
     <regn/>
@@ -31213,7 +31186,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1156</index>
+    <index>1155</index>
     <bic>220000008</bic>
     <namep>Избирательная комиссия Воронежской области</namep>
     <regn/>
@@ -31240,7 +31213,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1157</index>
+    <index>1156</index>
     <bic>100070047</bic>
     <namep>ООО МДО "Эмин Сармоя"</namep>
     <regn/>
@@ -31267,7 +31240,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1158</index>
+    <index>1157</index>
     <bic>042748634</bic>
     <namep>КАЛИНИНГРАДСКОЕ ОТДЕЛЕНИЕ N8626 ПАО СБЕРБАНК</namep>
     <regn>1481/463</regn>
@@ -31294,7 +31267,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1159</index>
+    <index>1158</index>
     <bic>046850649</bic>
     <namep>ТАМБОВСКОЕ ОТДЕЛЕНИЕ N8594 ПАО СБЕРБАНК</namep>
     <regn>1481/1449</regn>
@@ -31321,7 +31294,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1160</index>
+    <index>1159</index>
     <bic>047516949</bic>
     <namep>БАНК "КУБ" (АО)</namep>
     <regn>2584</regn>
@@ -31348,7 +31321,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1161</index>
+    <index>1160</index>
     <bic>044030505</bic>
     <namep>НКО АО ПРЦ</namep>
     <regn>3306-К</regn>
@@ -31375,7 +31348,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1162</index>
+    <index>1161</index>
     <bic>044030303</bic>
     <namep>ООО НКО "МОБИЛЬНАЯ КАРТА"</namep>
     <regn>3522-К</regn>
@@ -31402,7 +31375,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1163</index>
+    <index>1162</index>
     <bic>042748878</bic>
     <namep>КАЛИНИНГРАДСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <regn>3349/55</regn>
@@ -31429,7 +31402,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1164</index>
+    <index>1163</index>
     <bic>044030751</bic>
     <namep>ФИЛИАЛ "ПЕТЕРБУРГСКИЙ" АО КБ "СОЛИДАРНОСТЬ"</namep>
     <regn>554/11</regn>
@@ -31456,7 +31429,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1165</index>
+    <index>1164</index>
     <bic>044030910</bic>
     <namep>САНКТ-ПЕТЕРБУРГСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <regn>3349/35</regn>
@@ -31483,7 +31456,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1166</index>
+    <index>1165</index>
     <bic>044030747</bic>
     <namep>АО "СЭБ БАНК"</namep>
     <regn>3235</regn>
@@ -31510,7 +31483,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1167</index>
+    <index>1166</index>
     <bic>044030904</bic>
     <namep>ООО БАНК ОРАНЖЕВЫЙ</namep>
     <regn>1659</regn>
@@ -31537,7 +31510,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1168</index>
+    <index>1167</index>
     <bic>042809953</bic>
     <namep>АО "Банк "Торжок"</namep>
     <regn>933</regn>
@@ -31564,7 +31537,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1169</index>
+    <index>1168</index>
     <bic>044030755</bic>
     <namep>ПАО БАНК "АЛЕКСАНДРОВСКИЙ"</namep>
     <regn>53</regn>
@@ -31591,7 +31564,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1170</index>
+    <index>1169</index>
     <bic>043469623</bic>
     <namep>КОСТРОМСКОЕ ОТДЕЛЕНИЕ N 8640 ПАО СБЕРБАНК</namep>
     <regn>1481/623</regn>
@@ -31618,7 +31591,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1171</index>
+    <index>1170</index>
     <bic>046850713</bic>
     <namep>ТАМБОВСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <regn>3349/2</regn>
@@ -31645,7 +31618,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1172</index>
+    <index>1171</index>
     <bic>042748877</bic>
     <namep>Ф-Л "ЕВРОПЕЙСКИЙ" ПАО "БАНК "САНКТ-ПЕТЕРБУРГ"</namep>
     <regn>436/28</regn>
@@ -31672,7 +31645,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1173</index>
+    <index>1172</index>
     <bic>042809903</bic>
     <namep>филиал "ОРБИТА" АО "Банк "Торжок"</namep>
     <regn>933/1</regn>
@@ -31699,7 +31672,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1174</index>
+    <index>1173</index>
     <bic>044525232</bic>
     <namep>ПАО "МТС-Банк"</namep>
     <regn>2268</regn>
@@ -31726,7 +31699,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1175</index>
+    <index>1174</index>
     <bic>044525201</bic>
     <namep>ПАО АКБ "АВАНГАРД"</namep>
     <regn>2879</regn>
@@ -31753,7 +31726,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1176</index>
+    <index>1175</index>
     <bic>046311755</bic>
     <namep>ООО БАНК "САРАТОВ"</namep>
     <regn>330</regn>
@@ -31780,7 +31753,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1177</index>
+    <index>1176</index>
     <bic>044030765</bic>
     <namep>ФИЛИАЛ АО КБ "СИТИБАНК" В Г.САНКТ-ПЕТЕРБУРГЕ</namep>
     <regn>2557/1</regn>
@@ -31807,7 +31780,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1178</index>
+    <index>1177</index>
     <bic>044030877</bic>
     <namep>Таврический Банк (АО)</namep>
     <regn>2304</regn>
@@ -31834,7 +31807,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1179</index>
+    <index>1178</index>
     <bic>044030764</bic>
     <namep>ФИЛИАЛ БАНКА "ВБРР" (АО) В Г.САНКТ-ПЕТЕРБУРГЕ</namep>
     <regn>3287/6</regn>
@@ -31861,7 +31834,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1180</index>
+    <index>1179</index>
     <bic>041806647</bic>
     <namep>ВОЛГОГРАДСКОЕ ОТДЕЛЕНИЕ №8621 ПАО СБЕРБАНК</namep>
     <regn>1481/264</regn>
@@ -31888,7 +31861,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1181</index>
+    <index>1180</index>
     <bic>044030874</bic>
     <namep>САНКТ-ПЕТЕРБУРГСКИЙ ФИЛИАЛ ООО "БАНК БКФ"</namep>
     <regn>2684/2</regn>
@@ -31915,7 +31888,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1182</index>
+    <index>1181</index>
     <bic>045655707</bic>
     <namep>ПАО БАНК "КУЗНЕЦКИЙ"</namep>
     <regn>609</regn>
@@ -31942,7 +31915,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1183</index>
+    <index>1182</index>
     <bic>044030869</bic>
     <namep>АО "КАБ "ВИКИНГ"</namep>
     <regn>2</regn>
@@ -31969,7 +31942,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1184</index>
+    <index>1183</index>
     <bic>046850755</bic>
     <namep>АО БАНК "ТКПБ"</namep>
     <regn>1312</regn>
@@ -31996,7 +31969,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1185</index>
+    <index>1184</index>
     <bic>045655635</bic>
     <namep>ПЕНЗЕНСКОЕ ОТДЕЛЕНИЕ N8624 ПАО СБЕРБАНК</namep>
     <regn>1481/1100</regn>
@@ -32023,7 +31996,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1186</index>
+    <index>1185</index>
     <bic>042809795</bic>
     <namep>ТВЕРСКОЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <regn>3349/19</regn>
@@ -32050,7 +32023,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1187</index>
+    <index>1186</index>
     <bic>046126793</bic>
     <namep>РЯЗАНСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <regn>3349/58</regn>
@@ -32077,7 +32050,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1188</index>
+    <index>1187</index>
     <bic>041806701</bic>
     <namep>ВОЛГОГРАДСКИЙ ФИЛИАЛ АО ЮНИКРЕДИТ БАНКА</namep>
     <regn>1/12</regn>
@@ -32104,7 +32077,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1189</index>
+    <index>1188</index>
     <bic>048702781</bic>
     <namep>"Северный Народный Банк" (АО)</namep>
     <regn>2721</regn>
@@ -32131,7 +32104,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1190</index>
+    <index>1189</index>
     <bic>041806863</bic>
     <namep>ВОЛГОГРАДСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <regn>3349/46</regn>
@@ -32158,7 +32131,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1191</index>
+    <index>1190</index>
     <bic>044030879</bic>
     <namep>СПБФ АО БАНК "СНГБ"</namep>
     <regn>588/9</regn>
@@ -32185,7 +32158,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1192</index>
+    <index>1191</index>
     <bic>044525274</bic>
     <namep>КУ БАНК ИТБ (АО) - ГК "АСВ"</namep>
     <regn>3128</regn>
@@ -32212,7 +32185,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1193</index>
+    <index>1192</index>
     <bic>040173745</bic>
     <namep>"СИБСОЦБАНК" ООО</namep>
     <regn>2015</regn>
@@ -32239,7 +32212,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1194</index>
+    <index>1193</index>
     <bic>045773897</bic>
     <namep>ПЕРМСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <regn>3349/76</regn>
@@ -32266,7 +32239,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1195</index>
+    <index>1194</index>
     <bic>045773712</bic>
     <namep>ПЕРМСКИЙ Ф-Л ПАО АКБ "МЕТАЛЛИНВЕСТБАНК"</namep>
     <regn>2440/6</regn>
@@ -32293,7 +32266,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1196</index>
+    <index>1195</index>
     <bic>046577402</bic>
     <namep>АО "ПЕРВОУРАЛЬСКБАНК"</namep>
     <regn>965</regn>
@@ -32320,7 +32293,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1197</index>
+    <index>1196</index>
     <bic>047169777</bic>
     <namep>АО КБ "ПРИОБЬЕ"</namep>
     <regn>537</regn>
@@ -32347,7 +32320,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1198</index>
+    <index>1197</index>
     <bic>047169742</bic>
     <namep>АО БАНК "ЕРМАК"</namep>
     <regn>1809</regn>
@@ -32374,7 +32347,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1199</index>
+    <index>1198</index>
     <bic>045209673</bic>
     <namep>ОМСКОЕ ОТДЕЛЕНИЕ N 8634 ПАО СБЕРБАНК</namep>
     <regn>1481/1009</regn>
@@ -32401,7 +32374,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1200</index>
+    <index>1199</index>
     <bic>046577409</bic>
     <namep>ЕКАТЕРИНБУРГСКИЙ ФИЛИАЛ БАНКА "ВЯТИЧ" (ПАО)</namep>
     <regn>2796/1</regn>
@@ -32428,7 +32401,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1201</index>
+    <index>1200</index>
     <bic>043601592</bic>
     <namep>НКО "ПЛАТЕЖИ И РАСЧЕТЫ" (АО)</namep>
     <regn>3324-Р</regn>
@@ -32455,7 +32428,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1202</index>
+    <index>1201</index>
     <bic>041203715</bic>
     <namep>АО ЕАТПБАНК</namep>
     <regn>1765</regn>
@@ -32482,7 +32455,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1203</index>
+    <index>1202</index>
     <bic>044525151</bic>
     <namep>АО "Банк Русский Стандарт"</namep>
     <regn>2289</regn>
@@ -32509,7 +32482,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1204</index>
+    <index>1203</index>
     <bic>044525050</bic>
     <namep>Ликвидатор ООО РНКО "ЮСиЭс"</namep>
     <regn>3541-К</regn>
@@ -32536,7 +32509,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1205</index>
+    <index>1204</index>
     <bic>047501711</bic>
     <namep>ПАО "ЧЕЛИНДБАНК"</namep>
     <regn>485</regn>
@@ -32563,7 +32536,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1206</index>
+    <index>1205</index>
     <bic>200000123</bic>
     <namep>территориальная избирательная комиссия Советского района города Брянска</namep>
     <regn/>
@@ -32590,7 +32563,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1207</index>
+    <index>1206</index>
     <bic>049514608</bic>
     <namep>АБАКАНСКОЕ ОТДЕЛЕНИЕ  N8602 ПАО СБЕРБАНК</namep>
     <regn>1481/1662</regn>
@@ -32617,7 +32590,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1208</index>
+    <index>1207</index>
     <bic>047308602</bic>
     <namep>УЛЬЯНОВСКОЕ ОТДЕЛЕНИЕ N8588 ПАО СБЕРБАНК</namep>
     <regn>1481/1639</regn>
@@ -32644,7 +32617,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1209</index>
+    <index>1208</index>
     <bic>040813733</bic>
     <namep>ХАБАРОВСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <regn>3349/75</regn>
@@ -32671,7 +32644,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1210</index>
+    <index>1209</index>
     <bic>047308897</bic>
     <namep>УЛЬЯНОВСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <regn>3349/65</regn>
@@ -32698,7 +32671,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1211</index>
+    <index>1210</index>
     <bic>048073770</bic>
     <namep>ФИЛИАЛ ПАО "БАНК УРАЛСИБ" В Г.УФА</namep>
     <regn>2275/27</regn>
@@ -32725,7 +32698,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1212</index>
+    <index>1211</index>
     <bic>040813757</bic>
     <namep>ФИЛИАЛ "ДАЛЬНЕВОСТОЧНЫЙ" АО "ОТП БАНК"</namep>
     <regn>2766/10</regn>
@@ -32752,7 +32725,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1213</index>
+    <index>1212</index>
     <bic>048860721</bic>
     <namep>МАРИЙСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <regn>3349/16</regn>
@@ -32779,7 +32752,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1214</index>
+    <index>1213</index>
     <bic>040813864</bic>
     <namep>ХАБАРОВСКИЙ ФИЛИАЛ АКБ "БЭНК ОФ ЧАЙНА"(АО)</namep>
     <regn>2309/1</regn>
@@ -32806,7 +32779,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1215</index>
+    <index>1214</index>
     <bic>046577781</bic>
     <namep>АО "ВУЗ-БАНК"</namep>
     <regn>1557</regn>
@@ -32833,7 +32806,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1216</index>
+    <index>1215</index>
     <bic>048860734</bic>
     <namep>НКО "МОНЕТА" (ООО)</namep>
     <regn>3508-К</regn>
@@ -32860,7 +32833,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1217</index>
+    <index>1216</index>
     <bic>040173604</bic>
     <namep>АЛТАЙСКОЕ ОТДЕЛЕНИЕ N8644 ПАО СБЕРБАНК</namep>
     <regn>1481/16</regn>
@@ -32887,7 +32860,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1218</index>
+    <index>1217</index>
     <bic>040173733</bic>
     <namep>АЛТАЙСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <regn>3349/18</regn>
@@ -32914,7 +32887,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1219</index>
+    <index>1218</index>
     <bic>049514745</bic>
     <namep>ООО "ХАКАССКИЙ МУНИЦИПАЛЬНЫЙ БАНК"</namep>
     <regn>1049</regn>
@@ -32941,7 +32914,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1220</index>
+    <index>1219</index>
     <bic>042520607</bic>
     <namep>БАЙКАЛЬСКИЙ БАНК ПАО СБЕРБАНК</namep>
     <regn>1481/422</regn>
@@ -32968,7 +32941,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1221</index>
+    <index>1220</index>
     <bic>044525070</bic>
     <namep>ООО НКО "Расчетные Решения"</namep>
     <regn>3524-К</regn>
@@ -32995,7 +32968,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1222</index>
+    <index>1221</index>
     <bic>046577674</bic>
     <namep>УРАЛЬСКИЙ БАНК ПАО СБЕРБАНК</namep>
     <regn>1481/366</regn>
@@ -33022,7 +32995,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1223</index>
+    <index>1222</index>
     <bic>046577501</bic>
     <namep>ФИЛИАЛ № 6602 БАНКА ВТБ (ПАО)</namep>
     <regn>1000/92</regn>
@@ -33049,7 +33022,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1224</index>
+    <index>1223</index>
     <bic>048327741</bic>
     <namep>БАНК "НАЛЬЧИК" ООО</namep>
     <regn>695</regn>
@@ -33076,7 +33049,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1225</index>
+    <index>1224</index>
     <bic>041909644</bic>
     <namep>ВОЛОГОДСКОЕ ОТДЕЛЕНИЕ N8638 ПАО СБЕРБАНК</namep>
     <regn>1481/297</regn>
@@ -33103,7 +33076,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1226</index>
+    <index>1225</index>
     <bic>047308813</bic>
     <namep>АО БАНК "ВЕНЕЦ"</namep>
     <regn>524</regn>
@@ -33130,7 +33103,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1227</index>
+    <index>1226</index>
     <bic>048327780</bic>
     <namep>Ф-Л СЕВЕРО-КАВКАЗСКИЙ ПАО БАНК "ФК ОТКРЫТИЕ"</namep>
     <regn>2209/46</regn>
@@ -33157,7 +33130,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1228</index>
+    <index>1227</index>
     <bic>042520777</bic>
     <namep>ФИЛИАЛ "ИРКУТСКИЙ" АО КБ "СОЛИДАРНОСТЬ"</namep>
     <regn>554/9</regn>
@@ -33184,7 +33157,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1229</index>
+    <index>1228</index>
     <bic>042520700</bic>
     <namep>ИРКУТСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <regn>3349/66</regn>
@@ -33211,7 +33184,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1230</index>
+    <index>1229</index>
     <bic>041501601</bic>
     <namep>БРЯНСКОЕ ОТДЕЛЕНИЕ N8605 ПАО СБЕРБАНК</namep>
     <regn>1481/207</regn>
@@ -33238,7 +33211,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1231</index>
+    <index>1230</index>
     <bic>042202705</bic>
     <namep>ПАО "НБД-Банк"</namep>
     <regn>1966</regn>
@@ -33265,7 +33238,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1232</index>
+    <index>1231</index>
     <bic>042202747</bic>
     <namep>ПРИВОЛЖСКИЙ ФИЛИАЛ ПАО РОСБАНК</namep>
     <regn>2272/24</regn>
@@ -33292,7 +33265,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1233</index>
+    <index>1232</index>
     <bic>042202799</bic>
     <namep>НИЖЕГОРОДСКИЙ ФИЛИАЛ АО ЮНИКРЕДИТ БАНКА</namep>
     <regn>1/9</regn>
@@ -33319,7 +33292,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1234</index>
+    <index>1233</index>
     <bic>041806831</bic>
     <namep>АО НОКССБАНК</namep>
     <regn>3202</regn>
@@ -33346,7 +33319,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1235</index>
+    <index>1234</index>
     <bic>048702640</bic>
     <namep>КОМИ ОТДЕЛЕНИЕ N8617 ПАО СБЕРБАНК</namep>
     <regn>1481/596</regn>
@@ -33373,7 +33346,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1236</index>
+    <index>1235</index>
     <bic>042406738</bic>
     <namep>КУ АО "Кранбанк" - ГК "АСВ"</namep>
     <regn>2271</regn>
@@ -33400,7 +33373,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1237</index>
+    <index>1236</index>
     <bic>048702739</bic>
     <namep>КОМИ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <regn>3349/74</regn>
@@ -33427,7 +33400,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1238</index>
+    <index>1237</index>
     <bic>044030704</bic>
     <namep>Ф. ОПЕРУ БАНКА ВТБ (ПАО) В САНКТ-ПЕТЕРБУРГЕ</namep>
     <regn>1000/74</regn>
@@ -33454,7 +33427,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1239</index>
+    <index>1238</index>
     <bic>044030702</bic>
     <namep>АО "СИТИ ИНВЕСТ БАНК"</namep>
     <regn>3194</regn>
@@ -33481,7 +33454,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1240</index>
+    <index>1239</index>
     <bic>048209880</bic>
     <namep>ФИЛИАЛ КБ "РБА" (ООО) В Г.МАХАЧКАЛА</namep>
     <regn>3413/2</regn>
@@ -33508,7 +33481,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1241</index>
+    <index>1240</index>
     <bic>040702752</bic>
     <namep>ФИЛИАЛ "СТАВРОПОЛЬСКИЙ" АО "АЛЬФА-БАНК"</namep>
     <regn>1326/36</regn>
@@ -33535,7 +33508,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1242</index>
+    <index>1241</index>
     <bic>042007681</bic>
     <namep>ЦЕНТРАЛЬНО-ЧЕРНОЗЕМНЫЙ БАНК ПАО СБЕРБАНК</namep>
     <regn>1481/314</regn>
@@ -33562,7 +33535,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1243</index>
+    <index>1242</index>
     <bic>040349536</bic>
     <namep>КРАСНОДАРСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <regn>3349/3</regn>
@@ -33589,7 +33562,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1244</index>
+    <index>1243</index>
     <bic>044030705</bic>
     <namep>ПАО "БАЛТИНВЕСТБАНК"</namep>
     <regn>3176</regn>
@@ -33616,7 +33589,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1245</index>
+    <index>1244</index>
     <bic>042007709</bic>
     <namep>ВОРОНЕЖСКИЙ ФИЛИАЛ АО ЮНИКРЕДИТ БАНКА</namep>
     <regn>1/6</regn>
@@ -33643,7 +33616,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1246</index>
+    <index>1245</index>
     <bic>047501787</bic>
     <namep>АО "УГЛЕМЕТБАНК"</namep>
     <regn>2997</regn>
@@ -33670,7 +33643,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1247</index>
+    <index>1246</index>
     <bic>044030706</bic>
     <namep>ФИЛИАЛ ПАО "БАНК УРАЛСИБ" В Г.САНКТ-ПЕТЕРБУРГ</namep>
     <regn>2275/1</regn>
@@ -33697,7 +33670,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1248</index>
+    <index>1247</index>
     <bic>043469731</bic>
     <namep>КОСТРОМСКОЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <regn>3349/51</regn>
@@ -33724,7 +33697,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1249</index>
+    <index>1248</index>
     <bic>042202807</bic>
     <namep>Нижегородский филиал АО Ингосстрах Банк</namep>
     <regn>2307/3</regn>
@@ -33751,7 +33724,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1250</index>
+    <index>1249</index>
     <bic>042202718</bic>
     <namep>АО "САРОВБИЗНЕСБАНК"</namep>
     <regn>2048</regn>
@@ -33778,7 +33751,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1251</index>
+    <index>1250</index>
     <bic>042202717</bic>
     <namep>ФИЛИАЛ №10 ПАО КБ "ЦЕНТР-ИНВЕСТ"</namep>
     <regn>2225/10</regn>
@@ -33805,7 +33778,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1252</index>
+    <index>1251</index>
     <bic>042202731</bic>
     <namep>АО КОМБАНК "АРЗАМАС"</namep>
     <regn>1281</regn>
@@ -33832,7 +33805,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1253</index>
+    <index>1252</index>
     <bic>046311722</bic>
     <namep>АО "ЭКОНОМБАНК"</namep>
     <regn>1319</regn>
@@ -33859,7 +33832,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1254</index>
+    <index>1253</index>
     <bic>042202837</bic>
     <namep>Филиал Банка ВТБ (ПАО) в г. Нижнем Новгороде</namep>
     <regn>1000/24</regn>
@@ -33886,7 +33859,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1255</index>
+    <index>1254</index>
     <bic>042202846</bic>
     <namep>НИЖЕГОРОДСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <regn>3349/39</regn>
@@ -33913,7 +33886,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1256</index>
+    <index>1255</index>
     <bic>042202841</bic>
     <namep>ПРИВОЛЖСКИЙ ФИЛИАЛ АО "БАНК ИНТЕЗА"</namep>
     <regn>2216/1</regn>
@@ -33940,7 +33913,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1257</index>
+    <index>1256</index>
     <bic>046311772</bic>
     <namep>АО "БАНК "АГРОРОС"</namep>
     <regn>2860</regn>
@@ -33967,7 +33940,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1258</index>
+    <index>1257</index>
     <bic>042520840</bic>
     <namep>ООО "КРОНА-БАНК"</namep>
     <regn>2499</regn>
@@ -33994,7 +33967,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1259</index>
+    <index>1258</index>
     <bic>042202863</bic>
     <namep>ФИЛИАЛ АО АКБ "НОВИКОМБАНК" В Г.Н.НОВГОРОДЕ</namep>
     <regn>2546/3</regn>
@@ -34021,7 +33994,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1260</index>
+    <index>1259</index>
     <bic>045209822</bic>
     <namep>ОМСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <regn>3349/9</regn>
@@ -34048,7 +34021,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1261</index>
+    <index>1260</index>
     <bic>046577795</bic>
     <namep>ПАО КБ "УБРИР"</namep>
     <regn>429</regn>
@@ -34075,7 +34048,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1262</index>
+    <index>1261</index>
     <bic>041946748</bic>
     <namep>КУ АО КОМСОЦБАНК "БУМЕРАНГ"-ГК "АСВ"</namep>
     <regn>1002</regn>
@@ -34102,7 +34075,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1263</index>
+    <index>1262</index>
     <bic>048718777</bic>
     <namep>"Северный Народный Банк" (АО) Ф-л в г. Усинск</namep>
     <regn>2721/5</regn>
@@ -34129,7 +34102,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1264</index>
+    <index>1263</index>
     <bic>044525051</bic>
     <namep>ГК "АСВ", АСВ.РФ</namep>
     <regn/>
@@ -34156,7 +34129,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1265</index>
+    <index>1264</index>
     <bic>048717000</bic>
     <namep>РКЦ УХТА</namep>
     <regn/>
@@ -34183,7 +34156,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1266</index>
+    <index>1265</index>
     <bic>044525860</bic>
     <namep>"Республиканский Кредитный Альянс" ООО</namep>
     <regn>3017</regn>
@@ -34210,7 +34183,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1267</index>
+    <index>1266</index>
     <bic>044525701</bic>
     <namep>РНКО "ВК Платёжные решения" (ООО)</namep>
     <regn>3511-К</regn>
@@ -34237,7 +34210,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1268</index>
+    <index>1267</index>
     <bic>046311843</bic>
     <namep>САРАТОВСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <regn>3349/52</regn>
@@ -34264,7 +34237,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1269</index>
+    <index>1268</index>
     <bic>045209885</bic>
     <namep>НКО "ПЕРСПЕКТИВА" (ООО)</namep>
     <regn>3532-К</regn>
@@ -34291,7 +34264,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1270</index>
+    <index>1269</index>
     <bic>046311887</bic>
     <namep>САРАТОВСКИЙ ФИЛИАЛ ПАО "МЕТКОМБАНК"</namep>
     <regn>2443/6</regn>
@@ -34318,7 +34291,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1271</index>
+    <index>1270</index>
     <bic>042202891</bic>
     <namep>ФИЛИАЛ АКБ "СЛАВИЯ" (АО) В Г. НИЖНИЙ НОВГОРОД</namep>
     <regn>2664/4</regn>
@@ -34345,7 +34318,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1272</index>
+    <index>1271</index>
     <bic>042202886</bic>
     <namep>НИЖЕГОРОДСКИЙ Ф-Л ПАО АКБ "МЕТАЛЛИНВЕСТБАНК"</namep>
     <regn>2440/5</regn>
@@ -34372,7 +34345,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1273</index>
+    <index>1272</index>
     <bic>046311890</bic>
     <namep>АО "БАЛАКОВО-БАНК"</namep>
     <regn>444</regn>
@@ -34399,7 +34372,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1274</index>
+    <index>1273</index>
     <bic>046015860</bic>
     <namep>ПАО КБ "СЕЛЬМАШБАНК"</namep>
     <regn>106</regn>
@@ -34426,7 +34399,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1275</index>
+    <index>1274</index>
     <bic>046015081</bic>
     <namep>РОСТОВСКИЙ ФИЛИАЛ АО ЮНИКРЕДИТ БАНКА</namep>
     <regn>1/2</regn>
@@ -34453,7 +34426,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1276</index>
+    <index>1275</index>
     <bic>041117772</bic>
     <namep>АРХАНГЕЛЬСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <regn>3349/48</regn>
@@ -34480,7 +34453,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1277</index>
+    <index>1276</index>
     <bic>046015207</bic>
     <namep>ФИЛИАЛ "РОСТОВСКИЙ" АО "АЛЬФА-БАНК"</namep>
     <regn>1326/18</regn>
@@ -34507,7 +34480,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1278</index>
+    <index>1277</index>
     <bic>045773764</bic>
     <namep>ЛИКВИДАТОР АКБ "ПРОИНВЕСТБАНК" (АО) - ГК "АСВ"</namep>
     <regn>784</regn>
@@ -34534,7 +34507,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1279</index>
+    <index>1278</index>
     <bic>043601607</bic>
     <namep>ПОВОЛЖСКИЙ БАНК ПАО СБЕРБАНК</namep>
     <regn>1481/1258</regn>
@@ -34561,7 +34534,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1280</index>
+    <index>1279</index>
     <bic>042908701</bic>
     <namep>АО "ГАЗЭНЕРГОБАНК"</namep>
     <regn>3252</regn>
@@ -34588,7 +34561,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1281</index>
+    <index>1280</index>
     <bic>044030707</bic>
     <namep>ФИЛИАЛ № 7806 БАНКА ВТБ (ПАО)</namep>
     <regn>1000/90</regn>
@@ -34615,7 +34588,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1282</index>
+    <index>1281</index>
     <bic>040349542</bic>
     <namep>КРАСНОДАРСКИЙ ФИЛИАЛ АО ИНГОССТРАХ БАНК</namep>
     <regn>2307/6</regn>
@@ -34642,7 +34615,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1283</index>
+    <index>1282</index>
     <bic>046126614</bic>
     <namep>РЯЗАНСКОЕ ОТДЕЛЕНИЕ N 8606 ПАО СБЕРБАНК</namep>
     <regn>1481/1246</regn>
@@ -34669,7 +34642,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1284</index>
+    <index>1283</index>
     <bic>044030710</bic>
     <namep>СЕВЕРО-ЗАПАДНЫЙ ФИЛИАЛ АО "БАНК ИНТЕЗА"</namep>
     <regn>2216/2</regn>
@@ -34696,7 +34669,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1285</index>
+    <index>1284</index>
     <bic>042007811</bic>
     <namep>ВОРОНЕЖСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <regn>3349/14</regn>
@@ -34723,7 +34696,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1286</index>
+    <index>1285</index>
     <bic>046126701</bic>
     <namep>БАНК "ВЯТИЧ" (ПАО)</namep>
     <regn>2796</regn>
@@ -34750,7 +34723,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1287</index>
+    <index>1286</index>
     <bic>047501799</bic>
     <namep>БАНК "СНЕЖИНСКИЙ" АО</namep>
     <regn>1376</regn>
@@ -34777,7 +34750,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1288</index>
+    <index>1287</index>
     <bic>046126708</bic>
     <namep>ПРИО-ВНЕШТОРГБАНК (ПАО)</namep>
     <regn>212</regn>
@@ -34804,7 +34777,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1289</index>
+    <index>1288</index>
     <bic>042007835</bic>
     <namep>ФИЛИАЛ БАНКА ВТБ (ПАО) В Г. ВОРОНЕЖЕ</namep>
     <regn>1000/25</regn>
@@ -34831,7 +34804,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1290</index>
+    <index>1289</index>
     <bic>040349550</bic>
     <namep>ФИЛИАЛ N8 ПАО КБ "ЦЕНТР-ИНВЕСТ"</namep>
     <regn>2225/8</regn>
@@ -34858,7 +34831,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1291</index>
+    <index>1290</index>
     <bic>042007855</bic>
     <namep>ФИЛИАЛ № 3652 БАНКА ВТБ (ПАО)</namep>
     <regn>1000/96</regn>
@@ -34885,7 +34858,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1292</index>
+    <index>1291</index>
     <bic>043807798</bic>
     <namep>КУРСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <regn>3349/32</regn>
@@ -34912,7 +34885,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1293</index>
+    <index>1292</index>
     <bic>047501779</bic>
     <namep>ПАО "ЧЕЛЯБИНВЕСТБАНК"</namep>
     <regn>493</regn>
@@ -34939,7 +34912,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1294</index>
+    <index>1293</index>
     <bic>043601706</bic>
     <namep>АО КБ "СОЛИДАРНОСТЬ"</namep>
     <regn>554</regn>
@@ -34966,7 +34939,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1295</index>
+    <index>1294</index>
     <bic>041501747</bic>
     <namep>БРЯНСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <regn>3349/69</regn>
@@ -34993,7 +34966,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1296</index>
+    <index>1295</index>
     <bic>049205603</bic>
     <namep>отделение "Банк Татарстан" №8610 ПАО Сбербанк</namep>
     <regn>1481/1466</regn>
@@ -35020,7 +34993,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1297</index>
+    <index>1296</index>
     <bic>041909707</bic>
     <namep>"СЕВЕРСТРОЙБАНК" АО</namep>
     <regn>3507</regn>
@@ -35047,7 +35020,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1298</index>
+    <index>1297</index>
     <bic>041909760</bic>
     <namep>АО "БАНК "ВОЛОГЖАНИН"</namep>
     <regn>1896</regn>
@@ -35074,7 +35047,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1299</index>
+    <index>1298</index>
     <bic>041909786</bic>
     <namep>АО "БАНК СГБ"</namep>
     <regn>2816</regn>
@@ -35101,7 +35074,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1300</index>
+    <index>1299</index>
     <bic>049205706</bic>
     <namep>Татарстанский РФ АО "Россельхозбанк"</namep>
     <regn>3349/67</regn>
@@ -35128,7 +35101,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1301</index>
+    <index>1300</index>
     <bic>049205770</bic>
     <namep>АКБ "Энергобанк" (АО)</namep>
     <regn>67</regn>
@@ -35155,7 +35128,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1302</index>
+    <index>1301</index>
     <bic>045805755</bic>
     <namep>ФИЛИАЛ АКБ "СЛАВИЯ" (АО) В Г. ПСКОВ</namep>
     <regn>2664/3</regn>
@@ -35182,7 +35155,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1303</index>
+    <index>1302</index>
     <bic>049205795</bic>
     <namep>ООО "АвтоКредитБанк"</namep>
     <regn>1973</regn>
@@ -35209,7 +35182,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1304</index>
+    <index>1303</index>
     <bic>045004763</bic>
     <namep>ФИЛИАЛ "ЦЕНТРАЛЬНЫЙ" ПАО "СОВКОМБАНК"</namep>
     <regn>963/8</regn>
@@ -35236,7 +35209,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1305</index>
+    <index>1304</index>
     <bic>049205772</bic>
     <namep>"Банк Заречье" (АО)</namep>
     <regn>817</regn>
@@ -35263,7 +35236,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1306</index>
+    <index>1305</index>
     <bic>045004778</bic>
     <namep>ФИЛИАЛ БАНКА "ВБРР" (АО) В Г.НОВОСИБИРСКЕ</namep>
     <regn>3287/13</regn>
@@ -35290,7 +35263,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1307</index>
+    <index>1306</index>
     <bic>049205919</bic>
     <namep>ООО "АЛТЫНБАНК"</namep>
     <regn>2070</regn>
@@ -35317,7 +35290,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1308</index>
+    <index>1307</index>
     <bic>049205702</bic>
     <namep>Филиал "Приволжский" ПАО Банк ЗЕНИТ</namep>
     <regn>3255/9</regn>
@@ -35344,7 +35317,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1309</index>
+    <index>1308</index>
     <bic>049205703</bic>
     <namep>АО "ТАТСОЦБАНК"</namep>
     <regn>480</regn>
@@ -35371,7 +35344,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1310</index>
+    <index>1309</index>
     <bic>043601777</bic>
     <namep>САМАРСКИЙ ФИЛИАЛ АО ЮНИКРЕДИТ БАНКА</namep>
     <regn>1/7</regn>
@@ -35398,7 +35371,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1311</index>
+    <index>1310</index>
     <bic>040507795</bic>
     <namep>ПАО АКБ "Приморье"</namep>
     <regn>3001</regn>
@@ -35425,7 +35398,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1312</index>
+    <index>1311</index>
     <bic>040507803</bic>
     <namep>ПАО СКБ Приморья "Примсоцбанк"</namep>
     <regn>2733</regn>
@@ -35452,7 +35425,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1313</index>
+    <index>1312</index>
     <bic>043807606</bic>
     <namep>КУРСКОЕ ОТДЕЛЕНИЕ N8596 ПАО СБЕРБАНК</namep>
     <regn>1481/739</regn>
@@ -35479,7 +35452,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1314</index>
+    <index>1313</index>
     <bic>043678838</bic>
     <namep>АО "ТОЛЬЯТТИХИМБАНК"</namep>
     <regn>2507</regn>
@@ -35506,7 +35479,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1315</index>
+    <index>1314</index>
     <bic>044030729</bic>
     <namep>САНКТ-ПЕТЕРБУРГСКИЙ ФИЛИАЛ ПАО "РОСДОРБАНК"</namep>
     <regn>1573/9</regn>
@@ -35533,7 +35506,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1316</index>
+    <index>1315</index>
     <bic>044030733</bic>
     <namep>ФИЛИАЛ ООО КБ "РОСТФИНАНС" В САНКТ-ПЕТЕРБУРГЕ</namep>
     <regn>481/3</regn>
@@ -35560,7 +35533,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1317</index>
+    <index>1316</index>
     <bic>044030742</bic>
     <namep>ФИЛИАЛ АКБ "СЛАВИЯ" (АО) В Г.САНКТ-ПЕТЕРБУРГ</namep>
     <regn>2664/5</regn>
@@ -35587,7 +35560,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1318</index>
+    <index>1317</index>
     <bic>046577952</bic>
     <namep>ФИЛИАЛ БАНКА ВТБ (ПАО) В Г. ЕКАТЕРИНБУРГЕ</namep>
     <regn>1000/28</regn>
@@ -35614,7 +35587,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1319</index>
+    <index>1318</index>
     <bic>041708602</bic>
     <namep>ВЛАДИМИРСКОЕ ОТДЕЛЕНИЕ №8611 ПАО СБЕРБАНК</namep>
     <regn>1481/261</regn>
@@ -35641,7 +35614,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1320</index>
+    <index>1319</index>
     <bic>043601968</bic>
     <namep>ФИЛИАЛ № 6318 БАНКА ВТБ (ПАО)</namep>
     <regn>1000/89</regn>
@@ -35668,7 +35641,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1321</index>
+    <index>1320</index>
     <bic>044525111</bic>
     <namep>АО "Россельхозбанк"</namep>
     <regn>3349</regn>
@@ -35695,7 +35668,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1322</index>
+    <index>1321</index>
     <bic>044525256</bic>
     <namep>ПАО РОСБАНК</namep>
     <regn>2272</regn>
@@ -35722,7 +35695,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1323</index>
+    <index>1322</index>
     <bic>040507840</bic>
     <namep>АО КБ "САММИТ БАНК"</namep>
     <regn>85</regn>
@@ -35749,7 +35722,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1324</index>
+    <index>1323</index>
     <bic>043601876</bic>
     <namep>САМАРСКИЙ ФИЛИАЛ БАНКА "ВБРР" (АО)</namep>
     <regn>3287/12</regn>
@@ -35776,7 +35749,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1325</index>
+    <index>1324</index>
     <bic>045004837</bic>
     <namep>НФ АКБ "ЛАНТА-БАНК" (АО)</namep>
     <regn>1920/1</regn>
@@ -35803,7 +35776,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1326</index>
+    <index>1325</index>
     <bic>049205774</bic>
     <namep>АО Банк "Аверс"</namep>
     <regn>415</regn>
@@ -35830,7 +35803,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1327</index>
+    <index>1326</index>
     <bic>040507861</bic>
     <namep>ПРИМОРСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <regn>3349/54</regn>
@@ -35857,7 +35830,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1328</index>
+    <index>1327</index>
     <bic>049205805</bic>
     <namep>ПАО "АК БАРС" БАНК</namep>
     <regn>2590</regn>
@@ -35884,7 +35857,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1329</index>
+    <index>1328</index>
     <bic>049205844</bic>
     <namep>ООО КБЭР "Банк Казани"</namep>
     <regn>708</regn>
@@ -35911,7 +35884,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1330</index>
+    <index>1329</index>
     <bic>045004641</bic>
     <namep>СИБИРСКИЙ БАНК ПАО СБЕРБАНК</namep>
     <regn>1481/982</regn>
@@ -35938,7 +35911,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1331</index>
+    <index>1330</index>
     <bic>043601978</bic>
     <namep>САМАРСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <regn>3349/13</regn>
@@ -35965,7 +35938,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1332</index>
+    <index>1331</index>
     <bic>044206604</bic>
     <namep>ЛИПЕЦКОЕ ОТДЕЛЕНИЕ N8593 ПАО СБЕРБАНК</namep>
     <regn>1481/782</regn>
@@ -35992,7 +35965,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1333</index>
+    <index>1332</index>
     <bic>040507871</bic>
     <namep>ДАЛЬНЕВОСТОЧНЫЙ ФИЛИАЛ ПАО РОСБАНК</namep>
     <regn>2272/73</regn>
@@ -36019,7 +35992,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1334</index>
+    <index>1333</index>
     <bic>040507879</bic>
     <namep>ФИЛИАЛ МОРСКОГО БАНКА (АО) В Г. ВЛАДИВОСТОК</namep>
     <regn>77/8</regn>
@@ -36046,7 +36019,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1335</index>
+    <index>1334</index>
     <bic>046015718</bic>
     <namep>МКБ "Дон-Тексбанк" ООО</namep>
     <regn>1818</regn>
@@ -36073,7 +36046,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1336</index>
+    <index>1335</index>
     <bic>041117601</bic>
     <namep>АРХАНГЕЛЬСКОЕ ОТДЕЛЕНИЕ N 8637 ПАО СБЕРБАНК</namep>
     <regn>1481/88</regn>
@@ -36100,7 +36073,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1337</index>
+    <index>1336</index>
     <bic>046015327</bic>
     <namep>Филиал "Ростовский" АО "ОТП Банк"</namep>
     <regn>2766/9</regn>
@@ -36127,7 +36100,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1338</index>
+    <index>1337</index>
     <bic>043601707</bic>
     <namep>ФИЛИАЛ "САМАРСКИЙ" АО "ОТП БАНК"</namep>
     <regn>2766/6</regn>
@@ -36154,7 +36127,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1339</index>
+    <index>1338</index>
     <bic>046015336</bic>
     <namep>ФМКБ "Дон-Тексбанк" ООО в г. Новошахтинске</namep>
     <regn>1818/2</regn>
@@ -36181,7 +36154,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1340</index>
+    <index>1339</index>
     <bic>040507883</bic>
     <namep>ДАЛЬНЕВОСТОЧНЫЙ ФИЛИАЛ АО "БАНК ИНТЕЗА"</namep>
     <regn>2216/10</regn>
@@ -36208,7 +36181,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1341</index>
+    <index>1340</index>
     <bic>041909772</bic>
     <namep>КУ АО "ПРОМЭНЕРГОБАНК" - ГК "АСВ"</namep>
     <regn>2728</regn>
@@ -36235,7 +36208,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1342</index>
+    <index>1341</index>
     <bic>044030653</bic>
     <namep>СЕВЕРО-ЗАПАДНЫЙ БАНК ПАО СБЕРБАНК</namep>
     <regn>1481/1309</regn>
@@ -36262,7 +36235,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1343</index>
+    <index>1342</index>
     <bic>040507900</bic>
     <namep>ПРИМОРСКИЙ ФИЛИАЛ АКБ "БЭНК ОФ ЧАЙНА" (АО)</namep>
     <regn>2309/2</regn>
@@ -36289,7 +36262,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1344</index>
+    <index>1343</index>
     <bic>044206756</bic>
     <namep>ЛИПЕЦКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <regn>3349/24</regn>
@@ -36316,7 +36289,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1345</index>
+    <index>1344</index>
     <bic>041708706</bic>
     <namep>АО "ВЛАДБИЗНЕСБАНК"</namep>
     <regn>903</regn>
@@ -36343,7 +36316,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1346</index>
+    <index>1345</index>
     <bic>043304609</bic>
     <namep>КИРОВСКОЕ ОТДЕЛЕНИЕ N8612 ПАО СБЕРБАНК</namep>
     <regn>1481/558</regn>
@@ -36370,7 +36343,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1347</index>
+    <index>1346</index>
     <bic>046577904</bic>
     <namep>ПАО "Контур.Банк"</namep>
     <regn>3161</regn>
@@ -36397,7 +36370,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1348</index>
+    <index>1347</index>
     <bic>040507595</bic>
     <namep>АО "Солид Банк"</namep>
     <regn>1329</regn>
@@ -36424,7 +36397,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1349</index>
+    <index>1348</index>
     <bic>046577881</bic>
     <namep>ПАО "МЕТКОМБАНК"</namep>
     <regn>2443</regn>
@@ -36451,7 +36424,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1350</index>
+    <index>1349</index>
     <bic>040507705</bic>
     <namep>АО "Дальневосточный банк"</namep>
     <regn>843</regn>
@@ -36478,7 +36451,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1351</index>
+    <index>1350</index>
     <bic>049033758</bic>
     <namep>АО "Классик Эконом Банк"</namep>
     <regn>3298</regn>
@@ -36505,7 +36478,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1352</index>
+    <index>1351</index>
     <bic>040507707</bic>
     <namep>НКО "РКЦ ДВ" (АО)</namep>
     <regn>3318-Р</regn>
@@ -36532,7 +36505,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1353</index>
+    <index>1352</index>
     <bic>040507717</bic>
     <namep>ООО "Примтеркомбанк"</namep>
     <regn>21</regn>
@@ -36559,7 +36532,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1354</index>
+    <index>1353</index>
     <bic>040507750</bic>
     <namep>АО "Роял Кредит Банк"</namep>
     <regn>783</regn>
@@ -36586,7 +36559,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1355</index>
+    <index>1354</index>
     <bic>043601742</bic>
     <namep>АО "КОШЕЛЕВ-БАНК"</namep>
     <regn>3300</regn>
@@ -36613,7 +36586,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1356</index>
+    <index>1355</index>
     <bic>042406807</bic>
     <namep>РНКО "ИНЭКО" (ООО)</namep>
     <regn>3520-К</regn>
@@ -36640,7 +36613,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1357</index>
+    <index>1356</index>
     <bic>042406608</bic>
     <namep>Ивановское отделение №8639 ПАО Сбербанк</namep>
     <regn>1481/412</regn>
@@ -36667,7 +36640,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1358</index>
+    <index>1357</index>
     <bic>042406780</bic>
     <namep>Ивановский РФ АО "Россельхозбанк"</namep>
     <regn>3349/38</regn>
@@ -36694,7 +36667,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1359</index>
+    <index>1358</index>
     <bic>043510107</bic>
     <namep>СИМФЕРОПОЛЬСКИЙ ФИЛИАЛ АБ "РОССИЯ"</namep>
     <regn>328/21</regn>
@@ -36721,7 +36694,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1360</index>
+    <index>1359</index>
     <bic>043510101</bic>
     <namep>АО "БАНК ЧБРР"</namep>
     <regn>3527</regn>
@@ -36748,7 +36721,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1361</index>
+    <index>1360</index>
     <bic>043510123</bic>
     <namep>АО "ГЕНБАНК"</namep>
     <regn>2490</regn>
@@ -36775,7 +36748,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1362</index>
+    <index>1361</index>
     <bic>043510607</bic>
     <namep>РНКБ БАНК (ПАО)</namep>
     <regn>1354</regn>
@@ -36802,7 +36775,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1363</index>
+    <index>1362</index>
     <bic>043510135</bic>
     <namep>Крымский ф-л ПАО "Промсвязьбанк"</namep>
     <regn>3251/54</regn>
@@ -36829,7 +36802,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1364</index>
+    <index>1363</index>
     <bic>042406701</bic>
     <namep>АО КИБ "ЕВРОАЛЬЯНС"</namep>
     <regn>1781</regn>
@@ -36856,7 +36829,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1365</index>
+    <index>1364</index>
     <bic>043601845</bic>
     <namep>Самарский филиал АО Ингосстрах Банк</namep>
     <regn>2307/8</regn>
@@ -36883,7 +36856,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1366</index>
+    <index>1365</index>
     <bic>043601842</bic>
     <namep>АО КБ "НИБ"</namep>
     <regn>2876</regn>
@@ -36910,7 +36883,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1367</index>
+    <index>1366</index>
     <bic>046577909</bic>
     <namep>УРАЛЬСКИЙ ФИЛИАЛ АО "БАНК ИНТЕЗА"</namep>
     <regn>2216/8</regn>
@@ -36937,7 +36910,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1368</index>
+    <index>1367</index>
     <bic>047501602</bic>
     <namep>ЧЕЛЯБИНСКОЕ ОТДЕЛЕНИЕ N8597 ПАО СБЕРБАНК</namep>
     <regn>1481/1700</regn>
@@ -36964,7 +36937,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1369</index>
+    <index>1368</index>
     <bic>045354601</bic>
     <namep>ОРЕНБУРГСКОЕ ОТДЕЛЕНИЕ N8623 ПАО СБЕРБАНК</namep>
     <regn>1481/1042</regn>
@@ -36991,7 +36964,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1370</index>
+    <index>1369</index>
     <bic>048952615</bic>
     <namep>МОРДОВСКОЕ ОТДЕЛЕНИЕ N8589 ПАО СБЕРБАНК</namep>
     <regn>1481/853</regn>
@@ -37018,7 +36991,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1371</index>
+    <index>1370</index>
     <bic>047102870</bic>
     <namep>ТФ АО БАНК "СНГБ"</namep>
     <regn>588/4</regn>
@@ -37045,7 +37018,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1372</index>
+    <index>1371</index>
     <bic>042406718</bic>
     <namep>АО БАНК НБС</namep>
     <regn>1949</regn>
@@ -37072,7 +37045,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1373</index>
+    <index>1372</index>
     <bic>048952750</bic>
     <namep>МОРДОВСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <regn>3349/20</regn>
@@ -37099,7 +37072,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1374</index>
+    <index>1373</index>
     <bic>043601811</bic>
     <namep>ООО "ЗЕМСКИЙ БАНК"</namep>
     <regn>2900</regn>
@@ -37126,7 +37099,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1375</index>
+    <index>1374</index>
     <bic>045354885</bic>
     <namep>АО "БАНК ОРЕНБУРГ"</namep>
     <regn>3269</regn>
@@ -37153,7 +37126,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1376</index>
+    <index>1375</index>
     <bic>044959775</bic>
     <namep>АО НКБ "СЛАВЯНБАНК"</namep>
     <regn>804</regn>
@@ -37180,7 +37153,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1377</index>
+    <index>1376</index>
     <bic>043678944</bic>
     <namep>ФИЛИАЛ АО АКБ "НОВИКОМБАНК" В Г. ТОЛЬЯТТИ</namep>
     <regn>2546/4</regn>
@@ -37207,7 +37180,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1378</index>
+    <index>1377</index>
     <bic>045354814</bic>
     <namep>ПАО "НИКО-БАНК"</namep>
     <regn>702</regn>
@@ -37234,7 +37207,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1379</index>
+    <index>1378</index>
     <bic>044959722</bic>
     <namep>НОВГОРОДСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <regn>3349/8</regn>
@@ -37261,7 +37234,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1380</index>
+    <index>1379</index>
     <bic>045354816</bic>
     <namep>ОРЕНБУРГСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <regn>3349/5</regn>
@@ -37288,7 +37261,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1381</index>
+    <index>1380</index>
     <bic>044959746</bic>
     <namep>ПАО УКБ "НОВОБАНК"</namep>
     <regn>1352</regn>
@@ -37315,7 +37288,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1382</index>
+    <index>1381</index>
     <bic>047162812</bic>
     <namep>Ф-Л ЗАПАДНО-СИБИРСКИЙ ПАО БАНКА "ФК ОТКРЫТИЕ"</namep>
     <regn>2209/43</regn>
@@ -37342,7 +37315,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1383</index>
+    <index>1382</index>
     <bic>044525187</bic>
     <namep>Банк ВТБ (ПАО)</namep>
     <regn>1000</regn>
@@ -37369,7 +37342,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1384</index>
+    <index>1383</index>
     <bic>046577922</bic>
     <namep>СВЕРДЛОВСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <regn>3349/73</regn>
@@ -37396,7 +37369,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1385</index>
+    <index>1384</index>
     <bic>046577993</bic>
     <namep>ООО КБ "УРАЛФИНАНС"</namep>
     <regn>1370</regn>
@@ -37423,7 +37396,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1386</index>
+    <index>1385</index>
     <bic>041403633</bic>
     <namep>БЕЛГОРОДСКОЕ ОТДЕЛЕНИЕ N8592 ПАО СБЕРБАНК</namep>
     <regn>1481/188</regn>
@@ -37450,7 +37423,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1387</index>
+    <index>1386</index>
     <bic>041403838</bic>
     <namep>БЕЛГОРОДСКИЙ Ф-Л ПАО АКБ "МЕТАЛЛИНВЕСТБАНК"</namep>
     <regn>2440/8</regn>
@@ -37477,7 +37450,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1388</index>
+    <index>1387</index>
     <bic>046577971</bic>
     <namep>ЕКАТЕРИНБУРГСКИЙ ФИЛИАЛ АО ЮНИКРЕДИТ БАНКА</namep>
     <regn>1/8</regn>
@@ -37504,7 +37477,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1389</index>
+    <index>1388</index>
     <bic>045004883</bic>
     <namep>СИБИРСКИЙ ФИЛИАЛ АО "БАНК ИНТЕЗА"</namep>
     <regn>2216/4</regn>
@@ -37531,7 +37504,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1390</index>
+    <index>1389</index>
     <bic>048602673</bic>
     <namep>КАРЕЛЬСКОЕ ОТДЕЛЕНИЕ N8628 ПАО СБЕРБАНК</namep>
     <regn>1481/512</regn>
@@ -37558,7 +37531,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1391</index>
+    <index>1390</index>
     <bic>047501830</bic>
     <namep>ФИЛИАЛ "ЧЕЛЯБИНСКИЙ" АО "ОТП БАНК"</namep>
     <regn>2766/8</regn>
@@ -37585,7 +37558,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1392</index>
+    <index>1391</index>
     <bic>045004864</bic>
     <namep>"Хайс" Филиал АО КБ "Модульбанк"</namep>
     <regn>1927/1</regn>
@@ -37612,7 +37585,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1393</index>
+    <index>1392</index>
     <bic>045004861</bic>
     <namep>Филиал АО "Экспобанк" в г. Новосибирске</namep>
     <regn>2998/10</regn>
@@ -37639,7 +37612,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1394</index>
+    <index>1393</index>
     <bic>047501821</bic>
     <namep>ЧЕЛЯБИНСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <regn>3349/78</regn>
@@ -37666,7 +37639,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1395</index>
+    <index>1394</index>
     <bic>045004833</bic>
     <namep>НОВОСИБИРСКИЙ ФИЛИАЛ ООО "БАНК БКФ"</namep>
     <regn>2684/3</regn>
@@ -37693,7 +37666,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1396</index>
+    <index>1395</index>
     <bic>045004818</bic>
     <namep>НОВОСИБИРСКИЙ ФИЛИАЛ АО ЮНИКРЕДИТ БАНКА</namep>
     <regn>1/10</regn>
@@ -37720,7 +37693,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1397</index>
+    <index>1396</index>
     <bic>045004784</bic>
     <namep>НОВОСИБИРСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <regn>3349/25</regn>
@@ -37747,7 +37720,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1398</index>
+    <index>1397</index>
     <bic>047501906</bic>
     <namep>АО "УРАЛПРОМБАНК"</namep>
     <regn>2964</regn>
@@ -37774,7 +37747,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1399</index>
+    <index>1398</index>
     <bic>040349718</bic>
     <namep>АО "КУБАНЬТОРГБАНК"</namep>
     <regn>478</regn>
@@ -37801,7 +37774,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1400</index>
+    <index>1399</index>
     <bic>044525328</bic>
     <namep>КУ АО "РМБ" БАНК - ГК "АСВ"</namep>
     <regn>3123</regn>
@@ -37828,7 +37801,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1401</index>
+    <index>1400</index>
     <bic>043469720</bic>
     <namep>ООО "КОСТРОМАСЕЛЬКОМБАНК"</namep>
     <regn>1115</regn>
@@ -37855,7 +37828,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1402</index>
+    <index>1401</index>
     <bic>045004774</bic>
     <namep>ФИЛИАЛ "НОВОСИБИРСКИЙ" АО "АЛЬФА-БАНК"</namep>
     <regn>1326/15</regn>
@@ -37882,7 +37855,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1403</index>
+    <index>1402</index>
     <bic>045004725</bic>
     <namep>ФИЛИАЛ ПАО "БАНК УРАЛСИБ" В Г.НОВОСИБИРСК</namep>
     <regn>2275/2</regn>
@@ -37909,7 +37882,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1404</index>
+    <index>1403</index>
     <bic>045004832</bic>
     <namep>РНКО "ПЛАТЕЖНЫЙ ЦЕНТР" (ООО)</namep>
     <regn>3166-К</regn>
@@ -37936,7 +37909,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1405</index>
+    <index>1404</index>
     <bic>049706609</bic>
     <namep>ЧУВАШСКОЕ ОТДЕЛЕНИЕ N8613 ПАО СБЕРБАНК</namep>
     <regn>1481/1747</regn>
@@ -37963,7 +37936,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1406</index>
+    <index>1405</index>
     <bic>048073934</bic>
     <namep>БАШКИРСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <regn>3349/62</regn>
@@ -37990,7 +37963,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1407</index>
+    <index>1406</index>
     <bic>045004850</bic>
     <namep>БАНК "ЛЕВОБЕРЕЖНЫЙ" (ПАО)</namep>
     <regn>1343</regn>
@@ -38017,7 +37990,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1408</index>
+    <index>1407</index>
     <bic>048073948</bic>
     <namep>БАШКИРСКИЙ ФИЛИАЛ АО ЮНИКРЕДИТ БАНКА</namep>
     <regn>1/11</regn>
@@ -38044,7 +38017,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1409</index>
+    <index>1408</index>
     <bic>049706752</bic>
     <namep>ЧУВАШСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <regn>3349/11</regn>
@@ -38071,7 +38044,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1410</index>
+    <index>1409</index>
     <bic>040715715</bic>
     <namep>КБ "Континенталь" ООО</namep>
     <regn>3184</regn>
@@ -38098,7 +38071,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1411</index>
+    <index>1410</index>
     <bic>040715725</bic>
     <namep>ООО "РУСБС"</namep>
     <regn>779</regn>
@@ -38125,7 +38098,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1412</index>
+    <index>1411</index>
     <bic>044030786</bic>
     <namep>ФИЛИАЛ "САНКТ-ПЕТЕРБУРГСКИЙ" АО "АЛЬФА-БАНК"</namep>
     <regn>1326/2</regn>
@@ -38152,7 +38125,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1413</index>
+    <index>1412</index>
     <bic>044030790</bic>
     <namep>ПАО "БАНК "САНКТ-ПЕТЕРБУРГ"</namep>
     <regn>436</regn>
@@ -38179,7 +38152,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1414</index>
+    <index>1413</index>
     <bic>044030812</bic>
     <namep>ФИЛИАЛ "САНКТ-ПЕТЕРБУРГСКИЙ" АО "ОТП БАНК"</namep>
     <regn>2766/1</regn>
@@ -38206,7 +38179,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1415</index>
+    <index>1414</index>
     <bic>044030814</bic>
     <namep>АО "ГОРБАНК"</namep>
     <regn>2982</regn>
@@ -38233,7 +38206,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1416</index>
+    <index>1415</index>
     <bic>044030866</bic>
     <namep>Санкт-Петербургский филиал АО Ингосстрах Банк</namep>
     <regn>2307/1</regn>
@@ -38260,7 +38233,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1417</index>
+    <index>1416</index>
     <bic>044030820</bic>
     <namep>САНКТ-ПЕТЕРБУРГСКИЙ БАНК ИНВЕСТИЦИЙ (АО)</namep>
     <regn>3468</regn>
@@ -38287,7 +38260,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1418</index>
+    <index>1417</index>
     <bic>045655718</bic>
     <namep>ПЕНЗЕНСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <regn>3349/15</regn>
@@ -38314,7 +38287,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1419</index>
+    <index>1418</index>
     <bic>043304705</bic>
     <namep>ФИЛИАЛ БАНКА ВТБ (ПАО) В Г. КИРОВЕ</namep>
     <regn>1000/67</regn>
@@ -38341,7 +38314,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1420</index>
+    <index>1419</index>
     <bic>044030858</bic>
     <namep>ПЕТЕРБУРГСКИЙ ФИЛИАЛ АО ЮНИКРЕДИТ БАНКА</namep>
     <regn>1/1</regn>
@@ -38368,7 +38341,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1421</index>
+    <index>1420</index>
     <bic>044030852</bic>
     <namep>АО БАНК "ПСКБ"</namep>
     <regn>2551</regn>
@@ -38395,7 +38368,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1422</index>
+    <index>1421</index>
     <bic>047501982</bic>
     <namep>ЧЕЛЯБИНСКИЙ ФИЛИАЛ АО ЮНИКРЕДИТ БАНКА</namep>
     <regn>1/3</regn>
@@ -38422,7 +38395,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1423</index>
+    <index>1422</index>
     <bic>044030831</bic>
     <namep>Ф.АКБ "ФОРА-БАНК" (АО) В Г.САНКТ-ПЕТЕРБУРГ</namep>
     <regn>1885/6</regn>
@@ -38449,7 +38422,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1424</index>
+    <index>1423</index>
     <bic>043304757</bic>
     <namep>АО "ПЕРВЫЙ ДОРТРАНСБАНК"</namep>
     <regn>3271</regn>
@@ -38476,7 +38449,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1425</index>
+    <index>1424</index>
     <bic>044030826</bic>
     <namep>АО БАНК "ОБЪЕДИНЕННЫЙ КАПИТАЛ"</namep>
     <regn>2611</regn>
@@ -38503,7 +38476,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1426</index>
+    <index>1425</index>
     <bic>043304787</bic>
     <namep>КИРОВСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <regn>3349/22</regn>
@@ -38530,7 +38503,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1427</index>
+    <index>1426</index>
     <bic>044030824</bic>
     <namep>ФИЛИАЛ АЙСИБИСИ БАНК (АО) В САНКТ-ПЕТЕРБУРГЕ</namep>
     <regn>3475/1</regn>
@@ -38557,7 +38530,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1428</index>
+    <index>1427</index>
     <bic>041708772</bic>
     <namep>ВЛАДИМИРСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <regn>3349/41</regn>
@@ -38584,7 +38557,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1429</index>
+    <index>1428</index>
     <bic>041480002</bic>
     <namep>ПУ БАНКА РОССИИ ЛЕНИНСКОЕ</namep>
     <regn/>
@@ -38611,7 +38584,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1430</index>
+    <index>1429</index>
     <bic>245011072</bic>
     <namep>ГК "АСВ", АСВ.РФ</namep>
     <regn/>
@@ -38638,7 +38611,61 @@
     <defaultswbic/>
   </row>
   <row>
+    <index>1430</index>
+    <bic>044525218</bic>
+    <namep>КБ "Дж.П. Морган Банк Интернешнл" (ООО)</namep>
+    <regn>2629</regn>
+    <cntrcd>RU</cntrcd>
+    <rgn>45</rgn>
+    <ind>125047</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>улица Бутырский Вал, дом 10</adr>
+    <prntbic/>
+    <datein>1998-03-25</datein>
+    <pttype>20</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>4525218000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>30101810200000000218</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>75</ck>
+    <accountcbrbic>044525000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname>CB "J.P. MORGAN BANK INTERNATIONAL" (LLC)</englname>
+    <swbic>CHASRUMXXXX</swbic>
+    <defaultswbic>1</defaultswbic>
+  </row>
+  <row>
     <index>1431</index>
+    <bic>044525084</bic>
+    <namep>Ликвидатор АО "РУНЭТБАНК"</namep>
+    <regn>2829</regn>
+    <cntrcd>RU</cntrcd>
+    <rgn>45</rgn>
+    <ind>123056</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>ул Гашека, 9, к 4, стр 1</adr>
+    <prntbic/>
+    <datein>2016-05-12</datein>
+    <pttype>90</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>4525084000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>30101810145250000084</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>53</ck>
+    <accountcbrbic>044525000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1432</index>
     <bic>044525588</bic>
     <namep>Джей энд Ти Банк (АО)</namep>
     <regn>3061</regn>
@@ -38665,7 +38692,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1432</index>
+    <index>1433</index>
     <bic>200000542</bic>
     <namep>ТИК города Биробиджана</namep>
     <regn/>
@@ -38692,7 +38719,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1433</index>
+    <index>1434</index>
     <bic>043469743</bic>
     <namep>ПАО "СОВКОМБАНК"</namep>
     <regn>963</regn>
@@ -38719,7 +38746,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1434</index>
+    <index>1435</index>
     <bic>044525064</bic>
     <namep>РНКО ЕАРК (АО)</namep>
     <regn>3548-К</regn>
@@ -38746,7 +38773,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1435</index>
+    <index>1436</index>
     <bic>208000079</bic>
     <namep>Крайизбирком</namep>
     <regn/>
@@ -38773,7 +38800,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1436</index>
+    <index>1437</index>
     <bic>247000033</bic>
     <namep>Избирательная комиссия Мурманской области</namep>
     <regn/>
@@ -38800,7 +38827,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1437</index>
+    <index>1438</index>
     <bic>261000110</bic>
     <namep>Избирательная комиссия Рязанской области</namep>
     <regn/>
@@ -38827,7 +38854,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1438</index>
+    <index>1439</index>
     <bic>040407795</bic>
     <namep>КУ АКБ "ЕНИСЕЙ" (ПАО) - ГК "АСВ"</namep>
     <regn>474</regn>
@@ -38854,7 +38881,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1439</index>
+    <index>1440</index>
     <bic>046711106</bic>
     <namep>КУ ПАО БАНК "ВВБ" - ГК "АСВ"</namep>
     <regn>1093</regn>
@@ -38881,7 +38908,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1440</index>
+    <index>1441</index>
     <bic>200000502</bic>
     <namep>территориальная избирательная комиссия города Череповца</namep>
     <regn/>
@@ -38908,7 +38935,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1441</index>
+    <index>1442</index>
     <bic>200000492</bic>
     <namep>Территориальная избирательная комиссия города Кызыла</namep>
     <regn/>
@@ -38935,7 +38962,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1442</index>
+    <index>1443</index>
     <bic>200000501</bic>
     <namep>Мурманская территориальная избирательная комиссия</namep>
     <regn/>
@@ -38962,7 +38989,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1443</index>
+    <index>1444</index>
     <bic>242000073</bic>
     <namep>Избирательная комиссия Липецкой области</namep>
     <regn/>
@@ -38987,33 +39014,6 @@
     <englname/>
     <swbic/>
     <defaultswbic/>
-  </row>
-  <row>
-    <index>1444</index>
-    <bic>044525236</bic>
-    <namep>АО "Банк Кредит Свисс (Москва)"</namep>
-    <regn>2494</regn>
-    <cntrcd>RU</cntrcd>
-    <rgn>45</rgn>
-    <ind>125047</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>ул. 1-я Тверская-Ямская, д. 21</adr>
-    <prntbic/>
-    <datein>1998-03-25</datein>
-    <pttype>20</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>4525236000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>30101810800000000236</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>64</ck>
-    <accountcbrbic>044525000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname>JSC BANK CREDIT SUISSE (MOSCOW)</englname>
-    <swbic>CRESRUMMXXX</swbic>
-    <defaultswbic>1</defaultswbic>
   </row>
   <row>
     <index>1445</index>
@@ -39800,6 +39800,114 @@
   </row>
   <row>
     <index>1474</index>
+    <bic>044525236</bic>
+    <namep>АО "Банк Кредит Свисс (Москва)"</namep>
+    <regn>2494</regn>
+    <cntrcd>RU</cntrcd>
+    <rgn>45</rgn>
+    <ind>125047</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>ул. 1-я Тверская-Ямская, д. 21</adr>
+    <prntbic/>
+    <datein>1998-03-25</datein>
+    <pttype>20</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>4525236000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>30101810800000000236</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>64</ck>
+    <accountcbrbic>044525000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname>JSC BANK CREDIT SUISSE (MOSCOW)</englname>
+    <swbic>CRESRUMMXXX</swbic>
+    <defaultswbic>1</defaultswbic>
+  </row>
+  <row>
+    <index>1475</index>
+    <bic>200000599</bic>
+    <namep>территориальная избирательная комиссия № 2 по Центральному административному округу г. Омска Омской области</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>52</rgn>
+    <ind>644007</ind>
+    <tnp>г</tnp>
+    <nnp>Омск</nnp>
+    <adr>ул. Герцена, дом 25</adr>
+    <prntbic/>
+    <datein>2024-07-17</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>5209001030</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40206810145375209011</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>05</ck>
+    <accountcbrbic>045209001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1476</index>
+    <bic>200000601</bic>
+    <namep>территориальная избирательная комиссия Ленинского района города Самары Самарской области</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>36</rgn>
+    <ind>443001</ind>
+    <tnp>г</tnp>
+    <nnp>Самара</nnp>
+    <adr>ул. Садовая, д. 243, к. 230</adr>
+    <prntbic/>
+    <datein>2024-07-17</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>3601001106</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40202810845373601003</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>61</ck>
+    <accountcbrbic>043601001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1477</index>
+    <bic>249000136</bic>
+    <namep>Избирательная комиссия Новгородской области</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>49</rgn>
+    <ind>173005</ind>
+    <tnp>г</tnp>
+    <nnp>Великий Новгород</nnp>
+    <adr>пл Победы-Софийская, 1</adr>
+    <prntbic/>
+    <datein>1998-01-23</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>1</xchtype>
+    <uid>4959001901</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40301810600000000001</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>50</ck>
+    <accountcbrbic>044959001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1478</index>
     <bic>291000018</bic>
     <namep>ИК КЧР</namep>
     <regn/>
@@ -39826,7 +39934,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1475</index>
+    <index>1479</index>
     <bic>290000103</bic>
     <namep>ИК РСО-АЛАНИЯ</namep>
     <regn/>
@@ -39853,7 +39961,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1476</index>
+    <index>1480</index>
     <bic>266000058</bic>
     <namep>Избирательная комиссия Смоленской области</namep>
     <regn/>
@@ -39880,7 +39988,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1477</index>
+    <index>1481</index>
     <bic>045402719</bic>
     <namep>КУ БАНК "ЦЕРИХ" (ЗАО)-ГК "АСВ"</namep>
     <regn>3278</regn>
@@ -39907,7 +40015,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1478</index>
+    <index>1482</index>
     <bic>200000503</bic>
     <namep>Территориальная избирательная комиссия Железнодорожный район муниципального образования "Город Улан-Удэ"</namep>
     <regn/>
@@ -39934,7 +40042,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1479</index>
+    <index>1483</index>
     <bic>200000512</bic>
     <namep>территориальная избирательная комиссия Вологодского муниципального округа</namep>
     <regn/>
@@ -39961,7 +40069,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1480</index>
+    <index>1484</index>
     <bic>200000518</bic>
     <namep>Территориальная избирательная комиссия Гагаринского района города Севастополя</namep>
     <regn/>
@@ -39988,7 +40096,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1481</index>
+    <index>1485</index>
     <bic>276004297</bic>
     <namep>Избирательная комиссия Забайкальского края</namep>
     <regn/>
@@ -40015,7 +40123,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1482</index>
+    <index>1486</index>
     <bic>284000103</bic>
     <namep>Избирательная комиссия Республики Алтай</namep>
     <regn/>
@@ -40042,7 +40150,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1483</index>
+    <index>1487</index>
     <bic>212000008</bic>
     <namep>Избирательная комиссия Астраханской области</namep>
     <regn/>
@@ -40069,7 +40177,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1484</index>
+    <index>1488</index>
     <bic>257000961</bic>
     <namep>Избирательная комиссия Пермского края</namep>
     <regn/>
@@ -40096,7 +40204,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1485</index>
+    <index>1489</index>
     <bic>270000017</bic>
     <namep>Избирательная комиссия Тульской области</namep>
     <regn/>
@@ -40123,7 +40231,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1486</index>
+    <index>1490</index>
     <bic>200000462</bic>
     <namep>территориальная избирательная комиссия города Феодосии Республики Крым</namep>
     <regn/>
@@ -40150,7 +40258,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1487</index>
+    <index>1491</index>
     <bic>200000459</bic>
     <namep>территориальная избирательная комиссия Симферопольского района Республики Крым</namep>
     <regn/>
@@ -40177,7 +40285,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1488</index>
+    <index>1492</index>
     <bic>200000468</bic>
     <namep>территориальная избирательная комиссия № 2 Симферопольского района Республики Крым</namep>
     <regn/>
@@ -40204,7 +40312,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1489</index>
+    <index>1493</index>
     <bic>200000461</bic>
     <namep>территориальная избирательная комиссия города Джанкоя Республики Крым</namep>
     <regn/>
@@ -40231,7 +40339,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1490</index>
+    <index>1494</index>
     <bic>200000463</bic>
     <namep>территориальная избирательная комиссия Красноперекопского района Республики Крым</namep>
     <regn/>
@@ -40258,7 +40366,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1491</index>
+    <index>1495</index>
     <bic>200000467</bic>
     <namep>территориальная избирательная комиссия Нижнегорского района Республики Крым</namep>
     <regn/>
@@ -40285,7 +40393,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1492</index>
+    <index>1496</index>
     <bic>200000460</bic>
     <namep>территориальная избирательная комиссия Черноморского района Республики Крым</namep>
     <regn/>
@@ -40312,7 +40420,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1493</index>
+    <index>1497</index>
     <bic>200000464</bic>
     <namep>территориальная избирательная комиссия Советского района Республики Крым</namep>
     <regn/>
@@ -40339,7 +40447,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1494</index>
+    <index>1498</index>
     <bic>200000485</bic>
     <namep>территориальная избирательная комиссия города Армянска Республики Крым</namep>
     <regn/>
@@ -40366,7 +40474,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1495</index>
+    <index>1499</index>
     <bic>254000012</bic>
     <namep>Облизбирком</namep>
     <regn/>
@@ -40393,7 +40501,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1496</index>
+    <index>1500</index>
     <bic>049205910</bic>
     <namep>Казанский филиал АО "Автоградбанк"</namep>
     <regn>1455/4</regn>
@@ -40420,7 +40528,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1497</index>
+    <index>1501</index>
     <bic>200000505</bic>
     <namep>территориальная избирательная комиссия города Благовещенск (с полномочиями окружных избирательных комиссий №1-30)</namep>
     <regn/>
@@ -40447,7 +40555,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1498</index>
+    <index>1502</index>
     <bic>200000520</bic>
     <namep>Йошкар-Олинская городская территориальная избирательная комиссия № 1</namep>
     <regn/>
@@ -40474,7 +40582,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1499</index>
+    <index>1503</index>
     <bic>200000513</bic>
     <namep>Территориальная избирательная комиссия города Бузулука</namep>
     <regn/>
@@ -40501,7 +40609,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1500</index>
+    <index>1504</index>
     <bic>200000509</bic>
     <namep>ТИК города Пскова</namep>
     <regn/>
@@ -40528,7 +40636,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1501</index>
+    <index>1505</index>
     <bic>200000525</bic>
     <namep>ТИК Псковского района</namep>
     <regn/>
@@ -40555,7 +40663,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1502</index>
+    <index>1506</index>
     <bic>230000770</bic>
     <namep>Избирательная комиссия Камчатского края</namep>
     <regn/>
@@ -40582,7 +40690,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1503</index>
+    <index>1507</index>
     <bic>219000037</bic>
     <namep>ИЗБИРАТЕЛЬНАЯ КОМИССИЯ ВОЛОГОДСКОЙ  ОБЛАСТИ</namep>
     <regn/>
@@ -40609,7 +40717,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1504</index>
+    <index>1508</index>
     <bic>200000493</bic>
     <namep>территориальная избирательная комиссия Красногвардейского района Республики Крым</namep>
     <regn/>
@@ -40636,7 +40744,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1505</index>
+    <index>1509</index>
     <bic>200000466</bic>
     <namep>территориальная избирательная комиссия города Красноперекопска Республики Крым</namep>
     <regn/>
@@ -40663,7 +40771,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1506</index>
+    <index>1510</index>
     <bic>200000500</bic>
     <namep>территориальная избирательная комиссия Джанкойского района Республики Крым</namep>
     <regn/>
@@ -40690,7 +40798,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1507</index>
+    <index>1511</index>
     <bic>200000486</bic>
     <namep>территориальная избирательная комиссия Ленинского района Республики Крым</namep>
     <regn/>
@@ -40717,7 +40825,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1508</index>
+    <index>1512</index>
     <bic>200000465</bic>
     <namep>территориальная избирательная комиссия Центрального района города Симферополя Республики Крым</namep>
     <regn/>
@@ -40744,7 +40852,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1509</index>
+    <index>1513</index>
     <bic>200000479</bic>
     <namep>территориальная избирательная комиссия города Керчи Республики Крым</namep>
     <regn/>
@@ -40771,7 +40879,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1510</index>
+    <index>1514</index>
     <bic>200000482</bic>
     <namep>территориальная избирательная комиссия города Саки Республики Крым</namep>
     <regn/>
@@ -40798,7 +40906,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1511</index>
+    <index>1515</index>
     <bic>200000497</bic>
     <namep>территориальная избирательная комиссия города Судака Республики Крым</namep>
     <regn/>
@@ -40825,7 +40933,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1512</index>
+    <index>1516</index>
     <bic>200000484</bic>
     <namep>территориальная избирательная комиссия Бахчисарайского района Республики Крым</namep>
     <regn/>
@@ -40852,7 +40960,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1513</index>
+    <index>1517</index>
     <bic>200000494</bic>
     <namep>территориальная избирательная комиссия Кировского района Республики Крым</namep>
     <regn/>
@@ -40879,7 +40987,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1514</index>
+    <index>1518</index>
     <bic>200000487</bic>
     <namep>территориальная избирательная комиссия Сакского района Республики Крым</namep>
     <regn/>
@@ -40906,7 +41014,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1515</index>
+    <index>1519</index>
     <bic>200000480</bic>
     <namep>территориальная избирательная комиссия Первомайского района Республики Крым</namep>
     <regn/>
@@ -40933,7 +41041,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1516</index>
+    <index>1520</index>
     <bic>200000483</bic>
     <namep>территориальная избирательная комиссия Раздольненского района Республики Крым</namep>
     <regn/>
@@ -40960,7 +41068,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1517</index>
+    <index>1521</index>
     <bic>044525353</bic>
     <namep>КУ "МАСТЕР-БАНК" (ОАО) ГК "АСВ"</namep>
     <regn>2176</regn>
@@ -40987,7 +41095,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1518</index>
+    <index>1522</index>
     <bic>044525161</bic>
     <namep>КБ "ЛОКО-Банк" (АО)</namep>
     <regn>2707</regn>
@@ -41014,7 +41122,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1519</index>
+    <index>1523</index>
     <bic>044525770</bic>
     <namep>ООО "БМВ Банк"</namep>
     <regn>3482</regn>
@@ -41041,7 +41149,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1520</index>
+    <index>1524</index>
     <bic>045773713</bic>
     <namep>ФИЛИАЛ АКБ "ФОРА-БАНК" (АО) В Г.ПЕРМИ</namep>
     <regn>1885/4</regn>
@@ -41068,7 +41176,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1521</index>
+    <index>1525</index>
     <bic>043207720</bic>
     <namep>КУ АО "Кемсоцинбанк" - ГК "АСВ"</namep>
     <regn>96</regn>
@@ -41095,7 +41203,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1522</index>
+    <index>1526</index>
     <bic>200000457</bic>
     <namep>территориальная избирательная комиссия Советского района городского округа город Уфа Республики Башкортостан</namep>
     <regn/>
@@ -41122,7 +41230,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1523</index>
+    <index>1527</index>
     <bic>235000565</bic>
     <namep>Избирательная комиссия Республики Крым</namep>
     <regn/>
@@ -41149,7 +41257,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1524</index>
+    <index>1528</index>
     <bic>200000471</bic>
     <namep>территориальная избирательная комиссия Калининского района городского округа город Уфа Республики Башкортостан</namep>
     <regn/>
@@ -41176,7 +41284,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1525</index>
+    <index>1529</index>
     <bic>200000473</bic>
     <namep>территориальная избирательная комиссия Демского района городского округа город Уфа Республики Башкортостан</namep>
     <regn/>
@@ -41203,7 +41311,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1526</index>
+    <index>1530</index>
     <bic>200000469</bic>
     <namep>территориальная избирательная комиссия Ленинского района городского округа город Уфа Республики Башкортостан</namep>
     <regn/>
@@ -41230,7 +41338,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1527</index>
+    <index>1531</index>
     <bic>200000470</bic>
     <namep>территориальная избирательная комиссия Орджоникидзевского района городского округа город Уфа Республики Башкортостан</namep>
     <regn/>
@@ -41257,7 +41365,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1528</index>
+    <index>1532</index>
     <bic>200000472</bic>
     <namep>территориальная избирательная комиссия Октябрьского района городского округа город Уфа Республики Башкортостан</namep>
     <regn/>
@@ -41284,7 +41392,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1529</index>
+    <index>1533</index>
     <bic>218000225</bic>
     <namep>ИКВО</namep>
     <regn/>
@@ -41311,7 +41419,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1530</index>
+    <index>1534</index>
     <bic>285000012</bic>
     <namep>ИК РК</namep>
     <regn/>
@@ -41338,7 +41446,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1531</index>
+    <index>1535</index>
     <bic>217000027</bic>
     <namep>Избирательная комиссия Владимирской области</namep>
     <regn/>
@@ -41365,7 +41473,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1532</index>
+    <index>1536</index>
     <bic>041708708</bic>
     <namep>КУ ООО "ВЛАДПРОМБАНК" - ГК "АСВ"</namep>
     <regn>870</regn>
@@ -41392,7 +41500,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1533</index>
+    <index>1537</index>
     <bic>043469714</bic>
     <namep>КУ ООО КБ "АКСОНБАНК" - ГК "АСВ"</namep>
     <regn>680</regn>
@@ -41419,7 +41527,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1534</index>
+    <index>1538</index>
     <bic>043469710</bic>
     <namep>КУ ООО КБ "КОНФИДЭНС БАНК" - ГК "АСВ"</namep>
     <regn>970</regn>
@@ -41446,7 +41554,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1535</index>
+    <index>1539</index>
     <bic>040507050</bic>
     <namep>Дальневосточный филиал АО Ингосстрах Банк</namep>
     <regn>2307/10</regn>
@@ -41473,7 +41581,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1536</index>
+    <index>1540</index>
     <bic>286000017</bic>
     <namep>Избирком Карелии</namep>
     <regn/>
@@ -41500,7 +41608,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1537</index>
+    <index>1541</index>
     <bic>200000476</bic>
     <namep>территориальная избирательная комиссия Кировского района городского округа город Уфа Республики Башкортостан</namep>
     <regn/>
@@ -41527,7 +41635,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1538</index>
+    <index>1542</index>
     <bic>044525986</bic>
     <namep>КУ ОАО АКБ "ПРОБИЗНЕСБАНК" - ГК "АСВ"</namep>
     <regn>2412</regn>
@@ -41554,7 +41662,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1539</index>
+    <index>1543</index>
     <bic>044525557</bic>
     <namep>РНКО "Юнона Финанс" (ООО)</namep>
     <regn>3549-К</regn>
@@ -41581,7 +41689,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1540</index>
+    <index>1544</index>
     <bic>047583002</bic>
     <namep>ПУ БАНКА РОССИИ ПРЕОБРАЖЕНСКОЕ</namep>
     <regn/>
@@ -41608,7 +41716,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1541</index>
+    <index>1545</index>
     <bic>044525460</bic>
     <namep>АО "Экспобанк"</namep>
     <regn>2998</regn>
@@ -41635,7 +41743,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1542</index>
+    <index>1546</index>
     <bic>210000050</bic>
     <namep>избирательная комиссия Амурской области</namep>
     <regn/>
@@ -41662,7 +41770,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1543</index>
+    <index>1547</index>
     <bic>200000556</bic>
     <namep>ТИК Фрунзенского района города Владимира</namep>
     <regn/>
@@ -41689,7 +41797,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1544</index>
+    <index>1548</index>
     <bic>200000522</bic>
     <namep>территориальная избирательная комиссия города Нижневартовска</namep>
     <regn/>
@@ -41716,7 +41824,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1545</index>
+    <index>1549</index>
     <bic>200000539</bic>
     <namep>Территориальная избирательная комиссия Прионежского района</namep>
     <regn/>
@@ -41743,7 +41851,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1546</index>
+    <index>1550</index>
     <bic>200000546</bic>
     <namep>территориальная избирательная комиссия Московского округа города Калуги</namep>
     <regn/>
@@ -41770,7 +41878,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1547</index>
+    <index>1551</index>
     <bic>200000490</bic>
     <namep>территориальная избирательная комиссия города Комсомольска-на-Амуре</namep>
     <regn/>
@@ -41797,7 +41905,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1548</index>
+    <index>1552</index>
     <bic>200000477</bic>
     <namep>территориальная избирательная комиссия городского округа город Стерлитамак Республики Башкортостан</namep>
     <regn/>
@@ -41824,7 +41932,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1549</index>
+    <index>1553</index>
     <bic>200000560</bic>
     <namep>Территориальная избирательная комиссия Кировского района города Ростова-на-Дону</namep>
     <regn/>
@@ -41851,7 +41959,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1550</index>
+    <index>1554</index>
     <bic>040813704</bic>
     <namep>Ф-Л ДАЛЬНЕВОСТОЧНЫЙ ПАО БАНКА "ФК ОТКРЫТИЕ"</namep>
     <regn>2209/51</regn>
@@ -41878,34 +41986,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1551</index>
-    <bic>044525218</bic>
-    <namep>КБ "Дж.П. Морган Банк Интернешнл" (ООО)</namep>
-    <regn>2629</regn>
-    <cntrcd>RU</cntrcd>
-    <rgn>45</rgn>
-    <ind>125047</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>улица Бутырский Вал, дом 10</adr>
-    <prntbic/>
-    <datein>1998-03-25</datein>
-    <pttype>20</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>4525218000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>30101810200000000218</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>75</ck>
-    <accountcbrbic>044525000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname>CB "J.P. MORGAN BANK INTERNATIONAL" (LLC)</englname>
-    <swbic>CHASRUMXXXX</swbic>
-    <defaultswbic>1</defaultswbic>
-  </row>
-  <row>
-    <index>1552</index>
+    <index>1555</index>
     <bic>041806715</bic>
     <namep>ЮЖНЫЙ Ф-Л ПАО "ПРОМСВЯЗЬБАНК"</namep>
     <regn>3251/15</regn>
@@ -41932,7 +42013,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1553</index>
+    <index>1556</index>
     <bic>200000515</bic>
     <namep>Участковая избирательная комиссия № 250 МО "Мурбайский наслег" Ленского района Республики Саха (Якутия)</namep>
     <regn/>
@@ -41959,7 +42040,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1554</index>
+    <index>1557</index>
     <bic>200000536</bic>
     <namep>Территориальная избирательная комиссия Великолукского района</namep>
     <regn/>
@@ -41986,7 +42067,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1555</index>
+    <index>1558</index>
     <bic>200000528</bic>
     <namep>Территориальная избирательная комиссия Правобережный округ города Липецка</namep>
     <regn/>
@@ -42013,7 +42094,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1556</index>
+    <index>1559</index>
     <bic>200000521</bic>
     <namep>Территориальная избирательная комиссия г. Петрозаводска № 1</namep>
     <regn/>
@@ -42040,7 +42121,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1557</index>
+    <index>1560</index>
     <bic>200000478</bic>
     <namep>территориальная избирательная комиссия муниципального района Стерлитамакский район Республики Башкортостан</namep>
     <regn/>
@@ -42067,7 +42148,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1558</index>
+    <index>1561</index>
     <bic>229000080</bic>
     <namep>Избирательная комиссия Калужской области</namep>
     <regn/>
@@ -42094,7 +42175,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1559</index>
+    <index>1562</index>
     <bic>287000077</bic>
     <namep>Избирательная комиссия Республики Коми</namep>
     <regn/>
@@ -42121,7 +42202,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1560</index>
+    <index>1563</index>
     <bic>200000541</bic>
     <namep>территориальная избирательная комиссия города Уссурийска</namep>
     <regn/>
@@ -42148,7 +42229,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1561</index>
+    <index>1564</index>
     <bic>200000523</bic>
     <namep>Территориальная избирательная комиссия Октябрьский район муниципального образования "Город Улан-Удэ"</namep>
     <regn/>
@@ -42175,7 +42256,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1562</index>
+    <index>1565</index>
     <bic>200000535</bic>
     <namep>Территориальная избирательная комиссия Ленинского района города Орска</namep>
     <regn/>
@@ -42202,7 +42283,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1563</index>
+    <index>1566</index>
     <bic>200000544</bic>
     <namep>Нерюнгринская территориальная избирательная комиссия Республики Саха (Якутия)</namep>
     <regn/>
@@ -42229,7 +42310,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1564</index>
+    <index>1567</index>
     <bic>200000545</bic>
     <namep>Иркутская городская № 3 территориальная избирательная комиссия (Правобережный округ)</namep>
     <regn/>
@@ -42256,7 +42337,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1565</index>
+    <index>1568</index>
     <bic>200000543</bic>
     <namep>Восточная территориальная избирательная комиссия города Кургана</namep>
     <regn/>
@@ -42283,7 +42364,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1566</index>
+    <index>1569</index>
     <bic>200000537</bic>
     <namep>Территориальная избирательная комиссия Ленинского района муниципального образования "город Ульяновск"</namep>
     <regn/>
@@ -42310,7 +42391,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1567</index>
+    <index>1570</index>
     <bic>200000551</bic>
     <namep>ТИК № 64</namep>
     <regn/>
@@ -42337,7 +42418,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1568</index>
+    <index>1571</index>
     <bic>200000557</bic>
     <namep>Ленинская районная г. Чебоксары территориальная избирательная комиссия</namep>
     <regn/>
@@ -42364,7 +42445,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1569</index>
+    <index>1572</index>
     <bic>200000533</bic>
     <namep>Территориальная избирательная комиссия №1 Центрального округа города Курска</namep>
     <regn/>
@@ -42391,7 +42472,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1570</index>
+    <index>1573</index>
     <bic>200000534</bic>
     <namep>Территориальная избирательная комиссия №2 Центрального округа города Курска</namep>
     <regn/>
@@ -42418,7 +42499,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1571</index>
+    <index>1574</index>
     <bic>200000540</bic>
     <namep>Белгородская городская ТИК</namep>
     <regn/>
@@ -42445,7 +42526,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1572</index>
+    <index>1575</index>
     <bic>200000529</bic>
     <namep>Западная территориальная избирательная комиссия города Кургана</namep>
     <regn/>
@@ -42472,7 +42553,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1573</index>
+    <index>1576</index>
     <bic>201000873</bic>
     <namep>Крайизбирком</namep>
     <regn/>
@@ -42499,7 +42580,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1574</index>
+    <index>1577</index>
     <bic>295000301</bic>
     <namep>Избирательная комиссия Республики Хакасия</namep>
     <regn/>
@@ -42526,7 +42607,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1575</index>
+    <index>1578</index>
     <bic>200000506</bic>
     <namep>Территориальная избирательная комиссия Нахимовского района города Севастополя</namep>
     <regn/>
@@ -42553,7 +42634,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1576</index>
+    <index>1579</index>
     <bic>045209777</bic>
     <namep>ФИЛИАЛ "ОМСКИЙ" АО "ОТП БАНК"</namep>
     <regn>2766/5</regn>
@@ -42580,7 +42661,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1577</index>
+    <index>1580</index>
     <bic>200000524</bic>
     <namep>Территориальная избирательная комиссия Советского района города Томска</namep>
     <regn/>
@@ -42607,7 +42688,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1578</index>
+    <index>1581</index>
     <bic>200000532</bic>
     <namep>Территориальная избирательная комиссия Советский район муниципального образования "Город Улан-Удэ"</namep>
     <regn/>
@@ -42634,7 +42715,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1579</index>
+    <index>1582</index>
     <bic>200000530</bic>
     <namep>территориальная избирательная комиссия по Ленинскому административному округу г. Омска Омской области</namep>
     <regn/>
@@ -42661,7 +42742,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1580</index>
+    <index>1583</index>
     <bic>200000538</bic>
     <namep>Октябрьская территориальная избирательная комиссия, г. Архангельск</namep>
     <regn/>
@@ -42688,7 +42769,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1581</index>
+    <index>1584</index>
     <bic>200000552</bic>
     <namep>территориальная избирательная комиссия города Вологды</namep>
     <regn/>
@@ -42715,7 +42796,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1582</index>
+    <index>1585</index>
     <bic>280000624</bic>
     <namep>Центральная избирательная комиссия Республики Башкортостан</namep>
     <regn/>
@@ -42742,7 +42823,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1583</index>
+    <index>1586</index>
     <bic>200000517</bic>
     <namep>Территориальная избирательная комиссия Балаклавского района города Севастополя</namep>
     <regn/>
@@ -42769,7 +42850,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1584</index>
+    <index>1587</index>
     <bic>044525135</bic>
     <namep>КБ "Ренессанс Кредит" (ООО)</namep>
     <regn>3354</regn>
@@ -42796,7 +42877,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1585</index>
+    <index>1588</index>
     <bic>047102804</bic>
     <namep>КУ БАНК СБРР (ООО) - ГК "АСВ"</namep>
     <regn>1284</regn>
@@ -42823,7 +42904,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1586</index>
+    <index>1589</index>
     <bic>044525555</bic>
     <namep>ПАО "Промсвязьбанк"</namep>
     <regn>3251</regn>
@@ -42850,7 +42931,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1587</index>
+    <index>1590</index>
     <bic>044525272</bic>
     <namep>ПАО Банк ЗЕНИТ</namep>
     <regn>3255</regn>
@@ -42877,7 +42958,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1588</index>
+    <index>1591</index>
     <bic>049401814</bic>
     <namep>ПАО "БЫСТРОБАНК"</namep>
     <regn>1745</regn>
@@ -42904,7 +42985,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1589</index>
+    <index>1592</index>
     <bic>013304182</bic>
     <namep>УФК по Кировской области</namep>
     <regn/>
@@ -42931,7 +43012,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1590</index>
+    <index>1593</index>
     <bic>200000574</bic>
     <namep>территориальная избирательная комиссия Советско-Гаванского района</namep>
     <regn/>
@@ -42958,7 +43039,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1591</index>
+    <index>1594</index>
     <bic>200000586</bic>
     <namep>Территориальная избирательная комиссия Центрального района г. Тулы</namep>
     <regn/>
@@ -42985,7 +43066,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1592</index>
+    <index>1595</index>
     <bic>200000588</bic>
     <namep>Территориальная избирательная комиссия Правобережной части г. Владикавказа</namep>
     <regn/>
@@ -43012,7 +43093,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1593</index>
+    <index>1596</index>
     <bic>200000575</bic>
     <namep>Территориальная избирательная комиссия городского округа Анадырь</namep>
     <regn/>
@@ -43039,7 +43120,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1594</index>
+    <index>1597</index>
     <bic>045004867</bic>
     <namep>Ф-Л СИБИРСКИЙ ПАО БАНК "ФК ОТКРЫТИЕ"</namep>
     <regn>2209/47</regn>
@@ -43066,7 +43147,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1595</index>
+    <index>1598</index>
     <bic>044525237</bic>
     <namep>КУ ПАО "МЕЖТОПЭНЕРГОБАНК" - ГК "АСВ"</namep>
     <regn>2956</regn>
@@ -43093,7 +43174,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1596</index>
+    <index>1599</index>
     <bic>044525297</bic>
     <namep>Филиал Центральный ПАО Банка "ФК Открытие"</namep>
     <regn>2209/42</regn>
@@ -43120,7 +43201,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1597</index>
+    <index>1600</index>
     <bic>042202824</bic>
     <namep>ФИЛИАЛ "НИЖЕГОРОДСКИЙ" АО "АЛЬФА-БАНК"</namep>
     <regn>1326/1</regn>
@@ -43147,7 +43228,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1598</index>
+    <index>1601</index>
     <bic>044525960</bic>
     <namep>НКО "Центр расчетов" (АО)</namep>
     <regn>3547-ЦК</regn>
@@ -43174,7 +43255,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1599</index>
+    <index>1602</index>
     <bic>049401710</bic>
     <namep>УДМУРТСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <regn>3349/28</regn>
@@ -43201,7 +43282,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1600</index>
+    <index>1603</index>
     <bic>041180002</bic>
     <namep>ПУ БАНКА РОССИИ БЕЛОМОРСКОЕ</namep>
     <regn/>
@@ -43228,7 +43309,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1601</index>
+    <index>1604</index>
     <bic>040813744</bic>
     <namep>ДАЛЬНЕВОСТОЧНЫЙ Ф-Л ПАО "ПРОМСВЯЗЬБАНК"</namep>
     <regn>3251/37</regn>
@@ -43255,7 +43336,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1602</index>
+    <index>1605</index>
     <bic>044525494</bic>
     <namep>ООО "СМЛТ Банк"</namep>
     <regn>2846</regn>
@@ -43282,7 +43363,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1603</index>
+    <index>1606</index>
     <bic>200000151</bic>
     <namep>Избирательная комиссия Запорожской области</namep>
     <regn/>
@@ -43309,7 +43390,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1604</index>
+    <index>1607</index>
     <bic>200000585</bic>
     <namep>Центральная г. Читы территориальная избирательная комиссия</namep>
     <regn/>
@@ -43336,7 +43417,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1605</index>
+    <index>1608</index>
     <bic>200000590</bic>
     <namep>территориальная избирательная комиссия Автозаводского района города Тольятти Самарской области</namep>
     <regn/>
@@ -43363,7 +43444,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1606</index>
+    <index>1609</index>
     <bic>200000592</bic>
     <namep>Территориальная избирательная комиссия Привокзального района г. Тулы</namep>
     <regn/>
@@ -43390,7 +43471,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1607</index>
+    <index>1610</index>
     <bic>200000582</bic>
     <namep>Территориальная избирательная комиссия Заполярного района</namep>
     <regn/>
@@ -43417,7 +43498,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1608</index>
+    <index>1611</index>
     <bic>200000593</bic>
     <namep>Территориальная избирательная комиссия Советского района г. Тулы</namep>
     <regn/>
@@ -43444,7 +43525,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1609</index>
+    <index>1612</index>
     <bic>200000587</bic>
     <namep>Калининград-Центральная территориальная избирательная комиссия</namep>
     <regn/>
@@ -43471,7 +43552,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1610</index>
+    <index>1613</index>
     <bic>292000450</bic>
     <namep>ЦИК Республики Татарстан</namep>
     <regn/>
@@ -43498,34 +43579,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1611</index>
-    <bic>044525084</bic>
-    <namep>Ликвидатор АО "РУНЭТБАНК"</namep>
-    <regn>2829</regn>
-    <cntrcd>RU</cntrcd>
-    <rgn>45</rgn>
-    <ind>123056</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>ул Гашека, 9, к 4, стр 1</adr>
-    <prntbic/>
-    <datein>2016-05-12</datein>
-    <pttype>90</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>4525084000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>30101810145250000084</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>53</ck>
-    <accountcbrbic>044525000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1612</index>
+    <index>1614</index>
     <bic>044525333</bic>
     <namep>НКО "Альтернатива" (ООО)</namep>
     <regn>3452-К</regn>
@@ -43552,7 +43606,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1613</index>
+    <index>1615</index>
     <bic>200000591</bic>
     <namep>Территориальная избирательная комиссия города Ухты</namep>
     <regn/>
@@ -43579,7 +43633,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1614</index>
+    <index>1616</index>
     <bic>042520767</bic>
     <namep>АНГАРСКИЙ ФИЛИАЛ АО "ИТ БАНК"</namep>
     <regn>2609/1</regn>
@@ -43606,7 +43660,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1615</index>
+    <index>1617</index>
     <bic>042520728</bic>
     <namep>Иркутский филиал АО Ингосстрах Банк</namep>
     <regn>2307/4</regn>
@@ -43633,7 +43687,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1616</index>
+    <index>1618</index>
     <bic>042520811</bic>
     <namep>Конкурсный управляющий АО "ГринКомБанк" - ГК "АСВ"</namep>
     <regn>1184</regn>
@@ -43660,7 +43714,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1617</index>
+    <index>1619</index>
     <bic>042520849</bic>
     <namep>КУ АО "ВостСибтранскомбанк" - ГК "АСВ"</namep>
     <regn>2731</regn>
@@ -43687,7 +43741,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1618</index>
+    <index>1620</index>
     <bic>042520764</bic>
     <namep>КОНКУРСНЫЙ УПРАВЛЯЮЩИЙ "ВЛБАНК" (АО)-ГК "АСВ"</namep>
     <regn>1222</regn>
@@ -43714,7 +43768,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1619</index>
+    <index>1621</index>
     <bic>200000594</bic>
     <namep>Территориальная избирательная комиссия района Покровское-Стрешнево</namep>
     <regn/>
@@ -43741,7 +43795,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1620</index>
+    <index>1622</index>
     <bic>042202894</bic>
     <namep>Ф-л Приволжский ПАО Банк "ФК Открытие"</namep>
     <regn>2209/4</regn>
@@ -43768,7 +43822,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1621</index>
+    <index>1623</index>
     <bic>046577906</bic>
     <namep>УРАЛЬСКИЙ ФИЛИАЛ АО "РАЙФФАЙЗЕНБАНК"</namep>
     <regn>3292/2</regn>
@@ -43795,7 +43849,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1622</index>
+    <index>1624</index>
     <bic>041012765</bic>
     <namep>"Азиатско-Тихоокеанский Банк" (АО)</namep>
     <regn>1810</regn>
@@ -43822,7 +43876,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1623</index>
+    <index>1625</index>
     <bic>048142744</bic>
     <namep>Ф-л Азиатско-Тихоокеанский Банк АО г.Улан-Удэ</namep>
     <regn>1810/14</regn>
@@ -43849,7 +43903,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1624</index>
+    <index>1626</index>
     <bic>046577418</bic>
     <namep>Ф-л Азиатско-Тихоокеанский Банк АО в г.Екат-г</namep>
     <regn>1810/22</regn>
@@ -43876,7 +43930,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1625</index>
+    <index>1627</index>
     <bic>042520872</bic>
     <namep>КБ "Байкалкредобанк" (АО)</namep>
     <regn>2990</regn>
@@ -43903,7 +43957,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1626</index>
+    <index>1628</index>
     <bic>044525823</bic>
     <namep>Банк ГПБ (АО)</namep>
     <regn>354</regn>
@@ -43930,7 +43984,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1627</index>
+    <index>1629</index>
     <bic>044525593</bic>
     <namep>АО "АЛЬФА-БАНК"</namep>
     <regn>1326</regn>
@@ -43957,7 +44011,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1628</index>
+    <index>1630</index>
     <bic>041403701</bic>
     <namep>АО УКБ "БЕЛГОРОДСОЦБАНК"</namep>
     <regn>760</regn>
@@ -43984,7 +44038,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1629</index>
+    <index>1631</index>
     <bic>049205878</bic>
     <namep>АО "Автоградбанк"</namep>
     <regn>1455</regn>
@@ -44011,7 +44065,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1630</index>
+    <index>1632</index>
     <bic>200000511</bic>
     <namep>Территориальная избирательная комиссия городского округа Эгвекинот</namep>
     <regn/>
@@ -44038,7 +44092,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1631</index>
+    <index>1633</index>
     <bic>200000514</bic>
     <namep>ТИК Октябрьского района города Владимира</namep>
     <regn/>
@@ -44065,7 +44119,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1632</index>
+    <index>1634</index>
     <bic>200000531</bic>
     <namep>Территориальная избирательная комиссия города Салехарда</namep>
     <regn/>
@@ -44092,7 +44146,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1633</index>
+    <index>1635</index>
     <bic>200000510</bic>
     <namep>ТИК по г. Черкесску</namep>
     <regn/>
@@ -44119,7 +44173,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1634</index>
+    <index>1636</index>
     <bic>200000527</bic>
     <namep>Йошкар-Олинская городская территориальная избирательная комиссия № 2</namep>
     <regn/>
@@ -44146,7 +44200,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1635</index>
+    <index>1637</index>
     <bic>200000526</bic>
     <namep>Территориальная избирательная комиссия Ленинского района города Оренбурга</namep>
     <regn/>
@@ -44173,7 +44227,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1636</index>
+    <index>1638</index>
     <bic>200000516</bic>
     <namep>ТИК по Центральному району г. Волгограда</namep>
     <regn/>
@@ -44200,7 +44254,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1637</index>
+    <index>1639</index>
     <bic>200000474</bic>
     <namep>Южно-Сахалинская городская территориальная избирательная комиссия</namep>
     <regn/>
@@ -44227,7 +44281,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1638</index>
+    <index>1640</index>
     <bic>200000499</bic>
     <namep>территориальная избирательная комиссия Железнодорожного района города Симферополя Республики Крым</namep>
     <regn/>
@@ -44254,7 +44308,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1639</index>
+    <index>1641</index>
     <bic>200000498</bic>
     <namep>территориальная избирательная комиссия города Евпатории Республики Крым</namep>
     <regn/>
@@ -44281,7 +44335,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1640</index>
+    <index>1642</index>
     <bic>200000488</bic>
     <namep>территориальная избирательная комиссия Киевского района города Симферополя Республики Крым</namep>
     <regn/>
@@ -44308,7 +44362,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1641</index>
+    <index>1643</index>
     <bic>200000495</bic>
     <namep>территориальная избирательная комиссия Белогорского района Республики Крым</namep>
     <regn/>
@@ -44335,7 +44389,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1642</index>
+    <index>1644</index>
     <bic>200000496</bic>
     <namep>территориальная избирательная комиссия города Алушты Республики Крым</namep>
     <regn/>
@@ -44362,7 +44416,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1643</index>
+    <index>1645</index>
     <bic>200000598</bic>
     <namep>Территориальная избирательная комиссия Ленинский район г. Астрахани Астраханская область</namep>
     <regn/>
@@ -44389,7 +44443,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1644</index>
+    <index>1646</index>
     <bic>200000597</bic>
     <namep>Нальчикская городская территориальная избирательная комиссия</namep>
     <regn/>
@@ -44416,7 +44470,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1645</index>
+    <index>1647</index>
     <bic>200000519</bic>
     <namep>Территориальная избирательная комиссия города Абакана</namep>
     <regn/>
@@ -44443,7 +44497,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1646</index>
+    <index>1648</index>
     <bic>200000589</bic>
     <namep>Территориальная избирательная комиссия города Тобольска № 18</namep>
     <regn/>
@@ -44470,7 +44524,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1647</index>
+    <index>1649</index>
     <bic>200000508</bic>
     <namep>территориальная избирательная комиссия города Ялты Республики Крым</namep>
     <regn/>
@@ -44497,7 +44551,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1648</index>
+    <index>1650</index>
     <bic>283000024</bic>
     <namep>Избирательная комиссия Кабардино-Балкарской Республики</namep>
     <regn/>
@@ -44524,7 +44578,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1649</index>
+    <index>1651</index>
     <bic>044525159</bic>
     <namep>ООО "МБ РУС Банк"</namep>
     <regn>3473</regn>
@@ -44551,7 +44605,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1650</index>
+    <index>1652</index>
     <bic>042809679</bic>
     <namep>ТВЕРСКОЕ ОТДЕЛЕНИЕ N8607 ПАО СБЕРБАНК</namep>
     <regn>1481/1527</regn>
@@ -44578,7 +44632,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1651</index>
+    <index>1653</index>
     <bic>211000123</bic>
     <namep>Избирательная комиссия Архангельской области</namep>
     <regn/>
@@ -44605,7 +44659,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1652</index>
+    <index>1654</index>
     <bic>200000563</bic>
     <namep>Окружная избирательная комиссия № 1</namep>
     <regn/>
@@ -44632,7 +44686,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1653</index>
+    <index>1655</index>
     <bic>200000562</bic>
     <namep>территориальная избирательная комиссия города Златоуста</namep>
     <regn/>
@@ -44659,7 +44713,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1654</index>
+    <index>1656</index>
     <bic>200000561</bic>
     <namep>территориальная избирательная комиссия № 2 города Костромы Костромской области</namep>
     <regn/>
@@ -44686,7 +44740,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1655</index>
+    <index>1657</index>
     <bic>200000458</bic>
     <namep>Территориальная избирательная комиссия Билибинского муниципального района</namep>
     <regn/>
@@ -44713,7 +44767,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1656</index>
+    <index>1658</index>
     <bic>200000559</bic>
     <namep>Горно-Алтайская городская территориальная избирательная комиссия</namep>
     <regn/>
@@ -44740,7 +44794,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1657</index>
+    <index>1659</index>
     <bic>200000491</bic>
     <namep>территориальная избирательная комиссия муниципального района Белорецкий район Республики Башкортостан</namep>
     <regn/>
@@ -44767,7 +44821,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1658</index>
+    <index>1660</index>
     <bic>271001666</bic>
     <namep>ИК ЯНАО</namep>
     <regn/>
@@ -44794,7 +44848,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1659</index>
+    <index>1661</index>
     <bic>044030795</bic>
     <namep>Ф-Л СЕВЕРО-ЗАПАДНЫЙ ПАО БАНК "ФК ОТКРЫТИЕ"</namep>
     <regn>2209/44</regn>
@@ -44821,7 +44875,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1660</index>
+    <index>1662</index>
     <bic>044501051</bic>
     <namep>Центральный банк Исламской Республики Иран</namep>
     <regn/>
@@ -44848,7 +44902,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1661</index>
+    <index>1663</index>
     <bic>200000566</bic>
     <namep>Окружная избирательная комиссия № 11</namep>
     <regn/>
@@ -44875,7 +44929,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1662</index>
+    <index>1664</index>
     <bic>200000564</bic>
     <namep>Окружная избирательная комиссия № 5</namep>
     <regn/>
@@ -44902,7 +44956,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1663</index>
+    <index>1665</index>
     <bic>200000565</bic>
     <namep>Окружная избирательная комиссия № 8</namep>
     <regn/>
@@ -44929,7 +44983,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1664</index>
+    <index>1666</index>
     <bic>200000550</bic>
     <namep>территориальная избирательная комиссия Ленинского района города Челябинска</namep>
     <regn/>
@@ -44956,7 +45010,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1665</index>
+    <index>1667</index>
     <bic>200000547</bic>
     <namep>территориальная избирательная комиссия Советского района города Челябинска</namep>
     <regn/>
@@ -44983,7 +45037,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1666</index>
+    <index>1668</index>
     <bic>200000554</bic>
     <namep>территориальная избирательная комиссия Тракторозаводского района города Челябинска</namep>
     <regn/>
@@ -45010,7 +45064,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1667</index>
+    <index>1669</index>
     <bic>200000549</bic>
     <namep>территориальная избирательная комиссия Центрального района города Челябинска</namep>
     <regn/>
@@ -45037,7 +45091,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1668</index>
+    <index>1670</index>
     <bic>200000555</bic>
     <namep>территориальная избирательная комиссия Курчатовского района города Челябинска</namep>
     <regn/>
@@ -45064,7 +45118,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1669</index>
+    <index>1671</index>
     <bic>200000553</bic>
     <namep>территориальная избирательная комиссия Калининского района города Челябинска</namep>
     <regn/>
@@ -45091,7 +45145,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1670</index>
+    <index>1672</index>
     <bic>211000237</bic>
     <namep>Избирательная комиссия Ненецкого автономного округа</namep>
     <regn/>
@@ -45118,7 +45172,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1671</index>
+    <index>1673</index>
     <bic>200000569</bic>
     <namep>территориальная избирательная комиссия Центрального района города Хабаровска</namep>
     <regn/>
@@ -45145,7 +45199,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1672</index>
+    <index>1674</index>
     <bic>200000572</bic>
     <namep>территориальная избирательная комиссия Орджоникидзевского района города Магнитогорска</namep>
     <regn/>
@@ -45172,7 +45226,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1673</index>
+    <index>1675</index>
     <bic>200000571</bic>
     <namep>территориальная избирательная комиссия Правобережного района города Магнитогорска</namep>
     <regn/>
@@ -45199,7 +45253,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1674</index>
+    <index>1676</index>
     <bic>200000573</bic>
     <namep>территориальная избирательная комиссия Ленинского района города Магнитогорска</namep>
     <regn/>
@@ -45226,7 +45280,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1675</index>
+    <index>1677</index>
     <bic>200000570</bic>
     <namep>Промышленная территориальная избирательная комиссия города Смоленска</namep>
     <regn/>
@@ -45253,7 +45307,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1676</index>
+    <index>1678</index>
     <bic>200000568</bic>
     <namep>территориальная избирательная комиссия города Кисловодска</namep>
     <regn/>
@@ -45280,7 +45334,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1677</index>
+    <index>1679</index>
     <bic>200000489</bic>
     <namep>Территориальная избирательная комиссия муниципального района Туймазинский район Республики Башкортостан</namep>
     <regn/>
@@ -45307,7 +45361,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1678</index>
+    <index>1680</index>
     <bic>200000558</bic>
     <namep>Элистинская территориальная избирательная комиссия, ЭТИК</namep>
     <regn/>
@@ -45334,7 +45388,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1679</index>
+    <index>1681</index>
     <bic>044525371</bic>
     <namep>АО "Банк ДАЛЕНА"</namep>
     <regn>1948</regn>
@@ -45361,7 +45415,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1680</index>
+    <index>1682</index>
     <bic>043304711</bic>
     <namep>АО КБ "ХЛЫНОВ"</namep>
     <regn>254</regn>
@@ -45388,7 +45442,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1681</index>
+    <index>1683</index>
     <bic>200000583</bic>
     <namep>Территориальная избирательная комиссия Пролетарского района г. Тулы</namep>
     <regn/>
@@ -45415,7 +45469,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1682</index>
+    <index>1684</index>
     <bic>200000576</bic>
     <namep>Окружная избирательная комиссия одномандатного избирательного округа № 18 по выборам депутатов Думы города Иркутска восьмого созыва</namep>
     <regn/>
@@ -45442,7 +45496,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1683</index>
+    <index>1685</index>
     <bic>200000580</bic>
     <namep>Окружная избирательная комиссия одномандатного избирательного округа № 19 по выборам депутатов Думы города Иркутска восьмого созыва</namep>
     <regn/>
@@ -45469,7 +45523,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1684</index>
+    <index>1686</index>
     <bic>200000577</bic>
     <namep>Окружная избирательная комиссия одномандатного избирательного округа № 20 по выборам депутатов Думы города Иркутска восьмого созыва</namep>
     <regn/>
@@ -45496,7 +45550,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1685</index>
+    <index>1687</index>
     <bic>200000578</bic>
     <namep>Окружная избирательная комиссия одномандатного избирательного округа № 21 по выборам депутатов Думы города Иркутска восьмого созыва</namep>
     <regn/>
@@ -45523,7 +45577,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1686</index>
+    <index>1688</index>
     <bic>200000579</bic>
     <namep>Окружная избирательная комиссия одномандатного избирательного округа № 22 по выборам депутатов Думы города Иркутска восьмого созыва</namep>
     <regn/>
@@ -45550,7 +45604,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1687</index>
+    <index>1689</index>
     <bic>200000581</bic>
     <namep>Окружная избирательная комиссия одномандатного избирательного округа № 23 по выборам депутатов Думы города Иркутска восьмого созыва</namep>
     <regn/>
@@ -45577,7 +45631,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1688</index>
+    <index>1690</index>
     <bic>200000567</bic>
     <namep>территориальная избирательная комиссия Ленинского района города Ставрополя</namep>
     <regn/>
@@ -45604,7 +45658,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1689</index>
+    <index>1691</index>
     <bic>200000584</bic>
     <namep>Территориальная избирательная комиссия Зареченского района г. Тулы</namep>
     <regn/>
@@ -45631,7 +45685,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1690</index>
+    <index>1692</index>
     <bic>200000475</bic>
     <namep>территориальная избирательная комиссия муниципального района Уфимский район Республики Башкортостан</namep>
     <regn/>
@@ -45658,7 +45712,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1691</index>
+    <index>1693</index>
     <bic>200000548</bic>
     <namep>территориальная избирательная комиссия Металлургического района города Челябинска</namep>
     <regn/>
