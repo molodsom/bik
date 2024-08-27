@@ -43067,33 +43067,6 @@
   </row>
   <row>
     <index>1595</index>
-    <bic>044525236</bic>
-    <namep>АО "Банк Кредит Свисс (Москва)"</namep>
-    <regn>2494</regn>
-    <cntrcd>RU</cntrcd>
-    <rgn>45</rgn>
-    <ind>125047</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>ул. 1-я Тверская-Ямская, д. 21</adr>
-    <prntbic/>
-    <datein>1998-03-25</datein>
-    <pttype>20</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>4525236000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>30101810800000000236</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>64</ck>
-    <accountcbrbic>044525000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname>JSC BANK CREDIT SUISSE (MOSCOW)</englname>
-    <swbic>CRESRUMMXXX</swbic>
-    <defaultswbic>1</defaultswbic>
-  </row>
-  <row>
-    <index>1596</index>
     <bic>044525084</bic>
     <namep>Ликвидатор АО "РУНЭТБАНК"</namep>
     <regn>2829</regn>
@@ -43120,7 +43093,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1597</index>
+    <index>1596</index>
     <bic>044525256</bic>
     <namep>ПАО РОСБАНК</namep>
     <regn>2272</regn>
@@ -43147,7 +43120,61 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
+    <index>1597</index>
+    <bic>044525218</bic>
+    <namep>КБ "Дж.П. Морган Банк Интернешнл" (ООО)</namep>
+    <regn>2629</regn>
+    <cntrcd>RU</cntrcd>
+    <rgn>45</rgn>
+    <ind>125047</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>улица Бутырский Вал, дом 10</adr>
+    <prntbic/>
+    <datein>1998-03-25</datein>
+    <pttype>20</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>4525218000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>30101810200000000218</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>75</ck>
+    <accountcbrbic>044525000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname>CB "J.P. MORGAN BANK INTERNATIONAL" (LLC)</englname>
+    <swbic>CHASRUMXXXX</swbic>
+    <defaultswbic>1</defaultswbic>
+  </row>
+  <row>
     <index>1598</index>
+    <bic>044525236</bic>
+    <namep>АО "Банк Кредит Свисс (Москва)"</namep>
+    <regn>2494</regn>
+    <cntrcd>RU</cntrcd>
+    <rgn>45</rgn>
+    <ind>125047</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>ул. 1-я Тверская-Ямская, д. 21</adr>
+    <prntbic/>
+    <datein>1998-03-25</datein>
+    <pttype>20</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>4525236000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>30101810800000000236</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>64</ck>
+    <accountcbrbic>044525000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname>JSC BANK CREDIT SUISSE (MOSCOW)</englname>
+    <swbic>CRESRUMMXXX</swbic>
+    <defaultswbic>1</defaultswbic>
+  </row>
+  <row>
+    <index>1599</index>
     <bic>042202824</bic>
     <namep>ФИЛИАЛ "НИЖЕГОРОДСКИЙ" АО "АЛЬФА-БАНК"</namep>
     <regn>1326/1</regn>
@@ -43174,7 +43201,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1599</index>
+    <index>1600</index>
     <bic>044525960</bic>
     <namep>НКО "Центр расчетов" (АО)</namep>
     <regn>3547-ЦК</regn>
@@ -43201,7 +43228,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1600</index>
+    <index>1601</index>
     <bic>049401710</bic>
     <namep>УДМУРТСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <regn>3349/28</regn>
@@ -43228,7 +43255,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1601</index>
+    <index>1602</index>
     <bic>040407388</bic>
     <namep>СИБИРСКИЙ ФИЛИАЛ ПАО РОСБАНК</namep>
     <regn>2272/62</regn>
@@ -43255,7 +43282,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1602</index>
+    <index>1603</index>
     <bic>041806715</bic>
     <namep>ЮЖНЫЙ Ф-Л ПАО "ПРОМСВЯЗЬБАНК"</namep>
     <regn>3251/15</regn>
@@ -43282,7 +43309,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1603</index>
+    <index>1604</index>
     <bic>042202747</bic>
     <namep>ПРИВОЛЖСКИЙ ФИЛИАЛ ПАО РОСБАНК</namep>
     <regn>2272/24</regn>
@@ -43309,7 +43336,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1604</index>
+    <index>1605</index>
     <bic>046015239</bic>
     <namep>ЮЖНЫЙ ФИЛИАЛ ПАО РОСБАНК</namep>
     <regn>2272/26</regn>
@@ -43336,7 +43363,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1605</index>
+    <index>1606</index>
     <bic>049205878</bic>
     <namep>Ликвидатор АО "Автоградбанк" - ГК "АСВ"</namep>
     <regn>1455</regn>
@@ -43360,33 +43387,6 @@
     <accountstatus>ACAC</accountstatus>
     <englname>JOINT STOCK COMPANY "AVTOGRADBANK"</englname>
     <swbic>AVGRRU22XXX</swbic>
-    <defaultswbic>1</defaultswbic>
-  </row>
-  <row>
-    <index>1606</index>
-    <bic>044525218</bic>
-    <namep>КБ "Дж.П. Морган Банк Интернешнл" (ООО)</namep>
-    <regn>2629</regn>
-    <cntrcd>RU</cntrcd>
-    <rgn>45</rgn>
-    <ind>125047</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>улица Бутырский Вал, дом 10</adr>
-    <prntbic/>
-    <datein>1998-03-25</datein>
-    <pttype>20</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>4525218000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>30101810200000000218</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>75</ck>
-    <accountcbrbic>044525000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname>CB "J.P. MORGAN BANK INTERNATIONAL" (LLC)</englname>
-    <swbic>CHASRUMXXXX</swbic>
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
