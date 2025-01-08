@@ -32564,60 +32564,6 @@
   </row>
   <row>
     <index>1206</index>
-    <bic>040407388</bic>
-    <namep>СИБИРСКИЙ ФИЛИАЛ ПАО РОСБАНК</namep>
-    <regn>2272/62</regn>
-    <cntrcd>RU</cntrcd>
-    <rgn>04</rgn>
-    <ind>660135</ind>
-    <tnp>г</tnp>
-    <nnp>Красноярск</nnp>
-    <adr>ул. Взлетная, д.57</adr>
-    <prntbic>044525256</prntbic>
-    <datein>2012-04-12</datein>
-    <pttype>30</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>0407388000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>30101810000000000388</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>74</ck>
-    <accountcbrbic>040407001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1207</index>
-    <bic>046577903</bic>
-    <namep>УРАЛЬСКИЙ ФИЛИАЛ ПАО РОСБАНК</namep>
-    <regn>2272/38</regn>
-    <cntrcd>RU</cntrcd>
-    <rgn>65</rgn>
-    <ind>620014</ind>
-    <tnp>г</tnp>
-    <nnp>Екатеринбург</nnp>
-    <adr>ул Хохрякова, 41</adr>
-    <prntbic>044525256</prntbic>
-    <datein>2004-12-30</datein>
-    <pttype>30</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>6577903000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>30101810200000000903</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>36</ck>
-    <accountcbrbic>046577001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1208</index>
     <bic>044525178</bic>
     <namep>Банк "СЕРВИС РЕЗЕРВ" (АО)</namep>
     <regn>2034</regn>
@@ -32644,7 +32590,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1209</index>
+    <index>1207</index>
     <bic>280000624</bic>
     <namep>Центральная избирательная комиссия Республики Башкортостан</namep>
     <regn/>
@@ -32671,7 +32617,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1210</index>
+    <index>1208</index>
     <bic>287000077</bic>
     <namep>Избирательная комиссия Республики Коми</namep>
     <regn/>
@@ -32698,7 +32644,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1211</index>
+    <index>1209</index>
     <bic>046577964</bic>
     <namep>ФИЛИАЛ "ЕКАТЕРИНБУРГСКИЙ" АО "АЛЬФА-БАНК"</namep>
     <regn>1326/6</regn>
@@ -32725,169 +32671,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1212</index>
-    <bic>044525454</bic>
-    <namep>Филиал РОСБАНК Авто ПАО РОСБАНК</namep>
-    <regn>2272/95</regn>
-    <cntrcd>RU</cntrcd>
-    <rgn>45</rgn>
-    <ind>123112</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>1-й Красногвардейский проезд, д. 19, этаж 13</adr>
-    <prntbic>044525256</prntbic>
-    <datein>2021-03-01</datein>
-    <pttype>30</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>4525454000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>30101810445250000454</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>13</ck>
-    <accountcbrbic>044525000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1213</index>
-    <bic>040507871</bic>
-    <namep>ДАЛЬНЕВОСТОЧНЫЙ ФИЛИАЛ ПАО РОСБАНК</namep>
-    <regn>2272/73</regn>
-    <cntrcd>RU</cntrcd>
-    <rgn>05</rgn>
-    <ind>690091</ind>
-    <tnp>г</tnp>
-    <nnp>Владивосток</nnp>
-    <adr>ул Уборевича, 11</adr>
-    <prntbic>044525256</prntbic>
-    <datein>2005-03-21</datein>
-    <pttype>30</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>0507871000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>30101810300000000871</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>02</ck>
-    <accountcbrbic>040507001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1214</index>
-    <bic>046015239</bic>
-    <namep>ЮЖНЫЙ ФИЛИАЛ ПАО РОСБАНК</namep>
-    <regn>2272/26</regn>
-    <cntrcd>RU</cntrcd>
-    <rgn>60</rgn>
-    <ind>344019</ind>
-    <tnp>г</tnp>
-    <nnp>Ростов-на-Дону</nnp>
-    <adr>проспект Шолохова, д.22</adr>
-    <prntbic>044525256</prntbic>
-    <datein>2004-12-16</datein>
-    <pttype>30</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>6015239000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>30101810400000000239</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>84</ck>
-    <accountcbrbic>046015001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1215</index>
-    <bic>042202747</bic>
-    <namep>ПРИВОЛЖСКИЙ ФИЛИАЛ ПАО РОСБАНК</namep>
-    <regn>2272/24</regn>
-    <cntrcd>RU</cntrcd>
-    <rgn>22</rgn>
-    <ind>603086</ind>
-    <tnp>г</tnp>
-    <nnp>Нижний Новгород</nnp>
-    <adr>ул Керченская, 13</adr>
-    <prntbic>044525256</prntbic>
-    <datein>2004-11-30</datein>
-    <pttype>30</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>2202747000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>30101810400000000747</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>72</ck>
-    <accountcbrbic>042202001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1216</index>
-    <bic>044030778</bic>
-    <namep>СЕВЕРО-ЗАПАДНЫЙ ФИЛИАЛ ПАО РОСБАНК</namep>
-    <regn>2272/70</regn>
-    <cntrcd>RU</cntrcd>
-    <rgn>40</rgn>
-    <ind>191186</ind>
-    <tnp>г</tnp>
-    <nnp>Санкт-Петербург</nnp>
-    <adr>набережная канала Грибоедова, дом 13</adr>
-    <prntbic>044525256</prntbic>
-    <datein>2005-02-15</datein>
-    <pttype>30</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>4030778000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>30101810100000000778</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>19</ck>
-    <accountcbrbic>044030001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname>PJSC ROSBANK (SEVERO-ZAPADNYJ BRANCH) ST.PETERSBURG</englname>
-    <swbic>RSBNRUMMSZF</swbic>
-    <defaultswbic>1</defaultswbic>
-  </row>
-  <row>
-    <index>1217</index>
-    <bic>044525256</bic>
-    <namep>ПАО РОСБАНК</namep>
-    <regn>2272</regn>
-    <cntrcd>RU</cntrcd>
-    <rgn>45</rgn>
-    <ind>107078</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>ул. Маши Порываевой, д. 34</adr>
-    <prntbic/>
-    <datein>1999-08-19</datein>
-    <pttype>20</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>4525256000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>30101810000000000256</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>81</ck>
-    <accountcbrbic>044525000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname>PJSC ROSBANK</englname>
-    <swbic>RSBNRUMMXXX</swbic>
-    <defaultswbic>1</defaultswbic>
-  </row>
-  <row>
-    <index>1218</index>
+    <index>1210</index>
     <bic>044525985</bic>
     <namep>ПАО Банк "ФК Открытие"</namep>
     <regn>2209</regn>
@@ -32914,7 +32698,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1219</index>
+    <index>1211</index>
     <bic>046015061</bic>
     <namep>ФИЛИАЛ ЮЖНЫЙ ПАО БАНКА "ФК ОТКРЫТИЕ"</namep>
     <regn>2209/48</regn>
@@ -32941,7 +32725,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1220</index>
+    <index>1212</index>
     <bic>047162812</bic>
     <namep>Ф-Л ЗАПАДНО-СИБИРСКИЙ ПАО БАНКА "ФК ОТКРЫТИЕ"</namep>
     <regn>2209/43</regn>
@@ -32968,7 +32752,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1221</index>
+    <index>1213</index>
     <bic>044525297</bic>
     <namep>Филиал Центральный ПАО Банка "ФК Открытие"</namep>
     <regn>2209/42</regn>
@@ -32995,7 +32779,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1222</index>
+    <index>1214</index>
     <bic>040813704</bic>
     <namep>Ф-Л ДАЛЬНЕВОСТОЧНЫЙ ПАО БАНКА "ФК ОТКРЫТИЕ"</namep>
     <regn>2209/51</regn>
@@ -33022,7 +32806,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1223</index>
+    <index>1215</index>
     <bic>045004867</bic>
     <namep>Ф-Л СИБИРСКИЙ ПАО БАНК "ФК ОТКРЫТИЕ"</namep>
     <regn>2209/47</regn>
@@ -33049,7 +32833,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1224</index>
+    <index>1216</index>
     <bic>044030795</bic>
     <namep>Ф-Л СЕВЕРО-ЗАПАДНЫЙ ПАО БАНК "ФК ОТКРЫТИЕ"</namep>
     <regn>2209/44</regn>
@@ -33076,7 +32860,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1225</index>
+    <index>1217</index>
     <bic>042202894</bic>
     <namep>Ф-л Приволжский ПАО Банк "ФК Открытие"</namep>
     <regn>2209/4</regn>
@@ -33103,7 +32887,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1226</index>
+    <index>1218</index>
     <bic>048327780</bic>
     <namep>Ф-Л СЕВЕРО-КАВКАЗСКИЙ ПАО БАНК "ФК ОТКРЫТИЕ"</namep>
     <regn>2209/46</regn>
@@ -33130,7 +32914,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1227</index>
+    <index>1219</index>
     <bic>048073601</bic>
     <namep>БАШКИРСКОЕ ОТДЕЛЕНИЕ N8598 ПАО СБЕРБАНК</namep>
     <regn>1481/130</regn>
@@ -33157,7 +32941,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1228</index>
+    <index>1220</index>
     <bic>044030309</bic>
     <namep>НКО ЛЦК (АО)</namep>
     <regn>3550-ЦК</regn>
@@ -33184,7 +32968,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1229</index>
+    <index>1221</index>
     <bic>285000012</bic>
     <namep>ИК РК</namep>
     <regn/>
@@ -33205,6 +32989,222 @@
     <regulationaccounttype>BANA</regulationaccounttype>
     <ck>28</ck>
     <accountcbrbic>048580001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1222</index>
+    <bic>042202747</bic>
+    <namep>ПРИВОЛЖСКИЙ ФИЛИАЛ ПАО РОСБАНК</namep>
+    <regn>2272/24</regn>
+    <cntrcd>RU</cntrcd>
+    <rgn>22</rgn>
+    <ind>603086</ind>
+    <tnp>г</tnp>
+    <nnp>Нижний Новгород</nnp>
+    <adr>ул Керченская, 13</adr>
+    <prntbic>044525256</prntbic>
+    <datein>2004-11-30</datein>
+    <pttype>30</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>2202747000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>30101810400000000747</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>72</ck>
+    <accountcbrbic>042202001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1223</index>
+    <bic>044030778</bic>
+    <namep>СЕВЕРО-ЗАПАДНЫЙ ФИЛИАЛ ПАО РОСБАНК</namep>
+    <regn>2272/70</regn>
+    <cntrcd>RU</cntrcd>
+    <rgn>40</rgn>
+    <ind>191186</ind>
+    <tnp>г</tnp>
+    <nnp>Санкт-Петербург</nnp>
+    <adr>набережная канала Грибоедова, дом 13</adr>
+    <prntbic>044525256</prntbic>
+    <datein>2005-02-15</datein>
+    <pttype>30</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>4030778000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>30101810100000000778</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>19</ck>
+    <accountcbrbic>044030001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname>PJSC ROSBANK (SEVERO-ZAPADNYJ BRANCH) ST.PETERSBURG</englname>
+    <swbic>RSBNRUMMSZF</swbic>
+    <defaultswbic>1</defaultswbic>
+  </row>
+  <row>
+    <index>1224</index>
+    <bic>046015239</bic>
+    <namep>ЮЖНЫЙ ФИЛИАЛ ПАО РОСБАНК</namep>
+    <regn>2272/26</regn>
+    <cntrcd>RU</cntrcd>
+    <rgn>60</rgn>
+    <ind>344019</ind>
+    <tnp>г</tnp>
+    <nnp>Ростов-на-Дону</nnp>
+    <adr>проспект Шолохова, д.22</adr>
+    <prntbic>044525256</prntbic>
+    <datein>2004-12-16</datein>
+    <pttype>30</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>6015239000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>30101810400000000239</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>84</ck>
+    <accountcbrbic>046015001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1225</index>
+    <bic>044525256</bic>
+    <namep>ПАО РОСБАНК</namep>
+    <regn>2272</regn>
+    <cntrcd>RU</cntrcd>
+    <rgn>45</rgn>
+    <ind>107078</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>ул. Маши Порываевой, д. 34</adr>
+    <prntbic/>
+    <datein>1999-08-19</datein>
+    <pttype>20</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>4525256000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>30101810000000000256</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>81</ck>
+    <accountcbrbic>044525000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname>PJSC ROSBANK</englname>
+    <swbic>RSBNRUMMXXX</swbic>
+    <defaultswbic>1</defaultswbic>
+  </row>
+  <row>
+    <index>1226</index>
+    <bic>040407388</bic>
+    <namep>СИБИРСКИЙ ФИЛИАЛ ПАО РОСБАНК</namep>
+    <regn>2272/62</regn>
+    <cntrcd>RU</cntrcd>
+    <rgn>04</rgn>
+    <ind>660135</ind>
+    <tnp>г</tnp>
+    <nnp>Красноярск</nnp>
+    <adr>ул. Взлетная, д.57</adr>
+    <prntbic>044525256</prntbic>
+    <datein>2012-04-12</datein>
+    <pttype>30</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>0407388000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>30101810000000000388</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>74</ck>
+    <accountcbrbic>040407001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1227</index>
+    <bic>044525454</bic>
+    <namep>Филиал РОСБАНК Авто ПАО РОСБАНК</namep>
+    <regn>2272/95</regn>
+    <cntrcd>RU</cntrcd>
+    <rgn>45</rgn>
+    <ind>123112</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>1-й Красногвардейский проезд, д. 19, этаж 13</adr>
+    <prntbic>044525256</prntbic>
+    <datein>2021-03-01</datein>
+    <pttype>30</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>4525454000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>30101810445250000454</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>13</ck>
+    <accountcbrbic>044525000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1228</index>
+    <bic>046577903</bic>
+    <namep>УРАЛЬСКИЙ ФИЛИАЛ ПАО РОСБАНК</namep>
+    <regn>2272/38</regn>
+    <cntrcd>RU</cntrcd>
+    <rgn>65</rgn>
+    <ind>620014</ind>
+    <tnp>г</tnp>
+    <nnp>Екатеринбург</nnp>
+    <adr>ул Хохрякова, 41</adr>
+    <prntbic>044525256</prntbic>
+    <datein>2004-12-30</datein>
+    <pttype>30</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>6577903000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>30101810200000000903</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>36</ck>
+    <accountcbrbic>046577001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1229</index>
+    <bic>040507871</bic>
+    <namep>ДАЛЬНЕВОСТОЧНЫЙ ФИЛИАЛ ПАО РОСБАНК</namep>
+    <regn>2272/73</regn>
+    <cntrcd>RU</cntrcd>
+    <rgn>05</rgn>
+    <ind>690091</ind>
+    <tnp>г</tnp>
+    <nnp>Владивосток</nnp>
+    <adr>ул Уборевича, 11</adr>
+    <prntbic>044525256</prntbic>
+    <datein>2005-03-21</datein>
+    <pttype>30</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>0507871000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>30101810300000000871</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>02</ck>
+    <accountcbrbic>040507001</accountcbrbic>
     <accountstatus>ACAC</accountstatus>
     <englname/>
     <swbic/>
