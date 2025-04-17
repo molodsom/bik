@@ -38666,33 +38666,6 @@
   </row>
   <row>
     <index>1432</index>
-    <bic>044525236</bic>
-    <namep>АО "Банк Кредит Свисс (Москва)"</namep>
-    <regn>2494</regn>
-    <cntrcd>RU</cntrcd>
-    <rgn>45</rgn>
-    <ind>125047</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>ул. 1-я Тверская-Ямская, д. 21</adr>
-    <prntbic/>
-    <datein>1998-03-25</datein>
-    <pttype>20</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>4525236000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>30101810800000000236</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>64</ck>
-    <accountcbrbic>044525000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname>JSC BANK CREDIT SUISSE (MOSCOW)</englname>
-    <swbic>CRESRUMMXXX</swbic>
-    <defaultswbic>1</defaultswbic>
-  </row>
-  <row>
-    <index>1433</index>
     <bic>044525084</bic>
     <namep>Ликвидатор АО "РУНЭТБАНК"</namep>
     <regn>2829</regn>
@@ -38719,7 +38692,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1434</index>
+    <index>1433</index>
     <bic>044525218</bic>
     <namep>КБ "Дж.П. Морган Банк Интернешнл" (ООО)</namep>
     <regn>2629</regn>
@@ -38746,7 +38719,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1435</index>
+    <index>1434</index>
     <bic>011203901</bic>
     <namep>УФК по Астраханской области</namep>
     <regn/>
@@ -38773,7 +38746,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1436</index>
+    <index>1435</index>
     <bic>041203726</bic>
     <namep>КУ ПАО АГРОИНКОМБАНК-ГК "АСВ"</namep>
     <regn>1946</regn>
@@ -38800,7 +38773,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1437</index>
+    <index>1436</index>
     <bic>041203715</bic>
     <namep>АО ЕАТПБАНК</namep>
     <regn>1765</regn>
@@ -38827,7 +38800,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1438</index>
+    <index>1437</index>
     <bic>049205770</bic>
     <namep>АКБ "Энергобанк" (АО)</namep>
     <regn>67</regn>
@@ -38854,7 +38827,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1439</index>
+    <index>1438</index>
     <bic>044525631</bic>
     <namep>АО "БКС Банк"</namep>
     <regn>101</regn>
@@ -38881,7 +38854,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1440</index>
+    <index>1439</index>
     <bic>012908002</bic>
     <namep>УФК по Калужской области</namep>
     <regn/>
@@ -38908,34 +38881,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1441</index>
-    <bic>044525823</bic>
-    <namep>Банк ГПБ (АО)</namep>
-    <regn>354</regn>
-    <cntrcd>RU</cntrcd>
-    <rgn>45</rgn>
-    <ind>117420</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>ул. Наметкина, дом 16, корпус 1.</adr>
-    <prntbic/>
-    <datein>1998-03-25</datein>
-    <pttype>20</pttype>
-    <srvcs>5</srvcs>
-    <xchtype>1</xchtype>
-    <uid>4525823000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>30101810200000000823</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>02</ck>
-    <accountcbrbic>044525000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname>GAZPROMBANK (JOINT - STOCK COMPANY)</englname>
-    <swbic>GAZPRUMMXXX</swbic>
-    <defaultswbic>1</defaultswbic>
-  </row>
-  <row>
-    <index>1442</index>
+    <index>1440</index>
     <bic>048073846</bic>
     <namep>БАНК ПТБ (ООО)</namep>
     <regn>2638</regn>
@@ -38962,7 +38908,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1443</index>
+    <index>1441</index>
     <bic>281000080</bic>
     <namep>Избирательная комиссия Республики Бурятия</namep>
     <regn/>
@@ -38989,7 +38935,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1444</index>
+    <index>1442</index>
     <bic>287000077</bic>
     <namep>Избирательная комиссия Республики Коми</namep>
     <regn/>
@@ -39016,7 +38962,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1445</index>
+    <index>1443</index>
     <bic>289000040</bic>
     <namep>ЦИК РМ</namep>
     <regn/>
@@ -39043,7 +38989,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1446</index>
+    <index>1444</index>
     <bic>290000103</bic>
     <namep>ИК РСО-АЛАНИЯ</namep>
     <regn/>
@@ -39068,6 +39014,60 @@
     <englname/>
     <swbic/>
     <defaultswbic/>
+  </row>
+  <row>
+    <index>1445</index>
+    <bic>044525236</bic>
+    <namep>АО "Банк Кредит Свисс (Москва)"</namep>
+    <regn>2494</regn>
+    <cntrcd>RU</cntrcd>
+    <rgn>45</rgn>
+    <ind>125047</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>ул. 1-я Тверская-Ямская, д. 21</adr>
+    <prntbic/>
+    <datein>1998-03-25</datein>
+    <pttype>20</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>4525236000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>30101810800000000236</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>64</ck>
+    <accountcbrbic>044525000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname>JSC BANK CREDIT SUISSE (MOSCOW)</englname>
+    <swbic>CRESRUMMXXX</swbic>
+    <defaultswbic>1</defaultswbic>
+  </row>
+  <row>
+    <index>1446</index>
+    <bic>044525823</bic>
+    <namep>Банк ГПБ (АО)</namep>
+    <regn>354</regn>
+    <cntrcd>RU</cntrcd>
+    <rgn>45</rgn>
+    <ind>117420</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>ул. Наметкина, дом 16, корпус 1.</adr>
+    <prntbic/>
+    <datein>1998-03-25</datein>
+    <pttype>20</pttype>
+    <srvcs>5</srvcs>
+    <xchtype>1</xchtype>
+    <uid>4525823000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>30101810200000000823</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>02</ck>
+    <accountcbrbic>044525000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname>GAZPROMBANK (JOINT - STOCK COMPANY)</englname>
+    <swbic>GAZPRUMMXXX</swbic>
+    <defaultswbic>1</defaultswbic>
   </row>
   <row>
     <index>1447</index>
@@ -39503,33 +39503,6 @@
   </row>
   <row>
     <index>1463</index>
-    <bic>277000440</bic>
-    <namep>ИЗБИРАТЕЛЬНАЯ КОМИССИЯ ЧУКОТСКОГО АВТОНОМНОГО ОКРУГА</namep>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <rgn>77</rgn>
-    <ind>689000</ind>
-    <tnp>г</tnp>
-    <nnp>Анадырь</nnp>
-    <adr>ул Тевлянто, 8</adr>
-    <prntbic/>
-    <datein>1993-12-31</datein>
-    <pttype>99</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>7719001105</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>40301810300000000059</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>76</ck>
-    <accountcbrbic>047719001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1464</index>
     <bic>040507868</bic>
     <namep>Росбанк филиал Дальний Восток АО "ТБанк"</namep>
     <regn>2673/3</regn>
@@ -39556,7 +39529,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1465</index>
+    <index>1464</index>
     <bic>044525201</bic>
     <namep>ПАО АКБ "АВАНГАРД"</namep>
     <regn>2879</regn>
@@ -39583,7 +39556,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1466</index>
+    <index>1465</index>
     <bic>044030778</bic>
     <namep>СЕВЕРО-ЗАПАДНЫЙ ФИЛИАЛ ПАО РОСБАНК</namep>
     <regn>2272/70</regn>
@@ -39610,7 +39583,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1467</index>
+    <index>1466</index>
     <bic>013207212</bic>
     <namep>УФК по Кемеровской области - Кузбассу</namep>
     <regn/>
@@ -39631,6 +39604,33 @@
     <regulationaccounttype>TRSA</regulationaccounttype>
     <ck>18</ck>
     <accountcbrbic>043207001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1467</index>
+    <bic>277000440</bic>
+    <namep>ИЗБИРАТЕЛЬНАЯ КОМИССИЯ ЧУКОТСКОГО АВТОНОМНОГО ОКРУГА</namep>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <rgn>77</rgn>
+    <ind>689000</ind>
+    <tnp>г</tnp>
+    <nnp>Анадырь</nnp>
+    <adr>ул Тевлянто, 8</adr>
+    <prntbic/>
+    <datein>1993-12-31</datein>
+    <pttype>99</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>7719001105</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>40301810300000000059</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>76</ck>
+    <accountcbrbic>047719001</accountcbrbic>
     <accountstatus>ACAC</accountstatus>
     <englname/>
     <swbic/>
