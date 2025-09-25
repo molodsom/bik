@@ -33050,60 +33050,6 @@
   </row>
   <row>
     <index>1224</index>
-    <bic>040507795</bic>
-    <namep>ПАО АКБ "Приморье"</namep>
-    <rgn>05</rgn>
-    <ind>690091</ind>
-    <tnp>г</tnp>
-    <nnp>Владивосток</nnp>
-    <adr>ул Светланская, 47</adr>
-    <prntbic/>
-    <datein>2012-01-10</datein>
-    <pttype>20</pttype>
-    <srvcs>5</srvcs>
-    <xchtype>1</xchtype>
-    <uid>0507795000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>3001</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30101810800000000795</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>49</ck>
-    <accountcbrbic>040507001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname>public joint-stock commercial bank "Primorye"; PJSCB "Primorye"</englname>
-    <swbic>UNEPRU8VXXX</swbic>
-    <defaultswbic>1</defaultswbic>
-  </row>
-  <row>
-    <index>1225</index>
-    <bic>040507861</bic>
-    <namep>ПРИМОРСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
-    <rgn>05</rgn>
-    <ind>690091</ind>
-    <tnp>г</tnp>
-    <nnp>Владивосток</nnp>
-    <adr>ул. Прапорщика Комарова, д.12в</adr>
-    <prntbic>044525111</prntbic>
-    <datein>2002-04-25</datein>
-    <pttype>30</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>0507861000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>3349/54</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30101810200000000861</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>38</ck>
-    <accountcbrbic>040507001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1226</index>
     <bic>044525604</bic>
     <namep>АО "Банк ФИНАМ"</namep>
     <rgn>45</rgn>
@@ -33130,7 +33076,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1227</index>
+    <index>1225</index>
     <bic>044525685</bic>
     <namep>"СДМ-Банк" (ПАО)</namep>
     <rgn>45</rgn>
@@ -33157,7 +33103,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1228</index>
+    <index>1226</index>
     <bic>047102853</bic>
     <namep>ФИЛИАЛ "КУРГАНСКИЙ" АО АКБ "АЛЕФ-БАНК"</namep>
     <rgn>37</rgn>
@@ -33184,7 +33130,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1229</index>
+    <index>1227</index>
     <bic>211000237</bic>
     <namep>Избирательная комиссия Ненецкого автономного округа</namep>
     <rgn>11</rgn>
@@ -33211,7 +33157,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1230</index>
+    <index>1228</index>
     <bic>010054194</bic>
     <namep>УФК по Запорожской области</namep>
     <rgn>00</rgn>
@@ -33238,7 +33184,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1231</index>
+    <index>1229</index>
     <bic>044525059</bic>
     <namep>ЦМРБанк (ООО)</namep>
     <rgn>45</rgn>
@@ -33265,7 +33211,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1232</index>
+    <index>1230</index>
     <bic>044525745</bic>
     <namep>Филиал № 7701 Банка ВТБ (ПАО)</namep>
     <rgn>45</rgn>
@@ -33292,7 +33238,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1233</index>
+    <index>1231</index>
     <bic>044525349</bic>
     <namep>АО КБ "ИС Банк"</namep>
     <rgn>45</rgn>
@@ -33319,7 +33265,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1234</index>
+    <index>1232</index>
     <bic>044525348</bic>
     <namep>АКБ "Ланта-Банк" (АО)</namep>
     <rgn>45</rgn>
@@ -33346,7 +33292,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1235</index>
+    <index>1233</index>
     <bic>200000149</bic>
     <namep>Участковая избирательная комиссия избирательного участка № 16</namep>
     <rgn>11</rgn>
@@ -33373,7 +33319,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1236</index>
+    <index>1234</index>
     <bic>043510607</bic>
     <namep>РНКБ БАНК (ПАО)</namep>
     <rgn>35</rgn>
@@ -33400,7 +33346,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1237</index>
+    <index>1235</index>
     <bic>044525148</bic>
     <namep>АО Банк Инго</namep>
     <rgn>45</rgn>
@@ -33427,7 +33373,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1238</index>
+    <index>1236</index>
     <bic>044030879</bic>
     <namep>СПБФ АО БАНК "СНГБ"</namep>
     <rgn>40</rgn>
@@ -33454,7 +33400,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1239</index>
+    <index>1237</index>
     <bic>044030920</bic>
     <namep>Ст-Петербургский ф-л ПАО "Банк ПСБ"</namep>
     <rgn>40</rgn>
@@ -33481,7 +33427,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1240</index>
+    <index>1238</index>
     <bic>045209777</bic>
     <namep>ФИЛИАЛ "ОМСКИЙ" АО "ОТП БАНК"</namep>
     <rgn>52</rgn>
@@ -33508,7 +33454,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1241</index>
+    <index>1239</index>
     <bic>048142744</bic>
     <namep>Ф-л Азиатско-Тихоокеанский Банк АО г.Улан-Удэ</namep>
     <rgn>81</rgn>
@@ -33535,7 +33481,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1242</index>
+    <index>1240</index>
     <bic>045004815</bic>
     <namep>АО "БАНК АКЦЕПТ"</namep>
     <rgn>50</rgn>
@@ -33562,7 +33508,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1243</index>
+    <index>1241</index>
     <bic>045004778</bic>
     <namep>ФИЛИАЛ БАНКА "ВБРР" (АО) В Г.НОВОСИБИРСКЕ</namep>
     <rgn>50</rgn>
@@ -33589,7 +33535,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1244</index>
+    <index>1242</index>
     <bic>045004883</bic>
     <namep>СИБИРСКИЙ ФИЛИАЛ АО "БАНК ИНТЕЗА"</namep>
     <rgn>50</rgn>
@@ -33616,7 +33562,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1245</index>
+    <index>1243</index>
     <bic>045004850</bic>
     <namep>БАНК "ЛЕВОБЕРЕЖНЫЙ" (ПАО)</namep>
     <rgn>50</rgn>
@@ -33643,7 +33589,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1246</index>
+    <index>1244</index>
     <bic>045004816</bic>
     <namep>Сибирский ф-л ПАО "Банк ПСБ"</namep>
     <rgn>50</rgn>
@@ -33670,7 +33616,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1247</index>
+    <index>1245</index>
     <bic>045004725</bic>
     <namep>ФИЛИАЛ ПАО "БАНК УРАЛСИБ" В Г.НОВОСИБИРСК</namep>
     <rgn>50</rgn>
@@ -33697,7 +33643,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1248</index>
+    <index>1246</index>
     <bic>044525631</bic>
     <namep>АО "БКС Банк"</namep>
     <rgn>45</rgn>
@@ -33724,7 +33670,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1249</index>
+    <index>1247</index>
     <bic>042202906</bic>
     <namep>Банк "Йошкар-Ола" (ПАО)</namep>
     <rgn>88</rgn>
@@ -33751,7 +33697,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1250</index>
+    <index>1248</index>
     <bic>042202776</bic>
     <namep>Марийский РФ АО "Россельхозбанк"</namep>
     <rgn>88</rgn>
@@ -33778,7 +33724,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1251</index>
+    <index>1249</index>
     <bic>042202750</bic>
     <namep>НКО "МОНЕТА" (ООО)</namep>
     <rgn>88</rgn>
@@ -33805,7 +33751,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1252</index>
+    <index>1250</index>
     <bic>041125000</bic>
     <namep>РКЦ НАРЬЯН-МАР</namep>
     <rgn>11</rgn>
@@ -33832,7 +33778,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1253</index>
+    <index>1251</index>
     <bic>044525079</bic>
     <namep>АО "Банк Финсервис"</namep>
     <rgn>45</rgn>
@@ -33859,7 +33805,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1254</index>
+    <index>1252</index>
     <bic>047102830</bic>
     <namep>ООО БАНК "КУРГАН"</namep>
     <rgn>37</rgn>
@@ -33886,7 +33832,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1255</index>
+    <index>1253</index>
     <bic>047102821</bic>
     <namep>ООО КБ "КЕТОВСКИЙ"</namep>
     <rgn>37</rgn>
@@ -33913,7 +33859,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1256</index>
+    <index>1254</index>
     <bic>046401772</bic>
     <namep>Банк "ИТУРУП" (ООО)</namep>
     <rgn>64</rgn>
@@ -33940,7 +33886,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1257</index>
+    <index>1255</index>
     <bic>049805770</bic>
     <namep>АКБ "АЛМАЗЭРГИЭНБАНК" АО</namep>
     <rgn>98</rgn>
@@ -33967,7 +33913,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1258</index>
+    <index>1256</index>
     <bic>049805609</bic>
     <namep>ЯКУТСКОЕ ОТДЕЛЕНИЕ N8603 ПАО СБЕРБАНК</namep>
     <rgn>98</rgn>
@@ -33994,7 +33940,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1259</index>
+    <index>1257</index>
     <bic>049805771</bic>
     <namep>ЯКУТСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <rgn>98</rgn>
@@ -34021,7 +33967,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1260</index>
+    <index>1258</index>
     <bic>044525402</bic>
     <namep>Банк ИПБ (АО)</namep>
     <rgn>45</rgn>
@@ -34048,7 +33994,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1261</index>
+    <index>1259</index>
     <bic>044525758</bic>
     <namep>АО "Витабанк"</namep>
     <rgn>46</rgn>
@@ -34075,7 +34021,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1262</index>
+    <index>1260</index>
     <bic>040349909</bic>
     <namep>ООО КБ "ВНЕШФИНБАНК"</namep>
     <rgn>03</rgn>
@@ -34102,7 +34048,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1263</index>
+    <index>1261</index>
     <bic>040702701</bic>
     <namep>СТАВРОПОЛЬСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <rgn>07</rgn>
@@ -34129,7 +34075,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1264</index>
+    <index>1262</index>
     <bic>045004774</bic>
     <namep>ФИЛИАЛ "НОВОСИБИРСКИЙ" АО "АЛЬФА-БАНК"</namep>
     <rgn>50</rgn>
@@ -34156,7 +34102,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1265</index>
+    <index>1263</index>
     <bic>044525326</bic>
     <namep>АКБ "Трансстройбанк" (АО)</namep>
     <rgn>45</rgn>
@@ -34183,7 +34129,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1266</index>
+    <index>1264</index>
     <bic>044525361</bic>
     <namep>АО "Эм-Ю-Эф-Джи Банк (Евразия)"</namep>
     <rgn>45</rgn>
@@ -34210,7 +34156,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1267</index>
+    <index>1265</index>
     <bic>044525371</bic>
     <namep>АО "Банк ДАЛЕНА"</namep>
     <rgn>45</rgn>
@@ -34237,7 +34183,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1268</index>
+    <index>1266</index>
     <bic>044525409</bic>
     <namep>"СОЦИУМ-БАНК" (ООО)</namep>
     <rgn>45</rgn>
@@ -34264,7 +34210,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1269</index>
+    <index>1267</index>
     <bic>044525451</bic>
     <namep>Банк "РЕСО Кредит" (АО)</namep>
     <rgn>45</rgn>
@@ -34291,7 +34237,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1270</index>
+    <index>1268</index>
     <bic>044525460</bic>
     <namep>АО "Экспобанк"</namep>
     <rgn>45</rgn>
@@ -34318,7 +34264,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1271</index>
+    <index>1269</index>
     <bic>046577409</bic>
     <namep>ЕКАТЕРИНБУРГСКИЙ ФИЛИАЛ БАНКА "ВЯТИЧ" (ПАО)</namep>
     <rgn>65</rgn>
@@ -34345,7 +34291,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1272</index>
+    <index>1270</index>
     <bic>044525466</bic>
     <namep>АО КБ "РУСНАРБАНК"</namep>
     <rgn>45</rgn>
@@ -34372,7 +34318,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1273</index>
+    <index>1271</index>
     <bic>044525473</bic>
     <namep>Банк Глобус (АО)</namep>
     <rgn>45</rgn>
@@ -34399,7 +34345,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1274</index>
+    <index>1272</index>
     <bic>044525476</bic>
     <namep>АО "МОСКОМБАНК"</namep>
     <rgn>45</rgn>
@@ -34426,7 +34372,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1275</index>
+    <index>1273</index>
     <bic>040813733</bic>
     <namep>ХАБАРОВСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <rgn>08</rgn>
@@ -34453,7 +34399,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1276</index>
+    <index>1274</index>
     <bic>040813744</bic>
     <namep>Дальневосточный ф-л ПАО "Банк ПСБ"</namep>
     <rgn>08</rgn>
@@ -34480,7 +34426,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1277</index>
+    <index>1275</index>
     <bic>047888760</bic>
     <namep>Ярославский ф-л ПАО "Банк ПСБ"</namep>
     <rgn>78</rgn>
@@ -34507,7 +34453,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1278</index>
+    <index>1276</index>
     <bic>040349966</bic>
     <namep>ЮГ-ИНВЕСТБАНК (ПАО)</namep>
     <rgn>03</rgn>
@@ -34534,7 +34480,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1279</index>
+    <index>1277</index>
     <bic>046015051</bic>
     <namep>Ф-Л АКБ "ФОРА-БАНК" (АО) В Г.РОСТОВ-НА-ДОНУ</namep>
     <rgn>60</rgn>
@@ -34561,7 +34507,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1280</index>
+    <index>1278</index>
     <bic>046015064</bic>
     <namep>ЮЖНЫЙ ФИЛИАЛ АО "БАНК ИНТЕЗА"</namep>
     <rgn>60</rgn>
@@ -34588,7 +34534,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1281</index>
+    <index>1279</index>
     <bic>044525099</bic>
     <namep>Московский филиал АО "БКС Банк"</namep>
     <rgn>45</rgn>
@@ -34615,7 +34561,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1282</index>
+    <index>1280</index>
     <bic>044525498</bic>
     <namep>АО Банк "Национальный стандарт"</namep>
     <rgn>45</rgn>
@@ -34642,7 +34588,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1283</index>
+    <index>1281</index>
     <bic>043601706</bic>
     <namep>АО КБ "СОЛИДАРНОСТЬ"</namep>
     <rgn>36</rgn>
@@ -34669,7 +34615,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1284</index>
+    <index>1282</index>
     <bic>040349602</bic>
     <namep>КРАСНОДАРСКОЕ ОТДЕЛЕНИЕ N8619 ПАО СБЕРБАНК</namep>
     <rgn>03</rgn>
@@ -34696,7 +34642,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1285</index>
+    <index>1283</index>
     <bic>046015052</bic>
     <namep>ООО КБ "РОСТФИНАНС"</namep>
     <rgn>60</rgn>
@@ -34723,7 +34669,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1286</index>
+    <index>1284</index>
     <bic>044525490</bic>
     <namep>АО МС Банк Рус</namep>
     <rgn>45</rgn>
@@ -34750,7 +34696,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1287</index>
+    <index>1285</index>
     <bic>044525494</bic>
     <namep>ООО "СМЛТ Банк"</namep>
     <rgn>45</rgn>
@@ -34777,7 +34723,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1288</index>
+    <index>1286</index>
     <bic>044525521</bic>
     <namep>АО МОСОБЛБАНК</namep>
     <rgn>45</rgn>
@@ -34804,7 +34750,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1289</index>
+    <index>1287</index>
     <bic>044525583</bic>
     <namep>Банк РМП (АО)</namep>
     <rgn>45</rgn>
@@ -34831,7 +34777,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1290</index>
+    <index>1288</index>
     <bic>044525624</bic>
     <namep>АО "ИШБАНК"</namep>
     <rgn>45</rgn>
@@ -34858,7 +34804,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1291</index>
+    <index>1289</index>
     <bic>044525646</bic>
     <namep>НКО НКЦ (АО)</namep>
     <rgn>45</rgn>
@@ -34885,7 +34831,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1292</index>
+    <index>1290</index>
     <bic>044525674</bic>
     <namep>"Русьуниверсалбанк" (ООО)</namep>
     <rgn>45</rgn>
@@ -34912,7 +34858,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1293</index>
+    <index>1291</index>
     <bic>044525696</bic>
     <namep>НКО "МКС" (ООО)</namep>
     <rgn>45</rgn>
@@ -34939,7 +34885,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1294</index>
+    <index>1292</index>
     <bic>044525709</bic>
     <namep>БАНК "АГОРА" ООО</namep>
     <rgn>45</rgn>
@@ -34966,7 +34912,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1295</index>
+    <index>1293</index>
     <bic>044525852</bic>
     <namep>КБ "НМБ" ООО</namep>
     <rgn>45</rgn>
@@ -34993,7 +34939,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1296</index>
+    <index>1294</index>
     <bic>044525860</bic>
     <namep>"Республиканский Кредитный Альянс" ООО</namep>
     <rgn>45</rgn>
@@ -35020,7 +34966,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1297</index>
+    <index>1295</index>
     <bic>044525951</bic>
     <namep>КБ "Москоммерцбанк" (АО)</namep>
     <rgn>45</rgn>
@@ -35047,7 +34993,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1298</index>
+    <index>1296</index>
     <bic>044525984</bic>
     <namep>АО Банк "Развитие-Столица"</namep>
     <rgn>45</rgn>
@@ -35074,7 +35020,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1299</index>
+    <index>1297</index>
     <bic>044525520</bic>
     <namep>Московский филиал Таврического Банка (АО)</namep>
     <rgn>45</rgn>
@@ -35101,7 +35047,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1300</index>
+    <index>1298</index>
     <bic>042202807</bic>
     <namep>Нижегородский филиал АО Банк Инго</namep>
     <rgn>22</rgn>
@@ -35128,7 +35074,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1301</index>
+    <index>1299</index>
     <bic>044525706</bic>
     <namep>ООО РНКО "Единая касса"</namep>
     <rgn>45</rgn>
@@ -35155,34 +35101,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1302</index>
-    <bic>044525225</bic>
-    <namep>ПАО Сбербанк</namep>
-    <rgn>45</rgn>
-    <ind>117312</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>улица Вавилова, дом 19</adr>
-    <prntbic/>
-    <datein>1999-09-27</datein>
-    <pttype>20</pttype>
-    <srvcs>5</srvcs>
-    <xchtype>1</xchtype>
-    <uid>4525225000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>1481</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30101810400000000225</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>78</ck>
-    <accountcbrbic>044525000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname>SBERBANK</englname>
-    <swbic>SABRRUMM012</swbic>
-    <defaultswbic>0</defaultswbic>
-  </row>
-  <row>
-    <index>1303</index>
+    <index>1300</index>
     <bic>046577422</bic>
     <namep>ЕКАТЕРИНБУРГСКИЙ ФИЛИАЛ АО БАНК ИНГО</namep>
     <rgn>65</rgn>
@@ -35209,7 +35128,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1304</index>
+    <index>1301</index>
     <bic>044525780</bic>
     <namep>Ивановский РФ АО "Россельхозбанк"</namep>
     <rgn>24</rgn>
@@ -35236,7 +35155,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1305</index>
+    <index>1302</index>
     <bic>044525959</bic>
     <namep>Костромской РФ АО "Россельхозбанк"</namep>
     <rgn>34</rgn>
@@ -35263,7 +35182,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1306</index>
+    <index>1303</index>
     <bic>043207720</bic>
     <namep>КУ АО "Кемсоцинбанк" - ГК "АСВ"</namep>
     <rgn>45</rgn>
@@ -35290,7 +35209,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1307</index>
+    <index>1304</index>
     <bic>040173604</bic>
     <namep>АЛТАЙСКОЕ ОТДЕЛЕНИЕ N8644 ПАО СБЕРБАНК</namep>
     <rgn>01</rgn>
@@ -35317,7 +35236,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1308</index>
+    <index>1305</index>
     <bic>044525238</bic>
     <namep>КУ АКБ "АПАБАНК" (АО) - ГК "АСВ"</namep>
     <rgn>45</rgn>
@@ -35344,7 +35263,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1309</index>
+    <index>1306</index>
     <bic>044525931</bic>
     <namep>Ликвидатор ООО КБ "ПЛАТИНА" - ГК "АСВ"</namep>
     <rgn>45</rgn>
@@ -35371,7 +35290,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1310</index>
+    <index>1307</index>
     <bic>044525491</bic>
     <namep>КУ ООО ПИР Банк - ГК "АСВ"</namep>
     <rgn>45</rgn>
@@ -35398,7 +35317,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1311</index>
+    <index>1308</index>
     <bic>044030786</bic>
     <namep>ФИЛИАЛ "САНКТ-ПЕТЕРБУРГСКИЙ" АО "АЛЬФА-БАНК"</namep>
     <rgn>40</rgn>
@@ -35425,7 +35344,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1312</index>
+    <index>1309</index>
     <bic>044030877</bic>
     <namep>Таврический Банк (АО)</namep>
     <rgn>40</rgn>
@@ -35452,7 +35371,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1313</index>
+    <index>1310</index>
     <bic>044525610</bic>
     <namep>Московский филиал АКБ МКПБ (АО)</namep>
     <rgn>45</rgn>
@@ -35479,7 +35398,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1314</index>
+    <index>1311</index>
     <bic>043207612</bic>
     <namep>КЕМЕРОВСКОЕ ОТДЕЛЕНИЕ N8615 ПАО СБЕРБАНК</namep>
     <rgn>32</rgn>
@@ -35506,7 +35425,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1315</index>
+    <index>1312</index>
     <bic>040507050</bic>
     <namep>Дальневосточный филиал АО Банк Инго</namep>
     <rgn>05</rgn>
@@ -35533,7 +35452,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1316</index>
+    <index>1313</index>
     <bic>044525980</bic>
     <namep>КМ "Профильный Банк" (АО)</namep>
     <rgn>45</rgn>
@@ -35560,7 +35479,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1317</index>
+    <index>1314</index>
     <bic>040507717</bic>
     <namep>ООО "Примтеркомбанк"</namep>
     <rgn>05</rgn>
@@ -35587,7 +35506,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1318</index>
+    <index>1315</index>
     <bic>042785002</bic>
     <namep>ПУ БАНКА РОССИИ РУБЕЖНОЕ</namep>
     <rgn>27</rgn>
@@ -35614,7 +35533,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1319</index>
+    <index>1316</index>
     <bic>042520728</bic>
     <namep>Иркутский филиал АО Банк Инго</namep>
     <rgn>25</rgn>
@@ -35641,7 +35560,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1320</index>
+    <index>1317</index>
     <bic>043601845</bic>
     <namep>Самарский филиал АО Банк Инго</namep>
     <rgn>36</rgn>
@@ -35668,7 +35587,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1321</index>
+    <index>1318</index>
     <bic>044525767</bic>
     <namep>АО "Кредит Европа Банк (Россия)"</namep>
     <rgn>45</rgn>
@@ -35695,34 +35614,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1322</index>
-    <bic>044525769</bic>
-    <namep>ББР Банк (АО)</namep>
-    <rgn>45</rgn>
-    <ind>121099</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>1-ый Николощеповский пер., д. 6 стр. 1</adr>
-    <prntbic/>
-    <datein>2016-06-16</datein>
-    <pttype>20</pttype>
-    <srvcs>5</srvcs>
-    <xchtype>1</xchtype>
-    <uid>4525769000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>2929</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30101810745250000769</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>59</ck>
-    <accountcbrbic>044525000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname>JOINT STOCK COMPANY BBR BANK</englname>
-    <swbic>BADJRUMMXXX</swbic>
-    <defaultswbic>1</defaultswbic>
-  </row>
-  <row>
-    <index>1323</index>
+    <index>1319</index>
     <bic>044525900</bic>
     <namep>ООО "Цифра банк"</namep>
     <rgn>45</rgn>
@@ -35749,7 +35641,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1324</index>
+    <index>1320</index>
     <bic>044525151</bic>
     <namep>АО "Банк Русский Стандарт"</namep>
     <rgn>45</rgn>
@@ -35776,7 +35668,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1325</index>
+    <index>1321</index>
     <bic>044525087</bic>
     <namep>Московский филиал АО КБ "САММИТ БАНК"</namep>
     <rgn>45</rgn>
@@ -35803,7 +35695,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1326</index>
+    <index>1322</index>
     <bic>044030757</bic>
     <namep>ПАО ФИНСТАР БАНК</namep>
     <rgn>40</rgn>
@@ -35830,7 +35722,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1327</index>
+    <index>1323</index>
     <bic>049401601</bic>
     <namep>УДМУРТСКОЕ ОТДЕЛЕНИЕ N8618 ПАО СБЕРБАНК</namep>
     <rgn>94</rgn>
@@ -35857,7 +35749,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1328</index>
+    <index>1324</index>
     <bic>040507750</bic>
     <namep>АО "Роял Кредит Банк"</namep>
     <rgn>05</rgn>
@@ -35884,7 +35776,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1329</index>
+    <index>1325</index>
     <bic>042007681</bic>
     <namep>ЦЕНТРАЛЬНО-ЧЕРНОЗЕМНЫЙ БАНК ПАО СБЕРБАНК</namep>
     <rgn>20</rgn>
@@ -35911,7 +35803,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1330</index>
+    <index>1326</index>
     <bic>044525979</bic>
     <namep>АО КБ "Модульбанк"</namep>
     <rgn>34</rgn>
@@ -35938,7 +35830,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1331</index>
+    <index>1327</index>
     <bic>044525162</bic>
     <namep>АО АКБ "НОВИКОМБАНК"</namep>
     <rgn>45</rgn>
@@ -35965,88 +35857,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1332</index>
-    <bic>044525111</bic>
-    <namep>АО "Россельхозбанк"</namep>
-    <rgn>45</rgn>
-    <ind>119034</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>Гагаринский переулок, дом 3</adr>
-    <prntbic/>
-    <datein>2000-05-12</datein>
-    <pttype>20</pttype>
-    <srvcs>5</srvcs>
-    <xchtype>1</xchtype>
-    <uid>4525111000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>3349</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30101810200000000111</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>73</ck>
-    <accountcbrbic>044525000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname>JSC ROSSELKHOZBANK</englname>
-    <swbic>RUAGRUMMXXX</swbic>
-    <defaultswbic>1</defaultswbic>
-  </row>
-  <row>
-    <index>1333</index>
-    <bic>044525084</bic>
-    <namep>Ликвидатор АО "РУНЭТБАНК"</namep>
-    <rgn>45</rgn>
-    <ind>123056</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>ул Гашека, 9, к 4, стр 1</adr>
-    <prntbic/>
-    <datein>2016-05-12</datein>
-    <pttype>90</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>4525084000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>2829</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30101810145250000084</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>53</ck>
-    <accountcbrbic>044525000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1334</index>
-    <bic>044525236</bic>
-    <namep>АО "Банк Кредит Свисс (Москва)"</namep>
-    <rgn>45</rgn>
-    <ind>125047</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>ул. 1-я Тверская-Ямская, д. 21</adr>
-    <prntbic/>
-    <datein>1998-03-25</datein>
-    <pttype>20</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>4525236000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>2494</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30101810800000000236</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>64</ck>
-    <accountcbrbic>044525000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname>JSC BANK CREDIT SUISSE (MOSCOW)</englname>
-    <swbic>CRESRUMMXXX</swbic>
-    <defaultswbic>1</defaultswbic>
-  </row>
-  <row>
-    <index>1335</index>
+    <index>1328</index>
     <bic>044525388</bic>
     <namep>ТКБ БАНК ПАО</namep>
     <rgn>45</rgn>
@@ -36073,7 +35884,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1336</index>
+    <index>1329</index>
     <bic>041280103</bic>
     <namep>УФК по Астраханской области</namep>
     <rgn>12</rgn>
@@ -36100,7 +35911,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1337</index>
+    <index>1330</index>
     <bic>045209713</bic>
     <namep>КУ БАНК "СИБЭС" (АО) - ГК "АСВ"</namep>
     <rgn>52</rgn>
@@ -36127,7 +35938,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1338</index>
+    <index>1331</index>
     <bic>044525184</bic>
     <namep>АО "МБ Банк"</namep>
     <rgn>45</rgn>
@@ -36154,7 +35965,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1339</index>
+    <index>1332</index>
     <bic>040407915</bic>
     <namep>Красноярский филиал АО Банк Инго</namep>
     <rgn>04</rgn>
@@ -36181,7 +35992,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1340</index>
+    <index>1333</index>
     <bic>044525960</bic>
     <namep>НКО "Центр расчетов" (АО)</namep>
     <rgn>45</rgn>
@@ -36208,7 +36019,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1341</index>
+    <index>1334</index>
     <bic>044525089</bic>
     <namep>АО РНКО "Финансовый ландшафт"</namep>
     <rgn>45</rgn>
@@ -36235,7 +36046,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1342</index>
+    <index>1335</index>
     <bic>044525599</bic>
     <namep>Филиал АКБ "СЛАВИЯ" (АО) в г. Люберцы</namep>
     <rgn>45</rgn>
@@ -36262,7 +36073,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1343</index>
+    <index>1336</index>
     <bic>046015066</bic>
     <namep>Ф-Л АО АКБ "НОВИКОМБАНК" В Г.РОСТОВЕ-НА-ДОНУ</namep>
     <rgn>60</rgn>
@@ -36289,7 +36100,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1344</index>
+    <index>1337</index>
     <bic>047501830</bic>
     <namep>ФИЛИАЛ "ЧЕЛЯБИНСКИЙ" АО "ОТП БАНК"</namep>
     <rgn>75</rgn>
@@ -36316,7 +36127,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1345</index>
+    <index>1338</index>
     <bic>047501821</bic>
     <namep>ЧЕЛЯБИНСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <rgn>75</rgn>
@@ -36343,7 +36154,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1346</index>
+    <index>1339</index>
     <bic>046577501</bic>
     <namep>ФИЛИАЛ № 6602 БАНКА ВТБ (ПАО)</namep>
     <rgn>65</rgn>
@@ -36370,7 +36181,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1347</index>
+    <index>1340</index>
     <bic>044525201</bic>
     <namep>ПАО АКБ "АВАНГАРД"</namep>
     <rgn>45</rgn>
@@ -36397,7 +36208,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1348</index>
+    <index>1341</index>
     <bic>046577964</bic>
     <namep>ФИЛИАЛ "ЕКАТЕРИНБУРГСКИЙ" АО "АЛЬФА-БАНК"</namep>
     <rgn>65</rgn>
@@ -36424,7 +36235,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1349</index>
+    <index>1342</index>
     <bic>046577446</bic>
     <namep>ФИЛИАЛ ПАО "БАНК УРАЛСИБ" В Г. ЕКАТЕРИНБУРГ</namep>
     <rgn>65</rgn>
@@ -36451,34 +36262,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1350</index>
-    <bic>040395000</bic>
-    <namep>РКЦ НОВОРОССИЙСК</namep>
-    <rgn>03</rgn>
-    <ind>353900</ind>
-    <tnp>г</tnp>
-    <nnp>Новороссийск</nnp>
-    <adr>ул Советов, 47</adr>
-    <prntbic>040349001</prntbic>
-    <datein>1994-01-20</datein>
-    <pttype>10</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>0</xchtype>
-    <uid>0395000000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn/>
-    <cntrcd/>
-    <account/>
-    <regulationaccounttype/>
-    <ck/>
-    <accountcbrbic/>
-    <accountstatus/>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1351</index>
+    <index>1343</index>
     <bic>048860001</bic>
     <namep>ОТДЕЛЕНИЕ-НБ РЕСПУБЛИКА МАРИЙ ЭЛ БАНКА РОССИИ</namep>
     <rgn>88</rgn>
@@ -36505,7 +36289,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1352</index>
+    <index>1344</index>
     <bic>044525823</bic>
     <namep>Банк ГПБ (АО)</namep>
     <rgn>45</rgn>
@@ -36532,7 +36316,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1353</index>
+    <index>1345</index>
     <bic>044525076</bic>
     <namep>АО РНКО "Лазарус Финанс"</namep>
     <rgn>45</rgn>
@@ -36559,7 +36343,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1354</index>
+    <index>1346</index>
     <bic>245010410</bic>
     <namep>Центральный банк Республики Армения</namep>
     <rgn>00</rgn>
@@ -36586,7 +36370,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1355</index>
+    <index>1347</index>
     <bic>245001291</bic>
     <namep>ЦЕНТРАЛЬНЫЙ БАНК ТУРКМЕНИСТАНА</namep>
     <rgn>00</rgn>
@@ -36613,7 +36397,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1356</index>
+    <index>1348</index>
     <bic>245001293</bic>
     <namep>НАЦИОНАЛЬНЫЙ БАНК КЫРГЫЗСКОЙ РЕСПУБЛИКИ</namep>
     <rgn>00</rgn>
@@ -36640,7 +36424,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1357</index>
+    <index>1349</index>
     <bic>245001296</bic>
     <namep>НАЦИОНАЛЬНЫЙ БАНК ГРУЗИИ</namep>
     <rgn>00</rgn>
@@ -36667,7 +36451,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1358</index>
+    <index>1350</index>
     <bic>245001292</bic>
     <namep>Национальный банк Республики Беларусь</namep>
     <rgn>00</rgn>
@@ -36694,7 +36478,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1359</index>
+    <index>1351</index>
     <bic>245001294</bic>
     <namep>Национальный Банк Республики Казахстан</namep>
     <rgn>00</rgn>
@@ -36721,7 +36505,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1360</index>
+    <index>1352</index>
     <bic>041909786</bic>
     <namep>АО "БАНК СГБ"</namep>
     <rgn>19</rgn>
@@ -36748,7 +36532,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1361</index>
+    <index>1353</index>
     <bic>042202100</bic>
     <namep>УФК по Новгородской области</namep>
     <rgn>49</rgn>
@@ -36775,7 +36559,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1362</index>
+    <index>1354</index>
     <bic>040507101</bic>
     <namep>УФК по Еврейской автономной области</namep>
     <rgn>99</rgn>
@@ -36802,7 +36586,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1363</index>
+    <index>1355</index>
     <bic>042202705</bic>
     <namep>ПАО "НБД-Банк"</namep>
     <rgn>22</rgn>
@@ -36829,7 +36613,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1364</index>
+    <index>1356</index>
     <bic>046015602</bic>
     <namep>ЮГО-ЗАПАДНЫЙ БАНК ПАО СБЕРБАНК</namep>
     <rgn>60</rgn>
@@ -36856,7 +36640,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1365</index>
+    <index>1357</index>
     <bic>044525095</bic>
     <namep>МОРСКОЙ БАНК (АО)</namep>
     <rgn>45</rgn>
@@ -36883,7 +36667,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1366</index>
+    <index>1358</index>
     <bic>041117601</bic>
     <namep>АРХАНГЕЛЬСКОЕ ОТДЕЛЕНИЕ N 8637 ПАО СБЕРБАНК</namep>
     <rgn>11</rgn>
@@ -36910,7 +36694,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1367</index>
+    <index>1359</index>
     <bic>046015762</bic>
     <namep>ПАО КБ "ЦЕНТР-ИНВЕСТ"</namep>
     <rgn>60</rgn>
@@ -36937,7 +36721,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1368</index>
+    <index>1360</index>
     <bic>040349722</bic>
     <namep>КБ "КУБАНЬ КРЕДИТ" ООО</namep>
     <rgn>03</rgn>
@@ -36964,7 +36748,196 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1369</index>
+    <index>1361</index>
+    <bic>040507795</bic>
+    <namep>ПАО АКБ "Приморье"</namep>
+    <rgn>05</rgn>
+    <ind>690091</ind>
+    <tnp>г</tnp>
+    <nnp>Владивосток</nnp>
+    <adr>ул Светланская, 47</adr>
+    <prntbic/>
+    <datein>2012-01-10</datein>
+    <pttype>20</pttype>
+    <srvcs>5</srvcs>
+    <xchtype>1</xchtype>
+    <uid>0507795000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>3001</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30101810800000000795</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>49</ck>
+    <accountcbrbic>040507001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname>public joint-stock commercial bank "Primorye"; PJSCB "Primorye"</englname>
+    <swbic>UNEPRU8VXXX</swbic>
+    <defaultswbic>1</defaultswbic>
+  </row>
+  <row>
+    <index>1362</index>
+    <bic>040507803</bic>
+    <namep>ПАО СКБ Приморья "Примсоцбанк"</namep>
+    <rgn>05</rgn>
+    <ind>690106</ind>
+    <tnp>г</tnp>
+    <nnp>Владивосток</nnp>
+    <adr>Партизанский пр-т, 44</adr>
+    <prntbic/>
+    <datein>1993-08-21</datein>
+    <pttype>20</pttype>
+    <srvcs>5</srvcs>
+    <xchtype>1</xchtype>
+    <uid>0507803000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>2733</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30101810200000000803</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>07</ck>
+    <accountcbrbic>040507001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname>Public Joint-Stock Social Commercial Bank of Primorye "Primsotsbank"; PJS SCBP "Primsotsbank"</englname>
+    <swbic>PRMTRU8VXXX</swbic>
+    <defaultswbic>1</defaultswbic>
+  </row>
+  <row>
+    <index>1363</index>
+    <bic>040507861</bic>
+    <namep>ПРИМОРСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
+    <rgn>05</rgn>
+    <ind>690091</ind>
+    <tnp>г</tnp>
+    <nnp>Владивосток</nnp>
+    <adr>ул. Прапорщика Комарова, д.12в</adr>
+    <prntbic>044525111</prntbic>
+    <datein>2002-04-25</datein>
+    <pttype>30</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>0507861000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>3349/54</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30101810200000000861</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>38</ck>
+    <accountcbrbic>040507001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1364</index>
+    <bic>044525225</bic>
+    <namep>ПАО Сбербанк</namep>
+    <rgn>45</rgn>
+    <ind>117312</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>улица Вавилова, дом 19</adr>
+    <prntbic/>
+    <datein>1999-09-27</datein>
+    <pttype>20</pttype>
+    <srvcs>5</srvcs>
+    <xchtype>1</xchtype>
+    <uid>4525225000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>1481</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30101810400000000225</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>78</ck>
+    <accountcbrbic>044525000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname>SBERBANK</englname>
+    <swbic>SABRRUMM012</swbic>
+    <defaultswbic>0</defaultswbic>
+  </row>
+  <row>
+    <index>1365</index>
+    <bic>044525111</bic>
+    <namep>АО "Россельхозбанк"</namep>
+    <rgn>45</rgn>
+    <ind>119034</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>Гагаринский переулок, дом 3</adr>
+    <prntbic/>
+    <datein>2000-05-12</datein>
+    <pttype>20</pttype>
+    <srvcs>5</srvcs>
+    <xchtype>1</xchtype>
+    <uid>4525111000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>3349</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30101810200000000111</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>73</ck>
+    <accountcbrbic>044525000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname>JSC ROSSELKHOZBANK</englname>
+    <swbic>RUAGRUMMXXX</swbic>
+    <defaultswbic>1</defaultswbic>
+  </row>
+  <row>
+    <index>1366</index>
+    <bic>044525236</bic>
+    <namep>АО "Банк Кредит Свисс (Москва)"</namep>
+    <rgn>45</rgn>
+    <ind>125047</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>ул. 1-я Тверская-Ямская, д. 21</adr>
+    <prntbic/>
+    <datein>1998-03-25</datein>
+    <pttype>20</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>4525236000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>2494</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30101810800000000236</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>64</ck>
+    <accountcbrbic>044525000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname>JSC BANK CREDIT SUISSE (MOSCOW)</englname>
+    <swbic>CRESRUMMXXX</swbic>
+    <defaultswbic>1</defaultswbic>
+  </row>
+  <row>
+    <index>1367</index>
+    <bic>044525084</bic>
+    <namep>Ликвидатор АО "РУНЭТБАНК"</namep>
+    <rgn>45</rgn>
+    <ind>123056</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>ул Гашека, 9, к 4, стр 1</adr>
+    <prntbic/>
+    <datein>2016-05-12</datein>
+    <pttype>90</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>4525084000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>2829</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30101810145250000084</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>53</ck>
+    <accountcbrbic>044525000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1368</index>
     <bic>040702715</bic>
     <namep>КБ "Континенталь" ООО</namep>
     <rgn>07</rgn>
@@ -36991,7 +36964,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1370</index>
+    <index>1369</index>
     <bic>040702725</bic>
     <namep>ООО "РУСБС"</namep>
     <rgn>07</rgn>
@@ -37018,7 +36991,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1371</index>
+    <index>1370</index>
     <bic>042202824</bic>
     <namep>ФИЛИАЛ "НИЖЕГОРОДСКИЙ" АО "АЛЬФА-БАНК"</namep>
     <rgn>22</rgn>
@@ -37045,7 +37018,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1372</index>
+    <index>1371</index>
     <bic>042520607</bic>
     <namep>БАЙКАЛЬСКИЙ БАНК ПАО СБЕРБАНК</namep>
     <rgn>25</rgn>
@@ -37072,7 +37045,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1373</index>
+    <index>1372</index>
     <bic>040702734</bic>
     <namep>ФИЛИАЛ №4 ПАО КБ "ЦЕНТР-ИНВЕСТ"</namep>
     <rgn>07</rgn>
@@ -37099,7 +37072,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1374</index>
+    <index>1373</index>
     <bic>040582002</bic>
     <namep>ПУ БАНКА РОССИИ КАЗАЧЬЕ</namep>
     <rgn>05</rgn>
@@ -37126,7 +37099,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1375</index>
+    <index>1374</index>
     <bic>040507705</bic>
     <namep>АО "Дальневосточный банк"</namep>
     <rgn>05</rgn>
@@ -37153,2032 +37126,34 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
+    <index>1375</index>
+    <bic>044525769</bic>
+    <namep>ББР Банк (АО)</namep>
+    <rgn>45</rgn>
+    <ind>121099</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>1-ый Николощеповский пер., д. 6 стр. 1</adr>
+    <prntbic/>
+    <datein>2016-06-16</datein>
+    <pttype>20</pttype>
+    <srvcs>5</srvcs>
+    <xchtype>1</xchtype>
+    <uid>4525769000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>2929</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30101810745250000769</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>59</ck>
+    <accountcbrbic>044525000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname>JOINT STOCK COMPANY BBR BANK</englname>
+    <swbic>BADJRUMMXXX</swbic>
+    <defaultswbic>1</defaultswbic>
+  </row>
+  <row>
     <index>1376</index>
-    <bic>044525218</bic>
-    <namep>КБ "Дж.П. Морган Банк Интернешнл" (ООО)</namep>
-    <rgn>45</rgn>
-    <ind>125047</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>улица Бутырский Вал, дом 10</adr>
-    <prntbic/>
-    <datein>1998-03-25</datein>
-    <pttype>20</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>4525218000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>2629</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30101810200000000218</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>75</ck>
-    <accountcbrbic>044525000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname>CB "J.P. MORGAN BANK INTERNATIONAL" (LLC)</englname>
-    <swbic>CHASRUMXXXX</swbic>
-    <defaultswbic>1</defaultswbic>
-  </row>
-  <row>
-    <index>1377</index>
-    <bic>047501843</bic>
-    <namep>КУ ООО "УИК-БАНК"</namep>
-    <rgn>45</rgn>
-    <ind>109240</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>ул. Высоцкого, 4</adr>
-    <prntbic/>
-    <datein>2010-09-20</datein>
-    <pttype>90</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>7501843000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>1300</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30101810200000000843</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>27</ck>
-    <accountcbrbic>047501001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1378</index>
-    <bic>044030951</bic>
-    <namep>ПАО УКБ "Новобанк"</namep>
-    <rgn>49</rgn>
-    <ind>173003</ind>
-    <tnp>г</tnp>
-    <nnp>Великий Новгород</nnp>
-    <adr>набережная реки Гзень, д. 11</adr>
-    <prntbic/>
-    <datein>2025-06-29</datein>
-    <pttype>20</pttype>
-    <srvcs>5</srvcs>
-    <xchtype>1</xchtype>
-    <uid>4030951000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>1352</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30101810445374030951</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>39</ck>
-    <accountcbrbic>044030001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname>PJSC UCB "Novobank"</englname>
-    <swbic>PJTORU22</swbic>
-    <defaultswbic>1</defaultswbic>
-  </row>
-  <row>
-    <index>1379</index>
-    <bic>044525340</bic>
-    <namep>ООО "Ориджин Банк"</namep>
-    <rgn>45</rgn>
-    <ind>125047</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>ул. Гашека, д. 6</adr>
-    <prntbic/>
-    <datein>2009-02-04</datein>
-    <pttype>20</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>4525340000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>3490</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30101810000000000340</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>59</ck>
-    <accountcbrbic>044525000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname>OOO GOLDMAN SACHS BANK</englname>
-    <swbic>GOLDRUMMXXX</swbic>
-    <defaultswbic>1</defaultswbic>
-  </row>
-  <row>
-    <index>1380</index>
-    <bic>046015327</bic>
-    <namep>Филиал "Ростовский" АО "ОТП Банк"</namep>
-    <rgn>60</rgn>
-    <ind>347880</ind>
-    <tnp>г</tnp>
-    <nnp>Гуково</nnp>
-    <adr>ул. Красная Горка, д. 3</adr>
-    <prntbic>044525311</prntbic>
-    <datein>2023-11-03</datein>
-    <pttype>30</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>6015327000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>2766/9</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30101810345376015327</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>67</ck>
-    <accountcbrbic>046015001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1381</index>
-    <bic>044525986</bic>
-    <namep>КУ ОАО АКБ "ПРОБИЗНЕСБАНК" - ГК "АСВ"</namep>
-    <rgn>45</rgn>
-    <ind>109240</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>ул Высоцкого, 4</adr>
-    <prntbic/>
-    <datein>1998-03-25</datein>
-    <pttype>90</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>4525986000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>2412</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30101810600000000986</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>96</ck>
-    <accountcbrbic>044525000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname>Probusinessbank</englname>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1382</index>
-    <bic>044525161</bic>
-    <namep>КБ "ЛОКО-Банк" (АО)</namep>
-    <rgn>45</rgn>
-    <ind>125167</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>Ленинградский проспект, дом 39, строение 80</adr>
-    <prntbic/>
-    <datein>2015-08-27</datein>
-    <pttype>20</pttype>
-    <srvcs>5</srvcs>
-    <xchtype>1</xchtype>
-    <uid>4525161000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>2707</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30101810945250000161</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>36</ck>
-    <accountcbrbic>044525000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname>Joint stock company "LOCKO-Bank" ("LOCKO-Bank")</englname>
-    <swbic>CLOKRUMMXXX</swbic>
-    <defaultswbic>1</defaultswbic>
-  </row>
-  <row>
-    <index>1383</index>
-    <bic>044525710</bic>
-    <namep>АО КБ "АГРОПРОМКРЕДИТ"</namep>
-    <rgn>45</rgn>
-    <ind>119121</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>улица Бурденко, дом 22</adr>
-    <prntbic/>
-    <datein>2015-09-09</datein>
-    <pttype>20</pttype>
-    <srvcs>5</srvcs>
-    <xchtype>1</xchtype>
-    <uid>4525710000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>2880</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30101810545250000710</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>65</ck>
-    <accountcbrbic>044525000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname>Joint-Stock Commercial bank "Agropromcredit" (JSCB "Agropromcredit")</englname>
-    <swbic>AGCORUMM</swbic>
-    <defaultswbic>1</defaultswbic>
-  </row>
-  <row>
-    <index>1384</index>
-    <bic>043002717</bic>
-    <namep>КМ "Профильный Банк" (АО)</namep>
-    <rgn>45</rgn>
-    <ind>107078</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>ул. Садовая - Спасская, д 28</adr>
-    <prntbic/>
-    <datein>1992-10-13</datein>
-    <pttype>20</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>3002717000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>2103</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30101810100000000717</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>73</ck>
-    <accountcbrbic>043002001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname>"Commercial International "Profile Bank" (Joint Stock Company)</englname>
-    <swbic>MUKZRUP1XXX</swbic>
-    <defaultswbic>1</defaultswbic>
-  </row>
-  <row>
-    <index>1385</index>
-    <bic>044525245</bic>
-    <namep>ООО "ХКФ Банк"</namep>
-    <rgn>45</rgn>
-    <ind>125124</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>ул. Правды, д. 8, корпус 1</adr>
-    <prntbic/>
-    <datein>2015-09-23</datein>
-    <pttype>20</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>4525245000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>316</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30101810845250000245</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>52</ck>
-    <accountcbrbic>044525000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname>HCF BANK</englname>
-    <swbic>HCFBRUMMXXX</swbic>
-    <defaultswbic>1</defaultswbic>
-  </row>
-  <row>
-    <index>1386</index>
-    <bic>044525080</bic>
-    <namep>ООО РНКО "АМРА"</namep>
-    <rgn>45</rgn>
-    <ind>127018</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>улица Складочная, дом 1, строение 1</adr>
-    <prntbic/>
-    <datein>2025-06-06</datein>
-    <pttype>20</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>0</xchtype>
-    <uid>4525080000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>3554-К</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30103810045374525080</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>33</ck>
-    <accountcbrbic>044525000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1387</index>
-    <bic>044030814</bic>
-    <namep>АО "ГОРБАНК"</namep>
-    <rgn>40</rgn>
-    <ind>191186</ind>
-    <tnp>г</tnp>
-    <nnp>Санкт-Петербург</nnp>
-    <adr>ул. Итальянская, д. 15, литер А</adr>
-    <prntbic/>
-    <datein>1997-12-31</datein>
-    <pttype>20</pttype>
-    <srvcs>5</srvcs>
-    <xchtype>1</xchtype>
-    <uid>4030814000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>2982</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30101810200000000814</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>27</ck>
-    <accountcbrbic>044030001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname>PETERSBURG'S CITY BANK, INC</englname>
-    <swbic>CPGBRU2P</swbic>
-    <defaultswbic>1</defaultswbic>
-  </row>
-  <row>
-    <index>1388</index>
-    <bic>048073846</bic>
-    <namep>КУ Банк ПТБ (ООО) - ГК "АСВ"</namep>
-    <rgn>45</rgn>
-    <ind>109240</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>ул. Высоцкого, д. 4</adr>
-    <prntbic/>
-    <datein>1993-05-14</datein>
-    <pttype>90</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>8073846000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>2638</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30101810000000000846</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>14</ck>
-    <accountcbrbic>048073001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1389</index>
-    <bic>044525982</bic>
-    <namep>Ликвидатор РНКО "ИНЭКО" (ООО)</namep>
-    <rgn>24</rgn>
-    <ind>153000</ind>
-    <tnp>г</tnp>
-    <nnp>Иваново</nnp>
-    <adr>Шереметьевский проспект, дом 47</adr>
-    <prntbic/>
-    <datein>2025-07-18</datein>
-    <pttype>90</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>1</xchtype>
-    <uid>4525982000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>3520-К</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30103810745374525982</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>25</ck>
-    <accountcbrbic>044525000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1390</index>
-    <bic>041236100</bic>
-    <namep>УФК по Астраханской области</namep>
-    <rgn>12</rgn>
-    <ind>414056</ind>
-    <tnp>г</tnp>
-    <nnp>Астрахань</nnp>
-    <adr>ул Латышева, 6 Г</adr>
-    <prntbic/>
-    <datein>2013-01-09</datein>
-    <pttype>52</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>1236002001</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <account>40116810600000010012</account>
-    <regulationaccounttype>TRSA</regulationaccounttype>
-    <ck>99</ck>
-    <accountcbrbic>041236002</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1391</index>
-    <bic>200000152</bic>
-    <namep>Участковая избирательная комиссия избирательного участка № 7</namep>
-    <rgn>11</rgn>
-    <ind>166735</ind>
-    <tnp>с</tnp>
-    <nnp>Ома</nnp>
-    <adr>ул. Речная, д. 17</adr>
-    <prntbic/>
-    <datein>2025-08-11</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>2000000009</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <account>40206810945371125030</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>96</ck>
-    <accountcbrbic>041125000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1392</index>
-    <bic>044525976</bic>
-    <namep>АКБ "Абсолют Банк" (ПАО)</namep>
-    <rgn>45</rgn>
-    <ind>127051</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>Цветной бульвар, дом 18</adr>
-    <prntbic/>
-    <datein>2000-06-27</datein>
-    <pttype>20</pttype>
-    <srvcs>5</srvcs>
-    <xchtype>1</xchtype>
-    <uid>4525976000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>2306</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30101810500000000976</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>35</ck>
-    <accountcbrbic>044525000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname>ABSOLUT BANK</englname>
-    <swbic>ABSLRUMMXXX</swbic>
-    <defaultswbic>1</defaultswbic>
-  </row>
-  <row>
-    <index>1393</index>
-    <bic>042202102</bic>
-    <namep>УФК по Ивановской области</namep>
-    <rgn>24</rgn>
-    <ind>153038</ind>
-    <tnp>г</tnp>
-    <nnp>Иваново</nnp>
-    <adr>пр-т Строителей, д. 21</adr>
-    <prntbic/>
-    <datein>2025-07-01</datein>
-    <pttype>52</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>0000000013</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <account>40102810845370000102</account>
-    <regulationaccounttype>UTRA</regulationaccounttype>
-    <ck>96</ck>
-    <accountcbrbic>042202001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1394</index>
-    <bic>042202103</bic>
-    <namep>УФК по Костромской области</namep>
-    <rgn>34</rgn>
-    <ind>156961</ind>
-    <tnp>г</tnp>
-    <nnp>Кострома</nnp>
-    <adr>ул. Красноармейская, д. 8</adr>
-    <prntbic/>
-    <datein>2025-07-01</datein>
-    <pttype>52</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>0000000014</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <account>40102810145370000103</account>
-    <regulationaccounttype>UTRA</regulationaccounttype>
-    <ck>13</ck>
-    <accountcbrbic>042202001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1395</index>
-    <bic>045004108</bic>
-    <namep>УФК по Курганской области</namep>
-    <rgn>37</rgn>
-    <ind>640018</ind>
-    <tnp>г</tnp>
-    <nnp>Курган</nnp>
-    <adr>ул. Савельева, д.23</adr>
-    <prntbic/>
-    <datein>2025-07-01</datein>
-    <pttype>52</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>0000000019</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <account>40102810445370000108</account>
-    <regulationaccounttype>UTRA</regulationaccounttype>
-    <ck>42</ck>
-    <accountcbrbic>045004001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1396</index>
-    <bic>042202104</bic>
-    <namep>УФК по Республике Адыгея</namep>
-    <rgn>79</rgn>
-    <ind>385000</ind>
-    <tnp>г</tnp>
-    <nnp>Майкоп</nnp>
-    <adr>ул. Гоголя, д. 18</adr>
-    <prntbic/>
-    <datein>2025-07-01</datein>
-    <pttype>52</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>0000000015</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <account>40102810445370000104</account>
-    <regulationaccounttype>UTRA</regulationaccounttype>
-    <ck>35</ck>
-    <accountcbrbic>042202001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1397</index>
-    <bic>045004109</bic>
-    <namep>УФК по Республике Алтай</namep>
-    <rgn>84</rgn>
-    <ind>649000</ind>
-    <tnp>г</tnp>
-    <nnp>Горно-Алтайск</nnp>
-    <adr>ул. В.И. Чаптынова, д.4</adr>
-    <prntbic/>
-    <datein>2025-07-01</datein>
-    <pttype>52</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>0000000020</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <account>40102810745370000109</account>
-    <regulationaccounttype>UTRA</regulationaccounttype>
-    <ck>64</ck>
-    <accountcbrbic>045004001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1398</index>
-    <bic>042202106</bic>
-    <namep>УФК по Республике Ингушетия</namep>
-    <rgn>26</rgn>
-    <ind>386001</ind>
-    <tnp>г</tnp>
-    <nnp>Магас</nnp>
-    <adr>ул. А.Горчханова, д. 7</adr>
-    <prntbic/>
-    <datein>2025-07-01</datein>
-    <pttype>52</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>0000000017</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <account>40102810045370000106</account>
-    <regulationaccounttype>UTRA</regulationaccounttype>
-    <ck>71</ck>
-    <accountcbrbic>042202001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1399</index>
-    <bic>042202105</bic>
-    <namep>УФК по Республике Калмыкия</namep>
-    <rgn>85</rgn>
-    <ind>358000</ind>
-    <tnp>г</tnp>
-    <nnp>Элиста</nnp>
-    <adr>ул. В.И.Ленина, д.242</adr>
-    <prntbic/>
-    <datein>2025-07-01</datein>
-    <pttype>52</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>0000000016</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <account>40102810745370000105</account>
-    <regulationaccounttype>UTRA</regulationaccounttype>
-    <ck>57</ck>
-    <accountcbrbic>042202001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1400</index>
-    <bic>042202107</bic>
-    <namep>УФК по Республике Марий Эл</namep>
-    <rgn>88</rgn>
-    <ind>424000</ind>
-    <tnp>г</tnp>
-    <nnp>Йошкар-Ола</nnp>
-    <adr>ул. Вознесенская, д. 85</adr>
-    <prntbic/>
-    <datein>2025-07-01</datein>
-    <pttype>52</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>0000000018</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <account>40102810345370000107</account>
-    <regulationaccounttype>UTRA</regulationaccounttype>
-    <ck>93</ck>
-    <accountcbrbic>042202001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1401</index>
-    <bic>040349536</bic>
-    <namep>КРАСНОДАРСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
-    <rgn>03</rgn>
-    <ind>350038</ind>
-    <tnp>г</tnp>
-    <nnp>Краснодар</nnp>
-    <adr>Центральный округ, ул. им. Короленко, д. 2</adr>
-    <prntbic>044525111</prntbic>
-    <datein>2000-10-11</datein>
-    <pttype>30</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>0349536000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>3349/3</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30101810700000000536</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>59</ck>
-    <accountcbrbic>040349001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1402</index>
-    <bic>048717000</bic>
-    <namep>РКЦ УХТА</namep>
-    <rgn>87</rgn>
-    <ind>169300</ind>
-    <tnp>г</tnp>
-    <nnp>Ухта</nnp>
-    <adr>ул Первомайская, 47</adr>
-    <prntbic>048702001</prntbic>
-    <datein>1994-01-20</datein>
-    <pttype>10</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>8717000000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn/>
-    <cntrcd/>
-    <account/>
-    <regulationaccounttype/>
-    <ck/>
-    <accountcbrbic/>
-    <accountstatus/>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1403</index>
-    <bic>044525512</bic>
-    <namep>"НТХ БАНК АО"</namep>
-    <rgn>45</rgn>
-    <ind>127051</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>Цветной бульвар, д. 2</adr>
-    <prntbic/>
-    <datein>2002-03-12</datein>
-    <pttype>20</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>4525512000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>3390</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30101810100000000512</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>36</ck>
-    <accountcbrbic>044525000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname>NTX BANK JSC</englname>
-    <swbic>NATXRUMMXXX</swbic>
-    <defaultswbic>1</defaultswbic>
-  </row>
-  <row>
-    <index>1404</index>
-    <bic>044525994</bic>
-    <namep>КУ КБ "НЕФТЯНОЙ АЛЬЯНС" (ПАО) - ГК "АСВ"</namep>
-    <rgn>45</rgn>
-    <ind>109240</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>ул Высоцкого, 4</adr>
-    <prntbic/>
-    <datein>2016-06-15</datein>
-    <pttype>90</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>4525994000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>2859</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30101810345250000994</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>62</ck>
-    <accountcbrbic>044525000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1405</index>
-    <bic>045004051</bic>
-    <namep>Новосибирский филиал РНКО "Р-ИНКАС" (ООО)</namep>
-    <rgn>50</rgn>
-    <ind>630049</ind>
-    <tnp>г</tnp>
-    <nnp>Новосибирск</nnp>
-    <adr>ул. Дмитрия Донского, 11</adr>
-    <prntbic>044525063</prntbic>
-    <datein>2018-10-26</datein>
-    <pttype>30</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>5004051000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>3536-К/1</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30103810450045004051</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>51</ck>
-    <accountcbrbic>045004001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1406</index>
-    <bic>046015207</bic>
-    <namep>ФИЛИАЛ "РОСТОВСКИЙ" АО "АЛЬФА-БАНК"</namep>
-    <rgn>60</rgn>
-    <ind>344000</ind>
-    <tnp>г</tnp>
-    <nnp>Ростов-на-Дону</nnp>
-    <adr>ул. Красноармейская, 206</adr>
-    <prntbic>044525593</prntbic>
-    <datein>2000-07-10</datein>
-    <pttype>30</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>6015207000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>1326/18</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30101810500000000207</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>59</ck>
-    <accountcbrbic>046015001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1407</index>
-    <bic>046015913</bic>
-    <namep>ФМКБ "ДОН-ТЕКСБАНК"ООО В Г.РОСТОВЕ-НА-ДОНУ</namep>
-    <rgn>60</rgn>
-    <ind>344006</ind>
-    <tnp>г</tnp>
-    <nnp>Ростов-на-Дону</nnp>
-    <adr>улица Суворова, д. 40</adr>
-    <prntbic>046015718</prntbic>
-    <datein>1994-04-18</datein>
-    <pttype>30</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>6015913000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>1818/1</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30101810700000000913</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>66</ck>
-    <accountcbrbic>046015001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1408</index>
-    <bic>044525720</bic>
-    <namep>РФ АО "Россельхозбанк" - "ЦКБ"</namep>
-    <rgn>45</rgn>
-    <ind>123112</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>1-й Красногвардейский проезд, д.19</adr>
-    <prntbic>044525111</prntbic>
-    <datein>2017-03-29</datein>
-    <pttype>30</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>4525720000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>3349/79</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30101810645250000720</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>29</ck>
-    <accountcbrbic>044525000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1409</index>
-    <bic>044525070</bic>
-    <namep>ООО НКО "Расчетные Решения"</namep>
-    <rgn>45</rgn>
-    <ind>117418</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>Нахимовский проспект, дом 51</adr>
-    <prntbic/>
-    <datein>2016-05-11</datein>
-    <pttype>20</pttype>
-    <srvcs>5</srvcs>
-    <xchtype>1</xchtype>
-    <uid>4525070000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>3524-К</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30103810445250000070</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>67</ck>
-    <accountcbrbic>044525000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1410</index>
-    <bic>044525232</bic>
-    <namep>ПАО "МТС-Банк"</namep>
-    <rgn>45</rgn>
-    <ind>115432</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>просп. Андропова, д.18, корп.1</adr>
-    <prntbic/>
-    <datein>1998-03-25</datein>
-    <pttype>20</pttype>
-    <srvcs>5</srvcs>
-    <xchtype>1</xchtype>
-    <uid>4525232000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>2268</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30101810600000000232</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>81</ck>
-    <accountcbrbic>044525000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname>MTS BANK</englname>
-    <swbic>MBRDRUMMXXX</swbic>
-    <defaultswbic>1</defaultswbic>
-  </row>
-  <row>
-    <index>1411</index>
-    <bic>048702640</bic>
-    <namep>КОМИ ОТДЕЛЕНИЕ N8617 ПАО СБЕРБАНК</namep>
-    <rgn>87</rgn>
-    <ind>167023</ind>
-    <tnp>г</tnp>
-    <nnp>Сыктывкар</nnp>
-    <adr>ул. Морозова, д. 89</adr>
-    <prntbic>044525225</prntbic>
-    <datein>1991-01-19</datein>
-    <pttype>30</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>8702640000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>1481/596</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30101810400000000640</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>13</ck>
-    <accountcbrbic>048702001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1412</index>
-    <bic>042780104</bic>
-    <namep>УФК по Калининградской области</namep>
-    <rgn>27</rgn>
-    <ind>236022</ind>
-    <tnp>г</tnp>
-    <nnp>Калининград</nnp>
-    <adr>ул Зоологическая, 27 А</adr>
-    <prntbic/>
-    <datein>2022-12-19</datein>
-    <pttype>52</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>1</xchtype>
-    <uid>2780002004</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <account>40116810145376614011</account>
-    <regulationaccounttype>TRSA</regulationaccounttype>
-    <ck>10</ck>
-    <accountcbrbic>042780002</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1413</index>
-    <bic>040507595</bic>
-    <namep>АО "Солид Банк"</namep>
-    <rgn>05</rgn>
-    <ind>690091</ind>
-    <tnp>г</tnp>
-    <nnp>Владивосток</nnp>
-    <adr>ул. Алеутская, д. 33</adr>
-    <prntbic/>
-    <datein>2017-06-29</datein>
-    <pttype>20</pttype>
-    <srvcs>5</srvcs>
-    <xchtype>1</xchtype>
-    <uid>0507595000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>1329</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30101810205070000595</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>04</ck>
-    <accountcbrbic>040507001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1414</index>
-    <bic>043002050</bic>
-    <namep>Камчатский филиал АО "Солид Банк"</namep>
-    <rgn>30</rgn>
-    <ind>683024</ind>
-    <tnp>г</tnp>
-    <nnp>Петропавловск-Камчатский</nnp>
-    <adr>ул. Лукашевского, 11</adr>
-    <prntbic>040507595</prntbic>
-    <datein>2025-06-16</datein>
-    <pttype>30</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>3002050000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>1329/12</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30101810945373002050</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>58</ck>
-    <accountcbrbic>043002001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname>JSC "Solid Bank"</englname>
-    <swbic>SLDBRUMM</swbic>
-    <defaultswbic>1</defaultswbic>
-  </row>
-  <row>
-    <index>1415</index>
-    <bic>040349758</bic>
-    <namep>ФИЛИАЛ № 2351 БАНКА ВТБ (ПАО)</namep>
-    <rgn>03</rgn>
-    <ind>350000</ind>
-    <tnp>г</tnp>
-    <nnp>Краснодар</nnp>
-    <adr>Центральный внутригородской округ, ул. Красноармейская/ ул. им. Гоголя, дом № 43/68</adr>
-    <prntbic>044525187</prntbic>
-    <datein>2017-10-27</datein>
-    <pttype>30</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>0349758000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>1000/94</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30101810703490000758</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>87</ck>
-    <accountcbrbic>040349001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname>VTB BANK (PJSC) BRANCH N 2351</englname>
-    <swbic>VTBRRUM2KD3</swbic>
-    <defaultswbic>1</defaultswbic>
-  </row>
-  <row>
-    <index>1416</index>
-    <bic>047144778</bic>
-    <namep>СФ АО БАНК "СНГБ"</namep>
-    <rgn>71</rgn>
-    <ind>628400</ind>
-    <tnp>г</tnp>
-    <nnp>Сургут</nnp>
-    <adr>ул Губкина, 15 А</adr>
-    <prntbic>047144709</prntbic>
-    <datein>2017-04-17</datein>
-    <pttype>30</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>7144778000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>588/10</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30101810165777100778</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>58</ck>
-    <accountcbrbic>047144000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1417</index>
-    <bic>040507707</bic>
-    <namep>НКО "РКЦ ДВ" (АО)</namep>
-    <rgn>05</rgn>
-    <ind>690001</ind>
-    <tnp>г</tnp>
-    <nnp>Владивосток</nnp>
-    <adr>ул Махалина, 15</adr>
-    <prntbic/>
-    <datein>2016-04-21</datein>
-    <pttype>20</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>0507707000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>3318-Р</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30103810305070000707</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>61</ck>
-    <accountcbrbic>040507001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1418</index>
-    <bic>016015102</bic>
-    <namep>УФК по Ростовской области</namep>
-    <rgn>60</rgn>
-    <ind>344019</ind>
-    <tnp>г</tnp>
-    <nnp>Ростов-на-Дону</nnp>
-    <adr>пл. Свободы, 7/2</adr>
-    <prntbic/>
-    <datein>2021-01-05</datein>
-    <pttype>52</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>6015001102</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <account>40102810845370000050</account>
-    <regulationaccounttype>UTRA</regulationaccounttype>
-    <ck>68</ck>
-    <accountcbrbic>046015001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1419</index>
-    <bic>044525186</bic>
-    <namep>ПАО "СПБ Банк"</namep>
-    <rgn>45</rgn>
-    <ind>123112</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>муниципальный округ Пресненский, 1-й Красногвардейский проезд, дом 15, помещение 1/37</adr>
-    <prntbic/>
-    <datein>2003-06-02</datein>
-    <pttype>20</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>4525186000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>435</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30101810400000000186</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>12</ck>
-    <accountcbrbic>044525000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname>PJSC SPB BANK</englname>
-    <swbic>RTSBRUMMXXX</swbic>
-    <defaultswbic>1</defaultswbic>
-  </row>
-  <row>
-    <index>1420</index>
-    <bic>047003608</bic>
-    <namep>ТУЛЬСКОЕ ОТДЕЛЕНИЕ N8604 ПАО СБЕРБАНК</namep>
-    <rgn>70</rgn>
-    <ind>300000</ind>
-    <tnp>г</tnp>
-    <nnp>Тула</nnp>
-    <adr>Крестовоздвиженская пл, 1</adr>
-    <prntbic>044525225</prntbic>
-    <datein>1991-10-29</datein>
-    <pttype>30</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>7003608000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>1481/1558</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30101810300000000608</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>04</ck>
-    <accountcbrbic>047003001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1421</index>
-    <bic>044030866</bic>
-    <namep>Санкт-Петербургский филиал АО Банк Инго</namep>
-    <rgn>40</rgn>
-    <ind>197101</ind>
-    <tnp>г</tnp>
-    <nnp>Санкт-Петербург</nnp>
-    <adr>ул. Кронверкская, д. 13, литер А</adr>
-    <prntbic>044525148</prntbic>
-    <datein>2000-03-07</datein>
-    <pttype>30</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>4030866000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>2307/1</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30101810300000000866</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>77</ck>
-    <accountcbrbic>044030001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1422</index>
-    <bic>047144813</bic>
-    <namep>НЕФТЕЮГАНСКИЙ ФИЛИАЛ БАНКА "ВБРР" (АО)</namep>
-    <rgn>71</rgn>
-    <ind>628301</ind>
-    <tnp>г</tnp>
-    <nnp>Нефтеюганск</nnp>
-    <adr>мкр 2, д.24</adr>
-    <prntbic>044525880</prntbic>
-    <datein>2024-03-28</datein>
-    <pttype>30</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>7144813000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>3287/8</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30101810145377100813</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>13</ck>
-    <accountcbrbic>047144000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1423</index>
-    <bic>040702752</bic>
-    <namep>ФИЛИАЛ "СТАВРОПОЛЬСКИЙ" АО "АЛЬФА-БАНК"</namep>
-    <rgn>07</rgn>
-    <ind>355003</ind>
-    <tnp>г</tnp>
-    <nnp>Ставрополь</nnp>
-    <adr>ул. Ленина, д. 299</adr>
-    <prntbic>044525593</prntbic>
-    <datein>2012-08-17</datein>
-    <pttype>30</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>0702752000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>1326/36</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30101810000000000752</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>74</ck>
-    <accountcbrbic>040702001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1424</index>
-    <bic>042908701</bic>
-    <namep>АО "ГАЗЭНЕРГОБАНК"</namep>
-    <rgn>29</rgn>
-    <ind>248030</ind>
-    <tnp>г</tnp>
-    <nnp>Калуга</nnp>
-    <adr>ул Плеханова, 4</adr>
-    <prntbic/>
-    <datein>1995-06-27</datein>
-    <pttype>20</pttype>
-    <srvcs>5</srvcs>
-    <xchtype>1</xchtype>
-    <uid>2908701000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>3252</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30101810600000000701</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>58</ck>
-    <accountcbrbic>042908001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1425</index>
-    <bic>040702788</bic>
-    <namep>ФИЛИАЛ БАНКА ВТБ (ПАО) В Г. СТАВРОПОЛЕ</namep>
-    <rgn>07</rgn>
-    <ind>355000</ind>
-    <tnp>г</tnp>
-    <nnp>Ставрополь</nnp>
-    <adr>ул. Маршала Жукова, д. 7</adr>
-    <prntbic>044525187</prntbic>
-    <datein>1991-08-06</datein>
-    <pttype>30</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>0702788000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>1000/9</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30101810100000000788</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>82</ck>
-    <accountcbrbic>040702001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic>VTBRRUM2STA</swbic>
-    <defaultswbic>1</defaultswbic>
-  </row>
-  <row>
-    <index>1426</index>
-    <bic>044525085</bic>
-    <namep>ООО РНКО "ЭР Финанс"</namep>
-    <rgn>45</rgn>
-    <ind>107045</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>Последний переулок, д. 22</adr>
-    <prntbic/>
-    <datein>2025-05-28</datein>
-    <pttype>20</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>4525085001</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>3555-К</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30103810545374525085</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>38</ck>
-    <accountcbrbic>044525000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1427</index>
-    <bic>041909760</bic>
-    <namep>АО "БАНК "ВОЛОГЖАНИН"</namep>
-    <rgn>19</rgn>
-    <ind>160000</ind>
-    <tnp>г</tnp>
-    <nnp>Вологда</nnp>
-    <adr>ул. Козленская, д. 10</adr>
-    <prntbic/>
-    <datein>1992-05-20</datein>
-    <pttype>20</pttype>
-    <srvcs>5</srvcs>
-    <xchtype>1</xchtype>
-    <uid>1909760000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>1896</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30101810800000000760</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>56</ck>
-    <accountcbrbic>041909001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1428</index>
-    <bic>043601968</bic>
-    <namep>ФИЛИАЛ № 6318 БАНКА ВТБ (ПАО)</namep>
-    <rgn>36</rgn>
-    <ind>443013</ind>
-    <tnp>г</tnp>
-    <nnp>Самара</nnp>
-    <adr>Московское шоссе, д. 4, корпус 4</adr>
-    <prntbic>044525187</prntbic>
-    <datein>2017-09-27</datein>
-    <pttype>30</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>3601968000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>1000/89</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30101810422023601968</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>76</ck>
-    <accountcbrbic>043601001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname>VTB BANK (PUBLIC JOINT-STOCK COMPANY) BRANCH N 6318 IN SAMARA FILIAL № 6318 BANKA VTB PAO</englname>
-    <swbic>VTBRRUM2SA3</swbic>
-    <defaultswbic>1</defaultswbic>
-  </row>
-  <row>
-    <index>1429</index>
-    <bic>200000159</bic>
-    <namep>Участковая избирательная комиссия избирательного участка № 17</namep>
-    <rgn>11</rgn>
-    <ind>166706</ind>
-    <tnp>с</tnp>
-    <nnp>Великовисочное</nnp>
-    <adr>зд. 42А</adr>
-    <prntbic/>
-    <datein>2025-07-28</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>2000000008</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <account>40206810245371125028</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>05</ck>
-    <accountcbrbic>041125000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1430</index>
-    <bic>044525845</bic>
-    <namep>ПАО "Норвик Банк"</namep>
-    <rgn>45</rgn>
-    <ind>115054</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>ул. Зацепский Вал, д. 5</adr>
-    <prntbic/>
-    <datein>2022-12-22</datein>
-    <pttype>20</pttype>
-    <srvcs>5</srvcs>
-    <xchtype>1</xchtype>
-    <uid>4525845000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>902</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30101810745374525845</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>22</ck>
-    <accountcbrbic>044525000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1431</index>
-    <bic>046015211</bic>
-    <namep>РОСТОВСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
-    <rgn>60</rgn>
-    <ind>344082</ind>
-    <tnp>г</tnp>
-    <nnp>Ростов-на-Дону</nnp>
-    <adr>пр-кт Буденновский, д.37</adr>
-    <prntbic>044525111</prntbic>
-    <datein>2000-10-19</datein>
-    <pttype>30</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>6015211000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>3349/7</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30101810800000000211</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>04</ck>
-    <accountcbrbic>046015001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1432</index>
-    <bic>044030706</bic>
-    <namep>ФИЛИАЛ ПАО "БАНК УРАЛСИБ" В Г.САНКТ-ПЕТЕРБУРГ</namep>
-    <rgn>40</rgn>
-    <ind>191023</ind>
-    <tnp>г</tnp>
-    <nnp>Санкт-Петербург</nnp>
-    <adr>ул Инженерная, 9</adr>
-    <prntbic>044525787</prntbic>
-    <datein>1997-12-31</datein>
-    <pttype>30</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>4030706000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>2275/1</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30101810800000000706</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>49</ck>
-    <accountcbrbic>044030001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1433</index>
-    <bic>043469743</bic>
-    <namep>ПАО "СОВКОМБАНК"</namep>
-    <rgn>34</rgn>
-    <ind>156000</ind>
-    <tnp>г</tnp>
-    <nnp>Кострома</nnp>
-    <adr>пр-т Текстильщиков, 46</adr>
-    <prntbic/>
-    <datein>2003-08-04</datein>
-    <pttype>20</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>3469743000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>963</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30101810300000000743</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>97</ck>
-    <accountcbrbic>043469001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname>PJSC SOVCOMBANK</englname>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1434</index>
-    <bic>041806715</bic>
-    <namep>Южный ф-л ПАО "Банк ПСБ"</namep>
-    <rgn>18</rgn>
-    <ind>400005</ind>
-    <tnp>г</tnp>
-    <nnp>Волгоград</nnp>
-    <adr>ул. им. маршала Чуйкова, д. 65а</adr>
-    <prntbic>044525555</prntbic>
-    <datein>2011-12-09</datein>
-    <pttype>30</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>1806715000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>3251/15</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30101810100000000715</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>73</ck>
-    <accountcbrbic>041806001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic>PRMSRUMMVGG</swbic>
-    <defaultswbic>1</defaultswbic>
-  </row>
-  <row>
-    <index>1435</index>
-    <bic>044525272</bic>
-    <namep>ПАО Банк ЗЕНИТ</namep>
-    <rgn>45</rgn>
-    <ind>117638</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>Одесская ул., д.2</adr>
-    <prntbic/>
-    <datein>2000-06-27</datein>
-    <pttype>20</pttype>
-    <srvcs>5</srvcs>
-    <xchtype>1</xchtype>
-    <uid>4525272000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>3255</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30101810000000000272</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>26</ck>
-    <accountcbrbic>044525000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname>PJSC BANK ZENIT</englname>
-    <swbic>ZENIRUMMXXX</swbic>
-    <defaultswbic>1</defaultswbic>
-  </row>
-  <row>
-    <index>1436</index>
-    <bic>040349789</bic>
-    <namep>ООО КБ "ГТ БАНК"</namep>
-    <rgn>03</rgn>
-    <ind>350015</ind>
-    <tnp>г</tnp>
-    <nnp>Краснодар</nnp>
-    <adr>ул. Северная, д. 321</adr>
-    <prntbic/>
-    <datein>2017-10-09</datein>
-    <pttype>20</pttype>
-    <srvcs>5</srvcs>
-    <xchtype>1</xchtype>
-    <uid>0349789000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>665</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30101810303490000789</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>90</ck>
-    <accountcbrbic>040349001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1437</index>
-    <bic>040349542</bic>
-    <namep>КРАСНОДАРСКИЙ ФИЛИАЛ АО БАНК ИНГО</namep>
-    <rgn>03</rgn>
-    <ind>350000</ind>
-    <tnp>г</tnp>
-    <nnp>Краснодар</nnp>
-    <adr>Западный округ, ул. Рашпилевская, д.89</adr>
-    <prntbic>044525148</prntbic>
-    <datein>2004-09-27</datein>
-    <pttype>30</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>0349542000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>2307/6</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30101810600000000542</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>40</ck>
-    <accountcbrbic>040349001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1438</index>
-    <bic>049205805</bic>
-    <namep>ПАО "АК БАРС" БАНК</namep>
-    <rgn>92</rgn>
-    <ind>420066</ind>
-    <tnp>г</tnp>
-    <nnp>Казань</nnp>
-    <adr>ул  Декабристов, 1</adr>
-    <prntbic/>
-    <datein>1993-12-23</datein>
-    <pttype>20</pttype>
-    <srvcs>5</srvcs>
-    <xchtype>1</xchtype>
-    <uid>9205805000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>2590</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30101810000000000805</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>45</ck>
-    <accountcbrbic>049205001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname>AK BARS BANK</englname>
-    <swbic>ARRSRU2KXXX</swbic>
-    <defaultswbic>1</defaultswbic>
-  </row>
-  <row>
-    <index>1439</index>
-    <bic>049205603</bic>
-    <namep>отделение "Банк Татарстан" №8610 ПАО Сбербанк</namep>
-    <rgn>92</rgn>
-    <ind>420012</ind>
-    <tnp>г</tnp>
-    <nnp>Казань</nnp>
-    <adr>ул Бутлерова, 44</adr>
-    <prntbic>044525225</prntbic>
-    <datein>1995-01-01</datein>
-    <pttype>30</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>9205603000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>1481/1466</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30101810600000000603</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>87</ck>
-    <accountcbrbic>049205001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1440</index>
-    <bic>024501901</bic>
-    <namep>Межрегиональное операционное УФК</namep>
-    <rgn>45</rgn>
-    <ind>109240</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>ул. Верхняя Радищевская, д.11, стр.1</adr>
-    <prntbic/>
-    <datein>2011-09-13</datein>
-    <pttype>52</pttype>
-    <srvcs>5</srvcs>
-    <xchtype>1</xchtype>
-    <uid>4501002901</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <account>40816810400000001901</account>
-    <regulationaccounttype>TRSA</regulationaccounttype>
-    <ck>26</ck>
-    <accountcbrbic>044501002</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1441</index>
-    <bic>044525949</bic>
-    <namep>АО БАНК НБС</namep>
-    <rgn>24</rgn>
-    <ind>153000</ind>
-    <tnp>г</tnp>
-    <nnp>Иваново</nnp>
-    <adr>улица Палехская, дом 2</adr>
-    <prntbic/>
-    <datein>2025-07-25</datein>
-    <pttype>20</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>4525949000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>1949</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30101810845374525949</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>63</ck>
-    <accountcbrbic>044525000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1442</index>
-    <bic>040173754</bic>
-    <namep>КУ АО "ЗЕРНОБАНК"- ГК "АСВ"</namep>
-    <rgn>45</rgn>
-    <ind>109240</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>ул Высоцкого, 4</adr>
-    <prntbic/>
-    <datein>1993-07-07</datein>
-    <pttype>90</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>0173754000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>2337</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30101810600000000754</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>07</ck>
-    <accountcbrbic>040173001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1443</index>
-    <bic>044525593</bic>
-    <namep>АО "АЛЬФА-БАНК"</namep>
-    <rgn>45</rgn>
-    <ind>107078</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>ул. Каланчевская, д. 27</adr>
-    <prntbic/>
-    <datein>1998-03-25</datein>
-    <pttype>20</pttype>
-    <srvcs>5</srvcs>
-    <xchtype>1</xchtype>
-    <uid>4525593000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>1326</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30101810200000000593</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>53</ck>
-    <accountcbrbic>044525000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname>ALFA-BANK</englname>
-    <swbic>ALFARUMMXXX</swbic>
-    <defaultswbic>1</defaultswbic>
-  </row>
-  <row>
-    <index>1444</index>
-    <bic>044525675</bic>
-    <namep>АКБ "Держава" ПАО</namep>
-    <rgn>45</rgn>
-    <ind>119435</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>Большой Саввинский переулок, дом 2, строение 9</adr>
-    <prntbic/>
-    <datein>2016-06-07</datein>
-    <pttype>20</pttype>
-    <srvcs>5</srvcs>
-    <xchtype>1</xchtype>
-    <uid>4525675000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>2738</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30101810745250000675</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>79</ck>
-    <accountcbrbic>044525000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname>DERZHAVA PJSCB</englname>
-    <swbic>DERZRUMMXXX</swbic>
-    <defaultswbic>1</defaultswbic>
-  </row>
-  <row>
-    <index>1445</index>
-    <bic>044525120</bic>
-    <namep>КУ КБ "РОСПРОМБАНК" (ООО) - ГК "АСВ"</namep>
-    <rgn>45</rgn>
-    <ind>109240</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>ул Высоцкого, 4</adr>
-    <prntbic/>
-    <datein>2016-05-16</datein>
-    <pttype>90</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>4525120000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>3204</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30101810245250000120</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>61</ck>
-    <accountcbrbic>044525000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1446</index>
-    <bic>040349700</bic>
-    <namep>ФИЛИАЛ "ЮЖНЫЙ" ПАО "БАНК УРАЛСИБ"</namep>
-    <rgn>03</rgn>
-    <ind>350015</ind>
-    <tnp>г</tnp>
-    <nnp>Краснодар</nnp>
-    <adr>ул. Красная, 152</adr>
-    <prntbic>044525787</prntbic>
-    <datein>2010-05-31</datein>
-    <pttype>30</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>0349700000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>2275/60</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30101810400000000700</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>70</ck>
-    <accountcbrbic>040349001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1447</index>
-    <bic>041012765</bic>
-    <namep>"Азиатско-Тихоокеанский Банк" (АО)</namep>
-    <rgn>10</rgn>
-    <ind>675004</ind>
-    <tnp>г</tnp>
-    <nnp>Благовещенск</nnp>
-    <adr>ул Амурская, 225</adr>
-    <prntbic/>
-    <datein>1997-07-17</datein>
-    <pttype>20</pttype>
-    <srvcs>5</srvcs>
-    <xchtype>1</xchtype>
-    <uid>1012765000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>1810</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30101810300000000765</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>63</ck>
-    <accountcbrbic>041012001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname>Joint stock company Asian - Pacific Bank</englname>
-    <swbic>ASANRU8XXXX</swbic>
-    <defaultswbic>1</defaultswbic>
-  </row>
-  <row>
-    <index>1448</index>
-    <bic>048702739</bic>
-    <namep>КОМИ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
-    <rgn>87</rgn>
-    <ind>167000</ind>
-    <tnp>г</tnp>
-    <nnp>Сыктывкар</nnp>
-    <adr>ул. Первомайская, д. 112/1</adr>
-    <prntbic>044525111</prntbic>
-    <datein>2007-08-09</datein>
-    <pttype>30</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>8702739000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>3349/74</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30101810900000000739</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>95</ck>
-    <accountcbrbic>048702001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1449</index>
-    <bic>200000150</bic>
-    <namep>Участковая избирательная комиссия избирательного участка № 24</namep>
-    <rgn>11</rgn>
-    <ind>166703</ind>
-    <tnp>с</tnp>
-    <nnp>Оксино</nnp>
-    <adr>д. 1</adr>
-    <prntbic/>
-    <datein>2025-07-29</datein>
-    <pttype>99</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>2000000007</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn/>
-    <cntrcd>RU</cntrcd>
-    <account>40206810545371125029</account>
-    <regulationaccounttype>BANA</regulationaccounttype>
-    <ck>46</ck>
-    <accountcbrbic>041125000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1450</index>
-    <bic>044525063</bic>
-    <namep>РНКО "Р-ИНКАС" (ООО)</namep>
-    <rgn>45</rgn>
-    <ind>127051</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>Малый Каретный переулок, дом  8</adr>
-    <prntbic/>
-    <datein>2017-03-22</datein>
-    <pttype>20</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>4525063000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>3536-К</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30103810245250000063</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>64</ck>
-    <accountcbrbic>044525000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
-  </row>
-  <row>
-    <index>1451</index>
     <bic>040813608</bic>
     <namep>ДАЛЬНЕВОСТОЧНЫЙ БАНК ПАО СБЕРБАНК</namep>
     <rgn>08</rgn>
@@ -39205,7 +37180,2059 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
+    <index>1377</index>
+    <bic>040395000</bic>
+    <namep>РКЦ НОВОРОССИЙСК</namep>
+    <rgn>03</rgn>
+    <ind>353900</ind>
+    <tnp>г</tnp>
+    <nnp>Новороссийск</nnp>
+    <adr>ул Советов, 47</adr>
+    <prntbic>040349001</prntbic>
+    <datein>1994-01-20</datein>
+    <pttype>10</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>0</xchtype>
+    <uid>0395000000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn/>
+    <cntrcd/>
+    <account/>
+    <regulationaccounttype/>
+    <ck/>
+    <accountcbrbic/>
+    <accountstatus/>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1378</index>
+    <bic>044525218</bic>
+    <namep>КБ "Дж.П. Морган Банк Интернешнл" (ООО)</namep>
+    <rgn>45</rgn>
+    <ind>125047</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>улица Бутырский Вал, дом 10</adr>
+    <prntbic/>
+    <datein>1998-03-25</datein>
+    <pttype>20</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>4525218000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>2629</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30101810200000000218</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>75</ck>
+    <accountcbrbic>044525000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname>CB "J.P. MORGAN BANK INTERNATIONAL" (LLC)</englname>
+    <swbic>CHASRUMXXXX</swbic>
+    <defaultswbic>1</defaultswbic>
+  </row>
+  <row>
+    <index>1379</index>
+    <bic>044525976</bic>
+    <namep>АКБ "Абсолют Банк" (ПАО)</namep>
+    <rgn>45</rgn>
+    <ind>127051</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>Цветной бульвар, дом 18</adr>
+    <prntbic/>
+    <datein>2000-06-27</datein>
+    <pttype>20</pttype>
+    <srvcs>5</srvcs>
+    <xchtype>1</xchtype>
+    <uid>4525976000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>2306</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30101810500000000976</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>35</ck>
+    <accountcbrbic>044525000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname>ABSOLUT BANK</englname>
+    <swbic>ABSLRUMMXXX</swbic>
+    <defaultswbic>1</defaultswbic>
+  </row>
+  <row>
+    <index>1380</index>
+    <bic>047501843</bic>
+    <namep>КУ ООО "УИК-БАНК"</namep>
+    <rgn>45</rgn>
+    <ind>109240</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>ул. Высоцкого, 4</adr>
+    <prntbic/>
+    <datein>2010-09-20</datein>
+    <pttype>90</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>7501843000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>1300</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30101810200000000843</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>27</ck>
+    <accountcbrbic>047501001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1381</index>
+    <bic>044030951</bic>
+    <namep>ПАО УКБ "Новобанк"</namep>
+    <rgn>49</rgn>
+    <ind>173003</ind>
+    <tnp>г</tnp>
+    <nnp>Великий Новгород</nnp>
+    <adr>набережная реки Гзень, д. 11</adr>
+    <prntbic/>
+    <datein>2025-06-29</datein>
+    <pttype>20</pttype>
+    <srvcs>5</srvcs>
+    <xchtype>1</xchtype>
+    <uid>4030951000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>1352</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30101810445374030951</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>39</ck>
+    <accountcbrbic>044030001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname>PJSC UCB "Novobank"</englname>
+    <swbic>PJTORU22</swbic>
+    <defaultswbic>1</defaultswbic>
+  </row>
+  <row>
+    <index>1382</index>
+    <bic>044525340</bic>
+    <namep>ООО "Ориджин Банк"</namep>
+    <rgn>45</rgn>
+    <ind>125047</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>ул. Гашека, д. 6</adr>
+    <prntbic/>
+    <datein>2009-02-04</datein>
+    <pttype>20</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>4525340000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>3490</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30101810000000000340</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>59</ck>
+    <accountcbrbic>044525000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname>OOO GOLDMAN SACHS BANK</englname>
+    <swbic>GOLDRUMMXXX</swbic>
+    <defaultswbic>1</defaultswbic>
+  </row>
+  <row>
+    <index>1383</index>
+    <bic>046015327</bic>
+    <namep>Филиал "Ростовский" АО "ОТП Банк"</namep>
+    <rgn>60</rgn>
+    <ind>347880</ind>
+    <tnp>г</tnp>
+    <nnp>Гуково</nnp>
+    <adr>ул. Красная Горка, д. 3</adr>
+    <prntbic>044525311</prntbic>
+    <datein>2023-11-03</datein>
+    <pttype>30</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>6015327000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>2766/9</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30101810345376015327</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>67</ck>
+    <accountcbrbic>046015001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1384</index>
+    <bic>044525986</bic>
+    <namep>КУ ОАО АКБ "ПРОБИЗНЕСБАНК" - ГК "АСВ"</namep>
+    <rgn>45</rgn>
+    <ind>109240</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>ул Высоцкого, 4</adr>
+    <prntbic/>
+    <datein>1998-03-25</datein>
+    <pttype>90</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>4525986000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>2412</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30101810600000000986</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>96</ck>
+    <accountcbrbic>044525000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname>Probusinessbank</englname>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1385</index>
+    <bic>044525161</bic>
+    <namep>КБ "ЛОКО-Банк" (АО)</namep>
+    <rgn>45</rgn>
+    <ind>125167</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>Ленинградский проспект, дом 39, строение 80</adr>
+    <prntbic/>
+    <datein>2015-08-27</datein>
+    <pttype>20</pttype>
+    <srvcs>5</srvcs>
+    <xchtype>1</xchtype>
+    <uid>4525161000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>2707</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30101810945250000161</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>36</ck>
+    <accountcbrbic>044525000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname>Joint stock company "LOCKO-Bank" ("LOCKO-Bank")</englname>
+    <swbic>CLOKRUMMXXX</swbic>
+    <defaultswbic>1</defaultswbic>
+  </row>
+  <row>
+    <index>1386</index>
+    <bic>044525710</bic>
+    <namep>АО КБ "АГРОПРОМКРЕДИТ"</namep>
+    <rgn>45</rgn>
+    <ind>119121</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>улица Бурденко, дом 22</adr>
+    <prntbic/>
+    <datein>2015-09-09</datein>
+    <pttype>20</pttype>
+    <srvcs>5</srvcs>
+    <xchtype>1</xchtype>
+    <uid>4525710000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>2880</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30101810545250000710</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>65</ck>
+    <accountcbrbic>044525000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname>Joint-Stock Commercial bank "Agropromcredit" (JSCB "Agropromcredit")</englname>
+    <swbic>AGCORUMM</swbic>
+    <defaultswbic>1</defaultswbic>
+  </row>
+  <row>
+    <index>1387</index>
+    <bic>043002717</bic>
+    <namep>КМ "Профильный Банк" (АО)</namep>
+    <rgn>45</rgn>
+    <ind>107078</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>ул. Садовая - Спасская, д 28</adr>
+    <prntbic/>
+    <datein>1992-10-13</datein>
+    <pttype>20</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>3002717000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>2103</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30101810100000000717</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>73</ck>
+    <accountcbrbic>043002001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname>"Commercial International "Profile Bank" (Joint Stock Company)</englname>
+    <swbic>MUKZRUP1XXX</swbic>
+    <defaultswbic>1</defaultswbic>
+  </row>
+  <row>
+    <index>1388</index>
+    <bic>044525245</bic>
+    <namep>ООО "ХКФ Банк"</namep>
+    <rgn>45</rgn>
+    <ind>125124</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>ул. Правды, д. 8, корпус 1</adr>
+    <prntbic/>
+    <datein>2015-09-23</datein>
+    <pttype>20</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>4525245000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>316</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30101810845250000245</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>52</ck>
+    <accountcbrbic>044525000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname>HCF BANK</englname>
+    <swbic>HCFBRUMMXXX</swbic>
+    <defaultswbic>1</defaultswbic>
+  </row>
+  <row>
+    <index>1389</index>
+    <bic>044525080</bic>
+    <namep>ООО РНКО "АМРА"</namep>
+    <rgn>45</rgn>
+    <ind>127018</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>улица Складочная, дом 1, строение 1</adr>
+    <prntbic/>
+    <datein>2025-06-06</datein>
+    <pttype>20</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>0</xchtype>
+    <uid>4525080000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>3554-К</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30103810045374525080</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>33</ck>
+    <accountcbrbic>044525000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1390</index>
+    <bic>044030814</bic>
+    <namep>АО "ГОРБАНК"</namep>
+    <rgn>40</rgn>
+    <ind>191186</ind>
+    <tnp>г</tnp>
+    <nnp>Санкт-Петербург</nnp>
+    <adr>ул. Итальянская, д. 15, литер А</adr>
+    <prntbic/>
+    <datein>1997-12-31</datein>
+    <pttype>20</pttype>
+    <srvcs>5</srvcs>
+    <xchtype>1</xchtype>
+    <uid>4030814000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>2982</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30101810200000000814</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>27</ck>
+    <accountcbrbic>044030001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname>PETERSBURG'S CITY BANK, INC</englname>
+    <swbic>CPGBRU2P</swbic>
+    <defaultswbic>1</defaultswbic>
+  </row>
+  <row>
+    <index>1391</index>
+    <bic>048073846</bic>
+    <namep>КУ Банк ПТБ (ООО) - ГК "АСВ"</namep>
+    <rgn>45</rgn>
+    <ind>109240</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>ул. Высоцкого, д. 4</adr>
+    <prntbic/>
+    <datein>1993-05-14</datein>
+    <pttype>90</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>8073846000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>2638</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30101810000000000846</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>14</ck>
+    <accountcbrbic>048073001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1392</index>
+    <bic>044525982</bic>
+    <namep>Ликвидатор РНКО "ИНЭКО" (ООО)</namep>
+    <rgn>24</rgn>
+    <ind>153000</ind>
+    <tnp>г</tnp>
+    <nnp>Иваново</nnp>
+    <adr>Шереметьевский проспект, дом 47</adr>
+    <prntbic/>
+    <datein>2025-07-18</datein>
+    <pttype>90</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>1</xchtype>
+    <uid>4525982000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>3520-К</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30103810745374525982</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>25</ck>
+    <accountcbrbic>044525000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1393</index>
+    <bic>041236100</bic>
+    <namep>УФК по Астраханской области</namep>
+    <rgn>12</rgn>
+    <ind>414056</ind>
+    <tnp>г</tnp>
+    <nnp>Астрахань</nnp>
+    <adr>ул Латышева, 6 Г</adr>
+    <prntbic/>
+    <datein>2013-01-09</datein>
+    <pttype>52</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>1236002001</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <account>40116810600000010012</account>
+    <regulationaccounttype>TRSA</regulationaccounttype>
+    <ck>99</ck>
+    <accountcbrbic>041236002</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1394</index>
+    <bic>200000152</bic>
+    <namep>Участковая избирательная комиссия избирательного участка № 7</namep>
+    <rgn>11</rgn>
+    <ind>166735</ind>
+    <tnp>с</tnp>
+    <nnp>Ома</nnp>
+    <adr>ул. Речная, д. 17</adr>
+    <prntbic/>
+    <datein>2025-08-11</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>2000000009</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <account>40206810945371125030</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>96</ck>
+    <accountcbrbic>041125000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1395</index>
+    <bic>042202102</bic>
+    <namep>УФК по Ивановской области</namep>
+    <rgn>24</rgn>
+    <ind>153038</ind>
+    <tnp>г</tnp>
+    <nnp>Иваново</nnp>
+    <adr>пр-т Строителей, д. 21</adr>
+    <prntbic/>
+    <datein>2025-07-01</datein>
+    <pttype>52</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>0000000013</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <account>40102810845370000102</account>
+    <regulationaccounttype>UTRA</regulationaccounttype>
+    <ck>96</ck>
+    <accountcbrbic>042202001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1396</index>
+    <bic>042202103</bic>
+    <namep>УФК по Костромской области</namep>
+    <rgn>34</rgn>
+    <ind>156961</ind>
+    <tnp>г</tnp>
+    <nnp>Кострома</nnp>
+    <adr>ул. Красноармейская, д. 8</adr>
+    <prntbic/>
+    <datein>2025-07-01</datein>
+    <pttype>52</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>0000000014</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <account>40102810145370000103</account>
+    <regulationaccounttype>UTRA</regulationaccounttype>
+    <ck>13</ck>
+    <accountcbrbic>042202001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1397</index>
+    <bic>045004108</bic>
+    <namep>УФК по Курганской области</namep>
+    <rgn>37</rgn>
+    <ind>640018</ind>
+    <tnp>г</tnp>
+    <nnp>Курган</nnp>
+    <adr>ул. Савельева, д.23</adr>
+    <prntbic/>
+    <datein>2025-07-01</datein>
+    <pttype>52</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>0000000019</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <account>40102810445370000108</account>
+    <regulationaccounttype>UTRA</regulationaccounttype>
+    <ck>42</ck>
+    <accountcbrbic>045004001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1398</index>
+    <bic>042202104</bic>
+    <namep>УФК по Республике Адыгея</namep>
+    <rgn>79</rgn>
+    <ind>385000</ind>
+    <tnp>г</tnp>
+    <nnp>Майкоп</nnp>
+    <adr>ул. Гоголя, д. 18</adr>
+    <prntbic/>
+    <datein>2025-07-01</datein>
+    <pttype>52</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>0000000015</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <account>40102810445370000104</account>
+    <regulationaccounttype>UTRA</regulationaccounttype>
+    <ck>35</ck>
+    <accountcbrbic>042202001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1399</index>
+    <bic>045004109</bic>
+    <namep>УФК по Республике Алтай</namep>
+    <rgn>84</rgn>
+    <ind>649000</ind>
+    <tnp>г</tnp>
+    <nnp>Горно-Алтайск</nnp>
+    <adr>ул. В.И. Чаптынова, д.4</adr>
+    <prntbic/>
+    <datein>2025-07-01</datein>
+    <pttype>52</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>0000000020</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <account>40102810745370000109</account>
+    <regulationaccounttype>UTRA</regulationaccounttype>
+    <ck>64</ck>
+    <accountcbrbic>045004001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1400</index>
+    <bic>042202106</bic>
+    <namep>УФК по Республике Ингушетия</namep>
+    <rgn>26</rgn>
+    <ind>386001</ind>
+    <tnp>г</tnp>
+    <nnp>Магас</nnp>
+    <adr>ул. А.Горчханова, д. 7</adr>
+    <prntbic/>
+    <datein>2025-07-01</datein>
+    <pttype>52</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>0000000017</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <account>40102810045370000106</account>
+    <regulationaccounttype>UTRA</regulationaccounttype>
+    <ck>71</ck>
+    <accountcbrbic>042202001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1401</index>
+    <bic>042202105</bic>
+    <namep>УФК по Республике Калмыкия</namep>
+    <rgn>85</rgn>
+    <ind>358000</ind>
+    <tnp>г</tnp>
+    <nnp>Элиста</nnp>
+    <adr>ул. В.И.Ленина, д.242</adr>
+    <prntbic/>
+    <datein>2025-07-01</datein>
+    <pttype>52</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>0000000016</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <account>40102810745370000105</account>
+    <regulationaccounttype>UTRA</regulationaccounttype>
+    <ck>57</ck>
+    <accountcbrbic>042202001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1402</index>
+    <bic>042202107</bic>
+    <namep>УФК по Республике Марий Эл</namep>
+    <rgn>88</rgn>
+    <ind>424000</ind>
+    <tnp>г</tnp>
+    <nnp>Йошкар-Ола</nnp>
+    <adr>ул. Вознесенская, д. 85</adr>
+    <prntbic/>
+    <datein>2025-07-01</datein>
+    <pttype>52</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>0000000018</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <account>40102810345370000107</account>
+    <regulationaccounttype>UTRA</regulationaccounttype>
+    <ck>93</ck>
+    <accountcbrbic>042202001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1403</index>
+    <bic>040349536</bic>
+    <namep>КРАСНОДАРСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
+    <rgn>03</rgn>
+    <ind>350038</ind>
+    <tnp>г</tnp>
+    <nnp>Краснодар</nnp>
+    <adr>Центральный округ, ул. им. Короленко, д. 2</adr>
+    <prntbic>044525111</prntbic>
+    <datein>2000-10-11</datein>
+    <pttype>30</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>0349536000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>3349/3</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30101810700000000536</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>59</ck>
+    <accountcbrbic>040349001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1404</index>
+    <bic>048717000</bic>
+    <namep>РКЦ УХТА</namep>
+    <rgn>87</rgn>
+    <ind>169300</ind>
+    <tnp>г</tnp>
+    <nnp>Ухта</nnp>
+    <adr>ул Первомайская, 47</adr>
+    <prntbic>048702001</prntbic>
+    <datein>1994-01-20</datein>
+    <pttype>10</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>8717000000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn/>
+    <cntrcd/>
+    <account/>
+    <regulationaccounttype/>
+    <ck/>
+    <accountcbrbic/>
+    <accountstatus/>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1405</index>
+    <bic>044525512</bic>
+    <namep>"НТХ БАНК АО"</namep>
+    <rgn>45</rgn>
+    <ind>127051</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>Цветной бульвар, д. 2</adr>
+    <prntbic/>
+    <datein>2002-03-12</datein>
+    <pttype>20</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>4525512000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>3390</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30101810100000000512</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>36</ck>
+    <accountcbrbic>044525000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname>NTX BANK JSC</englname>
+    <swbic>NATXRUMMXXX</swbic>
+    <defaultswbic>1</defaultswbic>
+  </row>
+  <row>
+    <index>1406</index>
+    <bic>044525994</bic>
+    <namep>КУ КБ "НЕФТЯНОЙ АЛЬЯНС" (ПАО) - ГК "АСВ"</namep>
+    <rgn>45</rgn>
+    <ind>109240</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>ул Высоцкого, 4</adr>
+    <prntbic/>
+    <datein>2016-06-15</datein>
+    <pttype>90</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>4525994000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>2859</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30101810345250000994</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>62</ck>
+    <accountcbrbic>044525000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1407</index>
+    <bic>045004051</bic>
+    <namep>Новосибирский филиал РНКО "Р-ИНКАС" (ООО)</namep>
+    <rgn>50</rgn>
+    <ind>630049</ind>
+    <tnp>г</tnp>
+    <nnp>Новосибирск</nnp>
+    <adr>ул. Дмитрия Донского, 11</adr>
+    <prntbic>044525063</prntbic>
+    <datein>2018-10-26</datein>
+    <pttype>30</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>5004051000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>3536-К/1</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30103810450045004051</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>51</ck>
+    <accountcbrbic>045004001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1408</index>
+    <bic>046015207</bic>
+    <namep>ФИЛИАЛ "РОСТОВСКИЙ" АО "АЛЬФА-БАНК"</namep>
+    <rgn>60</rgn>
+    <ind>344000</ind>
+    <tnp>г</tnp>
+    <nnp>Ростов-на-Дону</nnp>
+    <adr>ул. Красноармейская, 206</adr>
+    <prntbic>044525593</prntbic>
+    <datein>2000-07-10</datein>
+    <pttype>30</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>6015207000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>1326/18</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30101810500000000207</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>59</ck>
+    <accountcbrbic>046015001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1409</index>
+    <bic>046015913</bic>
+    <namep>ФМКБ "ДОН-ТЕКСБАНК"ООО В Г.РОСТОВЕ-НА-ДОНУ</namep>
+    <rgn>60</rgn>
+    <ind>344006</ind>
+    <tnp>г</tnp>
+    <nnp>Ростов-на-Дону</nnp>
+    <adr>улица Суворова, д. 40</adr>
+    <prntbic>046015718</prntbic>
+    <datein>1994-04-18</datein>
+    <pttype>30</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>6015913000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>1818/1</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30101810700000000913</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>66</ck>
+    <accountcbrbic>046015001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1410</index>
+    <bic>044525720</bic>
+    <namep>РФ АО "Россельхозбанк" - "ЦКБ"</namep>
+    <rgn>45</rgn>
+    <ind>123112</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>1-й Красногвардейский проезд, д.19</adr>
+    <prntbic>044525111</prntbic>
+    <datein>2017-03-29</datein>
+    <pttype>30</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>4525720000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>3349/79</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30101810645250000720</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>29</ck>
+    <accountcbrbic>044525000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1411</index>
+    <bic>044525070</bic>
+    <namep>ООО НКО "Расчетные Решения"</namep>
+    <rgn>45</rgn>
+    <ind>117418</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>Нахимовский проспект, дом 51</adr>
+    <prntbic/>
+    <datein>2016-05-11</datein>
+    <pttype>20</pttype>
+    <srvcs>5</srvcs>
+    <xchtype>1</xchtype>
+    <uid>4525070000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>3524-К</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30103810445250000070</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>67</ck>
+    <accountcbrbic>044525000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1412</index>
+    <bic>044525232</bic>
+    <namep>ПАО "МТС-Банк"</namep>
+    <rgn>45</rgn>
+    <ind>115432</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>просп. Андропова, д.18, корп.1</adr>
+    <prntbic/>
+    <datein>1998-03-25</datein>
+    <pttype>20</pttype>
+    <srvcs>5</srvcs>
+    <xchtype>1</xchtype>
+    <uid>4525232000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>2268</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30101810600000000232</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>81</ck>
+    <accountcbrbic>044525000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname>MTS BANK</englname>
+    <swbic>MBRDRUMMXXX</swbic>
+    <defaultswbic>1</defaultswbic>
+  </row>
+  <row>
+    <index>1413</index>
+    <bic>048702640</bic>
+    <namep>КОМИ ОТДЕЛЕНИЕ N8617 ПАО СБЕРБАНК</namep>
+    <rgn>87</rgn>
+    <ind>167023</ind>
+    <tnp>г</tnp>
+    <nnp>Сыктывкар</nnp>
+    <adr>ул. Морозова, д. 89</adr>
+    <prntbic>044525225</prntbic>
+    <datein>1991-01-19</datein>
+    <pttype>30</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>8702640000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>1481/596</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30101810400000000640</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>13</ck>
+    <accountcbrbic>048702001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1414</index>
+    <bic>042780104</bic>
+    <namep>УФК по Калининградской области</namep>
+    <rgn>27</rgn>
+    <ind>236022</ind>
+    <tnp>г</tnp>
+    <nnp>Калининград</nnp>
+    <adr>ул Зоологическая, 27 А</adr>
+    <prntbic/>
+    <datein>2022-12-19</datein>
+    <pttype>52</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>1</xchtype>
+    <uid>2780002004</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <account>40116810145376614011</account>
+    <regulationaccounttype>TRSA</regulationaccounttype>
+    <ck>10</ck>
+    <accountcbrbic>042780002</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1415</index>
+    <bic>040507595</bic>
+    <namep>АО "Солид Банк"</namep>
+    <rgn>05</rgn>
+    <ind>690091</ind>
+    <tnp>г</tnp>
+    <nnp>Владивосток</nnp>
+    <adr>ул. Алеутская, д. 33</adr>
+    <prntbic/>
+    <datein>2017-06-29</datein>
+    <pttype>20</pttype>
+    <srvcs>5</srvcs>
+    <xchtype>1</xchtype>
+    <uid>0507595000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>1329</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30101810205070000595</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>04</ck>
+    <accountcbrbic>040507001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1416</index>
+    <bic>043002050</bic>
+    <namep>Камчатский филиал АО "Солид Банк"</namep>
+    <rgn>30</rgn>
+    <ind>683024</ind>
+    <tnp>г</tnp>
+    <nnp>Петропавловск-Камчатский</nnp>
+    <adr>ул. Лукашевского, 11</adr>
+    <prntbic>040507595</prntbic>
+    <datein>2025-06-16</datein>
+    <pttype>30</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>3002050000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>1329/12</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30101810945373002050</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>58</ck>
+    <accountcbrbic>043002001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname>JSC "Solid Bank"</englname>
+    <swbic>SLDBRUMM</swbic>
+    <defaultswbic>1</defaultswbic>
+  </row>
+  <row>
+    <index>1417</index>
+    <bic>040349758</bic>
+    <namep>ФИЛИАЛ № 2351 БАНКА ВТБ (ПАО)</namep>
+    <rgn>03</rgn>
+    <ind>350000</ind>
+    <tnp>г</tnp>
+    <nnp>Краснодар</nnp>
+    <adr>Центральный внутригородской округ, ул. Красноармейская/ ул. им. Гоголя, дом № 43/68</adr>
+    <prntbic>044525187</prntbic>
+    <datein>2017-10-27</datein>
+    <pttype>30</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>0349758000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>1000/94</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30101810703490000758</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>87</ck>
+    <accountcbrbic>040349001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname>VTB BANK (PJSC) BRANCH N 2351</englname>
+    <swbic>VTBRRUM2KD3</swbic>
+    <defaultswbic>1</defaultswbic>
+  </row>
+  <row>
+    <index>1418</index>
+    <bic>047144778</bic>
+    <namep>СФ АО БАНК "СНГБ"</namep>
+    <rgn>71</rgn>
+    <ind>628400</ind>
+    <tnp>г</tnp>
+    <nnp>Сургут</nnp>
+    <adr>ул Губкина, 15 А</adr>
+    <prntbic>047144709</prntbic>
+    <datein>2017-04-17</datein>
+    <pttype>30</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>7144778000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>588/10</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30101810165777100778</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>58</ck>
+    <accountcbrbic>047144000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1419</index>
+    <bic>040507707</bic>
+    <namep>НКО "РКЦ ДВ" (АО)</namep>
+    <rgn>05</rgn>
+    <ind>690001</ind>
+    <tnp>г</tnp>
+    <nnp>Владивосток</nnp>
+    <adr>ул Махалина, 15</adr>
+    <prntbic/>
+    <datein>2016-04-21</datein>
+    <pttype>20</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>0507707000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>3318-Р</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30103810305070000707</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>61</ck>
+    <accountcbrbic>040507001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1420</index>
+    <bic>016015102</bic>
+    <namep>УФК по Ростовской области</namep>
+    <rgn>60</rgn>
+    <ind>344019</ind>
+    <tnp>г</tnp>
+    <nnp>Ростов-на-Дону</nnp>
+    <adr>пл. Свободы, 7/2</adr>
+    <prntbic/>
+    <datein>2021-01-05</datein>
+    <pttype>52</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>6015001102</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <account>40102810845370000050</account>
+    <regulationaccounttype>UTRA</regulationaccounttype>
+    <ck>68</ck>
+    <accountcbrbic>046015001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1421</index>
+    <bic>044525186</bic>
+    <namep>ПАО "СПБ Банк"</namep>
+    <rgn>45</rgn>
+    <ind>123112</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>муниципальный округ Пресненский, 1-й Красногвардейский проезд, дом 15, помещение 1/37</adr>
+    <prntbic/>
+    <datein>2003-06-02</datein>
+    <pttype>20</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>4525186000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>435</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30101810400000000186</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>12</ck>
+    <accountcbrbic>044525000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname>PJSC SPB BANK</englname>
+    <swbic>RTSBRUMMXXX</swbic>
+    <defaultswbic>1</defaultswbic>
+  </row>
+  <row>
+    <index>1422</index>
+    <bic>047003608</bic>
+    <namep>ТУЛЬСКОЕ ОТДЕЛЕНИЕ N8604 ПАО СБЕРБАНК</namep>
+    <rgn>70</rgn>
+    <ind>300000</ind>
+    <tnp>г</tnp>
+    <nnp>Тула</nnp>
+    <adr>Крестовоздвиженская пл, 1</adr>
+    <prntbic>044525225</prntbic>
+    <datein>1991-10-29</datein>
+    <pttype>30</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>7003608000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>1481/1558</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30101810300000000608</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>04</ck>
+    <accountcbrbic>047003001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1423</index>
+    <bic>044030866</bic>
+    <namep>Санкт-Петербургский филиал АО Банк Инго</namep>
+    <rgn>40</rgn>
+    <ind>197101</ind>
+    <tnp>г</tnp>
+    <nnp>Санкт-Петербург</nnp>
+    <adr>ул. Кронверкская, д. 13, литер А</adr>
+    <prntbic>044525148</prntbic>
+    <datein>2000-03-07</datein>
+    <pttype>30</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>4030866000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>2307/1</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30101810300000000866</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>77</ck>
+    <accountcbrbic>044030001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1424</index>
+    <bic>047144813</bic>
+    <namep>НЕФТЕЮГАНСКИЙ ФИЛИАЛ БАНКА "ВБРР" (АО)</namep>
+    <rgn>71</rgn>
+    <ind>628301</ind>
+    <tnp>г</tnp>
+    <nnp>Нефтеюганск</nnp>
+    <adr>мкр 2, д.24</adr>
+    <prntbic>044525880</prntbic>
+    <datein>2024-03-28</datein>
+    <pttype>30</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>7144813000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>3287/8</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30101810145377100813</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>13</ck>
+    <accountcbrbic>047144000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1425</index>
+    <bic>040702752</bic>
+    <namep>ФИЛИАЛ "СТАВРОПОЛЬСКИЙ" АО "АЛЬФА-БАНК"</namep>
+    <rgn>07</rgn>
+    <ind>355003</ind>
+    <tnp>г</tnp>
+    <nnp>Ставрополь</nnp>
+    <adr>ул. Ленина, д. 299</adr>
+    <prntbic>044525593</prntbic>
+    <datein>2012-08-17</datein>
+    <pttype>30</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>0702752000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>1326/36</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30101810000000000752</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>74</ck>
+    <accountcbrbic>040702001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1426</index>
+    <bic>042908701</bic>
+    <namep>АО "ГАЗЭНЕРГОБАНК"</namep>
+    <rgn>29</rgn>
+    <ind>248030</ind>
+    <tnp>г</tnp>
+    <nnp>Калуга</nnp>
+    <adr>ул Плеханова, 4</adr>
+    <prntbic/>
+    <datein>1995-06-27</datein>
+    <pttype>20</pttype>
+    <srvcs>5</srvcs>
+    <xchtype>1</xchtype>
+    <uid>2908701000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>3252</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30101810600000000701</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>58</ck>
+    <accountcbrbic>042908001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1427</index>
+    <bic>040702788</bic>
+    <namep>ФИЛИАЛ БАНКА ВТБ (ПАО) В Г. СТАВРОПОЛЕ</namep>
+    <rgn>07</rgn>
+    <ind>355000</ind>
+    <tnp>г</tnp>
+    <nnp>Ставрополь</nnp>
+    <adr>ул. Маршала Жукова, д. 7</adr>
+    <prntbic>044525187</prntbic>
+    <datein>1991-08-06</datein>
+    <pttype>30</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>0702788000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>1000/9</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30101810100000000788</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>82</ck>
+    <accountcbrbic>040702001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic>VTBRRUM2STA</swbic>
+    <defaultswbic>1</defaultswbic>
+  </row>
+  <row>
+    <index>1428</index>
+    <bic>044525085</bic>
+    <namep>ООО РНКО "ЭР Финанс"</namep>
+    <rgn>45</rgn>
+    <ind>107045</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>Последний переулок, д. 22</adr>
+    <prntbic/>
+    <datein>2025-05-28</datein>
+    <pttype>20</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>4525085001</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>3555-К</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30103810545374525085</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>38</ck>
+    <accountcbrbic>044525000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1429</index>
+    <bic>041909760</bic>
+    <namep>АО "БАНК "ВОЛОГЖАНИН"</namep>
+    <rgn>19</rgn>
+    <ind>160000</ind>
+    <tnp>г</tnp>
+    <nnp>Вологда</nnp>
+    <adr>ул. Козленская, д. 10</adr>
+    <prntbic/>
+    <datein>1992-05-20</datein>
+    <pttype>20</pttype>
+    <srvcs>5</srvcs>
+    <xchtype>1</xchtype>
+    <uid>1909760000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>1896</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30101810800000000760</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>56</ck>
+    <accountcbrbic>041909001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1430</index>
+    <bic>043601968</bic>
+    <namep>ФИЛИАЛ № 6318 БАНКА ВТБ (ПАО)</namep>
+    <rgn>36</rgn>
+    <ind>443013</ind>
+    <tnp>г</tnp>
+    <nnp>Самара</nnp>
+    <adr>Московское шоссе, д. 4, корпус 4</adr>
+    <prntbic>044525187</prntbic>
+    <datein>2017-09-27</datein>
+    <pttype>30</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>3601968000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>1000/89</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30101810422023601968</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>76</ck>
+    <accountcbrbic>043601001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname>VTB BANK (PUBLIC JOINT-STOCK COMPANY) BRANCH N 6318 IN SAMARA FILIAL № 6318 BANKA VTB PAO</englname>
+    <swbic>VTBRRUM2SA3</swbic>
+    <defaultswbic>1</defaultswbic>
+  </row>
+  <row>
+    <index>1431</index>
+    <bic>200000159</bic>
+    <namep>Участковая избирательная комиссия избирательного участка № 17</namep>
+    <rgn>11</rgn>
+    <ind>166706</ind>
+    <tnp>с</tnp>
+    <nnp>Великовисочное</nnp>
+    <adr>зд. 42А</adr>
+    <prntbic/>
+    <datein>2025-07-28</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>2000000008</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <account>40206810245371125028</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>05</ck>
+    <accountcbrbic>041125000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1432</index>
+    <bic>044525845</bic>
+    <namep>ПАО "Норвик Банк"</namep>
+    <rgn>45</rgn>
+    <ind>115054</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>ул. Зацепский Вал, д. 5</adr>
+    <prntbic/>
+    <datein>2022-12-22</datein>
+    <pttype>20</pttype>
+    <srvcs>5</srvcs>
+    <xchtype>1</xchtype>
+    <uid>4525845000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>902</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30101810745374525845</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>22</ck>
+    <accountcbrbic>044525000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1433</index>
+    <bic>046015211</bic>
+    <namep>РОСТОВСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
+    <rgn>60</rgn>
+    <ind>344082</ind>
+    <tnp>г</tnp>
+    <nnp>Ростов-на-Дону</nnp>
+    <adr>пр-кт Буденновский, д.37</adr>
+    <prntbic>044525111</prntbic>
+    <datein>2000-10-19</datein>
+    <pttype>30</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>6015211000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>3349/7</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30101810800000000211</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>04</ck>
+    <accountcbrbic>046015001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1434</index>
+    <bic>044030706</bic>
+    <namep>ФИЛИАЛ ПАО "БАНК УРАЛСИБ" В Г.САНКТ-ПЕТЕРБУРГ</namep>
+    <rgn>40</rgn>
+    <ind>191023</ind>
+    <tnp>г</tnp>
+    <nnp>Санкт-Петербург</nnp>
+    <adr>ул Инженерная, 9</adr>
+    <prntbic>044525787</prntbic>
+    <datein>1997-12-31</datein>
+    <pttype>30</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>4030706000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>2275/1</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30101810800000000706</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>49</ck>
+    <accountcbrbic>044030001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1435</index>
+    <bic>043469743</bic>
+    <namep>ПАО "СОВКОМБАНК"</namep>
+    <rgn>34</rgn>
+    <ind>156000</ind>
+    <tnp>г</tnp>
+    <nnp>Кострома</nnp>
+    <adr>пр-т Текстильщиков, 46</adr>
+    <prntbic/>
+    <datein>2003-08-04</datein>
+    <pttype>20</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>3469743000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>963</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30101810300000000743</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>97</ck>
+    <accountcbrbic>043469001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname>PJSC SOVCOMBANK</englname>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1436</index>
+    <bic>041806715</bic>
+    <namep>Южный ф-л ПАО "Банк ПСБ"</namep>
+    <rgn>18</rgn>
+    <ind>400005</ind>
+    <tnp>г</tnp>
+    <nnp>Волгоград</nnp>
+    <adr>ул. им. маршала Чуйкова, д. 65а</adr>
+    <prntbic>044525555</prntbic>
+    <datein>2011-12-09</datein>
+    <pttype>30</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>1806715000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>3251/15</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30101810100000000715</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>73</ck>
+    <accountcbrbic>041806001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic>PRMSRUMMVGG</swbic>
+    <defaultswbic>1</defaultswbic>
+  </row>
+  <row>
+    <index>1437</index>
+    <bic>044525272</bic>
+    <namep>ПАО Банк ЗЕНИТ</namep>
+    <rgn>45</rgn>
+    <ind>117638</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>Одесская ул., д.2</adr>
+    <prntbic/>
+    <datein>2000-06-27</datein>
+    <pttype>20</pttype>
+    <srvcs>5</srvcs>
+    <xchtype>1</xchtype>
+    <uid>4525272000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>3255</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30101810000000000272</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>26</ck>
+    <accountcbrbic>044525000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname>PJSC BANK ZENIT</englname>
+    <swbic>ZENIRUMMXXX</swbic>
+    <defaultswbic>1</defaultswbic>
+  </row>
+  <row>
+    <index>1438</index>
+    <bic>040349789</bic>
+    <namep>ООО КБ "ГТ БАНК"</namep>
+    <rgn>03</rgn>
+    <ind>350015</ind>
+    <tnp>г</tnp>
+    <nnp>Краснодар</nnp>
+    <adr>ул. Северная, д. 321</adr>
+    <prntbic/>
+    <datein>2017-10-09</datein>
+    <pttype>20</pttype>
+    <srvcs>5</srvcs>
+    <xchtype>1</xchtype>
+    <uid>0349789000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>665</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30101810303490000789</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>90</ck>
+    <accountcbrbic>040349001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1439</index>
+    <bic>040349542</bic>
+    <namep>КРАСНОДАРСКИЙ ФИЛИАЛ АО БАНК ИНГО</namep>
+    <rgn>03</rgn>
+    <ind>350000</ind>
+    <tnp>г</tnp>
+    <nnp>Краснодар</nnp>
+    <adr>Западный округ, ул. Рашпилевская, д.89</adr>
+    <prntbic>044525148</prntbic>
+    <datein>2004-09-27</datein>
+    <pttype>30</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>0349542000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>2307/6</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30101810600000000542</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>40</ck>
+    <accountcbrbic>040349001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1440</index>
+    <bic>049205805</bic>
+    <namep>ПАО "АК БАРС" БАНК</namep>
+    <rgn>92</rgn>
+    <ind>420066</ind>
+    <tnp>г</tnp>
+    <nnp>Казань</nnp>
+    <adr>ул  Декабристов, 1</adr>
+    <prntbic/>
+    <datein>1993-12-23</datein>
+    <pttype>20</pttype>
+    <srvcs>5</srvcs>
+    <xchtype>1</xchtype>
+    <uid>9205805000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>2590</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30101810000000000805</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>45</ck>
+    <accountcbrbic>049205001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname>AK BARS BANK</englname>
+    <swbic>ARRSRU2KXXX</swbic>
+    <defaultswbic>1</defaultswbic>
+  </row>
+  <row>
+    <index>1441</index>
+    <bic>049205603</bic>
+    <namep>отделение "Банк Татарстан" №8610 ПАО Сбербанк</namep>
+    <rgn>92</rgn>
+    <ind>420012</ind>
+    <tnp>г</tnp>
+    <nnp>Казань</nnp>
+    <adr>ул Бутлерова, 44</adr>
+    <prntbic>044525225</prntbic>
+    <datein>1995-01-01</datein>
+    <pttype>30</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>9205603000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>1481/1466</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30101810600000000603</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>87</ck>
+    <accountcbrbic>049205001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1442</index>
+    <bic>024501901</bic>
+    <namep>Межрегиональное операционное УФК</namep>
+    <rgn>45</rgn>
+    <ind>109240</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>ул. Верхняя Радищевская, д.11, стр.1</adr>
+    <prntbic/>
+    <datein>2011-09-13</datein>
+    <pttype>52</pttype>
+    <srvcs>5</srvcs>
+    <xchtype>1</xchtype>
+    <uid>4501002901</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <account>40816810400000001901</account>
+    <regulationaccounttype>TRSA</regulationaccounttype>
+    <ck>26</ck>
+    <accountcbrbic>044501002</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1443</index>
+    <bic>044525949</bic>
+    <namep>АО БАНК НБС</namep>
+    <rgn>24</rgn>
+    <ind>153000</ind>
+    <tnp>г</tnp>
+    <nnp>Иваново</nnp>
+    <adr>улица Палехская, дом 2</adr>
+    <prntbic/>
+    <datein>2025-07-25</datein>
+    <pttype>20</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>4525949000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>1949</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30101810845374525949</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>63</ck>
+    <accountcbrbic>044525000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1444</index>
+    <bic>040173754</bic>
+    <namep>КУ АО "ЗЕРНОБАНК"- ГК "АСВ"</namep>
+    <rgn>45</rgn>
+    <ind>109240</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>ул Высоцкого, 4</adr>
+    <prntbic/>
+    <datein>1993-07-07</datein>
+    <pttype>90</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>0173754000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>2337</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30101810600000000754</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>07</ck>
+    <accountcbrbic>040173001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1445</index>
+    <bic>044525593</bic>
+    <namep>АО "АЛЬФА-БАНК"</namep>
+    <rgn>45</rgn>
+    <ind>107078</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>ул. Каланчевская, д. 27</adr>
+    <prntbic/>
+    <datein>1998-03-25</datein>
+    <pttype>20</pttype>
+    <srvcs>5</srvcs>
+    <xchtype>1</xchtype>
+    <uid>4525593000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>1326</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30101810200000000593</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>53</ck>
+    <accountcbrbic>044525000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname>ALFA-BANK</englname>
+    <swbic>ALFARUMMXXX</swbic>
+    <defaultswbic>1</defaultswbic>
+  </row>
+  <row>
+    <index>1446</index>
+    <bic>044525675</bic>
+    <namep>АКБ "Держава" ПАО</namep>
+    <rgn>45</rgn>
+    <ind>119435</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>Большой Саввинский переулок, дом 2, строение 9</adr>
+    <prntbic/>
+    <datein>2016-06-07</datein>
+    <pttype>20</pttype>
+    <srvcs>5</srvcs>
+    <xchtype>1</xchtype>
+    <uid>4525675000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>2738</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30101810745250000675</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>79</ck>
+    <accountcbrbic>044525000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname>DERZHAVA PJSCB</englname>
+    <swbic>DERZRUMMXXX</swbic>
+    <defaultswbic>1</defaultswbic>
+  </row>
+  <row>
+    <index>1447</index>
+    <bic>044525120</bic>
+    <namep>КУ КБ "РОСПРОМБАНК" (ООО) - ГК "АСВ"</namep>
+    <rgn>45</rgn>
+    <ind>109240</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>ул Высоцкого, 4</adr>
+    <prntbic/>
+    <datein>2016-05-16</datein>
+    <pttype>90</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>4525120000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>3204</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30101810245250000120</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>61</ck>
+    <accountcbrbic>044525000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1448</index>
+    <bic>040349700</bic>
+    <namep>ФИЛИАЛ "ЮЖНЫЙ" ПАО "БАНК УРАЛСИБ"</namep>
+    <rgn>03</rgn>
+    <ind>350015</ind>
+    <tnp>г</tnp>
+    <nnp>Краснодар</nnp>
+    <adr>ул. Красная, 152</adr>
+    <prntbic>044525787</prntbic>
+    <datein>2010-05-31</datein>
+    <pttype>30</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>0349700000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>2275/60</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30101810400000000700</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>70</ck>
+    <accountcbrbic>040349001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1449</index>
+    <bic>041012765</bic>
+    <namep>"Азиатско-Тихоокеанский Банк" (АО)</namep>
+    <rgn>10</rgn>
+    <ind>675004</ind>
+    <tnp>г</tnp>
+    <nnp>Благовещенск</nnp>
+    <adr>ул Амурская, 225</adr>
+    <prntbic/>
+    <datein>1997-07-17</datein>
+    <pttype>20</pttype>
+    <srvcs>5</srvcs>
+    <xchtype>1</xchtype>
+    <uid>1012765000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>1810</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30101810300000000765</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>63</ck>
+    <accountcbrbic>041012001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname>Joint stock company Asian - Pacific Bank</englname>
+    <swbic>ASANRU8XXXX</swbic>
+    <defaultswbic>1</defaultswbic>
+  </row>
+  <row>
+    <index>1450</index>
+    <bic>048702739</bic>
+    <namep>КОМИ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
+    <rgn>87</rgn>
+    <ind>167000</ind>
+    <tnp>г</tnp>
+    <nnp>Сыктывкар</nnp>
+    <adr>ул. Первомайская, д. 112/1</adr>
+    <prntbic>044525111</prntbic>
+    <datein>2007-08-09</datein>
+    <pttype>30</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>8702739000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>3349/74</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30101810900000000739</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>95</ck>
+    <accountcbrbic>048702001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1451</index>
+    <bic>200000150</bic>
+    <namep>Участковая избирательная комиссия избирательного участка № 24</namep>
+    <rgn>11</rgn>
+    <ind>166703</ind>
+    <tnp>с</tnp>
+    <nnp>Оксино</nnp>
+    <adr>д. 1</adr>
+    <prntbic/>
+    <datein>2025-07-29</datein>
+    <pttype>99</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>2000000007</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn/>
+    <cntrcd>RU</cntrcd>
+    <account>40206810545371125029</account>
+    <regulationaccounttype>BANA</regulationaccounttype>
+    <ck>46</ck>
+    <accountcbrbic>041125000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
     <index>1452</index>
+    <bic>044525063</bic>
+    <namep>РНКО "Р-ИНКАС" (ООО)</namep>
+    <rgn>45</rgn>
+    <ind>127051</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>Малый Каретный переулок, дом  8</adr>
+    <prntbic/>
+    <datein>2017-03-22</datein>
+    <pttype>20</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>4525063000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <regn>3536-К</regn>
+    <cntrcd>RU</cntrcd>
+    <account>30103810245250000063</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>64</ck>
+    <accountcbrbic>044525000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1453</index>
     <bic>046311890</bic>
     <namep>АО "БАЛАКОВО-БАНК"</namep>
     <rgn>63</rgn>
@@ -39232,7 +39259,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1453</index>
+    <index>1454</index>
     <bic>044525266</bic>
     <namep>АО "Банк ДОМ.РФ"</namep>
     <rgn>45</rgn>
@@ -39256,33 +39283,6 @@
     <accountstatus>ACAC</accountstatus>
     <englname>BANK DOM.RF</englname>
     <swbic>BDRFRUMMXXX</swbic>
-    <defaultswbic>1</defaultswbic>
-  </row>
-  <row>
-    <index>1454</index>
-    <bic>040507803</bic>
-    <namep>ПАО СКБ Приморья "Примсоцбанк"</namep>
-    <rgn>05</rgn>
-    <ind>690106</ind>
-    <tnp>г</tnp>
-    <nnp>Владивосток</nnp>
-    <adr>Партизанский пр-т, 44</adr>
-    <prntbic/>
-    <datein>1993-08-21</datein>
-    <pttype>20</pttype>
-    <srvcs>5</srvcs>
-    <xchtype>1</xchtype>
-    <uid>0507803000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <regn>2733</regn>
-    <cntrcd>RU</cntrcd>
-    <account>30101810200000000803</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>07</ck>
-    <accountcbrbic>040507001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname>Public Joint-Stock Social Commercial Bank of Primorye "Primsotsbank"; PJS SCBP "Primsotsbank"</englname>
-    <swbic>PRMTRU8VXXX</swbic>
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
