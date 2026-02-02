@@ -33806,6 +33806,33 @@
   </row>
   <row>
     <index>1252</index>
+    <bic>044030310</bic>
+    <namep>НКО ЦК "ЭФИР" (АО)</namep>
+    <regn>3561-ЦК</regn>
+    <cntrcd>RU</cntrcd>
+    <rgn>40</rgn>
+    <ind>199178</ind>
+    <tnp>г</tnp>
+    <nnp>Санкт-Петербург</nnp>
+    <adr>линия 3-я В.О., д. 62, литера А, помещ. 27-Н</adr>
+    <datein>2025-12-19</datein>
+    <pttype>20</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>0</xchtype>
+    <uid>4030310000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>30103810945374030310</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>65</ck>
+    <accountcbrbic>044030001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <prntbic/>
+    <englname>EFIS (JSC)</englname>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1253</index>
     <bic>044525685</bic>
     <namep>"СДМ-Банк" (ПАО)</namep>
     <regn>1637</regn>
@@ -33832,7 +33859,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1253</index>
+    <index>1254</index>
     <bic>044705768</bic>
     <namep>БАНК "МСКБ" (АО)</namep>
     <regn>2722</regn>
@@ -33859,7 +33886,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1254</index>
+    <index>1255</index>
     <bic>043807606</bic>
     <namep>КУРСКОЕ ОТДЕЛЕНИЕ N8596 ПАО СБЕРБАНК</namep>
     <regn>1481/739</regn>
@@ -33886,7 +33913,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1255</index>
+    <index>1256</index>
     <bic>045773705</bic>
     <namep>АО АКИБ "ПОЧТОБАНК"</namep>
     <regn>1788</regn>
@@ -33913,7 +33940,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1256</index>
+    <index>1257</index>
     <bic>045655635</bic>
     <namep>ПЕНЗЕНСКОЕ ОТДЕЛЕНИЕ N8624 ПАО СБЕРБАНК</namep>
     <regn>1481/1100</regn>
@@ -33940,7 +33967,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1257</index>
+    <index>1258</index>
     <bic>046577781</bic>
     <namep>АО "ВУЗ-БАНК"</namep>
     <regn>1557</regn>
@@ -33967,7 +33994,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1258</index>
+    <index>1259</index>
     <bic>261000110</bic>
     <namep>Избирательная комиссия Рязанской области</namep>
     <regn/>
@@ -33994,7 +34021,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1259</index>
+    <index>1260</index>
     <bic>047501799</bic>
     <namep>БАНК "СНЕЖИНСКИЙ" АО</namep>
     <regn>1376</regn>
@@ -34021,7 +34048,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1260</index>
+    <index>1261</index>
     <bic>044525783</bic>
     <namep>КУ КБ "РЭБ" (АО) - ГК "АСВ"</namep>
     <regn>2211</regn>
@@ -34048,7 +34075,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1261</index>
+    <index>1262</index>
     <bic>044525555</bic>
     <namep>ПАО "Банк ПСБ"</namep>
     <regn>3251</regn>
@@ -34075,7 +34102,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1262</index>
+    <index>1263</index>
     <bic>044525187</bic>
     <namep>Банк ВТБ (ПАО)</namep>
     <regn>1000</regn>
@@ -34102,7 +34129,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1263</index>
+    <index>1264</index>
     <bic>044525267</bic>
     <namep>ИНВЕСТТОРГБАНК АО</namep>
     <regn>2763</regn>
@@ -34129,7 +34156,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1264</index>
+    <index>1265</index>
     <bic>040702748</bic>
     <namep>СЕВЕРО-КАВКАЗСКИЙ ФИЛИАЛ ПАО КБ "ВОСТОЧНЫЙ"</namep>
     <regn>1460/20</regn>
@@ -34156,7 +34183,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1265</index>
+    <index>1266</index>
     <bic>044525151</bic>
     <namep>АО "Банк Русский Стандарт"</namep>
     <regn>2289</regn>
@@ -34183,7 +34210,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1266</index>
+    <index>1267</index>
     <bic>040702773</bic>
     <namep>Ставропольский ф-л ПАО "Банк ПСБ"</namep>
     <regn>3251/44</regn>
@@ -34210,7 +34237,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1267</index>
+    <index>1268</index>
     <bic>041012718</bic>
     <namep>ПАО КБ "ВОСТОЧНЫЙ"</namep>
     <regn>1460</regn>
@@ -34237,7 +34264,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1268</index>
+    <index>1269</index>
     <bic>040507595</bic>
     <namep>АО "Солид Банк"</namep>
     <regn>1329</regn>
@@ -34264,7 +34291,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1269</index>
+    <index>1270</index>
     <bic>046577420</bic>
     <namep>УРАЛЬСКИЙ ФИЛИАЛ ПАО КБ "ВОСТОЧНЫЙ"</namep>
     <regn>1460/16</regn>
@@ -34289,33 +34316,6 @@
     <englname/>
     <swbic/>
     <defaultswbic/>
-  </row>
-  <row>
-    <index>1270</index>
-    <bic>044525236</bic>
-    <namep>АО "Банк Кредит Свисс (Москва)"</namep>
-    <regn>2494</regn>
-    <cntrcd>RU</cntrcd>
-    <rgn>45</rgn>
-    <ind>125047</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>ул. 1-я Тверская-Ямская, д. 21</adr>
-    <datein>1998-03-25</datein>
-    <pttype>20</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>4525236000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>30101810800000000236</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>64</ck>
-    <accountcbrbic>044525000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <prntbic/>
-    <englname>JSC BANK CREDIT SUISSE (MOSCOW)</englname>
-    <swbic>CRESRUMMXXX</swbic>
-    <defaultswbic>1</defaultswbic>
   </row>
   <row>
     <index>1271</index>
@@ -34346,6 +34346,33 @@
   </row>
   <row>
     <index>1272</index>
+    <bic>044525236</bic>
+    <namep>АО "Банк Кредит Свисс (Москва)"</namep>
+    <regn>2494</regn>
+    <cntrcd>RU</cntrcd>
+    <rgn>45</rgn>
+    <ind>125047</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>ул. 1-я Тверская-Ямская, д. 21</adr>
+    <datein>1998-03-25</datein>
+    <pttype>20</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>4525236000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>30101810800000000236</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>64</ck>
+    <accountcbrbic>044525000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <prntbic/>
+    <englname>JSC BANK CREDIT SUISSE (MOSCOW)</englname>
+    <swbic>CRESRUMMXXX</swbic>
+    <defaultswbic>1</defaultswbic>
+  </row>
+  <row>
+    <index>1273</index>
     <bic>044525218</bic>
     <namep>КБ "Дж.П. Морган Банк Интернешнл" (ООО)</namep>
     <regn>2629</regn>
@@ -34372,7 +34399,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1273</index>
+    <index>1274</index>
     <bic>040813886</bic>
     <namep>ДАЛЬНЕВОСТОЧНЫЙ ФИЛИАЛ ПАО КБ "ВОСТОЧНЫЙ"</namep>
     <regn>1460/4</regn>
@@ -34399,7 +34426,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1274</index>
+    <index>1275</index>
     <bic>046577501</bic>
     <namep>ФИЛИАЛ № 6602 БАНКА ВТБ (ПАО)</namep>
     <regn>1000/92</regn>
@@ -34426,7 +34453,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1275</index>
+    <index>1276</index>
     <bic>046577952</bic>
     <namep>ФИЛИАЛ БАНКА ВТБ (ПАО) В Г. ЕКАТЕРИНБУРГЕ</namep>
     <regn>1000/28</regn>
@@ -34453,7 +34480,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1276</index>
+    <index>1277</index>
     <bic>042202115</bic>
     <namep>УФК по Вологодской области</namep>
     <regn/>
@@ -34480,7 +34507,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1277</index>
+    <index>1278</index>
     <bic>042202114</bic>
     <namep>УФК по Республике Мордовия</namep>
     <regn/>
@@ -34507,7 +34534,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1278</index>
+    <index>1279</index>
     <bic>043002717</bic>
     <namep>КМ "Профильный Банк" (АО)</namep>
     <regn>2103</regn>
@@ -34534,7 +34561,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1279</index>
+    <index>1280</index>
     <bic>049401601</bic>
     <namep>УДМУРТСКОЕ ОТДЕЛЕНИЕ N8618 ПАО СБЕРБАНК</namep>
     <regn>1481/1625</regn>
@@ -34561,7 +34588,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1280</index>
+    <index>1281</index>
     <bic>042202112</bic>
     <namep>УФК по Липецкой области</namep>
     <regn/>
@@ -34588,7 +34615,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1281</index>
+    <index>1282</index>
     <bic>044525214</bic>
     <namep>АО "Почта Банк"</namep>
     <regn>650</regn>
@@ -34615,7 +34642,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1282</index>
+    <index>1283</index>
     <bic>042202113</bic>
     <namep>УФК по Пензенской области</namep>
     <regn/>
@@ -34642,7 +34669,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1283</index>
+    <index>1284</index>
     <bic>049401871</bic>
     <namep>АО "Датабанк"</namep>
     <regn>646</regn>
@@ -34669,7 +34696,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1284</index>
+    <index>1285</index>
     <bic>019401100</bic>
     <namep>УФК по Удмуртской Республике</namep>
     <regn/>
@@ -34696,7 +34723,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1285</index>
+    <index>1286</index>
     <bic>049401814</bic>
     <namep>ПАО "БЫСТРОБАНК"</namep>
     <regn>1745</regn>
@@ -34723,7 +34750,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1286</index>
+    <index>1287</index>
     <bic>040407699</bic>
     <namep>СИБИРСКИЙ ФИЛИАЛ ПАО КБ "ВОСТОЧНЫЙ"</namep>
     <regn>1460/11</regn>
@@ -34750,7 +34777,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1287</index>
+    <index>1288</index>
     <bic>047003608</bic>
     <namep>ТУЛЬСКОЕ ОТДЕЛЕНИЕ N8604 ПАО СБЕРБАНК</namep>
     <regn>1481/1558</regn>
@@ -34777,7 +34804,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1288</index>
+    <index>1289</index>
     <bic>044525135</bic>
     <namep>КБ "Ренессанс Кредит" (ООО)</namep>
     <regn>3354</regn>
@@ -34804,7 +34831,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1289</index>
+    <index>1290</index>
     <bic>292000450</bic>
     <namep>ЦИК Республики Татарстан</namep>
     <regn/>
@@ -34831,7 +34858,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1290</index>
+    <index>1291</index>
     <bic>266000058</bic>
     <namep>Избирательная комиссия Смоленской области</namep>
     <regn/>
@@ -34858,7 +34885,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1291</index>
+    <index>1292</index>
     <bic>042202116</bic>
     <namep>УФК по Тамбовской области</namep>
     <regn/>
@@ -34885,7 +34912,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1292</index>
+    <index>1293</index>
     <bic>042202117</bic>
     <namep>УФК по Чувашской Республике</namep>
     <regn/>
@@ -34912,7 +34939,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1293</index>
+    <index>1294</index>
     <bic>042202118</bic>
     <namep>УФК по Удмуртской Республике</namep>
     <regn/>
@@ -34939,7 +34966,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1294</index>
+    <index>1295</index>
     <bic>042202119</bic>
     <namep>УФК по Карачаево-Черкесской Республике</namep>
     <regn/>
@@ -34966,7 +34993,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1295</index>
+    <index>1296</index>
     <bic>044525111</bic>
     <namep>АО "Россельхозбанк"</namep>
     <regn>3349</regn>
@@ -34991,33 +35018,6 @@
     <englname>JSC ROSSELKHOZBANK</englname>
     <swbic>RUAGRUMMXXX</swbic>
     <defaultswbic>1</defaultswbic>
-  </row>
-  <row>
-    <index>1296</index>
-    <bic>044030310</bic>
-    <namep>НКО ЦК "ЭФИР" (АО)</namep>
-    <regn>3561-ЦК</regn>
-    <cntrcd>RU</cntrcd>
-    <rgn>40</rgn>
-    <ind>199178</ind>
-    <tnp>г</tnp>
-    <nnp>Санкт-Петербург</nnp>
-    <adr>линия 3-я В.О., д. 62, литера А, помещ. 27-Н</adr>
-    <datein>2025-12-19</datein>
-    <pttype>20</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>0</xchtype>
-    <uid>4030310000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>30103810945374030310</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>65</ck>
-    <accountcbrbic>044030001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <prntbic/>
-    <englname>EFIS (JSC)</englname>
-    <swbic/>
-    <defaultswbic/>
   </row>
   <row>
     <index>1297</index>
