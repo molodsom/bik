@@ -33887,30 +33887,30 @@
   </row>
   <row>
     <index>1255</index>
-    <bic>044525084</bic>
-    <namep>Ликвидатор АО "РУНЭТБАНК"</namep>
-    <regn>2829</regn>
+    <bic>044525218</bic>
+    <namep>КБ "Дж.П. Морган Банк Интернешнл" (ООО)</namep>
+    <regn>2629</regn>
     <cntrcd>RU</cntrcd>
     <rgn>45</rgn>
-    <ind>123056</ind>
+    <ind>125047</ind>
     <tnp>г</tnp>
     <nnp>Москва</nnp>
-    <adr>ул Гашека, 9, к 4, стр 1</adr>
-    <datein>2016-05-12</datein>
-    <pttype>90</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>4525084000</uid>
+    <adr>улица Бутырский Вал, дом 10</adr>
+    <datein>1998-03-25</datein>
+    <pttype>20</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>4525218000</uid>
     <participantstatus>PSAC</participantstatus>
-    <account>30101810145250000084</account>
+    <account>30101810200000000218</account>
     <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>53</ck>
+    <ck>75</ck>
     <accountcbrbic>044525000</accountcbrbic>
     <accountstatus>ACAC</accountstatus>
     <prntbic/>
-    <englname/>
-    <swbic/>
-    <defaultswbic/>
+    <englname>CB "J.P. MORGAN BANK INTERNATIONAL" (LLC)</englname>
+    <swbic>CHASRUMXXXX</swbic>
+    <defaultswbic>1</defaultswbic>
   </row>
   <row>
     <index>1256</index>
@@ -38234,33 +38234,6 @@
   </row>
   <row>
     <index>1416</index>
-    <bic>044525236</bic>
-    <namep>АО "Банк Кредит Свисс (Москва)"</namep>
-    <regn>2494</regn>
-    <cntrcd>RU</cntrcd>
-    <rgn>45</rgn>
-    <ind>125047</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>ул. 1-я Тверская-Ямская, д. 21</adr>
-    <datein>1998-03-25</datein>
-    <pttype>20</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>4525236000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>30101810800000000236</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>64</ck>
-    <accountcbrbic>044525000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <prntbic/>
-    <englname>JSC BANK CREDIT SUISSE (MOSCOW)</englname>
-    <swbic>CRESRUMMXXX</swbic>
-    <defaultswbic>1</defaultswbic>
-  </row>
-  <row>
-    <index>1417</index>
     <bic>044525225</bic>
     <namep>ПАО Сбербанк</namep>
     <regn>1481</regn>
@@ -38287,7 +38260,7 @@
     <defaultswbic>0</defaultswbic>
   </row>
   <row>
-    <index>1418</index>
+    <index>1417</index>
     <bic>044525349</bic>
     <namep>АО КБ "ИС Банк"</namep>
     <regn>3175</regn>
@@ -38314,7 +38287,61 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
+    <index>1418</index>
+    <bic>044525236</bic>
+    <namep>АО "Банк Кредит Свисс (Москва)"</namep>
+    <regn>2494</regn>
+    <cntrcd>RU</cntrcd>
+    <rgn>45</rgn>
+    <ind>125047</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>ул. 1-я Тверская-Ямская, д. 21</adr>
+    <datein>1998-03-25</datein>
+    <pttype>20</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>4525236000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>30101810800000000236</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>64</ck>
+    <accountcbrbic>044525000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <prntbic/>
+    <englname>JSC BANK CREDIT SUISSE (MOSCOW)</englname>
+    <swbic>CRESRUMMXXX</swbic>
+    <defaultswbic>1</defaultswbic>
+  </row>
+  <row>
     <index>1419</index>
+    <bic>044525084</bic>
+    <namep>Ликвидатор АО "РУНЭТБАНК"</namep>
+    <regn>2829</regn>
+    <cntrcd>RU</cntrcd>
+    <rgn>45</rgn>
+    <ind>123056</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>ул Гашека, 9, к 4, стр 1</adr>
+    <datein>2016-05-12</datein>
+    <pttype>90</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>4525084000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>30101810145250000084</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>53</ck>
+    <accountcbrbic>044525000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <prntbic/>
+    <englname/>
+    <swbic/>
+    <defaultswbic/>
+  </row>
+  <row>
+    <index>1420</index>
     <bic>044525070</bic>
     <namep>ООО НКО "Расчетные Решения"</namep>
     <regn>3524-К</regn>
@@ -38341,7 +38368,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1420</index>
+    <index>1421</index>
     <bic>044525245</bic>
     <namep>ООО "ХКФ Банк"</namep>
     <regn>316</regn>
@@ -38368,7 +38395,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1421</index>
+    <index>1422</index>
     <bic>042202111</bic>
     <namep>УФК по Владимирской области</namep>
     <regn/>
@@ -38395,7 +38422,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1422</index>
+    <index>1423</index>
     <bic>048702640</bic>
     <namep>КОМИ ОТДЕЛЕНИЕ N8617 ПАО СБЕРБАНК</namep>
     <regn>1481/596</regn>
@@ -38422,7 +38449,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1423</index>
+    <index>1424</index>
     <bic>044525976</bic>
     <namep>АКБ "Абсолют Банк" (ПАО)</namep>
     <regn>2306</regn>
@@ -38449,7 +38476,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1424</index>
+    <index>1425</index>
     <bic>044525091</bic>
     <namep>АО РНКО "Инстант Пэй"</namep>
     <regn>3559-К</regn>
@@ -38476,7 +38503,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1425</index>
+    <index>1426</index>
     <bic>282000048</bic>
     <namep>Избирательная комиссия Республики Дагестан</namep>
     <regn/>
@@ -38503,7 +38530,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1426</index>
+    <index>1427</index>
     <bic>047501821</bic>
     <namep>ЧЕЛЯБИНСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <regn>3349/78</regn>
@@ -38528,33 +38555,6 @@
     <englname/>
     <swbic/>
     <defaultswbic/>
-  </row>
-  <row>
-    <index>1427</index>
-    <bic>044525218</bic>
-    <namep>КБ "Дж.П. Морган Банк Интернешнл" (ООО)</namep>
-    <regn>2629</regn>
-    <cntrcd>RU</cntrcd>
-    <rgn>45</rgn>
-    <ind>125047</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>улица Бутырский Вал, дом 10</adr>
-    <datein>1998-03-25</datein>
-    <pttype>20</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>4525218000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>30101810200000000218</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>75</ck>
-    <accountcbrbic>044525000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <prntbic/>
-    <englname>CB "J.P. MORGAN BANK INTERNATIONAL" (LLC)</englname>
-    <swbic>CHASRUMXXXX</swbic>
-    <defaultswbic>1</defaultswbic>
   </row>
   <row>
     <index>1428</index>
