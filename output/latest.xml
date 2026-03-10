@@ -34643,33 +34643,6 @@
   </row>
   <row>
     <index>1283</index>
-    <bic>044525823</bic>
-    <namep>Банк ГПБ (АО)</namep>
-    <regn>354</regn>
-    <cntrcd>RU</cntrcd>
-    <rgn>45</rgn>
-    <ind>117420</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>ул. Наметкина, дом 16, корпус 1.</adr>
-    <datein>1998-03-25</datein>
-    <pttype>20</pttype>
-    <srvcs>5</srvcs>
-    <xchtype>1</xchtype>
-    <uid>4525823000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>30101810200000000823</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>02</ck>
-    <accountcbrbic>044525000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <prntbic/>
-    <englname>GAZPROMBANK (JOINT - STOCK COMPANY)</englname>
-    <swbic>GAZPRUMMXXX</swbic>
-    <defaultswbic>1</defaultswbic>
-  </row>
-  <row>
-    <index>1284</index>
     <bic>044525981</bic>
     <namep>АКБ "НООСФЕРА" (АО)</namep>
     <regn>2650</regn>
@@ -34696,7 +34669,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1285</index>
+    <index>1284</index>
     <bic>047601637</bic>
     <namep>ЧИТИНСКОЕ ОТДЕЛЕНИЕ  N8600 ПАО СБЕРБАНК</namep>
     <regn>1481/1727</regn>
@@ -34723,7 +34696,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1286</index>
+    <index>1285</index>
     <bic>044525659</bic>
     <namep>ПАО "МОСКОВСКИЙ КРЕДИТНЫЙ БАНК"</namep>
     <regn>1978</regn>
@@ -34750,7 +34723,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1287</index>
+    <index>1286</index>
     <bic>044525619</bic>
     <namep>ООО "Пихта Банк"</namep>
     <regn>3500</regn>
@@ -34777,7 +34750,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1288</index>
+    <index>1287</index>
     <bic>049401758</bic>
     <namep>ООО НКО "ЭЛПЛАТ"</namep>
     <regn>3535-К</regn>
@@ -34804,7 +34777,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1289</index>
+    <index>1288</index>
     <bic>044525201</bic>
     <namep>ПАО АКБ "АВАНГАРД"</namep>
     <regn>2879</regn>
@@ -34831,7 +34804,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1290</index>
+    <index>1289</index>
     <bic>045004725</bic>
     <namep>ФИЛИАЛ ПАО "БАНК УРАЛСИБ" В Г.НОВОСИБИРСК</namep>
     <regn>2275/2</regn>
@@ -34858,7 +34831,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1291</index>
+    <index>1290</index>
     <bic>045004850</bic>
     <namep>БАНК "ЛЕВОБЕРЕЖНЫЙ" (ПАО)</namep>
     <regn>1343</regn>
@@ -34885,7 +34858,7 @@
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
-    <index>1292</index>
+    <index>1291</index>
     <bic>045004051</bic>
     <namep>Новосибирский филиал РНКО "Р-ИНКАС" (ООО)</namep>
     <regn>3536-К/1</regn>
@@ -34912,7 +34885,7 @@
     <defaultswbic/>
   </row>
   <row>
-    <index>1293</index>
+    <index>1292</index>
     <bic>045354860</bic>
     <namep>АКБ "ФОРШТАДТ" (АО)</namep>
     <regn>2208</regn>
@@ -34936,6 +34909,33 @@
     <prntbic/>
     <englname>FORSHTADT BANK</englname>
     <swbic>FORHRU33XXX</swbic>
+    <defaultswbic>1</defaultswbic>
+  </row>
+  <row>
+    <index>1293</index>
+    <bic>044525823</bic>
+    <namep>Банк ГПБ (АО)</namep>
+    <regn>354</regn>
+    <cntrcd>RU</cntrcd>
+    <rgn>45</rgn>
+    <ind>117420</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>ул. Наметкина, дом 16, корпус 1.</adr>
+    <datein>1998-03-25</datein>
+    <pttype>20</pttype>
+    <srvcs>5</srvcs>
+    <xchtype>1</xchtype>
+    <uid>4525823000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>30101810200000000823</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>02</ck>
+    <accountcbrbic>044525000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <prntbic/>
+    <englname>GAZPROMBANK (JOINT - STOCK COMPANY)</englname>
+    <swbic>GAZPRUMMXXX</swbic>
     <defaultswbic>1</defaultswbic>
   </row>
   <row>
