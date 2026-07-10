@@ -23168,33 +23168,6 @@
   </row>
   <row>
     <index>858</index>
-    <bic>048327749</bic>
-    <namep>КУ "БУМ-БАНК",ООО - ГК "АСВ"</namep>
-    <cntrcd>RU</cntrcd>
-    <rgn>45</rgn>
-    <ind>109240</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>ул. Высоцкого, 4</adr>
-    <datein>1998-01-01</datein>
-    <pttype>90</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>8327749000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>30101810100000000749</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>48</ck>
-    <accountcbrbic>048327001</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <regn>1137</regn>
-    <swbic/>
-    <defaultswbic/>
-    <prntbic/>
-  </row>
-  <row>
-    <index>859</index>
     <bic>018327106</bic>
     <namep>УФК по Кабардино-Балкарской Республике</namep>
     <cntrcd>RU</cntrcd>
@@ -23221,7 +23194,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>860</index>
+    <index>859</index>
     <bic>040702715</bic>
     <namep>КБ "Континенталь" ООО</namep>
     <cntrcd>RU</cntrcd>
@@ -23248,7 +23221,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>861</index>
+    <index>860</index>
     <bic>043601742</bic>
     <namep>АО "КОШЕЛЕВ-БАНК"</namep>
     <cntrcd>RU</cntrcd>
@@ -23275,7 +23248,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>862</index>
+    <index>861</index>
     <bic>043601811</bic>
     <namep>ООО "ЗЕМСКИЙ БАНК"</namep>
     <cntrcd>RU</cntrcd>
@@ -23302,7 +23275,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>863</index>
+    <index>862</index>
     <bic>043601838</bic>
     <namep>АО "Тольяттихимбанк"</namep>
     <cntrcd>RU</cntrcd>
@@ -23329,7 +23302,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>864</index>
+    <index>863</index>
     <bic>043601842</bic>
     <namep>АО КБ "НИБ"</namep>
     <cntrcd>RU</cntrcd>
@@ -23356,7 +23329,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>865</index>
+    <index>864</index>
     <bic>046311722</bic>
     <namep>АО "ЭКОНОМБАНК"</namep>
     <cntrcd>RU</cntrcd>
@@ -23383,7 +23356,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>866</index>
+    <index>865</index>
     <bic>043601707</bic>
     <namep>ФИЛИАЛ "САМАРСКИЙ" АО "ОТП БАНК"</namep>
     <cntrcd>RU</cntrcd>
@@ -23410,7 +23383,7 @@
     <prntbic>044525311</prntbic>
   </row>
   <row>
-    <index>867</index>
+    <index>866</index>
     <bic>043601777</bic>
     <namep>САМАРСКИЙ ФИЛИАЛ АО ЮНИКРЕДИТ БАНКА</namep>
     <cntrcd>RU</cntrcd>
@@ -23437,7 +23410,7 @@
     <prntbic>044525545</prntbic>
   </row>
   <row>
-    <index>868</index>
+    <index>867</index>
     <bic>043601845</bic>
     <namep>Самарский филиал АО Банк Инго</namep>
     <cntrcd>RU</cntrcd>
@@ -23464,7 +23437,7 @@
     <prntbic>044525148</prntbic>
   </row>
   <row>
-    <index>869</index>
+    <index>868</index>
     <bic>043601978</bic>
     <namep>САМАРСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <cntrcd>RU</cntrcd>
@@ -23491,7 +23464,7 @@
     <prntbic>044525111</prntbic>
   </row>
   <row>
-    <index>870</index>
+    <index>869</index>
     <bic>049082002</bic>
     <namep>ПУ БАНКА РОССИИ КАЗБЕКСКОЕ</namep>
     <cntrcd/>
@@ -23518,7 +23491,7 @@
     <prntbic>040349001</prntbic>
   </row>
   <row>
-    <index>871</index>
+    <index>870</index>
     <bic>044501078</bic>
     <namep>Небанковская кредитная организация - центральный контрагент "РДК" (Акционерное общество)</namep>
     <cntrcd>RU</cntrcd>
@@ -23545,7 +23518,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>872</index>
+    <index>871</index>
     <bic>200000390</bic>
     <namep>Минфин России</namep>
     <cntrcd>RU</cntrcd>
@@ -23572,7 +23545,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>873</index>
+    <index>872</index>
     <bic>010052193</bic>
     <namep>УФК по Луганской Народной Республике</namep>
     <cntrcd>RU</cntrcd>
@@ -23599,7 +23572,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>874</index>
+    <index>873</index>
     <bic>000825040</bic>
     <namep>УФК по Хабаровскому краю</namep>
     <cntrcd>RU</cntrcd>
@@ -23626,7 +23599,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>875</index>
+    <index>874</index>
     <bic>044595002</bic>
     <namep>Оператор платформы цифрового рубля</namep>
     <cntrcd/>
@@ -23653,7 +23626,7 @@
     <prntbic>044537002</prntbic>
   </row>
   <row>
-    <index>876</index>
+    <index>875</index>
     <bic>042202773</bic>
     <namep>КУ ПАО НКБ "РАДИОТЕХБАНК" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -23680,7 +23653,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>877</index>
+    <index>876</index>
     <bic>042001002</bic>
     <namep>ПУ БАНКА РОССИИ КОЛЬЦОВСКОЕ</namep>
     <cntrcd/>
@@ -23707,7 +23680,7 @@
     <prntbic>044525000</prntbic>
   </row>
   <row>
-    <index>878</index>
+    <index>877</index>
     <bic>049205708</bic>
     <namep>КУ ООО "ТАТАГРОПРОМБАНК" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -23734,7 +23707,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>879</index>
+    <index>878</index>
     <bic>047308811</bic>
     <namep>ГК "АСВ" - КУ ОАО ГБ "СИМБИРСК"</namep>
     <cntrcd>RU</cntrcd>
@@ -23761,7 +23734,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>880</index>
+    <index>879</index>
     <bic>049205804</bic>
     <namep>КУ ПАО "ИНТЕХБАНК" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -23788,7 +23761,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>881</index>
+    <index>880</index>
     <bic>049205815</bic>
     <namep>КУ ПАО "ТАТФОНДБАНК" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -23815,7 +23788,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>882</index>
+    <index>881</index>
     <bic>049205858</bic>
     <namep>КУ АКБ "СПУРТ" (ПАО) - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -23842,7 +23815,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>883</index>
+    <index>882</index>
     <bic>040394101</bic>
     <namep>УФК по Краснодарскому краю</namep>
     <cntrcd>RU</cntrcd>
@@ -23869,7 +23842,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>884</index>
+    <index>883</index>
     <bic>046576002</bic>
     <namep>ПУ БАНКА РОССИИ МАЛАХИТОВОЕ</namep>
     <cntrcd/>
@@ -23896,7 +23869,7 @@
     <prntbic>046577001</prntbic>
   </row>
   <row>
-    <index>885</index>
+    <index>884</index>
     <bic>010053193</bic>
     <namep>УФК по Херсонской области</namep>
     <cntrcd>RU</cntrcd>
@@ -23923,7 +23896,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>886</index>
+    <index>885</index>
     <bic>100070050</bic>
     <namep>ООО МДО "Фазо С"</namep>
     <cntrcd>TJ</cntrcd>
@@ -23950,7 +23923,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>887</index>
+    <index>886</index>
     <bic>100070034</bic>
     <namep>ЗАО "МБТ"</namep>
     <cntrcd>TJ</cntrcd>
@@ -23977,7 +23950,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>888</index>
+    <index>887</index>
     <bic>040886101</bic>
     <namep>УФК по Хабаровскому краю</namep>
     <cntrcd>RU</cntrcd>
@@ -24004,7 +23977,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>889</index>
+    <index>888</index>
     <bic>100070033</bic>
     <namep>ЗАО МДО "Сундук"</namep>
     <cntrcd>TJ</cntrcd>
@@ -24031,7 +24004,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>890</index>
+    <index>889</index>
     <bic>042080002</bic>
     <namep>ПУ БАНКА РОССИИ МОСКОВСКОЕ</namep>
     <cntrcd/>
@@ -24058,7 +24031,7 @@
     <prntbic>044525000</prntbic>
   </row>
   <row>
-    <index>891</index>
+    <index>890</index>
     <bic>011403102</bic>
     <namep>УФК по Белгородской области</namep>
     <cntrcd>RU</cntrcd>
@@ -24085,7 +24058,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>892</index>
+    <index>891</index>
     <bic>100070049</bic>
     <namep>ЗАО "Спитамен Банк"</namep>
     <cntrcd>TJ</cntrcd>
@@ -24112,7 +24085,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>893</index>
+    <index>892</index>
     <bic>044783002</bic>
     <namep>ПУ БАНКА РОССИИ ПОЛЯРНОЕ</namep>
     <cntrcd/>
@@ -24139,7 +24112,7 @@
     <prntbic>044030001</prntbic>
   </row>
   <row>
-    <index>894</index>
+    <index>893</index>
     <bic>046382002</bic>
     <namep>ПУ БАНКА РОССИИ МИЧУРИНСКОЕ</namep>
     <cntrcd/>
@@ -24166,7 +24139,7 @@
     <prntbic>042202001</prntbic>
   </row>
   <row>
-    <index>895</index>
+    <index>894</index>
     <bic>040884002</bic>
     <namep>ПУ БАНКА РОССИИ РЕЧНОЕ</namep>
     <cntrcd/>
@@ -24193,7 +24166,7 @@
     <prntbic>040507001</prntbic>
   </row>
   <row>
-    <index>896</index>
+    <index>895</index>
     <bic>042534002</bic>
     <namep>ПУ БАНКА РОССИИ ЗАРЕЧНОЕ</namep>
     <cntrcd/>
@@ -24220,7 +24193,7 @@
     <prntbic>045004001</prntbic>
   </row>
   <row>
-    <index>897</index>
+    <index>896</index>
     <bic>042299100</bic>
     <namep>УФК по Нижегородской области</namep>
     <cntrcd>RU</cntrcd>
@@ -24247,7 +24220,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>898</index>
+    <index>897</index>
     <bic>041122101</bic>
     <namep>УФК по Архангельской области и Ненецкому автономному округу</namep>
     <cntrcd>RU</cntrcd>
@@ -24274,7 +24247,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>899</index>
+    <index>898</index>
     <bic>100070031</bic>
     <namep>ОАО "ФинансКредитБанк"</namep>
     <cntrcd>KG</cntrcd>
@@ -24301,7 +24274,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>900</index>
+    <index>899</index>
     <bic>047582100</bic>
     <namep>УФК по Челябинской области</namep>
     <cntrcd>RU</cntrcd>
@@ -24328,7 +24301,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>901</index>
+    <index>900</index>
     <bic>047681100</bic>
     <namep>УФК по Забайкальскому краю</namep>
     <cntrcd>RU</cntrcd>
@@ -24355,7 +24328,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>902</index>
+    <index>901</index>
     <bic>046579100</bic>
     <namep>УФК по Свердловской области</namep>
     <cntrcd>RU</cntrcd>
@@ -24382,7 +24355,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>903</index>
+    <index>902</index>
     <bic>278000688</bic>
     <namep>ИКМО</namep>
     <cntrcd>RU</cntrcd>
@@ -24409,7 +24382,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>904</index>
+    <index>903</index>
     <bic>222000300</bic>
     <namep>избирательная комиссия Нижегородской области</namep>
     <cntrcd>RU</cntrcd>
@@ -24436,7 +24409,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>905</index>
+    <index>904</index>
     <bic>046489101</bic>
     <namep>УФК по Сахалинской области</namep>
     <cntrcd>RU</cntrcd>
@@ -24463,7 +24436,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>906</index>
+    <index>905</index>
     <bic>049205878</bic>
     <namep>Ликвидатор АО "Автоградбанк" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -24490,7 +24463,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>907</index>
+    <index>906</index>
     <bic>012908002</bic>
     <namep>УФК по Калужской области</namep>
     <cntrcd>RU</cntrcd>
@@ -24517,7 +24490,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>908</index>
+    <index>907</index>
     <bic>004525987</bic>
     <namep>УФК ПО МОСКОВСКОЙ ОБЛАСТИ</namep>
     <cntrcd>RU</cntrcd>
@@ -24544,7 +24517,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>909</index>
+    <index>908</index>
     <bic>016126031</bic>
     <namep>УФК по Рязанской области</namep>
     <cntrcd>RU</cntrcd>
@@ -24571,7 +24544,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>910</index>
+    <index>909</index>
     <bic>019205400</bic>
     <namep>УФК по Республике Татарстан</namep>
     <cntrcd>RU</cntrcd>
@@ -24598,7 +24571,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>911</index>
+    <index>910</index>
     <bic>044584100</bic>
     <namep>УФК по г. Москве</namep>
     <cntrcd>RU</cntrcd>
@@ -24625,7 +24598,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>912</index>
+    <index>911</index>
     <bic>040053194</bic>
     <namep>Межрегиональное операционное управление Федерального казначейства</namep>
     <cntrcd>RU</cntrcd>
@@ -24652,7 +24625,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>913</index>
+    <index>912</index>
     <bic>040052193</bic>
     <namep>Межрегиональное операционное управление Федерального казначейства</namep>
     <cntrcd>RU</cntrcd>
@@ -24679,7 +24652,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>914</index>
+    <index>913</index>
     <bic>040054196</bic>
     <namep>Межрегиональное операционное управление Федерального казначейства</namep>
     <cntrcd>RU</cntrcd>
@@ -24706,7 +24679,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>915</index>
+    <index>914</index>
     <bic>043512200</bic>
     <namep>Межрегиональное операционное управление Федерального казначейства</namep>
     <cntrcd>RU</cntrcd>
@@ -24733,7 +24706,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>916</index>
+    <index>915</index>
     <bic>046080102</bic>
     <namep>Межрегиональное операционное управление Федерального казначейства</namep>
     <cntrcd>RU</cntrcd>
@@ -24760,7 +24733,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>917</index>
+    <index>916</index>
     <bic>046709112</bic>
     <namep>Межрегиональное операционное управление Федерального казначейства</namep>
     <cntrcd>RU</cntrcd>
@@ -24787,7 +24760,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>918</index>
+    <index>917</index>
     <bic>040051194</bic>
     <namep>Межрегиональное операционное управление Федерального казначейства</namep>
     <cntrcd>RU</cntrcd>
@@ -24814,7 +24787,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>919</index>
+    <index>918</index>
     <bic>040886002</bic>
     <namep>ПУ БАНКА РОССИИ СТАНЦИОННОЕ</namep>
     <cntrcd/>
@@ -24841,7 +24814,7 @@
     <prntbic>040507001</prntbic>
   </row>
   <row>
-    <index>920</index>
+    <index>919</index>
     <bic>245001229</bic>
     <namep>Международный банк реконструкции и развития</namep>
     <cntrcd>US</cntrcd>
@@ -24868,7 +24841,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>921</index>
+    <index>920</index>
     <bic>245001228</bic>
     <namep>МЕЖДУНАРОДНЫЙ ВАЛЮТНЫЙ ФОНД</namep>
     <cntrcd>US</cntrcd>
@@ -24895,7 +24868,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>922</index>
+    <index>921</index>
     <bic>044501050</bic>
     <namep>Центральный банк Мьянмы</namep>
     <cntrcd>MM</cntrcd>
@@ -24922,7 +24895,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>923</index>
+    <index>922</index>
     <bic>044501051</bic>
     <namep>Центральный банк Исламской Республики Иран</namep>
     <cntrcd>IR</cntrcd>
@@ -24949,7 +24922,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>924</index>
+    <index>923</index>
     <bic>016081973</bic>
     <namep>Федеральное казначейство</namep>
     <cntrcd>RU</cntrcd>
@@ -24976,7 +24949,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>925</index>
+    <index>924</index>
     <bic>200000405</bic>
     <namep>Новый банк развития</namep>
     <cntrcd>CN</cntrcd>
@@ -25003,7 +24976,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>926</index>
+    <index>925</index>
     <bic>000816041</bic>
     <namep>УФК по Хабаровскому краю</namep>
     <cntrcd>RU</cntrcd>
@@ -25030,7 +25003,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>927</index>
+    <index>926</index>
     <bic>044525192</bic>
     <namep>АО РОСЭКСИМБАНК</namep>
     <cntrcd>RU</cntrcd>
@@ -25057,7 +25030,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>928</index>
+    <index>927</index>
     <bic>040507705</bic>
     <namep>АО "Дальневосточный банк"</namep>
     <cntrcd>RU</cntrcd>
@@ -25084,7 +25057,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>929</index>
+    <index>928</index>
     <bic>044525272</bic>
     <namep>ПАО Банк ЗЕНИТ</namep>
     <cntrcd>RU</cntrcd>
@@ -25111,7 +25084,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>930</index>
+    <index>929</index>
     <bic>048073770</bic>
     <namep>ФИЛИАЛ ПАО "БАНК УРАЛСИБ" В Г.УФА</namep>
     <cntrcd>RU</cntrcd>
@@ -25138,7 +25111,7 @@
     <prntbic>044525787</prntbic>
   </row>
   <row>
-    <index>931</index>
+    <index>930</index>
     <bic>044525094</bic>
     <namep>Московский филиал "БАНК СГБ"</namep>
     <cntrcd>RU</cntrcd>
@@ -25165,7 +25138,7 @@
     <prntbic>044525786</prntbic>
   </row>
   <row>
-    <index>932</index>
+    <index>931</index>
     <bic>044030752</bic>
     <namep>САНКТ-ПЕТЕРБУРГСКИЙ ФИЛИАЛ "БАНК СГБ"</namep>
     <cntrcd>RU</cntrcd>
@@ -25192,7 +25165,7 @@
     <prntbic>044525786</prntbic>
   </row>
   <row>
-    <index>933</index>
+    <index>932</index>
     <bic>049205931</bic>
     <namep>ГК "АСВ" - КУ ООО КБ "Камский горизонт"</namep>
     <cntrcd>RU</cntrcd>
@@ -25219,7 +25192,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>934</index>
+    <index>933</index>
     <bic>245001961</bic>
     <namep>Небанковская кредитная организация-центральный контрагент "Национальный Клиринговый Центр" (Акционерное общество)</namep>
     <cntrcd>RU</cntrcd>
@@ -25246,7 +25219,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>935</index>
+    <index>934</index>
     <bic>245011006</bic>
     <namep>Акционерное общество "Национальная система платежных карт"</namep>
     <cntrcd>RU</cntrcd>
@@ -25273,7 +25246,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>936</index>
+    <index>935</index>
     <bic>049205131</bic>
     <namep>АО "Банк 131"</namep>
     <cntrcd>RU</cntrcd>
@@ -25300,7 +25273,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>937</index>
+    <index>936</index>
     <bic>040702725</bic>
     <namep>ООО "РУСБС"</namep>
     <cntrcd>RU</cntrcd>
@@ -25327,7 +25300,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>938</index>
+    <index>937</index>
     <bic>040702788</bic>
     <namep>ФИЛИАЛ БАНКА ВТБ (ПАО) В Г. СТАВРОПОЛЕ</namep>
     <cntrcd>RU</cntrcd>
@@ -25354,7 +25327,7 @@
     <prntbic>044525187</prntbic>
   </row>
   <row>
-    <index>939</index>
+    <index>938</index>
     <bic>044371122</bic>
     <namep>Луганский ф-л ПАО "Банк ПСБ"</namep>
     <cntrcd>RU</cntrcd>
@@ -25381,7 +25354,7 @@
     <prntbic>044525555</prntbic>
   </row>
   <row>
-    <index>940</index>
+    <index>939</index>
     <bic>043510135</bic>
     <namep>Крымский ф-л ПАО "Банк ПСБ"</namep>
     <cntrcd>RU</cntrcd>
@@ -25408,7 +25381,7 @@
     <prntbic>044525555</prntbic>
   </row>
   <row>
-    <index>941</index>
+    <index>940</index>
     <bic>046015066</bic>
     <namep>Ф-Л АО АКБ "НОВИКОМБАНК" В Г.РОСТОВЕ-НА-ДОНУ</namep>
     <cntrcd>RU</cntrcd>
@@ -25435,7 +25408,7 @@
     <prntbic>044525162</prntbic>
   </row>
   <row>
-    <index>942</index>
+    <index>941</index>
     <bic>046015999</bic>
     <namep>ФИЛИАЛ БАНКА ВТБ (ПАО) В Г. РОСТОВЕ-НА-ДОНУ</namep>
     <cntrcd>RU</cntrcd>
@@ -25462,7 +25435,7 @@
     <prntbic>044525187</prntbic>
   </row>
   <row>
-    <index>943</index>
+    <index>942</index>
     <bic>046015078</bic>
     <namep>ООО "ЗЕМКОМБАНК"</namep>
     <cntrcd>RU</cntrcd>
@@ -25489,7 +25462,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>944</index>
+    <index>943</index>
     <bic>046015946</bic>
     <namep>АО "Таганрогбанк"</namep>
     <cntrcd>RU</cntrcd>
@@ -25516,7 +25489,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>945</index>
+    <index>944</index>
     <bic>046015804</bic>
     <namep>ПАО "ДОНКОМБАНК"</namep>
     <cntrcd>RU</cntrcd>
@@ -25543,7 +25516,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>946</index>
+    <index>945</index>
     <bic>046015718</bic>
     <namep>МКБ "Дон-Тексбанк" ООО</namep>
     <cntrcd>RU</cntrcd>
@@ -25570,7 +25543,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>947</index>
+    <index>946</index>
     <bic>046015081</bic>
     <namep>РОСТОВСКИЙ ФИЛИАЛ АО ЮНИКРЕДИТ БАНКА</namep>
     <cntrcd>RU</cntrcd>
@@ -25597,7 +25570,7 @@
     <prntbic>044525545</prntbic>
   </row>
   <row>
-    <index>948</index>
+    <index>947</index>
     <bic>046015336</bic>
     <namep>ФМКБ "Дон-Тексбанк" ООО в г. Новошахтинске</namep>
     <cntrcd>RU</cntrcd>
@@ -25624,7 +25597,7 @@
     <prntbic>046015718</prntbic>
   </row>
   <row>
-    <index>949</index>
+    <index>948</index>
     <bic>046015211</bic>
     <namep>РОСТОВСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <cntrcd>RU</cntrcd>
@@ -25651,7 +25624,7 @@
     <prntbic>044525111</prntbic>
   </row>
   <row>
-    <index>950</index>
+    <index>949</index>
     <bic>049205702</bic>
     <namep>Филиал "Приволжский" ПАО Банк ЗЕНИТ</namep>
     <cntrcd>RU</cntrcd>
@@ -25678,7 +25651,7 @@
     <prntbic>044525272</prntbic>
   </row>
   <row>
-    <index>951</index>
+    <index>950</index>
     <bic>042202727</bic>
     <namep>ПАО КОМБАНК "ХИМИК"</namep>
     <cntrcd>RU</cntrcd>
@@ -25705,7 +25678,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>952</index>
+    <index>951</index>
     <bic>042202846</bic>
     <namep>НИЖЕГОРОДСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <cntrcd>RU</cntrcd>
@@ -25732,7 +25705,7 @@
     <prntbic>044525111</prntbic>
   </row>
   <row>
-    <index>953</index>
+    <index>952</index>
     <bic>042202837</bic>
     <namep>Филиал Банка ВТБ (ПАО) в г. Нижнем Новгороде</namep>
     <cntrcd>RU</cntrcd>
@@ -25759,7 +25732,7 @@
     <prntbic>044525187</prntbic>
   </row>
   <row>
-    <index>954</index>
+    <index>953</index>
     <bic>042202847</bic>
     <namep>Поволжский филиал АО "Райффайзенбанк"</namep>
     <cntrcd>RU</cntrcd>
@@ -25786,7 +25759,7 @@
     <prntbic>044525700</prntbic>
   </row>
   <row>
-    <index>955</index>
+    <index>954</index>
     <bic>042202863</bic>
     <namep>ФИЛИАЛ АО АКБ "НОВИКОМБАНК" В Г.Н.НОВГОРОДЕ</namep>
     <cntrcd>RU</cntrcd>
@@ -25813,7 +25786,7 @@
     <prntbic>044525162</prntbic>
   </row>
   <row>
-    <index>956</index>
+    <index>955</index>
     <bic>042202886</bic>
     <namep>НИЖЕГОРОДСКИЙ Ф-Л ПАО АКБ "МЕТАЛЛИНВЕСТБАНК"</namep>
     <cntrcd>RU</cntrcd>
@@ -25840,7 +25813,7 @@
     <prntbic>044525176</prntbic>
   </row>
   <row>
-    <index>957</index>
+    <index>956</index>
     <bic>042202906</bic>
     <namep>Банк "Йошкар-Ола" (ПАО)</namep>
     <cntrcd>RU</cntrcd>
@@ -25867,7 +25840,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>958</index>
+    <index>957</index>
     <bic>042202731</bic>
     <namep>АО КОМБАНК "АРЗАМАС"</namep>
     <cntrcd>RU</cntrcd>
@@ -25894,7 +25867,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>959</index>
+    <index>958</index>
     <bic>042202799</bic>
     <namep>НИЖЕГОРОДСКИЙ ФИЛИАЛ АО ЮНИКРЕДИТ БАНКА</namep>
     <cntrcd>RU</cntrcd>
@@ -25921,7 +25894,7 @@
     <prntbic>044525545</prntbic>
   </row>
   <row>
-    <index>960</index>
+    <index>959</index>
     <bic>047308813</bic>
     <namep>АО БАНК "ВЕНЕЦ"</namep>
     <cntrcd>RU</cntrcd>
@@ -25948,7 +25921,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>961</index>
+    <index>960</index>
     <bic>046015327</bic>
     <namep>Филиал "Ростовский" АО "ОТП Банк"</namep>
     <cntrcd>RU</cntrcd>
@@ -25975,7 +25948,7 @@
     <prntbic>044525311</prntbic>
   </row>
   <row>
-    <index>962</index>
+    <index>961</index>
     <bic>046015860</bic>
     <namep>ПАО КБ "СЕЛЬМАШБАНК"</namep>
     <cntrcd>RU</cntrcd>
@@ -26002,7 +25975,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>963</index>
+    <index>962</index>
     <bic>046015913</bic>
     <namep>ФМКБ "ДОН-ТЕКСБАНК"ООО В Г.РОСТОВЕ-НА-ДОНУ</namep>
     <cntrcd>RU</cntrcd>
@@ -26029,7 +26002,7 @@
     <prntbic>046015718</prntbic>
   </row>
   <row>
-    <index>964</index>
+    <index>963</index>
     <bic>049033758</bic>
     <namep>АО "Классик Эконом Банк"</namep>
     <cntrcd>RU</cntrcd>
@@ -26056,7 +26029,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>965</index>
+    <index>964</index>
     <bic>019033100</bic>
     <namep>УФК по Республике Северная Осетия - Алания</namep>
     <cntrcd>RU</cntrcd>
@@ -26083,7 +26056,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>966</index>
+    <index>965</index>
     <bic>049033746</bic>
     <namep>КУ ПАО АКБ "1БАНК" ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -26110,7 +26083,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>967</index>
+    <index>966</index>
     <bic>049033764</bic>
     <namep>КУ АКБ "БРР" (ОАО) ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -26137,7 +26110,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>968</index>
+    <index>967</index>
     <bic>049033780</bic>
     <namep>КУ ИАБ "ДИГ-БАНК" (ОАО) ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -26164,7 +26137,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>969</index>
+    <index>968</index>
     <bic>013510002</bic>
     <namep>УФК по Республике Крым</namep>
     <cntrcd>RU</cntrcd>
@@ -26191,7 +26164,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>970</index>
+    <index>969</index>
     <bic>049033199</bic>
     <namep>Национальный банк Республики Южная Осетия</namep>
     <cntrcd>OS</cntrcd>
@@ -26218,7 +26191,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>971</index>
+    <index>970</index>
     <bic>040702763</bic>
     <namep>ФИЛИАЛ ПАО "БАНК УРАЛСИБ" В Г. СТАВРОПОЛЬ</namep>
     <cntrcd>RU</cntrcd>
@@ -26245,7 +26218,7 @@
     <prntbic>044525787</prntbic>
   </row>
   <row>
-    <index>972</index>
+    <index>971</index>
     <bic>040702734</bic>
     <namep>ФИЛИАЛ №4 ПАО КБ "ЦЕНТР-ИНВЕСТ"</namep>
     <cntrcd>RU</cntrcd>
@@ -26272,7 +26245,7 @@
     <prntbic>046015762</prntbic>
   </row>
   <row>
-    <index>973</index>
+    <index>972</index>
     <bic>041203715</bic>
     <namep>АО ЕАТПБАНК</namep>
     <cntrcd>RU</cntrcd>
@@ -26299,7 +26272,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>974</index>
+    <index>973</index>
     <bic>041203602</bic>
     <namep>АСТРАХАНСКОЕ ОТДЕЛЕНИЕ N8625 ПАО СБЕРБАНК</namep>
     <cntrcd>RU</cntrcd>
@@ -26326,7 +26299,7 @@
     <prntbic>044525225</prntbic>
   </row>
   <row>
-    <index>975</index>
+    <index>974</index>
     <bic>011203901</bic>
     <namep>УФК по Астраханской области</namep>
     <cntrcd>RU</cntrcd>
@@ -26353,7 +26326,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>976</index>
+    <index>975</index>
     <bic>041203726</bic>
     <namep>КУ ПАО АГРОИНКОМБАНК-ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -26380,7 +26353,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>977</index>
+    <index>976</index>
     <bic>200000155</bic>
     <namep>ИК ЛНР</namep>
     <cntrcd>RU</cntrcd>
@@ -26407,7 +26380,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>978</index>
+    <index>977</index>
     <bic>042202841</bic>
     <namep>ПРИВОЛЖСКИЙ ФИЛИАЛ АО "БАНК ИНТЕЗА"</namep>
     <cntrcd>RU</cntrcd>
@@ -26434,7 +26407,7 @@
     <prntbic>044525922</prntbic>
   </row>
   <row>
-    <index>979</index>
+    <index>978</index>
     <bic>043304705</bic>
     <namep>ФИЛИАЛ БАНКА ВТБ (ПАО) В Г. КИРОВЕ</namep>
     <cntrcd>RU</cntrcd>
@@ -26461,7 +26434,7 @@
     <prntbic>044525187</prntbic>
   </row>
   <row>
-    <index>980</index>
+    <index>979</index>
     <bic>043304757</bic>
     <namep>АО "ПЕРВЫЙ ДОРТРАНСБАНК"</namep>
     <cntrcd>RU</cntrcd>
@@ -26488,7 +26461,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>981</index>
+    <index>980</index>
     <bic>043304787</bic>
     <namep>КИРОВСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <cntrcd>RU</cntrcd>
@@ -26515,7 +26488,7 @@
     <prntbic>044525111</prntbic>
   </row>
   <row>
-    <index>982</index>
+    <index>981</index>
     <bic>049205800</bic>
     <namep>АО "ИК Банк"</namep>
     <cntrcd>RU</cntrcd>
@@ -26542,7 +26515,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>983</index>
+    <index>982</index>
     <bic>049205844</bic>
     <namep>ООО КБЭР "Банк Казани"</namep>
     <cntrcd>RU</cntrcd>
@@ -26569,7 +26542,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>984</index>
+    <index>983</index>
     <bic>049205919</bic>
     <namep>ООО "АЛТЫНБАНК"</namep>
     <cntrcd>RU</cntrcd>
@@ -26596,7 +26569,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>985</index>
+    <index>984</index>
     <bic>049205795</bic>
     <namep>ООО "АвтоКредитБанк"</namep>
     <cntrcd>RU</cntrcd>
@@ -26623,7 +26596,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>986</index>
+    <index>985</index>
     <bic>040702752</bic>
     <namep>ФИЛИАЛ "СТАВРОПОЛЬСКИЙ" АО "АЛЬФА-БАНК"</namep>
     <cntrcd>RU</cntrcd>
@@ -26650,7 +26623,7 @@
     <prntbic>044525593</prntbic>
   </row>
   <row>
-    <index>987</index>
+    <index>986</index>
     <bic>040702793</bic>
     <namep>ФИЛИАЛ АКБ "ФОРА-БАНК" (АО) В Г. СТАВРОПОЛЬ</namep>
     <cntrcd>RU</cntrcd>
@@ -26677,7 +26650,7 @@
     <prntbic>044525341</prntbic>
   </row>
   <row>
-    <index>988</index>
+    <index>987</index>
     <bic>046711119</bic>
     <namep>СЕВАСТОПОЛЬСКИЙ Ф-Л ПАО "БАНК ПСБ"</namep>
     <cntrcd>RU</cntrcd>
@@ -26704,7 +26677,7 @@
     <prntbic>044525555</prntbic>
   </row>
   <row>
-    <index>989</index>
+    <index>988</index>
     <bic>019690001</bic>
     <namep>УФК по Чеченской Республике</namep>
     <cntrcd>RU</cntrcd>
@@ -26731,7 +26704,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>990</index>
+    <index>989</index>
     <bic>042368903</bic>
     <namep>УФК по Запорожской области</namep>
     <cntrcd>RU</cntrcd>
@@ -26758,7 +26731,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>991</index>
+    <index>990</index>
     <bic>200000151</bic>
     <namep>ИК ЗО</namep>
     <cntrcd>RU</cntrcd>
@@ -26785,7 +26758,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>992</index>
+    <index>991</index>
     <bic>049690719</bic>
     <namep>ЧЕЧЕНСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <cntrcd>RU</cntrcd>
@@ -26812,7 +26785,7 @@
     <prntbic>044525111</prntbic>
   </row>
   <row>
-    <index>993</index>
+    <index>992</index>
     <bic>010349101</bic>
     <namep>УФК по Краснодарскому краю</namep>
     <cntrcd>RU</cntrcd>
@@ -26839,7 +26812,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>994</index>
+    <index>993</index>
     <bic>040349569</bic>
     <namep>КУ АКБ "КРЫЛОВСКИЙ" (АО) - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -26866,7 +26839,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>995</index>
+    <index>994</index>
     <bic>040349715</bic>
     <namep>КУ БАНК "ПЕРВОМАЙСКИЙ" (ПАО) - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -26893,7 +26866,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>996</index>
+    <index>995</index>
     <bic>040349745</bic>
     <namep>КУ КБ"КУБАНСКИЙ УНИВЕРСАЛЬНЫЙ БАНК"ООО-ГК АСВ</namep>
     <cntrcd>RU</cntrcd>
@@ -26920,7 +26893,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>997</index>
+    <index>996</index>
     <bic>040349772</bic>
     <namep>КУ ПАО "ИДЕЯ БАНК" - ГК АСВ</namep>
     <cntrcd>RU</cntrcd>
@@ -26947,7 +26920,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>998</index>
+    <index>997</index>
     <bic>040349808</bic>
     <namep>КУ ООО КБ "НОВОПОКРОВСКИЙ" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -26974,7 +26947,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>999</index>
+    <index>998</index>
     <bic>046015761</bic>
     <namep>КУ ПАО "ДОНХЛЕББАНК"- ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -27001,7 +26974,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1000</index>
+    <index>999</index>
     <bic>046015846</bic>
     <namep>КУ ОАО КБ "Максимум" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -27028,7 +27001,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1001</index>
+    <index>1000</index>
     <bic>046015872</bic>
     <namep>КУ ООО КБ "Донинвест" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -27055,7 +27028,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1002</index>
+    <index>1001</index>
     <bic>046015961</bic>
     <namep>КУ ООО КБ "Кредит Экспресс" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -27082,7 +27055,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1003</index>
+    <index>1002</index>
     <bic>041401002</bic>
     <namep>ПУ Банка России Ватутинское</namep>
     <cntrcd/>
@@ -27109,7 +27082,7 @@
     <prntbic>044525000</prntbic>
   </row>
   <row>
-    <index>1004</index>
+    <index>1003</index>
     <bic>040053002</bic>
     <namep>ПУ Банка России № 82466</namep>
     <cntrcd/>
@@ -27136,7 +27109,7 @@
     <prntbic>044525000</prntbic>
   </row>
   <row>
-    <index>1005</index>
+    <index>1004</index>
     <bic>044525308</bic>
     <namep>ООО "Инбанк"</namep>
     <cntrcd>RU</cntrcd>
@@ -27163,7 +27136,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1006</index>
+    <index>1005</index>
     <bic>040349758</bic>
     <namep>ФИЛИАЛ № 2351 БАНКА ВТБ (ПАО)</namep>
     <cntrcd>RU</cntrcd>
@@ -27190,7 +27163,7 @@
     <prntbic>044525187</prntbic>
   </row>
   <row>
-    <index>1007</index>
+    <index>1006</index>
     <bic>045004724</bic>
     <namep>Читинский РФ АО "Россельхозбанк"</namep>
     <cntrcd>RU</cntrcd>
@@ -27217,7 +27190,7 @@
     <prntbic>044525111</prntbic>
   </row>
   <row>
-    <index>1008</index>
+    <index>1007</index>
     <bic>042202891</bic>
     <namep>ФИЛИАЛ АКБ "СЛАВИЯ" (АО) В Г. НИЖНИЙ НОВГОРОД</namep>
     <cntrcd>RU</cntrcd>
@@ -27244,7 +27217,7 @@
     <prntbic>044525318</prntbic>
   </row>
   <row>
-    <index>1009</index>
+    <index>1008</index>
     <bic>043469743</bic>
     <namep>ПАО "СОВКОМБАНК"</namep>
     <cntrcd>RU</cntrcd>
@@ -27271,7 +27244,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1010</index>
+    <index>1009</index>
     <bic>044525453</bic>
     <namep>"Вэйбанк" АО</namep>
     <cntrcd>RU</cntrcd>
@@ -27298,7 +27271,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1011</index>
+    <index>1010</index>
     <bic>100070044</bic>
     <namep>КБ "Амра-банк" (ООО)</namep>
     <cntrcd>AB</cntrcd>
@@ -27325,7 +27298,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1012</index>
+    <index>1011</index>
     <bic>044525070</bic>
     <namep>ООО НКО "Расчетные Решения"</namep>
     <cntrcd>RU</cntrcd>
@@ -27352,7 +27325,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1013</index>
+    <index>1012</index>
     <bic>100070032</bic>
     <namep>ООО НБКО "Васл"</namep>
     <cntrcd>TJ</cntrcd>
@@ -27379,7 +27352,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1014</index>
+    <index>1013</index>
     <bic>048602673</bic>
     <namep>КАРЕЛЬСКОЕ ОТДЕЛЕНИЕ N8628 ПАО СБЕРБАНК</namep>
     <cntrcd>RU</cntrcd>
@@ -27406,7 +27379,7 @@
     <prntbic>044525225</prntbic>
   </row>
   <row>
-    <index>1015</index>
+    <index>1014</index>
     <bic>042748701</bic>
     <namep>КБ "ЭНЕРГОТРАНСБАНК" (АО)</namep>
     <cntrcd>RU</cntrcd>
@@ -27433,7 +27406,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1016</index>
+    <index>1015</index>
     <bic>042748634</bic>
     <namep>КАЛИНИНГРАДСКОЕ ОТДЕЛЕНИЕ N8626 ПАО СБЕРБАНК</namep>
     <cntrcd>RU</cntrcd>
@@ -27460,7 +27433,7 @@
     <prntbic>044525225</prntbic>
   </row>
   <row>
-    <index>1017</index>
+    <index>1016</index>
     <bic>045853774</bic>
     <namep>АО КБ "ВАКОБАНК"</namep>
     <cntrcd>RU</cntrcd>
@@ -27487,7 +27460,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1018</index>
+    <index>1017</index>
     <bic>045853729</bic>
     <namep>АО "ВЕЛИКИЕ ЛУКИ БАНК"</namep>
     <cntrcd>RU</cntrcd>
@@ -27514,7 +27487,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1019</index>
+    <index>1018</index>
     <bic>014705901</bic>
     <namep>УФК по Мурманской области</namep>
     <cntrcd>RU</cntrcd>
@@ -27541,7 +27514,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1020</index>
+    <index>1019</index>
     <bic>044705615</bic>
     <namep>МУРМАНСКОЕ ОТДЕЛЕНИЕ N8627 ПАО СБЕРБАНК</namep>
     <cntrcd>RU</cntrcd>
@@ -27568,7 +27541,7 @@
     <prntbic>044525225</prntbic>
   </row>
   <row>
-    <index>1021</index>
+    <index>1020</index>
     <bic>042748877</bic>
     <namep>Ф-Л "ЕВРОПЕЙСКИЙ" ПАО "БАНК "САНКТ-ПЕТЕРБУРГ"</namep>
     <cntrcd>RU</cntrcd>
@@ -27595,7 +27568,7 @@
     <prntbic>044030790</prntbic>
   </row>
   <row>
-    <index>1022</index>
+    <index>1021</index>
     <bic>042748878</bic>
     <namep>КАЛИНИНГРАДСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <cntrcd>RU</cntrcd>
@@ -27622,7 +27595,7 @@
     <prntbic>044525111</prntbic>
   </row>
   <row>
-    <index>1023</index>
+    <index>1022</index>
     <bic>012748051</bic>
     <namep>УФК по Калининградской области</namep>
     <cntrcd>RU</cntrcd>
@@ -27649,7 +27622,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1024</index>
+    <index>1023</index>
     <bic>040881100</bic>
     <namep>УФК по Хабаровскому краю</namep>
     <cntrcd>RU</cntrcd>
@@ -27676,7 +27649,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1025</index>
+    <index>1024</index>
     <bic>044525514</bic>
     <namep>АО АКБ "ЦентроКредит"</namep>
     <cntrcd>RU</cntrcd>
@@ -27703,7 +27676,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1026</index>
+    <index>1025</index>
     <bic>044525551</bic>
     <namep>АйСиБиСи Банк (АО)</namep>
     <cntrcd>RU</cntrcd>
@@ -27730,7 +27703,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1027</index>
+    <index>1026</index>
     <bic>044525699</bic>
     <namep>ООО "ПроКоммерцБанк"</namep>
     <cntrcd>RU</cntrcd>
@@ -27757,7 +27730,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1028</index>
+    <index>1027</index>
     <bic>043807798</bic>
     <namep>КУРСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <cntrcd>RU</cntrcd>
@@ -27784,7 +27757,7 @@
     <prntbic>044525111</prntbic>
   </row>
   <row>
-    <index>1029</index>
+    <index>1028</index>
     <bic>043807330</bic>
     <namep>Центрально-Черноземный Филиал АО "Экспобанк"</namep>
     <cntrcd>RU</cntrcd>
@@ -27811,7 +27784,7 @@
     <prntbic>044525460</prntbic>
   </row>
   <row>
-    <index>1030</index>
+    <index>1029</index>
     <bic>044525241</bic>
     <namep>КУ ЗАО "М БАНК" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -27838,7 +27811,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1031</index>
+    <index>1030</index>
     <bic>044525242</bic>
     <namep>КУ КБ "ВЕГА-БАНК" (ООО) - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -27865,7 +27838,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1032</index>
+    <index>1031</index>
     <bic>044525244</bic>
     <namep>КУ ПАО "БАНК ЕКАТЕРИНИНСКИЙ" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -27892,7 +27865,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1033</index>
+    <index>1032</index>
     <bic>044525246</bic>
     <namep>КУ АКБ "КРОССИНВЕСТБАНК" (ОАО) - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -27919,7 +27892,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1034</index>
+    <index>1033</index>
     <bic>044525253</bic>
     <namep>КУ АО КБ "РУБЛЕВ" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -27946,7 +27919,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1035</index>
+    <index>1034</index>
     <bic>044525261</bic>
     <namep>Ликвидатор АО "РУНА-БАНК" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -27973,7 +27946,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1036</index>
+    <index>1035</index>
     <bic>044525274</bic>
     <namep>КУ БАНК ИТБ (АО) - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -28000,7 +27973,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1037</index>
+    <index>1036</index>
     <bic>044525279</bic>
     <namep>КУ АО КБ "БТФ" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -28027,7 +28000,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1038</index>
+    <index>1037</index>
     <bic>044525284</bic>
     <namep>КУ КБ "МИКО-БАНК" ООО - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -28054,7 +28027,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1039</index>
+    <index>1038</index>
     <bic>044525286</bic>
     <namep>КУ ОАО КБ "МВКБ" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -28081,7 +28054,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1040</index>
+    <index>1039</index>
     <bic>044525292</bic>
     <namep>КУ КБ "БФГ-КРЕДИТ" (ООО) - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -28108,7 +28081,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1041</index>
+    <index>1040</index>
     <bic>044525293</bic>
     <namep>КУ ПАО "ОФК БАНК" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -28135,7 +28108,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1042</index>
+    <index>1041</index>
     <bic>044525298</bic>
     <namep>Ликвидатор АО "ОРБАНК" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -28162,7 +28135,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1043</index>
+    <index>1042</index>
     <bic>044525304</bic>
     <namep>КУ ООО КБ "МИЛБАНК" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -28189,7 +28162,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1044</index>
+    <index>1043</index>
     <bic>044525306</bic>
     <namep>КУ ПАО КБ "ЕВРОКОММЕРЦ" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -28216,7 +28189,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1045</index>
+    <index>1044</index>
     <bic>044525325</bic>
     <namep>КУ ООО КБ "Жилкредит" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -28243,7 +28216,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1046</index>
+    <index>1045</index>
     <bic>044525335</bic>
     <namep>КУ ООО КБ "РБС" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -28270,7 +28243,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1047</index>
+    <index>1046</index>
     <bic>044525359</bic>
     <namep>КУ ПАО АКБ "РБР" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -28297,7 +28270,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1048</index>
+    <index>1047</index>
     <bic>044525387</bic>
     <namep>КУ КБ "МФБАНК" ООО - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -28324,7 +28297,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1049</index>
+    <index>1048</index>
     <bic>044525404</bic>
     <namep>КУ ООО КБ "Конфидэнс Банк" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -28351,7 +28324,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1050</index>
+    <index>1049</index>
     <bic>044525423</bic>
     <namep>КУ КБ "УНИФИН" АО - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -28378,7 +28351,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1051</index>
+    <index>1050</index>
     <bic>044525457</bic>
     <namep>КУ КБ "ЭКСПРЕСС-КРЕДИТ" (АО) - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -28405,7 +28378,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1052</index>
+    <index>1051</index>
     <bic>044525461</bic>
     <namep>КУ АКБ "БЕНИФИТ-БАНК" (ЗАО) - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -28432,7 +28405,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1053</index>
+    <index>1052</index>
     <bic>044525465</bic>
     <namep>КУ ОАО КБ "МАСТ-БАНК" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -28459,7 +28432,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1054</index>
+    <index>1053</index>
     <bic>044525485</bic>
     <namep>КУ КБ "КБР БАНК" (ООО) - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -28486,7 +28459,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1055</index>
+    <index>1054</index>
     <bic>044525491</bic>
     <namep>КУ ООО ПИР Банк - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -28513,7 +28486,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1056</index>
+    <index>1055</index>
     <bic>044525526</bic>
     <namep>КУ КБ "Русский ипотечный банк" (ООО) - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -28540,7 +28513,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1057</index>
+    <index>1056</index>
     <bic>044525536</bic>
     <namep>КУ ОАО БАНК "МБФИ" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -28567,7 +28540,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1058</index>
+    <index>1057</index>
     <bic>044525538</bic>
     <namep>КУ "РИАБАНК" (АО) - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -28594,7 +28567,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1059</index>
+    <index>1058</index>
     <bic>044525549</bic>
     <namep>КУ АКБ "ФИНПРОМБАНК" (ПАО) - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -28621,7 +28594,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1060</index>
+    <index>1059</index>
     <bic>044525541</bic>
     <namep>КУ КБ"МЕЖДУНАРОДНЫЙ БАНК РАЗВИТИЯ"(АО)ГК"АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -28648,7 +28621,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1061</index>
+    <index>1060</index>
     <bic>044525553</bic>
     <namep>КУ ООО КБ "СОЮЗНЫЙ" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -28675,7 +28648,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1062</index>
+    <index>1061</index>
     <bic>044525556</bic>
     <namep>КУ АКБ "БНКВ" (АО) - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -28702,7 +28675,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1063</index>
+    <index>1062</index>
     <bic>044525563</bic>
     <namep>КУ АКБ "СТРАТЕГИЯ" (ПАО) - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -28729,7 +28702,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1064</index>
+    <index>1063</index>
     <bic>044525584</bic>
     <namep>КУ "БАНК ГОРОД" (АО) - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -28756,7 +28729,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1065</index>
+    <index>1064</index>
     <bic>044525586</bic>
     <namep>КУ ООО КБ "АЙМАНИБАНК" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -28783,7 +28756,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1066</index>
+    <index>1065</index>
     <bic>044525591</bic>
     <namep>КУ АО "РУССТРОЙБАНК" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -28810,7 +28783,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1067</index>
+    <index>1066</index>
     <bic>044525597</bic>
     <namep>КУ "МИЛЛЕНИУМ БАНК" (ЗАО) - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -28837,7 +28810,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1068</index>
+    <index>1067</index>
     <bic>044525603</bic>
     <namep>КУ ЗАО "ИПОТЕК БАНК" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -28864,7 +28837,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1069</index>
+    <index>1068</index>
     <bic>045402601</bic>
     <namep>ОРЛОВСКОЕ ОТДЕЛЕНИЕ N8595 ПАО СБЕРБАНК</namep>
     <cntrcd>RU</cntrcd>
@@ -28891,7 +28864,7 @@
     <prntbic>044525225</prntbic>
   </row>
   <row>
-    <index>1070</index>
+    <index>1069</index>
     <bic>045402704</bic>
     <namep>ФИЛИАЛ "БАНКА ЗАРЕЧЬЕ" (АО) В Г. ОРЛЕ</namep>
     <cntrcd>RU</cntrcd>
@@ -28918,7 +28891,7 @@
     <prntbic>049205772</prntbic>
   </row>
   <row>
-    <index>1071</index>
+    <index>1070</index>
     <bic>045402751</bic>
     <namep>ОРЛОВСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <cntrcd>RU</cntrcd>
@@ -28945,7 +28918,7 @@
     <prntbic>044525111</prntbic>
   </row>
   <row>
-    <index>1072</index>
+    <index>1071</index>
     <bic>045402719</bic>
     <namep>КУ БАНК "ЦЕРИХ" (ЗАО)-ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -28972,7 +28945,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1073</index>
+    <index>1072</index>
     <bic>044525547</bic>
     <namep>КУ КБ "ФИНАНСОВЫЙ СТАНДАРТ" (ООО) - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -28999,7 +28972,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1074</index>
+    <index>1073</index>
     <bic>040507101</bic>
     <namep>УФК по Еврейской автономной области</namep>
     <cntrcd>RU</cntrcd>
@@ -29026,7 +28999,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1075</index>
+    <index>1074</index>
     <bic>010507002</bic>
     <namep>УФК по Приморскому краю</namep>
     <cntrcd>RU</cntrcd>
@@ -29053,7 +29026,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1076</index>
+    <index>1075</index>
     <bic>040813727</bic>
     <namep>ФИЛИАЛ БАНКА ВТБ (ПАО) В Г. ХАБАРОВСКЕ</namep>
     <cntrcd>RU</cntrcd>
@@ -29080,7 +29053,7 @@
     <prntbic>044525187</prntbic>
   </row>
   <row>
-    <index>1077</index>
+    <index>1076</index>
     <bic>040813733</bic>
     <namep>ХАБАРОВСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <cntrcd>RU</cntrcd>
@@ -29107,7 +29080,7 @@
     <prntbic>044525111</prntbic>
   </row>
   <row>
-    <index>1078</index>
+    <index>1077</index>
     <bic>040813770</bic>
     <namep>ФИЛИАЛ "ХАБАРОВСКИЙ" АО "АЛЬФА-БАНК"</namep>
     <cntrcd>RU</cntrcd>
@@ -29134,7 +29107,7 @@
     <prntbic>044525593</prntbic>
   </row>
   <row>
-    <index>1079</index>
+    <index>1078</index>
     <bic>040813864</bic>
     <namep>ХАБАРОВСКИЙ ФИЛИАЛ АКБ "БЭНК ОФ ЧАЙНА"(АО)</namep>
     <cntrcd>RU</cntrcd>
@@ -29161,7 +29134,7 @@
     <prntbic>044525213</prntbic>
   </row>
   <row>
-    <index>1080</index>
+    <index>1079</index>
     <bic>040813700</bic>
     <namep>КУ Банк "Уссури" (АО) - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -29188,7 +29161,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1081</index>
+    <index>1080</index>
     <bic>017719101</bic>
     <namep>УФК ПО ЧУКОТСКОМУ АВТОНОМНОМУ ОКРУГУ</namep>
     <cntrcd>RU</cntrcd>
@@ -29215,7 +29188,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1082</index>
+    <index>1081</index>
     <bic>010813050</bic>
     <namep>УФК по Хабаровскому краю</namep>
     <cntrcd>RU</cntrcd>
@@ -29242,7 +29215,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1083</index>
+    <index>1082</index>
     <bic>277000440</bic>
     <namep>ИЗБИРАТЕЛЬНАЯ КОМИССИЯ ЧУКОТСКОГО АВТОНОМНОГО ОКРУГА</namep>
     <cntrcd>RU</cntrcd>
@@ -29269,7 +29242,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1084</index>
+    <index>1083</index>
     <bic>016401800</bic>
     <namep>УФК по Сахалинской области</namep>
     <cntrcd>RU</cntrcd>
@@ -29296,7 +29269,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1085</index>
+    <index>1084</index>
     <bic>046401444</bic>
     <namep>Филиал АО "Экспобанк" в г. Южно-Сахалинске</namep>
     <cntrcd>RU</cntrcd>
@@ -29323,7 +29296,7 @@
     <prntbic>044525460</prntbic>
   </row>
   <row>
-    <index>1086</index>
+    <index>1085</index>
     <bic>046401747</bic>
     <namep>САХАЛИНСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <cntrcd>RU</cntrcd>
@@ -29350,7 +29323,7 @@
     <prntbic>044525111</prntbic>
   </row>
   <row>
-    <index>1087</index>
+    <index>1086</index>
     <bic>046401772</bic>
     <namep>Банк "ИТУРУП" (ООО)</namep>
     <cntrcd>RU</cntrcd>
@@ -29377,7 +29350,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1088</index>
+    <index>1087</index>
     <bic>264000026</bic>
     <namep>Избирательная комиссия Сахалинской области</namep>
     <cntrcd>RU</cntrcd>
@@ -29404,7 +29377,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1089</index>
+    <index>1088</index>
     <bic>040349055</bic>
     <namep>НАЦИОНАЛЬНЫЙ БАНК РЕСПУБЛИКИ АБХАЗИЯ</namep>
     <cntrcd>AB</cntrcd>
@@ -29431,7 +29404,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1090</index>
+    <index>1089</index>
     <bic>044680002</bic>
     <namep>ПУ БАНКА РОССИИ ДОРОЖНОЕ</namep>
     <cntrcd/>
@@ -29458,7 +29431,7 @@
     <prntbic>044525000</prntbic>
   </row>
   <row>
-    <index>1091</index>
+    <index>1090</index>
     <bic>045081002</bic>
     <namep>ПУ БАНКА РОССИИ ИНСКОЕ</namep>
     <cntrcd/>
@@ -29485,7 +29458,7 @@
     <prntbic>045004001</prntbic>
   </row>
   <row>
-    <index>1092</index>
+    <index>1091</index>
     <bic>044525569</bic>
     <namep>КУ "НОТА-БАНК" (ПАО) - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -29512,7 +29485,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1093</index>
+    <index>1092</index>
     <bic>044525592</bic>
     <namep>КУ ООО КБ "ОГНИ МОСКВЫ" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -29539,7 +29512,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1094</index>
+    <index>1093</index>
     <bic>044525621</bic>
     <namep>КУ КБ "АНТАЛБАНК" ООО - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -29566,7 +29539,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1095</index>
+    <index>1094</index>
     <bic>044525636</bic>
     <namep>КУ ОАО МКБ "ЗАМОСКВОРЕЦКИЙ" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -29593,7 +29566,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1096</index>
+    <index>1095</index>
     <bic>044525653</bic>
     <namep>КУ "НАЦКОРПБАНК" (АО) - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -29620,7 +29593,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1097</index>
+    <index>1096</index>
     <bic>044525664</bic>
     <namep>КУ БАНК "СОЛИДАРНОСТЬ" АО - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -29647,7 +29620,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1098</index>
+    <index>1097</index>
     <bic>044525672</bic>
     <namep>КУ АБ "БПФ" (ЗАО)-ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -29674,7 +29647,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1099</index>
+    <index>1098</index>
     <bic>044525676</bic>
     <namep>Ликвидатор ПАО АРКБ "Росбизнесбанк"-ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -29701,7 +29674,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1100</index>
+    <index>1099</index>
     <bic>044525694</bic>
     <namep>КУ ОАО АКБ "ЛЕСБАНК"-ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -29728,7 +29701,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1101</index>
+    <index>1100</index>
     <bic>044525695</bic>
     <namep>КУ ОАО БАНК "СОДРУЖЕСТВО"-ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -29755,7 +29728,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1102</index>
+    <index>1101</index>
     <bic>044525703</bic>
     <namep>КУ АКБ "ЕИБ" ЗАО-ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -29782,7 +29755,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1103</index>
+    <index>1102</index>
     <bic>044525713</bic>
     <namep>КУ ПАО "ТАЙМ БАНК" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -29809,7 +29782,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1104</index>
+    <index>1103</index>
     <bic>044525718</bic>
     <namep>КУ ОАО КБ "СТРОЙКРЕДИТ" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -29836,7 +29809,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1105</index>
+    <index>1104</index>
     <bic>044525719</bic>
     <namep>КУ АКИБ "ОБРАЗОВАНИЕ" (АО) - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -29863,7 +29836,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1106</index>
+    <index>1105</index>
     <bic>044525729</bic>
     <namep>КУ АКБ "ИНВЕСТБАНК" (ОАО)-ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -29890,7 +29863,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1107</index>
+    <index>1106</index>
     <bic>044525731</bic>
     <namep>КУ АО "АРКСБАНК" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -29917,7 +29890,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1108</index>
+    <index>1107</index>
     <bic>044525744</bic>
     <namep>КУ АО КБ "РУБАНК" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -29944,7 +29917,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1109</index>
+    <index>1108</index>
     <bic>044525679</bic>
     <namep>КУ ООО КБ "Нэклис-Банк" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -29971,7 +29944,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1110</index>
+    <index>1109</index>
     <bic>044525732</bic>
     <namep>АО КБ "Пойдём!"</namep>
     <cntrcd>RU</cntrcd>
@@ -29998,7 +29971,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1111</index>
+    <index>1110</index>
     <bic>046614632</bic>
     <namep>СМОЛЕНСКОЕ ОТДЕЛЕНИЕ N8609 ПАО СБЕРБАНК</namep>
     <cntrcd>RU</cntrcd>
@@ -30025,7 +29998,7 @@
     <prntbic>044525225</prntbic>
   </row>
   <row>
-    <index>1112</index>
+    <index>1111</index>
     <bic>046614776</bic>
     <namep>СМОЛЕНСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <cntrcd>RU</cntrcd>
@@ -30052,7 +30025,7 @@
     <prntbic>044525111</prntbic>
   </row>
   <row>
-    <index>1113</index>
+    <index>1112</index>
     <bic>200000655</bic>
     <namep>435 ИТУ Минобороны России</namep>
     <cntrcd>RU</cntrcd>
@@ -30079,7 +30052,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1114</index>
+    <index>1113</index>
     <bic>041403701</bic>
     <namep>АО УКБ "БЕЛГОРОДСОЦБАНК"</namep>
     <cntrcd>RU</cntrcd>
@@ -30106,7 +30079,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1115</index>
+    <index>1114</index>
     <bic>044525701</bic>
     <namep>РНКО "ВК Платёжные решения" (ООО)</namep>
     <cntrcd>RU</cntrcd>
@@ -30133,7 +30106,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1116</index>
+    <index>1115</index>
     <bic>044525738</bic>
     <namep>АО АБ "Капитал"</namep>
     <cntrcd>RU</cntrcd>
@@ -30160,7 +30133,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1117</index>
+    <index>1116</index>
     <bic>044525911</bic>
     <namep>АО "ГУТА-БАНК"</namep>
     <cntrcd>RU</cntrcd>
@@ -30187,7 +30160,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1118</index>
+    <index>1117</index>
     <bic>044525922</bic>
     <namep>АО "Банк Интеза"</namep>
     <cntrcd>RU</cntrcd>
@@ -30214,7 +30187,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1119</index>
+    <index>1118</index>
     <bic>044525777</bic>
     <namep>ООО "Чайна Констракшн Банк"</namep>
     <cntrcd>RU</cntrcd>
@@ -30241,7 +30214,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1120</index>
+    <index>1119</index>
     <bic>044525770</bic>
     <namep>ООО "БМВ Банк"</namep>
     <cntrcd>RU</cntrcd>
@@ -30268,7 +30241,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1121</index>
+    <index>1120</index>
     <bic>044525980</bic>
     <namep>КМ "Профильный Банк" (АО)</namep>
     <cntrcd>RU</cntrcd>
@@ -30295,7 +30268,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1122</index>
+    <index>1121</index>
     <bic>044525086</bic>
     <namep>Московский филиал АО "ИК Банк"</namep>
     <cntrcd>RU</cntrcd>
@@ -30322,7 +30295,7 @@
     <prntbic>049205800</prntbic>
   </row>
   <row>
-    <index>1123</index>
+    <index>1122</index>
     <bic>044525092</bic>
     <namep>Московский Филиал АО КБ "Модульбанк"</namep>
     <cntrcd>RU</cntrcd>
@@ -30349,7 +30322,7 @@
     <prntbic>044525979</prntbic>
   </row>
   <row>
-    <index>1124</index>
+    <index>1123</index>
     <bic>044525087</bic>
     <namep>Московский филиал АО КБ "САММИТ БАНК"</namep>
     <cntrcd>RU</cntrcd>
@@ -30376,7 +30349,7 @@
     <prntbic>040507840</prntbic>
   </row>
   <row>
-    <index>1125</index>
+    <index>1124</index>
     <bic>044525112</bic>
     <namep>Московский филиал АБ "РОССИЯ"</namep>
     <cntrcd>RU</cntrcd>
@@ -30403,7 +30376,7 @@
     <prntbic>044030861</prntbic>
   </row>
   <row>
-    <index>1126</index>
+    <index>1125</index>
     <bic>044525782</bic>
     <namep>ООО "Банк РСИ"</namep>
     <cntrcd>RU</cntrcd>
@@ -30430,7 +30403,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1127</index>
+    <index>1126</index>
     <bic>044525881</bic>
     <namep>КБ "Крокус-Банк" (ООО)</namep>
     <cntrcd>RU</cntrcd>
@@ -30457,7 +30430,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1128</index>
+    <index>1127</index>
     <bic>044525815</bic>
     <namep>Евразийский банк развития</namep>
     <cntrcd>RU</cntrcd>
@@ -30484,7 +30457,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1129</index>
+    <index>1128</index>
     <bic>041501601</bic>
     <namep>БРЯНСКОЕ ОТДЕЛЕНИЕ N8605 ПАО СБЕРБАНК</namep>
     <cntrcd>RU</cntrcd>
@@ -30511,7 +30484,7 @@
     <prntbic>044525225</prntbic>
   </row>
   <row>
-    <index>1130</index>
+    <index>1129</index>
     <bic>041501747</bic>
     <namep>БРЯНСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <cntrcd>RU</cntrcd>
@@ -30538,7 +30511,7 @@
     <prntbic>044525111</prntbic>
   </row>
   <row>
-    <index>1131</index>
+    <index>1130</index>
     <bic>041403633</bic>
     <namep>БЕЛГОРОДСКОЕ ОТДЕЛЕНИЕ N8592 ПАО СБЕРБАНК</namep>
     <cntrcd>RU</cntrcd>
@@ -30565,7 +30538,7 @@
     <prntbic>044525225</prntbic>
   </row>
   <row>
-    <index>1132</index>
+    <index>1131</index>
     <bic>041403740</bic>
     <namep>БЕЛГОРОДСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <cntrcd>RU</cntrcd>
@@ -30592,7 +30565,7 @@
     <prntbic>044525111</prntbic>
   </row>
   <row>
-    <index>1133</index>
+    <index>1132</index>
     <bic>041403838</bic>
     <namep>БЕЛГОРОДСКИЙ Ф-Л ПАО АКБ "МЕТАЛЛИНВЕСТБАНК"</namep>
     <cntrcd>RU</cntrcd>
@@ -30619,7 +30592,7 @@
     <prntbic>044525176</prntbic>
   </row>
   <row>
-    <index>1134</index>
+    <index>1133</index>
     <bic>044525053</bic>
     <namep>НКО ЦК РДК (АО)</namep>
     <cntrcd>RU</cntrcd>
@@ -30646,7 +30619,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1135</index>
+    <index>1134</index>
     <bic>044525054</bic>
     <namep>ООО "НКО "ЭЛЕКСИР"</namep>
     <cntrcd>RU</cntrcd>
@@ -30673,7 +30646,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1136</index>
+    <index>1135</index>
     <bic>044525055</bic>
     <namep>РНКО АЗИЯПЭЙ ООО</namep>
     <cntrcd>RU</cntrcd>
@@ -30700,7 +30673,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1137</index>
+    <index>1136</index>
     <bic>044525064</bic>
     <namep>РНКО ЕАРК (АО)</namep>
     <cntrcd>RU</cntrcd>
@@ -30727,7 +30700,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1138</index>
+    <index>1137</index>
     <bic>044525066</bic>
     <namep>ООО РНКО "ЦИФРОВЫЕ РЕШЕНИЯ"</namep>
     <cntrcd>RU</cntrcd>
@@ -30754,7 +30727,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1139</index>
+    <index>1138</index>
     <bic>044525069</bic>
     <namep>РНКО Люминис (АО)</namep>
     <cntrcd>RU</cntrcd>
@@ -30781,7 +30754,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1140</index>
+    <index>1139</index>
     <bic>044525060</bic>
     <namep>ВЭБ.РФ</namep>
     <cntrcd>RU</cntrcd>
@@ -30808,7 +30781,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1141</index>
+    <index>1140</index>
     <bic>044525081</bic>
     <namep>АО РНКО "ПЛАТЕЖНЫЕ ТЕХНОЛОГИИ"</namep>
     <cntrcd>RU</cntrcd>
@@ -30835,7 +30808,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1142</index>
+    <index>1141</index>
     <bic>044525082</bic>
     <namep>КБ "РБА" (ООО)</namep>
     <cntrcd>RU</cntrcd>
@@ -30862,7 +30835,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1143</index>
+    <index>1142</index>
     <bic>047888372</bic>
     <namep>АО "БУЛГАР БАНК" - КУ ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -30889,7 +30862,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1144</index>
+    <index>1143</index>
     <bic>047888740</bic>
     <namep>КУ ПАО "О.К. БАНК" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -30916,7 +30889,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1145</index>
+    <index>1144</index>
     <bic>047888710</bic>
     <namep>ФИЛИАЛ АКБ "ФОРА-БАНК" (АО) В Г.ЯРОСЛАВЛЬ</namep>
     <cntrcd>RU</cntrcd>
@@ -30943,7 +30916,7 @@
     <prntbic>044525341</prntbic>
   </row>
   <row>
-    <index>1146</index>
+    <index>1145</index>
     <bic>047888717</bic>
     <namep>ЯРОСЛАВСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <cntrcd>RU</cntrcd>
@@ -30970,7 +30943,7 @@
     <prntbic>044525111</prntbic>
   </row>
   <row>
-    <index>1147</index>
+    <index>1146</index>
     <bic>047888720</bic>
     <namep>ООО "Костромаселькомбанк"</namep>
     <cntrcd>RU</cntrcd>
@@ -30997,7 +30970,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1148</index>
+    <index>1147</index>
     <bic>047888728</bic>
     <namep>ИКБР "ЯРИНТЕРБАНК" (ООО)</namep>
     <cntrcd>RU</cntrcd>
@@ -31024,7 +30997,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1149</index>
+    <index>1148</index>
     <bic>047003715</bic>
     <namep>Тульский РФ АО "Россельхозбанк"</namep>
     <cntrcd>RU</cntrcd>
@@ -31051,7 +31024,7 @@
     <prntbic>044525111</prntbic>
   </row>
   <row>
-    <index>1150</index>
+    <index>1149</index>
     <bic>044525608</bic>
     <namep>КУ ООО КБ "ДОРИС БАНК" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -31078,7 +31051,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1151</index>
+    <index>1150</index>
     <bic>044525779</bic>
     <namep>КУ ПАО М2М ПРАЙВЕТ БАНК - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -31105,7 +31078,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1152</index>
+    <index>1151</index>
     <bic>044525626</bic>
     <namep>КУ КБ "ИНТЕРКОММЕРЦ" (ООО) - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -31132,7 +31105,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1153</index>
+    <index>1152</index>
     <bic>044525776</bic>
     <namep>КУ АКБ "ОБПИ" (ПАО) - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -31159,7 +31132,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1154</index>
+    <index>1153</index>
     <bic>044525645</bic>
     <namep>КУ АО "СТАРБАНК" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -31186,7 +31159,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1155</index>
+    <index>1154</index>
     <bic>044525652</bic>
     <namep>КУ КБ "ПРИСКО КАПИТАЛ БАНК", АО - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -31213,7 +31186,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1156</index>
+    <index>1155</index>
     <bic>044525756</bic>
     <namep>КУ АКБ "МАСТЕР-КАПИТАЛ" (ОАО) - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -31240,7 +31213,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1157</index>
+    <index>1156</index>
     <bic>044525784</bic>
     <namep>КУ АКБ "ВЕК" (АО) - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -31267,7 +31240,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1158</index>
+    <index>1157</index>
     <bic>044525885</bic>
     <namep>КУ ПАО АКБ "Новация" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -31294,7 +31267,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1159</index>
+    <index>1158</index>
     <bic>044525789</bic>
     <namep>КУ КБ "МРБ" (ООО)" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -31321,7 +31294,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1160</index>
+    <index>1159</index>
     <bic>044525760</bic>
     <namep>КУ БАНК РСБ 24 (АО) - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -31348,7 +31321,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1161</index>
+    <index>1160</index>
     <bic>044525097</bic>
     <namep>ООО "АТБ" Банк</namep>
     <cntrcd>RU</cntrcd>
@@ -31375,7 +31348,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1162</index>
+    <index>1161</index>
     <bic>044525125</bic>
     <namep>ООО РНКО "Металлург"</namep>
     <cntrcd>RU</cntrcd>
@@ -31402,7 +31375,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1163</index>
+    <index>1162</index>
     <bic>044525052</bic>
     <namep>НКО-ЦК "СПБ Клиринг" (АО)</namep>
     <cntrcd>RU</cntrcd>
@@ -31429,7 +31402,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1164</index>
+    <index>1163</index>
     <bic>044525101</bic>
     <namep>ООО "Дойче Банк"</namep>
     <cntrcd>RU</cntrcd>
@@ -31456,7 +31429,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1165</index>
+    <index>1164</index>
     <bic>044525102</bic>
     <namep>АО "Денизбанк Москва"</namep>
     <cntrcd>RU</cntrcd>
@@ -31483,7 +31456,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1166</index>
+    <index>1165</index>
     <bic>044525104</bic>
     <namep>ООО "Банк Точка"</namep>
     <cntrcd>RU</cntrcd>
@@ -31510,7 +31483,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1167</index>
+    <index>1166</index>
     <bic>044525159</bic>
     <namep>ООО "МБ РУС Банк"</namep>
     <cntrcd>RU</cntrcd>
@@ -31537,7 +31510,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1168</index>
+    <index>1167</index>
     <bic>044525163</bic>
     <namep>АО "Ури Банк"</namep>
     <cntrcd>RU</cntrcd>
@@ -31564,7 +31537,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1169</index>
+    <index>1168</index>
     <bic>044525182</bic>
     <namep>АО "НДБанк"</namep>
     <cntrcd>RU</cntrcd>
@@ -31591,7 +31564,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1170</index>
+    <index>1169</index>
     <bic>044525184</bic>
     <namep>АО "МБ Банк"</namep>
     <cntrcd>RU</cntrcd>
@@ -31618,7 +31591,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1171</index>
+    <index>1170</index>
     <bic>044525185</bic>
     <namep>"БНП ПАРИБА БАНК" АО</namep>
     <cntrcd>RU</cntrcd>
@@ -31645,7 +31618,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1172</index>
+    <index>1171</index>
     <bic>044525196</bic>
     <namep>"Банк Кремлевский" ООО</namep>
     <cntrcd>RU</cntrcd>
@@ -31672,7 +31645,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1173</index>
+    <index>1172</index>
     <bic>044525203</bic>
     <namep>АО "ПроБанк"</namep>
     <cntrcd>RU</cntrcd>
@@ -31699,7 +31672,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1174</index>
+    <index>1173</index>
     <bic>044525234</bic>
     <namep>Азия-Инвест Банк (АО)</namep>
     <cntrcd>RU</cntrcd>
@@ -31726,7 +31699,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1175</index>
+    <index>1174</index>
     <bic>044525257</bic>
     <namep>АО "РФК-банк"</namep>
     <cntrcd>RU</cntrcd>
@@ -31753,7 +31726,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1176</index>
+    <index>1175</index>
     <bic>044525265</bic>
     <namep>Эс-Би-Ай Банк ООО</namep>
     <cntrcd>RU</cntrcd>
@@ -31780,7 +31753,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1177</index>
+    <index>1176</index>
     <bic>044525268</bic>
     <namep>АО АКБ "Алеф-Банк"</namep>
     <cntrcd>RU</cntrcd>
@@ -31807,7 +31780,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1178</index>
+    <index>1177</index>
     <bic>044525273</bic>
     <namep>АО "ТелеПорт Банк"</namep>
     <cntrcd>RU</cntrcd>
@@ -31834,7 +31807,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1179</index>
+    <index>1178</index>
     <bic>044525275</bic>
     <namep>АКБ "ПЕРЕСВЕТ" (ПАО)</namep>
     <cntrcd>RU</cntrcd>
@@ -31861,7 +31834,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1180</index>
+    <index>1179</index>
     <bic>044525278</bic>
     <namep>АО "НК Банк"</namep>
     <cntrcd>RU</cntrcd>
@@ -31888,7 +31861,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1181</index>
+    <index>1180</index>
     <bic>044525318</bic>
     <namep>АКБ "СЛАВИЯ" (АО)</namep>
     <cntrcd>RU</cntrcd>
@@ -31915,7 +31888,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1182</index>
+    <index>1181</index>
     <bic>044525333</bic>
     <namep>НКО "Альтернатива" (ООО)</namep>
     <cntrcd>RU</cntrcd>
@@ -31942,7 +31915,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1183</index>
+    <index>1182</index>
     <bic>044525361</bic>
     <namep>АО "Эм-Ю-Эф-Джи Банк (Евразия)"</namep>
     <cntrcd>RU</cntrcd>
@@ -31969,7 +31942,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1184</index>
+    <index>1183</index>
     <bic>044525402</bic>
     <namep>Банк ИПБ (АО)</namep>
     <cntrcd>RU</cntrcd>
@@ -31996,7 +31969,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1185</index>
+    <index>1184</index>
     <bic>044525409</bic>
     <namep>"СОЦИУМ-БАНК" (ООО)</namep>
     <cntrcd>RU</cntrcd>
@@ -32023,7 +31996,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1186</index>
+    <index>1185</index>
     <bic>044525126</bic>
     <namep>КУ АО КБ "ИНТЕРПРОМБАНК" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -32050,7 +32023,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1187</index>
+    <index>1186</index>
     <bic>044525130</bic>
     <namep>КУ ПАО МАБ "ТЕМПБАНК" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -32077,7 +32050,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1188</index>
+    <index>1187</index>
     <bic>044525140</bic>
     <namep>КУ КБ "БМБ" (ООО) - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -32104,7 +32077,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1189</index>
+    <index>1188</index>
     <bic>044525154</bic>
     <namep>КУ АКБ "ИнтрастБанк" (ОАО) - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -32131,7 +32104,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1190</index>
+    <index>1189</index>
     <bic>044525072</bic>
     <namep>КУ ТАУРУС БАНК (АО) - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -32158,7 +32131,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1191</index>
+    <index>1190</index>
     <bic>044525073</bic>
     <namep>КУ ООО "АМТ БАНК" ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -32185,7 +32158,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1192</index>
+    <index>1191</index>
     <bic>044525075</bic>
     <namep>КУ АКБ "МОСУРАЛБАНК" (АО) - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -32212,7 +32185,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1193</index>
+    <index>1192</index>
     <bic>044525093</bic>
     <namep>ЛИКВИДАТОР "БАНК24.РУ" (ОАО) - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -32239,7 +32212,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1194</index>
+    <index>1193</index>
     <bic>044525106</bic>
     <namep>КУ ЗАО "С БАНК" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -32266,7 +32239,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1195</index>
+    <index>1194</index>
     <bic>044525120</bic>
     <namep>КУ КБ "РОСПРОМБАНК" (ООО) - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -32293,7 +32266,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1196</index>
+    <index>1195</index>
     <bic>044525107</bic>
     <namep>АО "Мидзухо Банк (Москва)"</namep>
     <cntrcd>RU</cntrcd>
@@ -32320,7 +32293,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1197</index>
+    <index>1196</index>
     <bic>044525108</bic>
     <namep>АО "МСП Банк"</namep>
     <cntrcd>RU</cntrcd>
@@ -32347,7 +32320,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1198</index>
+    <index>1197</index>
     <bic>044525116</bic>
     <namep>"ЗИРААТ БАНК (МОСКВА)" (АО)</namep>
     <cntrcd>RU</cntrcd>
@@ -32374,7 +32347,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1199</index>
+    <index>1198</index>
     <bic>044525131</bic>
     <namep>АКБ "ТЕНДЕР-БАНК" (АО)</namep>
     <cntrcd>RU</cntrcd>
@@ -32401,7 +32374,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1200</index>
+    <index>1199</index>
     <bic>044525133</bic>
     <namep>АО НКО "ЭЛЕКСНЕТ"</namep>
     <cntrcd>RU</cntrcd>
@@ -32428,7 +32401,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1201</index>
+    <index>1200</index>
     <bic>044525134</bic>
     <namep>ООО "Первый Клиентский Банк"</namep>
     <cntrcd>RU</cntrcd>
@@ -32455,7 +32428,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1202</index>
+    <index>1201</index>
     <bic>044525147</bic>
     <namep>АО "Авто Финанс Банк"</namep>
     <cntrcd>RU</cntrcd>
@@ -32482,7 +32455,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1203</index>
+    <index>1202</index>
     <bic>044525077</bic>
     <namep>ООО НКО "Твои платежи"</namep>
     <cntrcd>RU</cntrcd>
@@ -32509,7 +32482,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1204</index>
+    <index>1203</index>
     <bic>044525085</bic>
     <namep>ООО РНКО "ЭР Финанс"</namep>
     <cntrcd>RU</cntrcd>
@@ -32536,7 +32509,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1205</index>
+    <index>1204</index>
     <bic>044525089</bic>
     <namep>АО РНКО "Финансовый ландшафт"</namep>
     <cntrcd>RU</cntrcd>
@@ -32563,7 +32536,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1206</index>
+    <index>1205</index>
     <bic>044525157</bic>
     <namep>КУ ООО КБ "АДМИРАЛТЕЙСКИЙ" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -32590,7 +32563,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1207</index>
+    <index>1206</index>
     <bic>044525211</bic>
     <namep>КУ АО БАНК "РСКБ" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -32617,7 +32590,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1208</index>
+    <index>1207</index>
     <bic>044525180</bic>
     <namep>КУ ООО КБ "ПУЛЬС СТОЛИЦЫ" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -32644,7 +32617,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1209</index>
+    <index>1208</index>
     <bic>044525193</bic>
     <namep>КУ АО "ЕВРОАКСИС БАНК" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -32671,7 +32644,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1210</index>
+    <index>1209</index>
     <bic>044525215</bic>
     <namep>Ликвидатор ООО "Банк БКФ" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -32698,7 +32671,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1211</index>
+    <index>1210</index>
     <bic>044525208</bic>
     <namep>КУ АО БАНК "ТГБ" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -32725,7 +32698,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1212</index>
+    <index>1211</index>
     <bic>044525237</bic>
     <namep>КУ ПАО "МЕЖТОПЭНЕРГОБАНК" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -32752,7 +32725,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1213</index>
+    <index>1212</index>
     <bic>044525259</bic>
     <namep>КУ АКБ "НЗБАНК", ОАО - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -32779,7 +32752,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1214</index>
+    <index>1213</index>
     <bic>044525413</bic>
     <namep>"Нацинвестпромбанк" (АО)</namep>
     <cntrcd>RU</cntrcd>
@@ -32806,7 +32779,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1215</index>
+    <index>1214</index>
     <bic>045209001</bic>
     <namep>ОКЦ № 6 СибГУ Банка России</namep>
     <cntrcd/>
@@ -32833,7 +32806,7 @@
     <prntbic>045004001</prntbic>
   </row>
   <row>
-    <index>1216</index>
+    <index>1215</index>
     <bic>046614754</bic>
     <namep>КУ ОАО "СМОЛ БАНК"-ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -32860,7 +32833,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1217</index>
+    <index>1216</index>
     <bic>044525534</bic>
     <namep>КУ ОАО БАНК "ЗАПАДНЫЙ" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -32887,7 +32860,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1218</index>
+    <index>1217</index>
     <bic>044525178</bic>
     <namep>Банк "СЕРВИС РЕЗЕРВ" (АО)</namep>
     <cntrcd>RU</cntrcd>
@@ -32914,7 +32887,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1219</index>
+    <index>1218</index>
     <bic>044525191</bic>
     <namep>Креди Агриколь КИБ АО</namep>
     <cntrcd>RU</cntrcd>
@@ -32941,7 +32914,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1220</index>
+    <index>1219</index>
     <bic>044525229</bic>
     <namep>ООО КБ "АРЕСБАНК"</namep>
     <cntrcd>RU</cntrcd>
@@ -32968,7 +32941,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1221</index>
+    <index>1220</index>
     <bic>046126708</bic>
     <namep>ПРИО-ВНЕШТОРГБАНК (ПАО)</namep>
     <cntrcd>RU</cntrcd>
@@ -32995,7 +32968,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1222</index>
+    <index>1221</index>
     <bic>046126744</bic>
     <namep>ООО "ЖИВАГО БАНК"</namep>
     <cntrcd>RU</cntrcd>
@@ -33022,7 +32995,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1223</index>
+    <index>1222</index>
     <bic>046126793</bic>
     <namep>РЯЗАНСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <cntrcd>RU</cntrcd>
@@ -33049,7 +33022,7 @@
     <prntbic>044525111</prntbic>
   </row>
   <row>
-    <index>1224</index>
+    <index>1223</index>
     <bic>046126614</bic>
     <namep>РЯЗАНСКОЕ ОТДЕЛЕНИЕ N 8606 ПАО СБЕРБАНК</namep>
     <cntrcd>RU</cntrcd>
@@ -33076,7 +33049,7 @@
     <prntbic>044525225</prntbic>
   </row>
   <row>
-    <index>1225</index>
+    <index>1224</index>
     <bic>044525213</bic>
     <namep>АКБ "БЭНК ОФ ЧАЙНА" (АО)</namep>
     <cntrcd>RU</cntrcd>
@@ -33103,7 +33076,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1226</index>
+    <index>1225</index>
     <bic>044525285</bic>
     <namep>АО "РЕАЛИСТ БАНК"</namep>
     <cntrcd>RU</cntrcd>
@@ -33130,7 +33103,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1227</index>
+    <index>1226</index>
     <bic>044525299</bic>
     <namep>ООО "НКО "Вестерн Юнион ДП Восток"</namep>
     <cntrcd>RU</cntrcd>
@@ -33157,7 +33130,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1228</index>
+    <index>1227</index>
     <bic>044525303</bic>
     <namep>ООО НКО "ПэйПал РУ"</namep>
     <cntrcd>RU</cntrcd>
@@ -33184,7 +33157,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1229</index>
+    <index>1228</index>
     <bic>044525247</bic>
     <namep>МП Банк (ООО)</namep>
     <cntrcd>RU</cntrcd>
@@ -33211,7 +33184,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1230</index>
+    <index>1229</index>
     <bic>044525969</bic>
     <namep>КУ АО "Кранбанк" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -33238,7 +33211,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1231</index>
+    <index>1230</index>
     <bic>044525970</bic>
     <namep>КУ АКБ "Акция" ОАО - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -33265,7 +33238,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1232</index>
+    <index>1231</index>
     <bic>044525773</bic>
     <namep>КУ АО "Кросна-Банк" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -33292,7 +33265,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1233</index>
+    <index>1232</index>
     <bic>044525978</bic>
     <namep>КУ АО КБ "ИВАНОВО" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -33319,7 +33292,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1234</index>
+    <index>1233</index>
     <bic>044525857</bic>
     <namep>КУ ООО КБ "РОСАВТОБАНК" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -33346,7 +33319,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1235</index>
+    <index>1234</index>
     <bic>044525993</bic>
     <namep>КУ "РЕГНУМ БАНК" (ООО) - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -33373,7 +33346,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1236</index>
+    <index>1235</index>
     <bic>044525775</bic>
     <namep>КУ КБ "Геобанк" (ООО) - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -33400,7 +33373,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1237</index>
+    <index>1236</index>
     <bic>044525903</bic>
     <namep>КУ ООО КБ "Аксонбанк" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -33427,7 +33400,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1238</index>
+    <index>1237</index>
     <bic>044525895</bic>
     <namep>КУ ООО "КБ "МЕЖТРАСТБАНК" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -33454,7 +33427,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1239</index>
+    <index>1238</index>
     <bic>044525692</bic>
     <namep>КУ КБ "МЕТРОПОЛЬ" ООО - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -33481,7 +33454,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1240</index>
+    <index>1239</index>
     <bic>044525899</bic>
     <namep>КУ ПАО "БАНК ПРЕМЬЕР КРЕДИТ" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -33508,7 +33481,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1241</index>
+    <index>1240</index>
     <bic>044525660</bic>
     <namep>КУ АКБ "МИРЪ" (АО) - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -33535,7 +33508,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1242</index>
+    <index>1241</index>
     <bic>044525931</bic>
     <namep>Ликвидатор ООО КБ "ПЛАТИНА" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -33562,7 +33535,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1243</index>
+    <index>1242</index>
     <bic>044525755</bic>
     <namep>КУ АО "ТУСАРБАНК" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -33589,7 +33562,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1244</index>
+    <index>1243</index>
     <bic>044525946</bic>
     <namep>КУ ПАО АКБ "БАЛТИКА" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -33616,7 +33589,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1245</index>
+    <index>1244</index>
     <bic>044525686</bic>
     <namep>КУ КБ "АРСЕНАЛ" ООО - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -33643,7 +33616,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1246</index>
+    <index>1245</index>
     <bic>044525746</bic>
     <namep>КУ АО "СМАРТБАНК" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -33670,7 +33643,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1247</index>
+    <index>1246</index>
     <bic>044525814</bic>
     <namep>КУ ООО "Промрегионбанк" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -33697,7 +33670,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1248</index>
+    <index>1247</index>
     <bic>044525748</bic>
     <namep>КУ ЗАО МЕЖДУНАРОДНЫЙ ПРОМЫШЛЕННЫЙ БАНК-ГК АСВ</namep>
     <cntrcd>RU</cntrcd>
@@ -33724,7 +33697,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1249</index>
+    <index>1248</index>
     <bic>044525749</bic>
     <namep>КУ "СОВЕРЕН БАНК" (АО) - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -33751,7 +33724,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1250</index>
+    <index>1249</index>
     <bic>044525762</bic>
     <namep>КУ КБ "ЕВРОТРАСТ" (ЗАО) ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -33778,7 +33751,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1251</index>
+    <index>1250</index>
     <bic>044525832</bic>
     <namep>КУ ЗАО "МАБ" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -33805,7 +33778,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1252</index>
+    <index>1251</index>
     <bic>044525861</bic>
     <namep>КУ ООО КБ "ЭРГОБАНК" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -33832,7 +33805,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1253</index>
+    <index>1252</index>
     <bic>044525882</bic>
     <namep>КУ БАНК "ЕВРОКРЕДИТ" (ООО)-ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -33859,7 +33832,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1254</index>
+    <index>1253</index>
     <bic>044525887</bic>
     <namep>КУ КБ "КРК" (ОАО) - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -33886,7 +33859,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1255</index>
+    <index>1254</index>
     <bic>044030705</bic>
     <namep>ПАО "БАЛТИНВЕСТБАНК"</namep>
     <cntrcd>RU</cntrcd>
@@ -33913,7 +33886,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1256</index>
+    <index>1255</index>
     <bic>044030824</bic>
     <namep>ФИЛИАЛ АЙСИБИСИ БАНК (АО) В САНКТ-ПЕТЕРБУРГЕ</namep>
     <cntrcd>RU</cntrcd>
@@ -33940,7 +33913,7 @@
     <prntbic>044525551</prntbic>
   </row>
   <row>
-    <index>1257</index>
+    <index>1256</index>
     <bic>044030885</bic>
     <namep>Конкурсный управляющий ПАО "Невский банк" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -33967,7 +33940,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1258</index>
+    <index>1257</index>
     <bic>044030098</bic>
     <namep>УФК по Ленинградской области</namep>
     <cntrcd>RU</cntrcd>
@@ -33994,7 +33967,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1259</index>
+    <index>1258</index>
     <bic>044030723</bic>
     <namep>Ф-Л "СЕВЕРНАЯ СТОЛИЦА" АО "РАЙФФАЙЗЕНБАНК"</namep>
     <cntrcd>RU</cntrcd>
@@ -34021,7 +33994,7 @@
     <prntbic>044525700</prntbic>
   </row>
   <row>
-    <index>1260</index>
+    <index>1259</index>
     <bic>044030842</bic>
     <namep>Конкурсный управляющий АО АКБ "Констанс-Банк" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -34048,7 +34021,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1261</index>
+    <index>1260</index>
     <bic>044030858</bic>
     <namep>ПЕТЕРБУРГСКИЙ ФИЛИАЛ АО ЮНИКРЕДИТ БАНКА</namep>
     <cntrcd>RU</cntrcd>
@@ -34075,7 +34048,7 @@
     <prntbic>044525545</prntbic>
   </row>
   <row>
-    <index>1262</index>
+    <index>1261</index>
     <bic>044030772</bic>
     <namep>Конкурсный управляющий АО Банк "Советский" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -34102,7 +34075,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1263</index>
+    <index>1262</index>
     <bic>044030924</bic>
     <namep>КУ ООО "БАНК ФИНИНВЕСТ"-ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -34129,7 +34102,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1264</index>
+    <index>1263</index>
     <bic>044030845</bic>
     <namep>Конкурсный управляющий Банк "Прайм Финанс" (АО) - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -34156,7 +34129,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1265</index>
+    <index>1264</index>
     <bic>044030748</bic>
     <namep>КУ АО Комсоцбанк "Бумеранг" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -34183,7 +34156,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1266</index>
+    <index>1265</index>
     <bic>044030309</bic>
     <namep>НКО ЛЦК (АО)</namep>
     <cntrcd>RU</cntrcd>
@@ -34210,7 +34183,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1267</index>
+    <index>1266</index>
     <bic>044030925</bic>
     <namep>Ликвидатор АО "Заубер Банк" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -34237,7 +34210,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1268</index>
+    <index>1267</index>
     <bic>044030760</bic>
     <namep>КУ Банк МБСП (АО) - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -34264,7 +34237,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1269</index>
+    <index>1268</index>
     <bic>044030826</bic>
     <namep>АО БАНК "ОБЪЕДИНЕННЫЙ КАПИТАЛ"</namep>
     <cntrcd>RU</cntrcd>
@@ -34291,7 +34264,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1270</index>
+    <index>1269</index>
     <bic>044030889</bic>
     <namep>ЭКСИ-БАНК (АО)</namep>
     <cntrcd>RU</cntrcd>
@@ -34318,7 +34291,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1271</index>
+    <index>1270</index>
     <bic>044525254</bic>
     <namep>АО КБ "КОСМОС"</namep>
     <cntrcd>RU</cntrcd>
@@ -34345,7 +34318,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1272</index>
+    <index>1271</index>
     <bic>046126790</bic>
     <namep>КУ ООО РИКБ "РИНВЕСТБАНК" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -34372,7 +34345,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1273</index>
+    <index>1272</index>
     <bic>042007709</bic>
     <namep>ВОРОНЕЖСКИЙ ФИЛИАЛ АО ЮНИКРЕДИТ БАНКА</namep>
     <cntrcd>RU</cntrcd>
@@ -34399,7 +34372,7 @@
     <prntbic>044525545</prntbic>
   </row>
   <row>
-    <index>1274</index>
+    <index>1273</index>
     <bic>042007811</bic>
     <namep>ВОРОНЕЖСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</namep>
     <cntrcd>RU</cntrcd>
@@ -34426,7 +34399,7 @@
     <prntbic>044525111</prntbic>
   </row>
   <row>
-    <index>1275</index>
+    <index>1274</index>
     <bic>042007835</bic>
     <namep>ФИЛИАЛ БАНКА ВТБ (ПАО) В Г. ВОРОНЕЖЕ</namep>
     <cntrcd>RU</cntrcd>
@@ -34453,7 +34426,7 @@
     <prntbic>044525187</prntbic>
   </row>
   <row>
-    <index>1276</index>
+    <index>1275</index>
     <bic>044525435</bic>
     <namep>КБ "Максима" (ООО)</namep>
     <cntrcd>RU</cntrcd>
@@ -34480,7 +34453,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1277</index>
+    <index>1276</index>
     <bic>044525444</bic>
     <namep>ООО НКО "ЮМани"</namep>
     <cntrcd>RU</cntrcd>
@@ -34507,7 +34480,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1278</index>
+    <index>1277</index>
     <bic>044525451</bic>
     <namep>Банк "РЕСО Кредит" (АО)</namep>
     <cntrcd>RU</cntrcd>
@@ -34534,7 +34507,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1279</index>
+    <index>1278</index>
     <bic>044525464</bic>
     <namep>АО "Банк БЖФ"</namep>
     <cntrcd>RU</cntrcd>
@@ -34561,7 +34534,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1280</index>
+    <index>1279</index>
     <bic>044525476</bic>
     <namep>АО "МОСКОМБАНК"</namep>
     <cntrcd>RU</cntrcd>
@@ -34588,7 +34561,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1281</index>
+    <index>1280</index>
     <bic>044525490</bic>
     <namep>АО МС Банк Рус</namep>
     <cntrcd>RU</cntrcd>
@@ -34615,7 +34588,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1282</index>
+    <index>1281</index>
     <bic>042007707</bic>
     <namep>КУ АО "БАНК ВОРОНЕЖ" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -34642,7 +34615,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1283</index>
+    <index>1282</index>
     <bic>044525500</bic>
     <namep>"Коммерческий Индо Банк" ООО</namep>
     <cntrcd>RU</cntrcd>
@@ -34669,7 +34642,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1284</index>
+    <index>1283</index>
     <bic>044525902</bic>
     <namep>КУ ОАО "НББ" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -34696,7 +34669,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1285</index>
+    <index>1284</index>
     <bic>044525907</bic>
     <namep>КУ АКБ "СВА" (АО) - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -34723,7 +34696,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1286</index>
+    <index>1285</index>
     <bic>044525910</bic>
     <namep>КУ КБ "ХОЛДИНГ-КРЕДИТ" ООО - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -34750,7 +34723,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1287</index>
+    <index>1286</index>
     <bic>044525921</bic>
     <namep>КУ СБ БАНК (ООО) - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -34777,7 +34750,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1288</index>
+    <index>1287</index>
     <bic>047003779</bic>
     <namep>КУ КБ "ПЕРВЫЙ ЭКСПРЕСС" (ОАО) ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -34804,7 +34777,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1289</index>
+    <index>1288</index>
     <bic>044525932</bic>
     <namep>КУ БАНК "КЛИЕНТСКИЙ" (АО) - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -34831,7 +34804,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1290</index>
+    <index>1289</index>
     <bic>047003792</bic>
     <namep>Филиал "Тульский" ООО КБ "АРЕСБАНК"</namep>
     <cntrcd>RU</cntrcd>
@@ -34858,7 +34831,7 @@
     <prntbic>044525229</prntbic>
   </row>
   <row>
-    <index>1291</index>
+    <index>1290</index>
     <bic>044525959</bic>
     <namep>Костромской РФ АО "Россельхозбанк"</namep>
     <cntrcd>RU</cntrcd>
@@ -34885,7 +34858,7 @@
     <prntbic>044525111</prntbic>
   </row>
   <row>
-    <index>1292</index>
+    <index>1291</index>
     <bic>044525986</bic>
     <namep>КУ ОАО АКБ "ПРОБИЗНЕСБАНК" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -34912,7 +34885,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1293</index>
+    <index>1292</index>
     <bic>044525757</bic>
     <namep>Московский филиал АО "Банк Акцепт"</namep>
     <cntrcd>RU</cntrcd>
@@ -34939,7 +34912,7 @@
     <prntbic>045004815</prntbic>
   </row>
   <row>
-    <index>1294</index>
+    <index>1293</index>
     <bic>044525780</bic>
     <namep>Ивановский РФ АО "Россельхозбанк"</namep>
     <cntrcd>RU</cntrcd>
@@ -34966,7 +34939,7 @@
     <prntbic>044525111</prntbic>
   </row>
   <row>
-    <index>1295</index>
+    <index>1294</index>
     <bic>044525858</bic>
     <namep>Филиал "ПростоБанк" Банка "КУБ" (АО)</namep>
     <cntrcd>RU</cntrcd>
@@ -34993,7 +34966,7 @@
     <prntbic>047516949</prntbic>
   </row>
   <row>
-    <index>1296</index>
+    <index>1295</index>
     <bic>200000412</bic>
     <namep>АНО "СОДФУ"</namep>
     <cntrcd>RU</cntrcd>
@@ -35020,7 +34993,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1297</index>
+    <index>1296</index>
     <bic>044525051</bic>
     <namep>ГК "АСВ", АСВ.РФ</namep>
     <cntrcd>RU</cntrcd>
@@ -35047,7 +35020,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1298</index>
+    <index>1297</index>
     <bic>044525928</bic>
     <namep>КУ ЗАО КБ "ЛАДА-КРЕДИТ" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -35074,7 +35047,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1299</index>
+    <index>1298</index>
     <bic>044525095</bic>
     <namep>МОРСКОЙ БАНК (АО)</namep>
     <cntrcd>RU</cntrcd>
@@ -35101,7 +35074,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1300</index>
+    <index>1299</index>
     <bic>014030106</bic>
     <namep>УФК по г.Санкт-Петербургу</namep>
     <cntrcd>RU</cntrcd>
@@ -35128,7 +35101,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1301</index>
+    <index>1300</index>
     <bic>044030871</bic>
     <namep>Киришский ф-л ПАО "Банк "Санкт-Петербург"</namep>
     <cntrcd>RU</cntrcd>
@@ -35155,7 +35128,7 @@
     <prntbic>044030790</prntbic>
   </row>
   <row>
-    <index>1302</index>
+    <index>1301</index>
     <bic>043601607</bic>
     <namep>ПОВОЛЖСКИЙ БАНК ПАО СБЕРБАНК</namep>
     <cntrcd>RU</cntrcd>
@@ -35182,7 +35155,7 @@
     <prntbic>044525225</prntbic>
   </row>
   <row>
-    <index>1303</index>
+    <index>1302</index>
     <bic>048142604</bic>
     <namep>БУРЯТСКОЕ ОТДЕЛЕНИЕ N8601 ПАО СБЕРБАНК</namep>
     <cntrcd>RU</cntrcd>
@@ -35209,7 +35182,7 @@
     <prntbic>044525225</prntbic>
   </row>
   <row>
-    <index>1304</index>
+    <index>1303</index>
     <bic>044030653</bic>
     <namep>СЕВЕРО-ЗАПАДНЫЙ БАНК ПАО СБЕРБАНК</namep>
     <cntrcd>RU</cntrcd>
@@ -35236,7 +35209,7 @@
     <prntbic>044525225</prntbic>
   </row>
   <row>
-    <index>1305</index>
+    <index>1304</index>
     <bic>049205603</bic>
     <namep>отделение "Банк Татарстан" №8610 ПАО Сбербанк</namep>
     <cntrcd>RU</cntrcd>
@@ -35263,7 +35236,7 @@
     <prntbic>044525225</prntbic>
   </row>
   <row>
-    <index>1306</index>
+    <index>1305</index>
     <bic>042202603</bic>
     <namep>ВОЛГО-ВЯТСКИЙ БАНК ПАО СБЕРБАНК</namep>
     <cntrcd>RU</cntrcd>
@@ -35290,7 +35263,7 @@
     <prntbic>044525225</prntbic>
   </row>
   <row>
-    <index>1307</index>
+    <index>1306</index>
     <bic>044525123</bic>
     <namep>МБЭС</namep>
     <cntrcd>RU</cntrcd>
@@ -35317,7 +35290,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1308</index>
+    <index>1307</index>
     <bic>044525061</bic>
     <namep>НКО "Истина" (АО)</namep>
     <cntrcd>RU</cntrcd>
@@ -35344,7 +35317,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1309</index>
+    <index>1308</index>
     <bic>044525162</bic>
     <namep>АО АКБ "НОВИКОМБАНК"</namep>
     <cntrcd>RU</cntrcd>
@@ -35371,7 +35344,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1310</index>
+    <index>1309</index>
     <bic>024501901</bic>
     <namep>Межрегиональное операционное УФК</namep>
     <cntrcd>RU</cntrcd>
@@ -35398,7 +35371,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1311</index>
+    <index>1310</index>
     <bic>044030814</bic>
     <namep>АО "ГОРБАНК"</namep>
     <cntrcd>RU</cntrcd>
@@ -35425,7 +35398,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1312</index>
+    <index>1311</index>
     <bic>042202710</bic>
     <namep>ПАО Банк "Кузнецкий"</namep>
     <cntrcd>RU</cntrcd>
@@ -35452,7 +35425,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1313</index>
+    <index>1312</index>
     <bic>044030905</bic>
     <namep>АО "БАНК БЕРЕЙТ"</namep>
     <cntrcd>RU</cntrcd>
@@ -35479,7 +35452,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1314</index>
+    <index>1313</index>
     <bic>042202884</bic>
     <namep>АО "Датабанк"</namep>
     <cntrcd>RU</cntrcd>
@@ -35506,7 +35479,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1315</index>
+    <index>1314</index>
     <bic>042202124</bic>
     <namep>УФК по Псковской области</namep>
     <cntrcd>RU</cntrcd>
@@ -35533,7 +35506,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1316</index>
+    <index>1315</index>
     <bic>257000961</bic>
     <namep>Избирательная комиссия Пермского края</namep>
     <cntrcd>RU</cntrcd>
@@ -35560,7 +35533,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1317</index>
+    <index>1316</index>
     <bic>283000024</bic>
     <namep>Избирательная комиссия Кабардино-Балкарской Республики</namep>
     <cntrcd>RU</cntrcd>
@@ -35587,7 +35560,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1318</index>
+    <index>1317</index>
     <bic>043510107</bic>
     <namep>СИМФЕРОПОЛЬСКИЙ ФИЛИАЛ АБ "РОССИЯ"</namep>
     <cntrcd>RU</cntrcd>
@@ -35614,7 +35587,7 @@
     <prntbic>044030861</prntbic>
   </row>
   <row>
-    <index>1319</index>
+    <index>1318</index>
     <bic>040702812</bic>
     <namep>КУ ООО КБ "РАЗВИТИЕ" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -35641,7 +35614,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1320</index>
+    <index>1319</index>
     <bic>044525079</bic>
     <namep>АО "Банк Финсервис"</namep>
     <cntrcd>RU</cntrcd>
@@ -35668,7 +35641,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1321</index>
+    <index>1320</index>
     <bic>201000873</bic>
     <namep>Крайизбирком</namep>
     <cntrcd>RU</cntrcd>
@@ -35695,7 +35668,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1322</index>
+    <index>1321</index>
     <bic>044705301</bic>
     <namep>ООО "Мурманский расчетный Банк"</namep>
     <cntrcd>RU</cntrcd>
@@ -35722,7 +35695,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1323</index>
+    <index>1322</index>
     <bic>047888760</bic>
     <namep>Ярославский ф-л ПАО "Банк ПСБ"</namep>
     <cntrcd>RU</cntrcd>
@@ -35749,7 +35722,7 @@
     <prntbic>044525555</prntbic>
   </row>
   <row>
-    <index>1324</index>
+    <index>1323</index>
     <bic>044525266</bic>
     <namep>АО "Банк ДОМ.РФ"</namep>
     <cntrcd>RU</cntrcd>
@@ -35776,7 +35749,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1325</index>
+    <index>1324</index>
     <bic>044525176</bic>
     <namep>ПАО АКБ "Металлинвестбанк"</namep>
     <cntrcd>RU</cntrcd>
@@ -35803,7 +35776,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1326</index>
+    <index>1325</index>
     <bic>044525065</bic>
     <namep>ООО РНКО "Плат Форма"</namep>
     <cntrcd>RU</cntrcd>
@@ -35830,7 +35803,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1327</index>
+    <index>1326</index>
     <bic>044705095</bic>
     <namep>ООО "Мурманский расчетный Банк"</namep>
     <cntrcd>RU</cntrcd>
@@ -35857,7 +35830,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1328</index>
+    <index>1327</index>
     <bic>042202803</bic>
     <namep>Приволжский ф-л ПАО "Банк ПСБ"</namep>
     <cntrcd>RU</cntrcd>
@@ -35884,7 +35857,7 @@
     <prntbic>044525555</prntbic>
   </row>
   <row>
-    <index>1329</index>
+    <index>1328</index>
     <bic>045004130</bic>
     <namep>УФК по Томской области</namep>
     <cntrcd>RU</cntrcd>
@@ -35911,7 +35884,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1330</index>
+    <index>1329</index>
     <bic>044525555</bic>
     <namep>ПАО "Банк ПСБ"</namep>
     <cntrcd>RU</cntrcd>
@@ -35938,7 +35911,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1331</index>
+    <index>1330</index>
     <bic>044030861</bic>
     <namep>АО "АБ "РОССИЯ"</namep>
     <cntrcd>RU</cntrcd>
@@ -35965,7 +35938,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1332</index>
+    <index>1331</index>
     <bic>044525153</bic>
     <namep>ООО РНКО Компас</namep>
     <cntrcd>RU</cntrcd>
@@ -35992,7 +35965,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1333</index>
+    <index>1332</index>
     <bic>049205772</bic>
     <namep>"Банк Заречье" (АО)</namep>
     <cntrcd>RU</cntrcd>
@@ -36019,7 +35992,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1334</index>
+    <index>1333</index>
     <bic>044525512</bic>
     <namep>"НТХ БАНК АО"</namep>
     <cntrcd>RU</cntrcd>
@@ -36042,6 +36015,33 @@
     <englname>NTX BANK JSC</englname>
     <regn>3390</regn>
     <swbic>NATXRUMMXXX</swbic>
+    <defaultswbic>1</defaultswbic>
+    <prntbic/>
+  </row>
+  <row>
+    <index>1334</index>
+    <bic>044525201</bic>
+    <namep>ПАО АКБ "АВАНГАРД"</namep>
+    <cntrcd>RU</cntrcd>
+    <rgn>45</rgn>
+    <ind>119180</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>ул. Большая Якиманка, д. 1</adr>
+    <datein>1998-04-09</datein>
+    <pttype>20</pttype>
+    <srvcs>5</srvcs>
+    <xchtype>1</xchtype>
+    <uid>4525201000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>30101810000000000201</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>70</ck>
+    <accountcbrbic>044525000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname>AVANGARD BANK</englname>
+    <regn>2879</regn>
+    <swbic>AVJSRUMMXXX</swbic>
     <defaultswbic>1</defaultswbic>
     <prntbic/>
   </row>
@@ -36155,33 +36155,6 @@
   </row>
   <row>
     <index>1339</index>
-    <bic>044525084</bic>
-    <namep>Ликвидатор АО "РУНЭТБАНК"</namep>
-    <cntrcd>RU</cntrcd>
-    <rgn>45</rgn>
-    <ind>123056</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>ул Гашека, 9, к 4, стр 1</adr>
-    <datein>2016-05-12</datein>
-    <pttype>90</pttype>
-    <srvcs>1</srvcs>
-    <xchtype>0</xchtype>
-    <uid>4525084000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>30101810145250000084</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>53</ck>
-    <accountcbrbic>044525000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname/>
-    <regn>2829</regn>
-    <swbic/>
-    <defaultswbic/>
-    <prntbic/>
-  </row>
-  <row>
-    <index>1340</index>
     <bic>046577507</bic>
     <namep>ЕКАТЕРИНБУРГСКИЙ ФИЛИАЛ АБ "РОССИЯ"</namep>
     <cntrcd>RU</cntrcd>
@@ -36208,7 +36181,7 @@
     <prntbic>044030861</prntbic>
   </row>
   <row>
-    <index>1341</index>
+    <index>1340</index>
     <bic>042202122</bic>
     <namep>УФК по Калужской области</namep>
     <cntrcd>RU</cntrcd>
@@ -36235,7 +36208,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1342</index>
+    <index>1341</index>
     <bic>296000010</bic>
     <namep>ИК ЧР</namep>
     <cntrcd>RU</cntrcd>
@@ -36262,7 +36235,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1343</index>
+    <index>1342</index>
     <bic>044525068</bic>
     <namep>ООО "ОЗОН Банк"</namep>
     <cntrcd>RU</cntrcd>
@@ -36289,7 +36262,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1344</index>
+    <index>1343</index>
     <bic>044525218</bic>
     <namep>КБ "Дж.П. Морган Банк Интернешнл" (ООО)</namep>
     <cntrcd>RU</cntrcd>
@@ -36313,6 +36286,33 @@
     <regn>2629</regn>
     <swbic>CHASRUMXXXX</swbic>
     <defaultswbic>1</defaultswbic>
+    <prntbic/>
+  </row>
+  <row>
+    <index>1344</index>
+    <bic>044525084</bic>
+    <namep>Ликвидатор АО "РУНЭТБАНК"</namep>
+    <cntrcd>RU</cntrcd>
+    <rgn>45</rgn>
+    <ind>123056</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>ул Гашека, 9, к 4, стр 1</adr>
+    <datein>2016-05-12</datein>
+    <pttype>90</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>4525084000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>30101810145250000084</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>53</ck>
+    <accountcbrbic>044525000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <regn>2829</regn>
+    <swbic/>
+    <defaultswbic/>
     <prntbic/>
   </row>
   <row>
@@ -36452,33 +36452,6 @@
   </row>
   <row>
     <index>1350</index>
-    <bic>044525222</bic>
-    <namep>ИНГ БАНК (ЕВРАЗИЯ) АО</namep>
-    <cntrcd>RU</cntrcd>
-    <rgn>45</rgn>
-    <ind>127473</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>улица Краснопролетарская, дом 36</adr>
-    <datein>1998-03-25</datein>
-    <pttype>20</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>4525222000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>30101810500000000222</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>20</ck>
-    <accountcbrbic>044525000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname>ING BANK (EURASIA) JSC</englname>
-    <regn>2495</regn>
-    <swbic>INGBRUMMXXX</swbic>
-    <defaultswbic>1</defaultswbic>
-    <prntbic/>
-  </row>
-  <row>
-    <index>1351</index>
     <bic>044525088</bic>
     <namep>ООО РНКО "ФИНПИЛОТ"</namep>
     <cntrcd>RU</cntrcd>
@@ -36505,7 +36478,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1352</index>
+    <index>1351</index>
     <bic>200000131</bic>
     <namep>МИД России</namep>
     <cntrcd>RU</cntrcd>
@@ -36532,7 +36505,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1353</index>
+    <index>1352</index>
     <bic>042202125</bic>
     <namep>УФК по Республике Карелия</namep>
     <cntrcd>RU</cntrcd>
@@ -36559,7 +36532,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1354</index>
+    <index>1353</index>
     <bic>042202127</bic>
     <namep>УФК по Кабардино-Балкарской Республике</namep>
     <cntrcd>RU</cntrcd>
@@ -36586,7 +36559,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1355</index>
+    <index>1354</index>
     <bic>230000770</bic>
     <namep>Избирательная комиссия Камчатского края</namep>
     <cntrcd>RU</cntrcd>
@@ -36613,7 +36586,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1356</index>
+    <index>1355</index>
     <bic>287000077</bic>
     <namep>Избирательная комиссия Республики Коми</namep>
     <cntrcd>RU</cntrcd>
@@ -36640,7 +36613,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1357</index>
+    <index>1356</index>
     <bic>247000033</bic>
     <namep>Избирательная комиссия Мурманской области</namep>
     <cntrcd>RU</cntrcd>
@@ -36667,7 +36640,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1358</index>
+    <index>1357</index>
     <bic>044525187</bic>
     <namep>Банк ВТБ (ПАО)</namep>
     <cntrcd>RU</cntrcd>
@@ -36694,7 +36667,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1359</index>
+    <index>1358</index>
     <bic>044525063</bic>
     <namep>РНКО "Р-ИНКАС" (ООО)</namep>
     <cntrcd>RU</cntrcd>
@@ -36721,7 +36694,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1360</index>
+    <index>1359</index>
     <bic>044525593</bic>
     <namep>АО "АЛЬФА-БАНК"</namep>
     <cntrcd>RU</cntrcd>
@@ -36748,7 +36721,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1361</index>
+    <index>1360</index>
     <bic>043510101</bic>
     <namep>АО "БАНК ЧБРР"</namep>
     <cntrcd>RU</cntrcd>
@@ -36775,7 +36748,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1362</index>
+    <index>1361</index>
     <bic>040702615</bic>
     <namep>СТАВРОПОЛЬСКОЕ ОТДЕЛЕНИЕ N5230 ПАО СБЕРБАНК</namep>
     <cntrcd>RU</cntrcd>
@@ -36802,7 +36775,7 @@
     <prntbic>044525225</prntbic>
   </row>
   <row>
-    <index>1363</index>
+    <index>1362</index>
     <bic>043510123</bic>
     <namep>АО "ГЕНБАНК"</namep>
     <cntrcd>RU</cntrcd>
@@ -36829,7 +36802,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1364</index>
+    <index>1363</index>
     <bic>044030786</bic>
     <namep>ФИЛИАЛ "САНКТ-ПЕТЕРБУРГСКИЙ" АО "АЛЬФА-БАНК"</namep>
     <cntrcd>RU</cntrcd>
@@ -36856,7 +36829,7 @@
     <prntbic>044525593</prntbic>
   </row>
   <row>
-    <index>1365</index>
+    <index>1364</index>
     <bic>045004816</bic>
     <namep>Сибирский ф-л ПАО "Банк ПСБ"</namep>
     <cntrcd>RU</cntrcd>
@@ -36883,7 +36856,7 @@
     <prntbic>044525555</prntbic>
   </row>
   <row>
-    <index>1366</index>
+    <index>1365</index>
     <bic>046015052</bic>
     <namep>ООО КБ "РОСТФИНАНС"</namep>
     <cntrcd>RU</cntrcd>
@@ -36910,7 +36883,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1367</index>
+    <index>1366</index>
     <bic>218000225</bic>
     <namep>Избирательная комиссия Волгоградской области</namep>
     <cntrcd>RU</cntrcd>
@@ -36937,7 +36910,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1368</index>
+    <index>1367</index>
     <bic>047003764</bic>
     <namep>ТУЛЬСКИЙ ФИЛИАЛ АБ "РОССИЯ"</namep>
     <cntrcd>RU</cntrcd>
@@ -36964,7 +36937,7 @@
     <prntbic>044030861</prntbic>
   </row>
   <row>
-    <index>1369</index>
+    <index>1368</index>
     <bic>044030946</bic>
     <namep>АО "Банк "Вологжанин"</namep>
     <cntrcd>RU</cntrcd>
@@ -36991,7 +36964,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1370</index>
+    <index>1369</index>
     <bic>044525880</bic>
     <namep>Банк "ВБРР" (АО)</namep>
     <cntrcd>RU</cntrcd>
@@ -37018,7 +36991,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1371</index>
+    <index>1370</index>
     <bic>044525388</bic>
     <namep>ТКБ БАНК ПАО</namep>
     <cntrcd>RU</cntrcd>
@@ -37045,7 +37018,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1372</index>
+    <index>1371</index>
     <bic>045004129</bic>
     <namep>УФК по Ямало-Ненецкому автономному округу</namep>
     <cntrcd>RU</cntrcd>
@@ -37072,7 +37045,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1373</index>
+    <index>1372</index>
     <bic>045004131</bic>
     <namep>УФК по Республике Тыва</namep>
     <cntrcd>RU</cntrcd>
@@ -37099,7 +37072,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1374</index>
+    <index>1373</index>
     <bic>044525829</bic>
     <namep>КУ АКБ "СЛАВЯНСКИЙ БАНК" (ЗАО) ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -37126,7 +37099,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1375</index>
+    <index>1374</index>
     <bic>044525962</bic>
     <namep>КУ ПАО БАНК "ВВБ" - ГК "АСВ"</namep>
     <cntrcd>RU</cntrcd>
@@ -37153,7 +37126,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1376</index>
+    <index>1375</index>
     <bic>044525058</bic>
     <namep>АО РНКО "ФуХуэй ИньХан"</namep>
     <cntrcd>RU</cntrcd>
@@ -37180,34 +37153,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1377</index>
-    <bic>044525201</bic>
-    <namep>ПАО АКБ "АВАНГАРД"</namep>
-    <cntrcd>RU</cntrcd>
-    <rgn>45</rgn>
-    <ind>119180</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>ул. Большая Якиманка, д. 1</adr>
-    <datein>1998-04-09</datein>
-    <pttype>20</pttype>
-    <srvcs>5</srvcs>
-    <xchtype>1</xchtype>
-    <uid>4525201000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>30101810000000000201</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>70</ck>
-    <accountcbrbic>044525000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname>AVANGARD BANK</englname>
-    <regn>2879</regn>
-    <swbic>AVJSRUMMXXX</swbic>
-    <defaultswbic>1</defaultswbic>
-    <prntbic/>
-  </row>
-  <row>
-    <index>1378</index>
+    <index>1376</index>
     <bic>044525973</bic>
     <namep>АО Банк "ТКПБ"</namep>
     <cntrcd>RU</cntrcd>
@@ -37234,7 +37180,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1379</index>
+    <index>1377</index>
     <bic>045773830</bic>
     <namep>ПАО "БыстроБанк"</namep>
     <cntrcd>RU</cntrcd>
@@ -37261,7 +37207,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1380</index>
+    <index>1378</index>
     <bic>041012765</bic>
     <namep>"Азиатско-Тихоокеанский Банк" (АО)</namep>
     <cntrcd>RU</cntrcd>
@@ -37288,7 +37234,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1381</index>
+    <index>1379</index>
     <bic>044525787</bic>
     <namep>ПАО "БАНК УРАЛСИБ"</namep>
     <cntrcd>RU</cntrcd>
@@ -37315,7 +37261,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1382</index>
+    <index>1380</index>
     <bic>044525341</bic>
     <namep>АКБ "ФОРА-БАНК" (АО)</namep>
     <cntrcd>RU</cntrcd>
@@ -37342,7 +37288,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1383</index>
+    <index>1381</index>
     <bic>044525232</bic>
     <namep>ПАО "МТС-Банк"</namep>
     <cntrcd>RU</cntrcd>
@@ -37369,34 +37315,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1384</index>
-    <bic>044525236</bic>
-    <namep>АО "Банк Кредит Свисс (Москва)"</namep>
-    <cntrcd>RU</cntrcd>
-    <rgn>45</rgn>
-    <ind>125047</ind>
-    <tnp>г</tnp>
-    <nnp>Москва</nnp>
-    <adr>ул. 1-я Тверская-Ямская, д. 21</adr>
-    <datein>1998-03-25</datein>
-    <pttype>20</pttype>
-    <srvcs>3</srvcs>
-    <xchtype>1</xchtype>
-    <uid>4525236000</uid>
-    <participantstatus>PSAC</participantstatus>
-    <account>30101810800000000236</account>
-    <regulationaccounttype>CRSA</regulationaccounttype>
-    <ck>64</ck>
-    <accountcbrbic>044525000</accountcbrbic>
-    <accountstatus>ACAC</accountstatus>
-    <englname>JSC BANK CREDIT SUISSE (MOSCOW)</englname>
-    <regn>2494</regn>
-    <swbic>CRESRUMMXXX</swbic>
-    <defaultswbic>1</defaultswbic>
-    <prntbic/>
-  </row>
-  <row>
-    <index>1385</index>
+    <index>1382</index>
     <bic>048142744</bic>
     <namep>Ф-л Азиатско-Тихоокеанский Банк АО г.Улан-Удэ</namep>
     <cntrcd>RU</cntrcd>
@@ -37423,7 +37342,7 @@
     <prntbic>041012765</prntbic>
   </row>
   <row>
-    <index>1386</index>
+    <index>1383</index>
     <bic>044525148</bic>
     <namep>АО Банк Инго</namep>
     <cntrcd>RU</cntrcd>
@@ -37450,7 +37369,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1387</index>
+    <index>1384</index>
     <bic>046015064</bic>
     <namep>ЮЖНЫЙ ФИЛИАЛ АО "БАНК ИНТЕЗА"</namep>
     <cntrcd>RU</cntrcd>
@@ -37477,7 +37396,7 @@
     <prntbic>044525922</prntbic>
   </row>
   <row>
-    <index>1388</index>
+    <index>1385</index>
     <bic>044525827</bic>
     <namep>АО "Свой Банк"</namep>
     <cntrcd>RU</cntrcd>
@@ -37504,7 +37423,7 @@
     <prntbic/>
   </row>
   <row>
-    <index>1389</index>
+    <index>1386</index>
     <bic>295000301</bic>
     <namep>Избирательная комиссия Республики Хакасия</namep>
     <cntrcd>RU</cntrcd>
@@ -37526,6 +37445,87 @@
     <accountstatus>ACAC</accountstatus>
     <englname/>
     <regn/>
+    <swbic/>
+    <defaultswbic/>
+    <prntbic/>
+  </row>
+  <row>
+    <index>1387</index>
+    <bic>044525236</bic>
+    <namep>АО "Банк Кредит Свисс (Москва)"</namep>
+    <cntrcd>RU</cntrcd>
+    <rgn>45</rgn>
+    <ind>125047</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>ул. 1-я Тверская-Ямская, д. 21</adr>
+    <datein>1998-03-25</datein>
+    <pttype>20</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>4525236000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>30101810800000000236</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>64</ck>
+    <accountcbrbic>044525000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname>JSC BANK CREDIT SUISSE (MOSCOW)</englname>
+    <regn>2494</regn>
+    <swbic>CRESRUMMXXX</swbic>
+    <defaultswbic>1</defaultswbic>
+    <prntbic/>
+  </row>
+  <row>
+    <index>1388</index>
+    <bic>044525222</bic>
+    <namep>ИНГ БАНК (ЕВРАЗИЯ) АО</namep>
+    <cntrcd>RU</cntrcd>
+    <rgn>45</rgn>
+    <ind>127473</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>улица Краснопролетарская, дом 36</adr>
+    <datein>1998-03-25</datein>
+    <pttype>20</pttype>
+    <srvcs>3</srvcs>
+    <xchtype>1</xchtype>
+    <uid>4525222000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>30101810500000000222</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>20</ck>
+    <accountcbrbic>044525000</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname>ING BANK (EURASIA) JSC</englname>
+    <regn>2495</regn>
+    <swbic>INGBRUMMXXX</swbic>
+    <defaultswbic>1</defaultswbic>
+    <prntbic/>
+  </row>
+  <row>
+    <index>1389</index>
+    <bic>048327749</bic>
+    <namep>КУ "БУМ-БАНК",ООО - ГК "АСВ"</namep>
+    <cntrcd>RU</cntrcd>
+    <rgn>45</rgn>
+    <ind>109240</ind>
+    <tnp>г</tnp>
+    <nnp>Москва</nnp>
+    <adr>ул. Высоцкого, 4</adr>
+    <datein>1998-01-01</datein>
+    <pttype>90</pttype>
+    <srvcs>1</srvcs>
+    <xchtype>0</xchtype>
+    <uid>8327749000</uid>
+    <participantstatus>PSAC</participantstatus>
+    <account>30101810100000000749</account>
+    <regulationaccounttype>CRSA</regulationaccounttype>
+    <ck>48</ck>
+    <accountcbrbic>048327001</accountcbrbic>
+    <accountstatus>ACAC</accountstatus>
+    <englname/>
+    <regn>1137</regn>
     <swbic/>
     <defaultswbic/>
     <prntbic/>
